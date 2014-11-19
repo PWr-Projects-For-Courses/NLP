@@ -1,0 +1,22 @@
+WYSZUKIWARKI QUESTIONS SET
+
+In this directory contains questions from different services:
+> Altavista.com
+> Bing.pl
+> Google.pl
+
+File 'wyszukiwarki_all.csv' (604) contains all questions collected from above sources.
+File 'wyszukiwarki.csv' (496) is corrected and cleaned version of 'wyszukiwarki_all.csv' set.
+
+Those two files have the same structure with sections:
+
+>>> id;question_text;answer_document_link;answer_document_id;expected_answer_type;question_class <<<
+
+where:
+
+> id                    - id of question in data set
+> question_text         - question text
+> answer_document_link  - link to document, which is suggested answer on given question
+> answer_document_id    - id of answer document
+> expected_answer_type  - expected type of an answer
+> question_class        - stuctural class of a question

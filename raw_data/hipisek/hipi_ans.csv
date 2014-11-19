@@ -1,0 +1,236 @@
+2;Co brać na przeziębienie?;http://www.mowimyjak.pl/zdrowie/choroby_i_profilaktyka/co-brac-na-przeziebienie-nim-siegniesz-po-leki-wyprobuj-naturalne-metody,96_33122.html;dis-med;QC_NONPER
+6;Co robi Beata Kozidrak?;http://pl.wikipedia.org/wiki/Beata_Kozidrak;description;QC_NONPER
+8;Co robi Kluzik-Rostkowska?;http://pl.wikipedia.org/wiki/Joanna_Kluzik-Rostkowska;description;QC_NONPER
+19;Co to jest kox?;http://www.miejski.pl/slowo-Kox;definition;QC_DEF:BE
+20;Co to jest książka?;http://pl.wikipedia.org/wiki/Ksi%C4%85%C5%Bcka;definition;QC_DEF:BE
+24;Co to jest seks?;http://pl.wikipedia.org/wiki/Seks;definition;QC_DEF:BE
+25;Co to jest ser?;http://pl.wikipedia.org/wiki/Ser;definition;QC_DEF:BE
+27;Co to jest Wordnet?;http://search.blox.pl/2010/10/Daj-sie-zlapac-w-siec-slow-WordNet.html;definition;QC_DEF:BE
+32;Co to szkoła?;http://pl.wikipedia.org/wiki/Szko%C5%82a_%28o%C5%9Bwiata%29;definition;QC_DEF:BE
+43;Czy Berlin jest stolicą Francji?;http://pl.wikipedia.org/wiki/Berlin;yes-no;QC_DECISION
+45;Czy Bydgoszcz leży nad Brdą?;http://pl.wikipedia.org/wiki/Bydgoszcz;yes-no;QC_DECISION
+53;Czy Kijów jest stolicą Rosji?;http://pl.wikipedia.org/wiki/Kij%C3%B3w;yes-no;QC_DECISION
+61;Czy Paryż leży we Francji?;http://pl.wikipedia.org/wiki/Pary%C5%BC;yes-no;QC_DECISION
+63;Czy Poznań jest stolicą Polski?;http://pl.wikipedia.org/wiki/Stolica_Polski;yes-no;QC_DECISION
+66;Czy Sorbona jest w Nicei?;http://pl.wikipedia.org/wiki/Sorbona;yes-no;QC_DECISION
+70;Czy Statua Wolności jest w Paryżu?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;yes-no;QC_DECISION
+71;Czy Statua Wolności leży w Kalifornii?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;yes-no;QC_DECISION
+72;Czy Statua Wolności znajduje się w Kanadzie?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;yes-no;QC_DECISION
+73;Czy Statuła Wolności jest w Kanadzie?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;yes-no;QC_DECISION
+76;Czy UAM jest w Poznaniu?;http://amu.edu.pl/dzialalnosc/o-uam;yes-no;QC_DECISION
+79;Czy USA leżą w Ameryce północnej?;http://pl.wikipedia.org/wiki/Stany_Zjednoczone;yes-no;QC_DECISION
+81;Czy Wieża Eiffla jest w Paryżu?;http://pl.wikipedia.org/wiki/Wie%C5%BCa_Eiffla;yes-no;QC_DECISION
+86;Czy borsuki mogą zabić?;http://www.sp-sadowa.edu.pl/strona/puszcza/dyplom/kampinos/swiat_zwierzat/ssaki/borsuk/index.html;yes-no;QC_DECISION
+89;Czy francuska Sorbona leży w Paryżu?;http://pl.wikipedia.org/wiki/Sorbona;yes-no;QC_DECISION
+92;Czy poznańska Katedra jest w Paryżu?;http://www.katedra.archpoznan.pl/;yes-no;QC_DECISION
+93;Czy poznańska katedra jest we Francji?;http://www.katedra.archpoznan.pl/;yes-no;QC_DECISION
+96;Czy Richardson jest z Zamachowskim?;http://www.plotek.pl/plotek/56,78649,11669113,Zakochani_Richardson_i_Zamachowski__Oficjalnie_razem.html;yes-no;QC_DECISION
+105;Czy Włocławek leży nad Wisłą?;http://pl.wikipedia.org/wiki/Elektrownia_Wodna_we_W%C5%82oc%C5%82awku;yes-no;QC_DECISION
+109;Dlaczego młodzi ludzie umierają?;http://f.kafeteria.pl/temat.php?id_p=3683370;reason ;QC_CAUSE
+112;Gdzie Nergal będzie jurorem?;http://www.plotek.pl/plotek/1,116221,10270417,Nergal_jako_juror___jak_sobie_radzi_.html;event;QC_LOC:PLACE
+115;Gdzie jest Olsztyn?;http://pl.wikipedia.org/wiki/Olsztyn;location-other;QC_LOC:PLACE
+117;Gdzie jest Poznań?;http://www.zgapa.pl/zgapedia/Pozna%C5%84.html;location-other;QC_LOC:PLACE
+118;Gdzie jest Rondo Kaponiera?;http://pl.wikipedia.org/wiki/Rondo_Kaponiera;location-other;QC_LOC:PLACE
+119;Gdzie jest UAM?;http://amu.edu.pl/dzialalnosc/o-uam;location-other;QC_LOC:PLACE
+121;Gdzie jest krzyż?;http://pl.wikipedia.org/wiki/Krzy%C5%BC_sprzed_Pa%C5%82acu_Prezydenckiego_w_Warszawie;location-other;QC_LOC:PLACE
+122;Gdzie jest lotnisko Ławica?;http://pl.wikipedia.org/wiki/Port_lotniczy_Pozna%C5%84-%C5%81awica;location-other;QC_LOC:PLACE
+123;Gdzie jest Ogród Japoński?;http://www.wroclaw.pl/ogrod_japonski.dhtml;location-other;QC_LOC:PLACE
+127;Gdzie leży Paryż?;http://pl.wikipedia.org/wiki/Pary%C5%BC;location-other;QC_LOC:PLACE
+128;Gdzie leży Poznań?;http://pl.wikipedia.org/wiki/Pozna%C5%84;location-other;QC_LOC:PLACE
+129;Gdzie leży Warszawa?;http://pl.wikipedia.org/wiki/Warszawa;location-other;QC_LOC:PLACE
+130;Gdzie leży rynek w Poznaniu?;http://pl.wikipedia.org/wiki/Stary_Rynek_w_Poznaniu;location-other;QC_LOC:PLACE
+132;Gdzie mieszka Johnny Depp?;http://www.filmweb.pl/person/Johnny+Depp-29/discussion/Gdzie+dok%C5%82adnie+mieszka+Johnny-821832;location-other;QC_LOC:PLACE
+135;Gdzie mieszka ksiądz Natanek?;http://www.fronda.pl/a/prywatni-rycerze-ks-natanka,14033.html;location-other;QC_LOC:PLACE
+136;Gdzie mieszka yeti?;http://zapytaj.onet.pl/Category/026,001/2,627355,gdzie_mieszka_YETI.html;location-other;QC_LOC:PLACE
+137;Gdzie na Ukrainie odbędą się mecze mistrzostw Europy?;http://pl.wikipedia.org/wiki/Mistrzostwa_Europy_w_Pi%C5%82ce_No%C5%BCnej_2012;location-other;QC_LOC:ORIG
+138;Gdzie odbył się mecz z Grecją?;http://mistrzostwaeuropy.com/euro2012/mecz-polska-grecja-8-czerwca-2012.html;location-other;QC_LOC:PLACE
+140;Gdzie rosną banany?;http://www.ayor.pl/s/banany;location-other;QC_LOC:PLACE
+141;Gdzie są Plewiska?;http://pl.wikipedia.org/wiki/Plewiska;location-other;QC_LOC:PLACE
+142;Gdzie umarł Rysiek z "Klanu"?;http://www.wirtualnemedia.pl/artykul/zmarl-rysiu-z-klanu;location-other;QC_LOC:PLACE
+143;Gdzie urodził się Chopin?;http://pl.wikipedia.org/wiki/Fryderyk_Chopin;location-other;QC_LOC:PLACE
+145;Gdzie znajdują się Plewiska?;http://pl.wikipedia.org/wiki/Plewiska;location-other;QC_LOC:PLACE
+147;Ile koń ma nóg?;http://zapytaj.onet.pl/Category/001,005/2,16734842,Ile_kon_ma_nog.html;count;QC_QUANTITY:GEN
+148;Ile lat ma Adam Lambert?;http://zapytaj.onet.pl/Category/019,001/2,7144630,ile_lat_ma_adam_lambert_.html;count;QC_QUANTITY:GEN
+154;Ile lat ma James Bond?;http://www.wkrakowie.pl/zobacz/james-bond-ma-juz-50-lat;count;QC_QUANTITY:GEN
+155;Ile lat ma Tusk?;http://zapytaj.onet.pl/Category/014,002/2,5240642,Ile_lat_ma_Donald_Tusk__.html;count;QC_QUANTITY:GEN
+157;Ile lat ma Wałęsa?;http://www.se.pl/wydarzenia/kraj/urodziny-lecha-walesy-nie-wierze-ze-mam-juz-68-lat-huczne-przyjecie-u-walesy-na-200-gosci_208028.html;count;QC_QUANTITY:GEN
+164;Ile nóg ma stonoga?;http://www.szkola.net/drukuj/?id=826;count;QC_QUANTITY:GEN
+166;Ile trofeum LM wygrał Real Madryt?;http://pl.wikipedia.org/wiki/Real_Madryt#Sukcesy_i_rekordy;count;QC_QUANTITY:GEN
+167;Ile trwa ciąża?;http://www.dzieciaczek.com/ile+trwa+ciaza,6.html;period;QC_TEMP:PER
+170;Ile wzrostu ma raper Mezo?;http://www.wzrost-gwiazd.pl/Mezo/;size;QC_QUANTITY:GEN
+171;Ilu mieszkańców ma Radom?;http://forum.gazeta.pl/forum/w,68,121354178,121359711,Dramatycznie_spada_liczba_mieszkancow_Radomia_.html;count;QC_QUANTITY:GEN
+178;Jak ma na imię Tusk?;http://pl.wikipedia.org/wiki/Donald_Tusk;individual;QC_STATE:NAME
+180;Jak mieć dzieci?;http://www.milionkobiet.pl/seks%2Fjak-sie-kochac-by-miec-dziecko,390,1,a.html;manner;QC_PROCEDURE
+181;Jak się ubiera hipiska?;http://zapytaj.onet.pl/Category/001,003/2,2462316,Jak_powinni_ubierac_sie_hipisi_.html;manner;QC_PROCEDURE
+184;Jak ubierają sie hipiski?;http://zapytaj.onet.pl/Category/001,003/2,2462316,Jak_powinni_ubierac_sie_hipisi_.html;manner;QC_PROCEDURE
+190;Jaki biust ma Madonna?;http://www.kozaczek.pl/plotka.php?id=41198http://www.kozaczek.pl/plotka.php?id=41198;description;QC_DIRECT
+191;Jaki jest wzrost Dody?;http://wzrostgwiazd.blox.pl/2010/06/Dorota-Rabczewska-wzrost.html;count;QC_QUANTITY:GEN
+194;Kiedy umrze Rysiek z "Klanu"?;http://www.pudelek.pl/artykul/38417/tak_umrze_rysiek_z_klanu_mamy_wideo/;date;QC_TEMP:MOM
+196;Kiedy zginie Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/dramat-rysiek-z-klanu-umrze-22022012-roku_219723.html;date;QC_TEMP:MOM
+199;Kiedy Polska rozpoczęła prezydencję europejską?;http://www.polskaprezydencja2011.pl/;date;QC_TEMP:MOM
+201;Kiedy będzie koniec remontu Kaponiery w Poznaniu?;http://www.mmpoznan.pl/422013/2012/8/6/remont-kaponiery-sprawdz-jak-jezdzic?category=drogowe;date;QC_TEMP:MOM
+205;Kiedy umarł Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/dramat-rysiek-z-klanu-umrze-22022012-roku_219723.html;date;QC_TEMP:MOM
+208;Kiedy urodził się Mikołaj Kopernik?;http://pl.wikipedia.org/wiki/Miko%C5%82aj_Kopernik;date;QC_TEMP:MOM
+209;Kiedy urodził się Albert Einstein?;http://pl.wikipedia.org/wiki/Albert_Einstein;date;QC_TEMP:MOM
+210;Kiedy urodziła się Doda?;http://muzyka.onet.pl/artysci/katalog/doda,164350,artysta.html;date;QC_TEMP:MOM
+212;Kiedy zaczął się remont Kaponiery?;http://www.tvn24.pl/wiadomosci-poznan,43/pierwszy-dzien-bez-kaponiery-jest-ciezko-bedzie-jeszcze-trudniej,270525.html;date;QC_TEMP:MOM
+213;Kiedy zaczął się remont Kaponiery w Poznaniu?;http://www.tvn24.pl/wiadomosci-poznan,43/pierwszy-dzien-bez-kaponiery-jest-ciezko-bedzie-jeszcze-trudniej,270525.html;date;QC_TEMP:MOM
+214;Kiedy zaćmienie słońca?;http://stalker.republika.pl/przyszle_zacmienia.html;date;QC_TEMP:MOM
+216;Kim był Kopernik?;http://pl.wikipedia.org/wiki/Miko%C5%82aj_Kopernik;individual;QC_DEF:PER
+217;Kim był Kurt Cobain?;http://pl.wikipedia.org/wiki/Kurt_Cobain;individual;QC_DEF:PER
+220;Kim jest Nergal?;http://pl.wikipedia.org/wiki/Adam_Darski;individual;QC_DEF:PER
+222;Kim jest Orłoś?;http://pl.wikipedia.org/wiki/Maciej_Or%C5%82o%C5%9B;individual;QC_DEF:PER
+224;Kim jest hipis?;http://zapytaj.onet.pl/Category/002,003/2,14282742,Kto_to_jest_hipis.html;individual;QC_DEF:PER
+225;Kim jest prof Jassem?;http://onkologia.gumed.edu.pl/;individual;QC_DEF:PER
+229;Kto jest prezydentem USA?;http://www.tvn24.pl/raporty/obama-ponownie-prezydentem-usa,497;individual;QC_PER:IDENT
+235;Kto to jest Breivik?;http://www.mowimyjak.pl/fakty/kto-jest-kim/anders-breivik-kim-jest-czego-i-kogo-nienawidzi-breivik,49_45696.html;individual;QC_DEF:PER
+237;Kto to jest Doda?;http://pl.wikipedia.org/wiki/Dorota_Rabczewska;individual;QC_DEF:PER
+243;Lepper się zabił?;http://www.fakt.pl/Co-zabilo-Leppera-Oto-hipotezy,artykuly,111268,1.html;yes-no;QC_DECISION
+251;Podaj lokalizację UAM.;http://poznan.dlastudenta.pl/dlaMaturzysty/szkola_wyzsza/Uniwersytet_im_Adama_Mickiewicza_w_Poznaniu,36201,kontakt.html;location-other;QC_DIRECT
+252;Polska ma gaz?;http://www.wykop.pl/link/695233/eia-polska-ma-gaz-na-300-lat/;yes-no;QC_DECISION
+262;W którym mieście jest UAM?;http://poznan.dlastudenta.pl/dlaMaturzysty/szkola_wyzsza/Uniwersytet_im_Adama_Mickiewicza_w_Poznaniu,36201,kontakt.html;city;QC_DIRECT
+270;Co je tygrys?;https://mrowkojad.wordpress.com/tag/co-je-tygrys/;food;QC_DIRECT
+273;Co jest stolicą polski?;http://pl.wikipedia.org/wiki/Stolica_Polski;city;QC_NONPER
+278;Co to alkohol?;http://pl.wikipedia.org/wiki/Alkohole;definition;QC_DEF:BE
+280;Co to hipis?;http://pl.wikipedia.org/wiki/Hipis;definition;QC_DEF:BE
+281;Co to jest Litwa?;http://pl.wikipedia.org/wiki/Litwa;definition;QC_DEF:BE
+282;Co to jest Myślibórz?;http://pl.wikipedia.org/wiki/My%C5%9Blib%C3%B3rz;definition;QC_DEF:BE
+285;Co to jest Sampler?;http://pl.wikipedia.org/wiki/Sampler;definition;QC_DEF:BE
+286;Co to jest ACTA?;http://pl.wikipedia.org/wiki/ACTA;definition;QC_DEF:BE
+288;Co to jest BDSM?;http://pl.wikipedia.org/wiki/Bdsm;definition;QC_DEF:BE
+290;Co to jest bułka?;http://pl.wikipedia.org/wiki/Bu%C5%82ka;definition;QC_DEF:BE
+291;Co to jest chleb?;http://pl.wikipedia.org/wiki/Chleb;definition;QC_DEF:BE
+292;Co to jest czarna dziura?;http://pl.wikipedia.org/wiki/Czarna_dziura;definition;QC_DEF:BE
+296;Co to jest felga?;http://pl.wikipedia.org/wiki/Felga;definition;QC_DEF:BE
+298;Co to jest funkcja?;http://pl.wikipedia.org/wiki/Funkcja;definition;QC_DEF:BE
+299;Co to jest geometria?;http://pl.wikipedia.org/wiki/Geometria;definition;QC_DEF:BE
+303;Co to jest godło?;http://pl.wikipedia.org/wiki/God%C5%82o;definition;QC_DEF:BE
+305;Co to jest hipis?;http://pl.wikipedia.org/wiki/Hipis;definition;QC_DEF:BE
+306;Co to jest jabłko?;http://pl.wikipedia.org/wiki/Jab%C5%82ko;definition;QC_DEF:BE
+307;Co to jest jednorożec?;http://pl.wikipedia.org/wiki/Jednoro%C5%Bcec;definition;QC_DEF:BE
+309;Co to jest komunizm?;http://pl.wikipedia.org/wiki/Komunizm;definition;QC_DEF:BE
+310;Co to jest kondom?;http://pl.wikipedia.org/wiki/Kondom;definition;QC_DEF:BE
+312;Co to jest krzesło?;http://pl.wikipedia.org/wiki/Krzes%C5%82o;definition;QC_DEF:BE
+313;Co to jest kupa?;http://pl.wikipedia.org/wiki/Kupa_%28dop%C5%82yw_Sawy%29;definition;QC_DEF:BE
+314;Co to jest LOL?;http://pl.wikipedia.org/wiki/LOL#Przyk.C5.82ady;definition;QC_DEF:BE
+316;Co to jest matematyka?;http://pl.wikipedia.org/wiki/Matematyka;definition;QC_DEF:BE
+319;Co to jest neurolingwistyczne programowanie?;http://pl.wikipedia.org/wiki/Programowanie_neurolingwistyczne;definition;QC_DEF:BE
+321;Co to jest okres?;http://pl.wikipedia.org/wiki/Okres_%28fizyka%29;definition;QC_DEF:BE
+322;Co to jest onomatopeja?;http://pl.wikipedia.org/wiki/Onomatopeja;definition;QC_DEF:BE
+324;Co to jest orgazm?;http://pl.wikipedia.org/wiki/Orgazm;definition;QC_DEF:BE
+325;Co to jest penis?;http://pl.wikipedia.org/wiki/Pr%C4%85cie;definition;QC_DEF:BE
+338;Co to Kaszub?;http://pl.wikipedia.org/wiki/Kaszubi;definition;QC_DEF:BE
+340;Co to książeczka zdrowia?;http://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BCeczka_zdrowia_dziecka;definition;QC_DEF:BE
+343;Co to jest plotkara?;http://pl.wikipedia.org/wiki/Plotkara;definition;QC_DEF:BE
+349;Co to są Brody?;http://pl.wikipedia.org/wiki/Brody_%28obw%C3%B3d_lwowski%29;definition;QC_DEF:BE
+353;Co wiesz o Kulczyku?;http://pl.wikipedia.org/wiki/Jan_Kulczyk;description;QC_DEF:PER
+364;Czy Lizbona leży w Europie?;http://lizbona24.pl/artykul/do-lizbony-i-w-lizbonie-praktyczny-poradnik;yes-no;QC_DECISION
+365;Czy Polska jest w Europie?;http://zadane.pl/zadanie/3247887;yes-no;QC_DECISION
+369;Czy Praga jest w Czechach?;http://pl.wikipedia.org/wiki/Praga;yes-no;QC_DECISION
+372;Czy Sekwana przepływa przez Paryż?;http://pl.wikipedia.org/wiki/Sekwana;yes-no;QC_DECISION
+379;Czy Toronto jest w USA?;http://pl.wikipedia.org/wiki/Toronto_%28Ohio%29;yes-no;QC_DECISION
+389;Czy Wilda leży w Poznaniu?;http://pl.wikipedia.org/wiki/Wilda;yes-no;QC_DECISION
+391;Czy Adam Małysz ma żonę?;http://www.fakt.pl/Tak-zmieniala-sie-zona-Malysza-FOTY,artykuly,65348,1.html;yes-no;QC_DECISION
+394;Czy Doda zerwała z Nergalem?;http://www.fakt.pl/Nergal-zerwal-z-Doda-przez-telefon-,artykuly,98749,1.html;yes-no;QC_DECISION
+395;Czy eutanazja jest w Europie legalna?;http://www.fakt.pl/Legalna-eutanazja-w-Niemczech,artykuly,172478,1.html;yes-no;QC_DECISION
+403;Czy Justin Bieber jest pedałem?;http://zapytaj.onet.pl/Category/012,016/2,2535090,Czy_justin_bieber_to_gej.html;yes-no;QC_DECISION
+404;Czy Bednarek jest katolikiem?;http://zapytaj.onet.pl/Category/002,017/2,21096209,W_jaka_religie_wierzy_Kamil_Bednarek_.html;yes-no;QC_DECISION
+416;Czy Pałac Dożów leży w Rzymie?;http://wenecja.lovetotravel.pl/palac_dozow_%28palazzo_ducale%29;yes-no;QC_DECISION
+418;Czy Pałac Kultury jest w Rzymie?;http://pl.wikipedia.org/wiki/Pa%C5%82ac_Kultury_i_Nauki;yes-no;QC_DECISION
+419;Czy pies to zwierzę?;http://wiadomosci.gazeta.pl/wiadomosci/1,114873,4218212.html;yes-no;QC_DECISION
+424;Czy Praga leży w Czechach?;http://pl.wikipedia.org/wiki/Praga;yes-no;QC_DECISION
+426;Czy Sting zagrał koncert w Warszawie?;http://www.rmf24.pl/kultura/news-koncert-stinga-w-warszawie-gwiazdor-oczarowal-publicznosc,nId,434422;yes-no;QC_DECISION
+431;Czy w Warszawie odbył się Marsz Niepodległości?;http://www.se.pl/wydarzenia/warszawa/marsz-niepodleglosci-2012-w-warszawie-marsze-zablokuja-stolice-utrudnienia_289965.html;yes-no;QC_DECISION
+432;Czy w Warszawie odbył się Marsz Równości?;http://www.dziennik.pl/grafika/296473,69731,europride_marsz_rownosci_w_warszawie.html;yes-no;QC_DECISION
+433;Czy w Warszawie odbył się marsz z okazji Święta Niepodległości?;http://www.se.pl/wydarzenia/warszawa/marsz-niepodleglosci-2012-w-warszawie-marsze-zablokuja-stolice-utrudnienia_289965.html;yes-no;QC_DECISION
+436;Czy w Poznaniu jest UAM?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;yes-no;QC_DECISION
+438;Czy Warszawa jest stolicą Libanu?;http://www.esky.pl/warto-zobaczyc/Bejrut.html;yes-no;QC_DECISION
+440;Czy Waszyngton jest w Polsce?;http://pl.wikipedia.org/wiki/Waszyngton;yes-no;QC_DECISION
+441;Czy Wawel jest w Japonii?;http://www.zwiedzaczek.com.pl/index.php/wawel-najslynniejszy-zamek-w-polsce/;yes-no;QC_DECISION
+448;Czym jest woda?;http://pl.wikipedia.org/wiki/Woda;definition;QC_DEF:BE
+454;Gdzie leży Przemyśl?;http://zapytaj.onet.pl/Category/006,009/2,9564810,Gdzie_lezy_przemysl.html;location-other;QC_LOC:PLACE
+461;Gdzie jest Polska?;http://www.tvn24.pl/gdzie-jest-polska,248264,s.html;location-other;QC_LOC:PLACE
+462;Gdzie jest Biebrza?;http://pl.wikipedia.org/wiki/Biebrza;location-other;QC_LOC:PLACE
+466;Gdzie jest Milanówek?;http://pl.wikipedia.org/wiki/Milan%C3%B3wek;location-other;QC_LOC:PLACE
+468;Gdzie jest Uniwersytet im. Adama Mickiewicza?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;location-other;QC_LOC:PLACE
+469;Gdzie kupić buty w Poznaniu?;http://zapytaj.onet.pl/Category/032,010/2,5008186,Gdzie_moge_kupic_fajne_tanie_buty.html;location-other;QC_LOC:ORIG
+474;Gdzie leży UAM?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;location-other;QC_LOC:PLACE
+476;Gdzie leży Ostrołęka?;http://pl.wikipedia.org/wiki/Ostro%C5%82%C4%99ka;location-other;QC_LOC:PLACE
+483;Gdzie mieszka Kulczyk?;http://www.plotek.pl/plotek/51,79592,10710380.html?i=0;location-other;QC_LOC:PLACE
+484;Gdzie mieszka Doda?;http://zapytaj.onet.pl/Category/001,003/2,733801,Gdzie_mieszka_Doda.html;location-other;QC_LOC:PLACE
+485;Gdzie można uprawiać seks?;http://www.forum.polki.pl/showthread.php?t=4630;location-other;QC_LOC:PLACE
+486;Gdzie odbył się Enter Festival?;http://www.wiadomosci24.pl/artykul/enter_music_festival_2012_zdjecia_234931.html;location-other;QC_LOC:PLACE
+489;Gdzie umarł Rysiek?;http://pl.wikipedia.org/wiki/D%C5%BCem_%28grupa_muzyczna%29;location-other;QC_LOC:PLACE
+492;Gdzie urodził się Zbigniew Boniek?;http://sport.interia.pl/raport-wybory-prezesa-pzpn/news-zbigniew-boniek,nId,640293;location-other;QC_LOC:PLACE
+493;Gdzie walczył Adamek?;http://www.dziennikwschodni.pl/apps/pbcs.dll/article?AID=/20121222/SPORTS/121229871;location-other;QC_LOC:PLACE
+495;Gdzie zginął Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/klan-rysiek-bedzie-umieral-przez-4-odcinki_227491.html;location-other;QC_LOC:PLACE
+501;Ile jest planet w układzie słonecznym?;http://zapytaj.onet.pl/Category/006,004/2,16981424,Ile_planet_liczy_nasz_Uklad_Sloneczny.html;count;QC_QUANTITY:GEN
+504;Ile kot ma nóg?;http://zapytaj.onet.pl/Category/010,002/2,1375206,Ile_nog_ma_kot.html;count;QC_QUANTITY:GEN
+507;Ile lat ma Kasia Tusk?;http://www.ilelatma.pl/Kasia-Tusk/;count;QC_QUANTITY:GEN
+509;Ile lat ma najstarszy człowiek na świecie?;http://spoleczenstwo.newsweek.pl/ile-lat-ma-najstarszy-czlowiek-swiata,53071,1,1.html;count;QC_QUANTITY:GEN
+515;Ile oktaw ma klawiatura fortepianu?;http://www.nutyzafree.pl/index.php/jak-czytac-nuty-grac-na-pianinie/jak-grac-na-pianinie-keyboardzie-klawiatura.html;count;QC_QUANTITY:GEN
+524;Jak dojechać na festiwal w Jarocinie?;http://www.mmpoznan.pl/419358/2012/7/10/jarocin-festiwal--jak-dojechac-i-jak-wrocic-z-jarocina?category=news;manner;QC_PROCEDURE
+530;Jak ma na imię Michael Jackson?;http://zapytaj.onet.pl/Category/019,011/2,3374971,Jak_mial_na_imie_Michael_Jackson.html;individual;QC_STATE:NAME
+536;Jak miał na imię Czarniecki?;http://zapytaj.onet.pl/Category/002,019/2,19961464,Jak_mial_na_imie_CZARNIECKI_z_hymnu_Polski__III_zwrotka_.html;individual;QC_STATE:NAME
+537;Jak nagrać płytę DVD?;http://www.elektroda.pl/rtvforum/topic172635.html;manner;QC_PROCEDURE
+541;Jak nie zajść w ciążę?;http://www.papilot.pl/ginekolog/8063/Porada-ginekologiczna-Jak-nie-zajsc-w-ciaze-na-100.html;manner;QC_PROCEDURE
+542;Jak połączyć wi-fi?;http://forum.pclab.pl/topic/422455-WiFi-w-laptopie-jak-pod%C5%82%C4%85czy%C4%87/;manner;QC_PROCEDURE
+548;Jak walczyć z owsikami?;http://www.fakt.pl/Owsiki-jak-z-nimi-walczyc,artykuly,61328,1.html;manner;QC_PROCEDURE
+549;Jak wymienić dowód osobisty?;http://www.photoid.eu/index.php?option=com_content&view=article&id=21:jak-wymienic-dowod-osobisty&catid=8&Itemid=102;manner;QC_PROCEDURE
+550;Jak zrobić jajecznicę?;http://f.kafeteria.pl/temat.php?id_p=4063979;manner;QC_PROCEDURE
+558;Jakich zespołów słuchali hipisi?;http://zapytaj.onet.pl/Category/019,001/2,850095,Jakiej_muzyki_sluchali_hipisi.html;group ;QC_DIRECT
+559;Jakie miasta leżą w Polsce?;http://pl.wikipedia.org/wiki/Miasta_w_Polsce;city;QC_DIRECT
+567;Kiedy Tusk wygłosił expose?;http://wiadomosci.wp.pl/kat,1342,title,Donald-Tusk-wyglosil-w-sejmie-drugie-expose,wid,15002251,wiadomosc.html?ticaid=1fcb5&_ticrsn=5;date;QC_TEMP:MOM
+571;Kiedy raport Millera?;http://www.polskieradio.pl/5/3/Artykul/386580,Minister-oburzony-Kiedy-raport-wciaz-nie-wiadomo;date;QC_TEMP:MOM
+577;Kim jest Buffy?;http://pl.wikipedia.org/wiki/Buffy_Summers;individual;QC_DEF:PER
+580;Kim jest Justin Bieber?;http://pl.wikipedia.org/wiki/Justin_Bieber;individual;QC_DEF:PER
+581;Kim jest krowa?;http://pl.wikipedia.org/wiki/Krowa;description;QC_DEF:PER
+585;Kim jest pies?;http://pl.wikipedia.org/wiki/Pies;definition;QC_DEF:PER
+587;Kim jest Sienkiewicz?;http://pl.wikipedia.org/wiki/Henryk_Sienkiewicz;individual;QC_DEF:PER
+588;Kto będzie jurorem "Voice of Poland"?;http://www.kozaczek.pl/plotka.php?id=37588;individual;QC_PER:IDENT
+589;Kto je ślimaki?;http://www.robale.pl/index/2/438/function.ereg-replace;animal/group;QC_PER:ARG
+593;Kto jest prezydentem Niemiec?;http://pl.wikipedia.org/wiki/Joachim_Gauck;individual;QC_PER:IDENT
+597;Kto to był Hitler?;http://pl.wikipedia.org/wiki/Adolf_Hitler;individual;QC_DEF:PER
+598;Kto to był Janusz Korczak?;http://pl.wikipedia.org/wiki/Janusz_Korczak;individual;QC_DEF:PER
+599;Kto to Chuck Norris?;http://pl.wikipedia.org/wiki/Chuck_Norris;individual;QC_DEF:PER
+601;Kto to gej?;http://pl.wikipedia.org/wiki/Gej;individual;QC_DEF:PER
+604;Kto to jest Hitler?;http://pl.wikipedia.org/wiki/Adolf_Hitler;individual;QC_DEF:PER
+607;Kto to jest Michael Jackson?;http://pl.wikipedia.org/wiki/Michael_Jackson;individual;QC_DEF:PER
+612;Kto zabił Osamę?;http://www.wprost.pl/ar/242589/Pakistan-Osame-zabili-Amerykanie/;individual;QC_PER:IDENT
+613;Kto zabił Osamę bin Ladena?;http://www.polskieradio.pl/5/3/Artykul/720811,Zabili-bin-Ladena-Zostali-ukarani-za-zdrade-informacji;individual;QC_PER:ARG
+614;Kto zabił Kennedy'ego?;http://pl.wikipedia.org/wiki/Zamach_na_Johna_F._Kennedy%27ego;individual;QC_PER:ARG
+615;Kto założył google?;http://zapytaj.onet.pl/Category/007,003/2,13772114,Kto_zalozyl_google.html;individual;QC_PER:ARG
+619;Przez jaką firmę była stworzona gra "Mario Bros"?;http://pl.wikipedia.org/wiki/Super_Mario_Bros.;organization;QC_DIRECT
+639;Kto kandyduje na szefa SLD?;http://www.tvn24.pl/wiadomosci-z-kraju,3/miller-kandyduje-na-szefa-sld,193408.html;individual;QC_PER:ARG
+641;Kto wygrał mecz Śląsk Wrocław - Wisła Kraków?;http://www.mmwroclaw.pl/432190/2012/11/18/wisla-krakow--slask-wroclaw-porazka-w-meczu-przyjazni?category=sport;organization;QC_PER:ARG
+642;Kto wygrał wybory?;http://www.fakt.pl/BARACK-OBAMA-WYGRAl-Wybory-prezydenckie-w-USA,artykuly,186696,1.html;human-other;QC_PER:ARG
+643;Kto zagra Kurta Cobaina?;http://www.pudelek.pl/artykul/24050/pattinson_zagra_kurta_cobaina/;individual;QC_PER:ARG
+644;Który kraj jest najbardziej katolicki na świecie?;http://jeszczejesteskatolikiem.blox.pl/html/1310721,262146,21.html?150169;country ;QC_DIRECT
+645;Mam jęczmień co robić?;http://www.sfd.pl/Mam_j%C4%99czmie%C5%84_na_powiece,co_mam_zrobi%C4%87,pomocy!-t151249.html;description;QC_NONPER
+650;Czy Korwin kandyduje?;http://wiadomosci.wp.pl/kat,1342,title,Korwin-Mikke-kandyduje-Nie-okradajcie-bogatych,wid,13190174,wiadomosc.html;yes-no;QC_DECISION
+656;Jak zrobić ekran dotykowy?;http://folfix.blogspot.com/;manner;QC_PROCEDURE
+657;Jaka jest dobra marka samochodu?;http://www.goldenline.pl/forum/526682/jaka-marke-samochodu-uwazasz-za-najlepsza;artifact;QC_STATE:GEN
+660;Skąd się wzięli Żydzi w Polsce?;http://www.historycy.org/index.php?showtopic=25423;location-other;QC_LOC:ORIG
+672;Gdzie jest Bronek?;http://altersikorowitz.salon24.pl/460513,gdzie-jest-bronek-donek-czyli-pogrzeb-bylego-prezydenta;location-other;QC_LOC:PLACE
+676;Gdzie jest Fort VII?;http://pl.wikipedia.org/wiki/Fort_VII_w_Poznaniu;location-other;QC_LOC:PLACE
+679;Gdzie jest Piekło?;http://www.fundamentjezus.com/pieklo.html;location-other;QC_LOC:PLACE
+681;Gdzie pojechał Tusk?;http://www.bankier.pl/wiadomosc/Tusk-pojechal-do-Berlina-na-konsultacje-2679007.html;location-other;QC_LOC:END
+687;Kiedy Depp się rozstał?;http://plotki.newsweek.pl/johnny-depp-i-vanessa-paradis-sie-rozstali,87375,1,1.html;date;QC_TEMP:MOM
+688;Kiedy Talibowie zabili polskiego inżyniera?;http://wyborcza.pl/1,76842,7248264,Zabojca_Polaka_robi_kariere_wsrod_talibow.html;date;QC_TEMP:MOM
+696;UAM jest w Poznaniu?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;yes-no;QC_DECISION
+701;Co to jest strap-on?;http://pl.wikipedia.org/wiki/Strap-on_dildo;definition;QC_DEF:BE
+702;Co to jest takipi?;http://nlp.pwr.wroc.pl/takipi/;definition;QC_DEF:BE
+705;Czy Justin Bieber uprawiał seks z Seleną Gomez?;http://www.kotek.pl/kotek/1,111364,9838360,Justin_Bieber_i_Selena_Gomez_uprawiaja_seks__I_lubia.html;yes-no;QC_DECISION
+710;Czy uniwersytet jest w Polsce?;http://pl.wikipedia.org/wiki/Uniwersytety_w_Polsce;yes-no;QC_DECISION
+711;Czy w Chorwacji jest euro?;http://blogzpodrozy.pl/2011/03/26/jaka-walute-najlepiej-zabrac-do-chorwacji/;yes-no;QC_DECISION
+712;Czy w Niemczech są geje?;http://gaymateo.pl/niemcy-ar103.html;yes-no;QC_DECISION
+714;Czy w Polsce aborcja jest legalna?;http://pl.wikipedia.org/wiki/Aborcja_w_Polsce;yes-no;QC_DECISION
+722;Gdzie jest Tusk?;http://wpolityce.pl/artykuly/39832-premier-donald-tusk-z-wizyta-w-singapurze-zobacz-zdjecie-ktorym-pochwalila-sie-kancelaria-premiera;location-other;QC_LOC:PLACE
+725;Gdzie zderzyły się pociągi?;http://pl.wikipedia.org/wiki/Katastrofa_kolejowa_pod_Szczekocinami;location-other;QC_LOC:PLACE
+726;Ile jest gwiazd?;http://astropolis.pl/topic/371-ile-jest-gwiazd-we-wszechwiecie/;count;QC_QUANTITY:GEN
+730;Jak się ubrać na imprezę?;http://zapytaj.onet.pl/Category/003,001/2,37673,Jak_mam_sie_ubrac_na_impreze.html;manner;QC_PROCEDURE
+731;Jak się odchudzać?;http://wizaz.pl/forum/showthread.php?t=580607;manner;QC_PROCEDURE
+732;Jak się robi dziurę w spodniach?;http://zapytaj.onet.pl/Category/001,003/2,9680703,Jak_zrobic_dziure_w_spodniach.html;manner;QC_PROCEDURE
+739;Jak zostać milionerem?;http://www.wiatrak.nl/876/piec-tajemnic-jak-zostac-milionerem;manner;QC_PROCEDURE
+746;Kto zabił Lecha Kaczyńskiego?;http://forum.gazeta.pl/forum/w,1157,135093328,135093328,To_Amerykanie_zabili_Lecha_Kaczynskiego_.html;individual;QC_PER:IDENT
+750;Opowiedz coś o liczbach pierwszych.;http://pl.wikipedia.org/wiki/Liczba_pierwsza;description;QC_NONPER

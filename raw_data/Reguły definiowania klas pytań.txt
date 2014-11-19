@@ -1,0 +1,168 @@
+REGUŁY DEFINIOWANIA KLAS PYTAŃ
+
+Dla każdej podkategorii przyporządkowano klasę pytania (Etykieta) i rodzaj oczekiwanej odpowiedzi (Typowe OTO).
+Poniższy opis został stworzony w celu pomocy w ujednoznacznianiu i rozstrzyganiu o klasach pytania, dokonywanym manualnie przez człowieka - specjalistę, eksperta dziedzinowego.
+
+>>> Poniższy opis został ułożony według schmatu:
+>>> Kategoria:
+>>>     * Podkategoria 1                    --->    Etykieta            |   Typowe OTO
+
+Rozstrzygnięcie:
+    * prawda lub fałsz                      --->    QC_DECISION         |   yes-no
+
+Definicja:
+    * być                                   --->    QC_DEF:BE           |   definition
+    * znaczenie                             --->    QC_DEF:MEANING      |   definition
+    * osobowe                               --->    QC_DEF:PER          |   human: description (np. human: group, human: individual, itp.)
+
+Osoba:
+    * identyfkacyjne                        --->    QC_PER:IDENT        |   individual, organization
+    * argumentatywne                        --->    QC_PER:ARG          |   individual, group
+
+Byt nieosobowy:
+    * byt nieosobowy                        --->    QC_NONPER           |   enitity
+
+Posesywne:
+    * posesywne                             --->    QC_POSSESIVE        |   individual, group
+
+Bezpośrednie:
+    * bezpośrednie                          --->    QC_DIRECT           |   entity, individual, group
+
+Przycznynowe:
+    * przyczynowe                           --->    QC_CAUSE            |   reason
+
+Ilościowe:
+    * wysokość ceny                         --->    QC_QUANTITY:PRICE   |   money
+    * ogólne                                --->    QC_QUANTITY:GEN     |   date, numeric (inne niż money), period
+
+Lokalizacyjne:
+    * położenie/miejsce/punkt początkowy    --->    QC_LOC:PLACE        |   location
+    * pochodzenie                           --->    QC_LOC:ORIG         |   location
+    * punkt końcowy procesu                 --->    QC_LOC:END          |   location
+    * trajektoria ruchu                     --->    QC_LOC:TRAJ         |   location, manner
+
+Temporalne:
+    * momentowe                             --->    QC_TEMP:MOM         |   date, period
+    * kwantyfikacyjne                       --->    QC_TEMP:QUANT       |   count, period
+    * okresowe                              --->    QC_TEMP:PER         |   period
+
+Proceduralne:
+    * proceduralne                          --->    QC_PROCEDURE        |   manner
+
+Stanowe:
+    * ogólne                                --->    QC_STATE:GEN        |   description
+    * natężenie cechy lub własności         --->    QC_STATE:INTENS     |   description, manner
+    * nazwa                                 --->    QC_STATE:NAME       |   entity (w większości), individual, group, location
+
+
+Poniżej znajduje się opis tabelaryczny, wyjaśniający w jaki sposób w ramach kategorii przydzielane są klasy i podklasy:
+Rozszerzona wersja poniższego opisu w postaci pliku CSV jest zapisana pod nazwą: "classes.csv".
+
+>>> Schemat opisu:
+>>> Kategoria
+>>>     * Klasa                 - Opis
+>>>         ** Podklasa         - Opis
+
+BOOLEAN
+    * if-if                     - pytanie typu czy-czy
+    * yes-no                    - pytanie typu tak-nie
+
+DESCRIPTION
+    * definition                - pytanie o wyjaśnienie, zdefiniowanie wyrazu, terminu, skrótu lub symbolu, pytanie o rozwinięcie skrótu, skrótowca (odpowiedzią będzie pełna nazwa, która uległa skróceniu), pytanie o tłumaczenie na język polski (odpowiedzią jest odpowiednik słowa, wyrażenia obcojęzycznego w języku polskim)
+    * description               - pytanie o opis, pytanie o większą ilości informacji, pytanie o szczegóły, uszczegółowienie, o dokładniejszy opis
+    * description-other         - pytanie o opisy inne niż wyszczegółowione w ramach etykiety DESCRIPTION
+    * expression                - znak językowy 1;"pytanie o słowo, wyrażenie, skrót lub symbol (musi jawnie dotyczyć wyrażenia językowego), pytania o tłumaczenie z polskiego na inny język (odpowiedzią jest słowo bądź wyrażenie), pytania typu: ""Jaki jest skrót (...)?"", ""Podaj rzeczownik na 4 litery, zaczynający się od P?"", ""Jaki symol ma argon?"", UWAGA: jeśli pasuje do innej klasy, to należy ją wybrać (np. ""Jak nazywa się odpowiednik Polopiryny?"" to pytanie typu artifact)"
+    * manner                    - sposób 2;pytanie o sposób, procedurę uzyskania czegoś, przepis(np. Przepis a ciasto)
+    * reason                    - pytanie o przyczynę, motywacje
+
+ENTITY
+    * animal                    - pytania o zwierzęta
+    * artifact                  - pytanie o narzędzia i urządzenia, przedmioty fizyczne służące jakiemuś celowi, także wszelkie inne rzeczy wytworzone (w tym marki i nazwy produktów, leków (np. IPhone), o ile nie podpada pod inną kategorię, np. marki samochodów to "vehicle")
+    * body-part                 - pytanie o części ciała
+    * building                  - pytanie o budynki i obiekty budowlane
+    * color                     - pytanie o kolory
+    * currency                  - pytanie o waluty, jednostki monetarne
+    * dis-med                   - pytanie o choroby, nazwy objawów, leczenie, nazwy terapii, itp. (ale już nie nazwy leków, nie dawkowanie - to kategoria manner")
+    * entity-other              - pytanie o pozostałe, niewyposzczególnieone w innych klasach ENTITY byty fizyczne lub abstrakcyjne, ale nieosobowe (osobowe należą do etykiety HUMAN)
+    * event                     - pytanie o wydarzenia społeczne, kulturalne, historyczne (np. wojny), sportowe, wydarzenia dnia codziennego
+    * food                      - pytanie o jedzenie, posiłki, produkty spożywcze
+    * ideology                  - pytanie o ideologie, teorie naukowe, prawa, technologie, religie, wierzenia, zabobony, wszelakie systemy myślowe
+    * intellect-other
+        ** document             - pytanie o dokumenty, akty, orzeczenia, postanowienia, inne pisma
+        ** licencje             - pytanie o licencje, uprawnienia
+        ** software             - pytanie o programy, pakiety oporogramowania (w tym gry i systemy operacyjne)
+        ** title                - pytanie o tytuły utworów i dzieł
+        ** treaty               - pytanie o traktaty, umowy, porozumienia
+        ** web-page             - pytanie o adresy stron internetowych
+        ** www-address          - pytanie o domeny, adresy mailowe, serwisy internetowe
+    * language                  - pytanie o język i pojęcia językoznawcze (nazwy części mowy, konstrukcji językowych, itp.), np. "Jaką część mowy ma słowo "wąglik"?", "Jakim językiem mówi się w Urugwaju?" (nie ależą tu pytania o języki programowania ani pytania o synonimy słów, tłumaczenia, itp.)"
+    * natural-phenomenon        - pytanie o przedmioty typu: kamień, patyk, kropla wody, deszcz, burza, zjawiska naturalne, itp.
+    * plant                     - pytanie o rośliny
+    * substance                 - pytanie o substancje
+    * system                    - pytanie o nazwy konkretnych instancji fizycznych systemów posiadających własną infrastrukturę i realizujących określone cele (np. systemy informatyczne, ostrzegawcze, EPI, ECURIE, itp.)
+    * vehicle                   - pytanie o nazwy pojazdów (w tym marki aut)
+
+HUMAN
+    * group                     - pytanie o grupę ludzi, grono, społeczność (np. "Kto pracuje w Samsungu?")
+    * human-other               - pytanie o człowieka, ludzi, którego nie da się przypisać do innej klasy w ramach etykiety HUMAN
+    * individual                - pytanie o jedną, konkretną osobę (np. "Kto jest premierem Australii?", "Kim był Piłsudski?")
+    * organization-other
+        ** band                 - pytanie o nazwę zespółu muzycznego, drużyny, klubu, zespołu, teamu, tandemu, ekipy, załogi
+        ** company              - pytanie o nazwę zakładu, korporacji, firmy, fabryki
+        ** institution          - pytanie o nazwę instytucji, resortu, szkoły
+        ** media                - pytanie o media, stacje telefizyjne, rozgłośnie radiowe
+        ** organization         - pytanie o organizacje
+        ** organization-sub     - pytanie o działy, wydziały, piony, sekcje, jednostki organizacji, itp.
+        ** periodic             - pytanie o periodyki, pisma, czasopisma, gazety
+        ** political-party      - pytanie o partie polityczne
+
+LOCATION
+    * astronomical-object       - pytanie o przestrzeń pozaziemską, obiekty astronomiczne, itp.
+    * city-part                 - pytanie o obszary wyróżnione w obrębie miasta
+    * country                   - pytania o państwa
+    * country-part
+        ** admin1               - pytanie o województwa, prowincje, landy, stany
+        ** admin2               - pytanie o powiaty, hrabstwa
+        ** admin3               - pytanie o gminy, dzielnice miast
+        ** country-region       - pytanie o element wyróżniony w podziale kraju, nie pasujący do innych podklas wyróżnionych w ramach klasy "country-part"
+        ** historical-region    - pytanie o krainy historyczne
+        ** other                - pytanie o inne jednostki administracyjne, nie pasujące do pozostałych klas etykiety LOCATION
+    * geographical-other
+        ** bay                  - pytanie o zatoki, zalewy, zakola
+        ** cape                 - pytanie o przylądeki, cyple
+        ** continent            - pytanie o kontynenty, stały ląd
+        ** island               - pytanie o wyspy, archipelagi
+        ** lagoon               - pytanie o laguny
+        ** lake                 - pytanie o jeziora, akweny, zbiorniki wodne
+        ** mountain             - pytanie o wzniesienia, wyniosłości, góry
+        ** ocean                - pytanie o oceany
+        ** other                - pytanie o miejsca, obszary nie pasujące do innych podklas klasy "geographical-other"
+        ** peninsula            - pytanie o półwyspy
+        ** region               - pytanie o regiony, krainy
+        ** river                - pytanie o rzeki
+        ** sandspit             - pytanie o mierzeje
+        ** sea                  - pytanie o morza
+    * location-other            - pytanie o wszelakie inne miejsca albo niedospecyfikowane pytania (np. "Gdzie jest X?")
+    * settlement                - pytanie o miejscowości, miasta, aglomeracje
+    * street
+        ** square               - pytanie o nazwy placów (np. plac Grunwaldzki)
+        ** street               - pytanie o różne formy ulic
+
+NUMERIC
+    * count                     - pytanie o liczności zbiorów (np. "Ile kropek ma biedronka?", "Ile razy dziennie podaje się Polopirynę?")
+    * date                      - pytanie o daty, momenty w czasie
+    * distance                  - pytanie o odległości
+    * money                     - pytanie o ceny
+    * numeric-other             - pytanie o inne wartości numeryczne, nie pasujące do pozostałych klas etykiety NUMERIC
+    * order                     - pytanie o porządek, kolejność
+    * percent                   - pytanie o części, odsetki, ułamki, procenty czegoś
+    * period                    - pytanie o okresy czasu
+    * size                      - pytanie o rozmiary
+    * speed                     - pytanie o szybkości, prędkości
+    * temp                      - pytanie o temperatury
+    * weight                    - pytanie o wagi, ciężary
+
+SITUATION
+    * action                    - pytanie o akcje, czynności
+    * situation-other           - pytanie o inne sytuacje, nie pasujące do klasy "action"
+

@@ -1,0 +1,499 @@
+hipi1;Co to piwo?;definition;QC_DEF:BE
+hipi2;Co brać na przeziębienie?;dis-med;QC_NONPER
+hipi3;Co będzie kluczem do zwycięstwa?;description;QC_NONPER
+hipi6;Co robi Beata Kozidrak?;description;QC_NONPER
+hipi7;Co robi Doda?;description;QC_NONPER
+hipi8;Co robi Kluzik-Rostkowska?;description;QC_NONPER
+hipi9;Co robi Tusk?;description;QC_NONPER
+hipi10;Co robią studenci po filozofii?;description;QC_NONPER
+hipi11;Co robił Donald Tusk?;description;QC_NONPER
+hipi12;Co się stało w Kicku?;description;QC_NONPER
+hipi13;Co to jest Hipisek?;definition;QC_DEF:BE
+hipi14;Co to jest NFSnet?;definition;QC_DEF:BE
+hipi15;Co to jest PO?;definition;QC_DEF:BE
+hipi17;Co to jest jabłko?;definition;QC_DEF:BE
+hipi19;Co to jest kox?;definition;QC_DEF:BE
+hipi20;Co to jest książka?;definition;QC_DEF:BE
+hipi22;Co to jest mózg?;definition;QC_DEF:PER
+hipi24;Co to jest seks?;definition;QC_DEF:BE
+hipi25;Co to jest ser?;definition;QC_DEF:BE
+hipi27;Co to jest Wordnet?;definition;QC_DEF:BE
+hipi28;Co to jest światło?;definition;QC_DEF:BE
+hipi31;Co to reggae?;definition;QC_DEF:BE
+hipi32;Co to szkoła?;definition;QC_DEF:BE
+hipi34;Co z zakończeniem Mass Effect 3;description;QC_NONPER
+hipi40;"Czy ""Dlaczego ja?"" jest na żywo?";yes-no;QC_DECISION
+hipi41;Czy 30 Seconds to Mars będą w Polsce ?;yes-no;QC_DECISION
+hipi43;Czy Berlin jest stolicą Francji?;yes-no;QC_DECISION
+hipi44;Czy Berlin jest stolicą Niemiec?;yes-no;QC_DECISION
+hipi45;Czy Bydgoszcz leży nad Brdą?;yes-no;QC_DECISION
+hipi46;Czy Doda jest z Nergalem?;yes-no;QC_DECISION
+hipi49;Czy Jared Leto jest pedałem?;yes-no;QC_DECISION
+hipi53;Czy Kijów jest stolicą Rosji?;yes-no;QC_DECISION
+hipi54;Czy Kraków leży w Polsce?;yes-no;QC_DECISION
+hipi55;Czy Krzywa Wieża jest w Pizie?;yes-no;QC_DECISION
+hipi57;Czy Mickiewicz urodził się w Polsce?;yes-no;QC_DECISION
+hipi58;Czy Moskwa jest stolicą Rosji?;yes-no;QC_DECISION
+hipi61;Czy Paryż leży we Francji?;yes-no;QC_DECISION
+hipi62;Czy Polska leży na Ziemi?;yes-no;QC_DECISION
+hipi63;Czy Poznań jest stolicą Polski?;yes-no;QC_DECISION
+hipi64;Czy Selena Gomez jest w ciąży?;yes-no;QC_DECISION
+hipi65;Czy Sheraton jest w Polsce?;yes-no;QC_DECISION
+hipi66;Czy Sorbona jest w Nicei?;yes-no;QC_DECISION
+hipi67;Czy Sorbona jest w Paryżu?;yes-no;QC_DECISION
+hipi68;Czy Sorbona leży w Nicei?;yes-no;QC_DECISION
+hipi69;Czy Statua Wolności jest w  Los Angeles?;yes-no;QC_DECISION
+hipi70;Czy Statua Wolności jest w Paryżu?;yes-no;QC_DECISION
+hipi71;Czy Statua Wolności leży w Kalifornii?;yes-no;QC_DECISION
+hipi72;Czy Statua Wolności znajduje się w Kanadzie?;yes-no;QC_DECISION
+hipi73;Czy Statuła Wolności jest w Kanadzie?;yes-no;QC_DECISION
+hipi76;Czy UAM jest w Poznaniu?;yes-no;QC_DECISION
+hipi79;Czy USA leżą w Ameryce północnej?;yes-no;QC_DECISION
+hipi80;Czy Whitney Houston żyje?;yes-no;QC_DECISION
+hipi81;Czy Wieża Eiffla jest w Paryżu?;yes-no;QC_DECISION
+hipi86;Czy borsuki mogą zabić?;yes-no;QC_DECISION
+hipi87;Czy borsuki są niebezpieczne?;yes-no;QC_DECISION
+hipi89;Czy francuska Sorbona leży w Paryżu?;yes-no;QC_DECISION
+hipi92;Czy poznańska Katedra jest w Paryżu?;yes-no;QC_DECISION
+hipi93;Czy poznańska katedra jest we Francji?;yes-no;QC_DECISION
+hipi95;Czy przez Włocławek płynie wisła?;yes-no;QC_DECISION
+hipi96;Czy Richardson jest z Zamachowskim?;yes-no;QC_DECISION
+hipi98;Czy studia są płatne?;yes-no;QC_DECISION
+hipi99;Czy w Niemczech jest euro?;yes-no;QC_DECISION
+hipi100;Czy w Świebodzinie jest pomnik Jezusa Chrystusa?;yes-no;QC_DECISION
+hipi103;Czy Wawel jest w Europie?;yes-no;QC_DECISION
+hipi105;Czy Włocławek leży nad Wisłą?;yes-no;QC_DECISION
+hipi108;Czym jest Słowosieć?;definition;QC_DEF:BE
+hipi109;Dlaczego młodzi ludzie umierają?;reason;QC_CAUSE
+hipi112;Gdzie Nergal będzie jurorem?;media;QC_LOC:PLACE
+hipi113;Gdzie aborcja jest legalna?;country;QC_LOC:PLACE
+hipi114;Gdzie jest Kościół pw św;location-other;QC_LOC:PLACE
+hipi115;Gdzie jest Olsztyn?;location-other;QC_LOC:PLACE
+hipi116;Gdzie jest Opatówek?;location-other;QC_LOC:PLACE
+hipi117;Gdzie jest Poznań?;location-other;QC_LOC:PLACE
+hipi118;Gdzie jest Rondo Kaponiera?;location-other;QC_LOC:PLACE
+hipi119;Gdzie jest UAM?;location-other;QC_LOC:PLACE
+hipi120;Gdzie jest Wrocław?;location-other;QC_LOC:PLACE
+hipi121;Gdzie jest krzyż?;location-other;QC_LOC:PLACE
+hipi122;Gdzie jest lotnisko Ławica?;location-other;QC_LOC:PLACE
+hipi123;Gdzie jest Ogród Japoński?;location-other;QC_LOC:PLACE
+hipi125;Gdzie jest Ławica?;location-other;QC_LOC:PLACE
+hipi126;Gdzie leży Nil?;location-other;QC_LOC:PLACE
+hipi127;Gdzie leży Paryż?;location-other;QC_LOC:PLACE
+hipi128;Gdzie leży Poznań?;location-other;QC_LOC:PLACE
+hipi129;Gdzie leży Warszawa?;location-other;QC_LOC:PLACE
+hipi130;Gdzie leży rynek w Poznaniu?;location-other;QC_LOC:PLACE
+hipi132;Gdzie mieszka Johnny Depp?;location-other;QC_LOC:PLACE
+hipi134;Gdzie mieszka Tusk?;location-other;QC_LOC:PLACE
+hipi135;Gdzie mieszka ksiądz Natanek?;location-other;QC_LOC:PLACE
+hipi136;Gdzie mieszka yeti?;location-other;QC_LOC:PLACE
+hipi137;Gdzie na Ukrainie odbędą się mecze mistrzostw Europy?;location-other;QC_LOC:ORIG
+hipi138;Gdzie odbył się mecz z Grecją?;location-other;QC_LOC:PLACE
+hipi140;Gdzie rosną banany?;location-other;QC_LOC:PLACE
+hipi141;Gdzie są Plewiska?;location-other;QC_LOC:PLACE
+hipi142;Gdzie umarł Rysiek z "Klanu"?;location-other;QC_LOC:PLACE
+hipi143;Gdzie urodził się Chopin?;location-other;QC_LOC:PLACE
+hipi144;Gdzie znajduje się UAM?;location-other;QC_LOC:PLACE
+hipi145;Gdzie znajdują się Plewiska?;location-other;QC_LOC:PLACE
+hipi146;Ile jest ludzi na świecie?;count;QC_QUANTITY:GEN
+hipi147;Ile koń ma nóg?;count;QC_QUANTITY:GEN
+hipi148;Ile lat ma Adam Lambert?;count;QC_QUANTITY:GEN
+hipi151;Ile lat ma Doda?;count;QC_QUANTITY:GEN
+hipi152;Ile lat ma Donald Tusk?;count;QC_QUANTITY:GEN
+hipi154;Ile lat ma James Bond?;count;QC_QUANTITY:GEN
+hipi155;Ile lat ma Tusk?;count;QC_QUANTITY:GEN
+hipi157;Ile lat ma Wałęsa?;count;QC_QUANTITY:GEN
+hipi159;Ile lat trwa wojna w Darfurze?;count;QC_TEMP:PER
+hipi160;Ile ludzie produkują śmieci rocznie?;numeric-other;QC_QUANTITY:GEN
+hipi164;Ile nóg ma stonoga?;count;QC_QUANTITY:GEN
+hipi165;Ile pieniędzy ma Bill Gates?;money;QC_QUANTITY:GEN
+hipi166;Ile trofeum LM wygrał Real Madryt?;count;QC_QUANTITY:GEN
+hipi167;Ile trwa ciąża?;period;QC_TEMP:PER
+hipi169;Ile trwa okres kobiety?;period;QC_TEMP:PER
+hipi170;Ile wzrostu ma raper Mezo?;size;QC_QUANTITY:GEN
+hipi171;Ilu mieszkańców ma Radom?;count;QC_QUANTITY:GEN
+hipi176;Jak ma na imię premier Tusk?;individual;QC_STATE:NAME
+hipi178;Jak ma na imię Tusk?;individual;QC_STATE:NAME
+hipi180;Jak mieć dzieci?;manner;QC_PROCEDURE
+hipi181;Jak się ubiera hipiska?;manner;QC_PROCEDURE
+hipi184;Jak ubierają sie hipiski?;manner;QC_PROCEDURE
+hipi186;Jak wygląda Madonna?;description;QC_STATE:GEN
+hipi187;Jak włączyć komputer?;manner;QC_PROCEDURE
+hipi189;Jaka jest stolica Burkina Faso?;city;QC_STATE:GEN
+hipi190;Jaki biust ma Madonna?;description;QC_DIRECT
+hipi191;Jaki jest wzrost Dody?;size;QC_QUANTITY:GEN
+hipi193;Jakiego koloru jest słońce?;color;QC_DIRECT
+hipi194;Kiedy umrze Rysiek z "Klanu"?;date;QC_TEMP:MOM
+hipi195;Kim jest Robert Burneika?;description;QC_DEF:PER
+hipi196;Kiedy zginie Rysiek z "Klanu"?;date;QC_TEMP:MOM
+hipi198;Kiedy PO wygrało wybory?;date;QC_TEMP:MOM
+hipi199;Kiedy Polska rozpoczęła prezydencję europejską?;date;QC_TEMP:MOM
+hipi201;Kiedy będzie koniec remontu Kaponiery w Poznaniu?;date;QC_TEMP:MOM
+hipi202;Kiedy będą wybory do Parlamentu Europejskiego?;date;QC_TEMP:MOM
+hipi203;Kiedy jest pierwszy dzień lata?;date;QC_TEMP:MOM
+hipi205;Kiedy umarł Rysiek z "Klanu"?;date;QC_TEMP:MOM
+hipi206;Kiedy umrze Rysiek z Klanu?;date;QC_TEMP:MOM
+hipi207;Kiedy urodził się Donald Tusk?;date;QC_TEMP:MOM
+hipi208;Kiedy urodził się Mikołaj Kopernik?;date;QC_TEMP:MOM
+hipi209;Kiedy urodził się Albert Einstein?;date;QC_TEMP:MOM
+hipi210;Kiedy urodziła się Doda?;date;QC_TEMP:MOM
+hipi212;Kiedy zaczął się remont Kaponiery?;date;QC_TEMP:MOM
+hipi213;Kiedy zaczął się remont Kaponiery w Poznaniu?;date;QC_TEMP:MOM
+hipi214;Kiedy zaćmienie słońca?;date;QC_TEMP:MOM
+hipi216;Kim był Kopernik?;description;QC_DEF:PER
+hipi217;Kim był Kurt Cobain?;description;QC_DEF:PER
+hipi218;Kim jest Doda?;description;QC_DEF:PER
+hipi220;Kim jest Nergal?;description;QC_DEF:PER
+hipi221;Kim jest Orwell?;description;QC_DEF:PER
+hipi222;Kim jest Orłoś?;description;QC_DEF:PER
+hipi224;Kim jest hipis?;definition;QC_DEF:PER
+hipi225;Kim jest prof Jassem?;description;QC_DEF:PER
+hipi226;Kto był pierwszym prezydentem Polski?;individual;QC_PER:IDENT
+hipi229;Kto jest prezydentem USA?;individual;QC_PER:IDENT
+hipi233;Kto to Kurt Cobain?;description;QC_DEF:PER
+hipi234;Kto to hipis?;definition;QC_DEF:PER
+hipi235;Kto to jest Breivik?;description;QC_DEF:PER
+hipi236;Kto to jest Papież?;definition;QC_DEF:PER
+hipi237;Kto to jest Doda?;description;QC_DEF:PER
+hipi240;Które miasta zorganizują mecze Mistrzostw Europy?;city;QC_DIRECT
+hipi242;Lady Gaga ma tatuaże?;yes-no;QC_DECISION
+hipi243;Lepper się zabił?;yes-no;QC_DECISION
+hipi249;Od kiedy mamy kryzys finansowy?;date;QC_TEMP:MOM
+hipi250;Od kiedy matematyka będzie obowiązkowa na maturze?;date;QC_TEMP:MOM
+hipi251;Podaj lokalizację UAM.;location-other;QC_DIRECT
+hipi252;Polska ma gaz?;yes-no;QC_DECISION
+hipi253;Skąd się biorą dzieci?;reason;QC_CAUSE
+hipi261;W którym mieście są najtańsze mieszkania?;city;QC_DIRECT
+hipi262;W którym mieście jest UAM?;city;QC_DIRECT
+hipi265;Z czym zjeść owsiankę?;food;QC_DIRECT
+hipi270;Co je tygrys?;food;QC_DIRECT
+hipi272;Co jest dobre a ból zęba?;substance;QC_NONPER
+hipi273;Co jest stolicą polski?;city;QC_NONPER
+hipi274;Co robi Kluzik?;description;QC_NONPER
+hipi275;Co robi ZUS?;description;QC_NONPER
+hipi276;Co studiował Jarosław Kaczyński?;entity-other;QC_NONPER
+hipi277;Co to  Austriacka Szkoła Ekonomii?;definition;QC_DEF:BE
+hipi278;Co to alkohol?;definition;QC_DEF:BE
+hipi280;Co to hipis?;definition;QC_DEF:BE
+hipi281;Co to jest Litwa?;definition;QC_DEF:BE
+hipi282;Co to jest Myślibórz?;definition;QC_DEF:BE
+hipi284;Co to jest Polska?;definition;QC_DEF:BE
+hipi285;Co to jest Sampler?;definition;QC_DEF:BE
+hipi286;Co to jest ACTA?;definition;QC_DEF:BE
+hipi287;Co to jest Austriacka Szkoła Ekonomii?;definition;QC_DEF:BE
+hipi288;Co to jest BDSM?;definition;QC_DEF:BE
+hipi289;Co to jest bot?;definition;QC_DEF:BE
+hipi290;Co to jest bułka?;definition;QC_DEF:BE
+hipi291;Co to jest chleb?;definition;QC_DEF:BE
+hipi292;Co to jest czarna dziura?;definition;QC_DEF:BE
+hipi293;Co to jest dom?;definition;QC_DEF:BE
+hipi294;Co to jest drzewo?;definition;QC_DEF:BE
+hipi295;Co to jest eutrofizacja?;definition;QC_DEF:BE
+hipi296;Co to jest felga?;definition;QC_DEF:BE
+hipi297;Co to jest filozofia analityczna?;definition;QC_DEF:BE
+hipi298;Co to jest funkcja?;definition;QC_DEF:BE
+hipi299;Co to jest geometria?;definition;QC_DEF:BE
+hipi300;Co to jest geriatria?;definition;QC_DEF:BE
+hipi301;Co to jest gg?;definition;QC_DEF:BE
+hipi302;Co to jest gmina Brody?;definition;QC_DEF:BE
+hipi303;Co to jest godło?;definition;QC_DEF:BE
+hipi304;Co to jest google?;definition;QC_DEF:BE
+hipi305;Co to jest hipis?;definition;QC_DEF:BE
+hipi307;Co to jest jednorożec?;definition;QC_DEF:BE
+hipi309;Co to jest komunizm?;definition;QC_DEF:BE
+hipi310;Co to jest kondom?;definition;QC_DEF:BE
+hipi311;Co to jest krowa?;definition;QC_DEF:BE
+hipi312;Co to jest krzesło?;definition;QC_DEF:BE
+hipi313;Co to jest kupa?;definition;QC_DEF:BE
+hipi314;Co to jest LOL?;definition;QC_DEF:BE
+hipi316;Co to jest matematyka?;definition;QC_DEF:BE
+hipi317;Co to jest minetka?;definition;QC_DEF:BE
+hipi318;Co to jest narkotyk?;definition;QC_DEF:BE
+hipi319;Co to jest neurolingwistyczne programowanie?;definition;QC_DEF:BE
+hipi320;Co to jest nos?;definition;QC_DEF:BE
+hipi321;Co to jest okres?;definition;QC_DEF:BE
+hipi322;Co to jest onomatopeja?;definition;QC_DEF:BE
+hipi323;Co to orgazm?;definition;QC_DEF:BE
+hipi324;Co to jest orgazm?;definition;QC_DEF:BE
+hipi325;Co to jest penis?;definition;QC_DEF:BE
+hipi326;Co to jest pies?;definition;QC_DEF:BE
+hipi327;Co to jest plotkara?;definition;QC_DEF:BE
+hipi328;Co to jest powiat poznański?;definition;QC_DEF:BE
+hipi331;Co to jest sex?;definition;QC_DEF:BE
+hipi333;Co to jest titanic?;definition;QC_DEF:BE
+hipi334;Co to jest wikipedia?;definition;QC_DEF:BE
+hipi335;Co to jest woda?;definition;QC_DEF:BE
+hipi337;Co to jest światłowód?;definition;QC_DEF:BE
+hipi338;Co to Kaszub?;definition;QC_DEF:BE
+hipi339;Co to krowa?;definition;QC_DEF:BE
+hipi340;Co to książeczka zdrowia?;definition;QC_DEF:BE
+hipi341;Co to majonez?;definition;QC_DEF:BE
+hipi344;Co to podatki?;definition;QC_DEF:BE
+hipi345;Co to podłoga?;definition;QC_DEF:BE
+hipi346;Co to satelita?;definition;QC_DEF:BE
+hipi348;Co to sznaps?;definition;QC_DEF:BE
+hipi349;Co to są Brody?;definition;QC_DEF:BE
+hipi350;Co to są święta Bożego Narodzenia?;definition;QC_DEF:BE
+hipi353;Co wiesz o Kulczyku?;description;QC_DEF:PER
+hipi357;Czy Delhi jest w Azji?;yes-no;QC_DECISION
+hipi358;Czy Delhi jest w Indiach?;yes-no;QC_DECISION
+hipi361;Czy Drawa przepływa przez Polskę?;yes-no;QC_DECISION
+hipi364;Czy Lizbona leży w Europie?;yes-no;QC_DECISION
+hipi365;Czy Polska jest w Europie?;yes-no;QC_DECISION
+hipi366;Czy Polska leży w Europie?;yes-no;QC_DECISION
+hipi368;Czy Poznań leży w Wielkopolsce?;yes-no;QC_DECISION
+hipi369;Czy Praga jest w Czechach?;yes-no;QC_DECISION
+hipi371;Czy Rysy są w Polsce?;yes-no;QC_DECISION
+hipi372;Czy Sekwana przepływa przez Paryż?;yes-no;QC_DECISION
+hipi373;Czy Shakira przyjechała do Polski?;yes-no;QC_DECISION
+hipi374;Czy Sheraton jest w Poznaniu?;yes-no;QC_DECISION
+hipi378;Czy Tamiza przepływa przez Londyn?;yes-no;QC_DECISION
+hipi379;Czy Toronto jest w USA?;yes-no;QC_DECISION
+hipi382;Czy Warszawa jest we Francji?;yes-no;QC_DECISION
+hipi383;Czy Warszawa leży w Polsce?;yes-no;QC_DECISION
+hipi384;Czy Wawel leży w Krakowie?;yes-no;QC_DECISION
+hipi387;Czy Wilda jest w Poznaniu?;yes-no;QC_DECISION
+hipi389;Czy Wilda leży w Poznaniu?;yes-no;QC_DECISION
+hipi390;Czy Adam i Ewa mieli pępki?;yes-no;QC_DECISION
+hipi391;Czy Adam Małysz ma żonę?;yes-no;QC_DECISION
+hipi394;Czy Doda zerwała z Nergalem?;yes-no;QC_DECISION
+hipi395;Czy eutanazja jest w Europie legalna?;yes-no;QC_DECISION
+hipi403;Czy Justin Bieber jest pedałem?;yes-no;QC_DECISION
+hipi404;Czy Bednarek jest katolikiem?;yes-no;QC_DECISION
+hipi407;Czy krzesło jest meblem?;yes-no;QC_DECISION
+hipi408;Czy królik uprawia seks?;yes-no;QC_DECISION
+hipi409;Czy Marsz Równości odbył się w Poznaniu?;yes-no;QC_DECISION
+hipi412;Czy mąka zamarza?;yes-no;QC_DECISION
+hipi413;Czy Nergal jest z Dodą?;yes-no;QC_DECISION
+hipi414;Czy Nil jest w Polsce?;yes-no;QC_DECISION
+hipi415;Czy odra przepływa przez Dolny Śląsk?;yes-no;QC_DECISION
+hipi416;Czy Pałac Dożów leży w Rzymie?;yes-no;QC_DECISION
+hipi418;Czy Pałac Kultury jest w Rzymie?;yes-no;QC_DECISION
+hipi419;Czy pies to zwierzę?;yes-no;QC_DECISION
+hipi421;Czy Poznań jest w Polsce?;yes-no;QC_DECISION
+hipi423;Czy Praga jest w Polsce?;yes-no;QC_DECISION
+hipi424;Czy Praga leży w Czechach?;yes-no;QC_DECISION
+hipi425;Czy Statua Wolności jest w USA?;yes-no;QC_DECISION
+hipi426;Czy Sting zagrał koncert w Warszawie?;yes-no;QC_DECISION
+hipi429;Czy w Poznaniu obchodzono rocznicę Smoleńska?;yes-no;QC_DECISION
+hipi431;Czy w Warszawie odbył się Marsz Niepodległości?;yes-no;QC_DECISION
+hipi432;Czy w Warszawie odbył się Marsz Równości?;yes-no;QC_DECISION
+hipi433;Czy w Warszawie odbył się marsz z okazji Święta Niepodległości?;yes-no;QC_DECISION
+hipi436;Czy w Poznaniu jest UAM?;yes-no;QC_DECISION
+hipi437;Czy w poznaniu jest uniwersytet Adama Mickiewicza?;yes-no;QC_DECISION
+hipi438;Czy Warszawa jest stolicą Libanu?;yes-no;QC_DECISION
+hipi440;Czy Waszyngton jest w Polsce?;yes-no;QC_DECISION
+hipi441;Czy Wawel jest w Japonii?;yes-no;QC_DECISION
+hipi448;Czym jest woda?;definition;QC_DEF:BE
+hipi451;Czym się karmi jeże?;food;QC_NONPER
+hipi454;Gdzie leży Przemyśl?;location-other;QC_LOC:PLACE
+hipi457;Gdzie doda mieszka?;location-other;QC_LOC:PLACE
+hipi458;Gdzie jest Drawa?;location-other;QC_LOC:PLACE
+hipi459;Gdzie jest Litwa?;location-other;QC_LOC:PLACE
+hipi460;Gdzie jest Lizbona?;location-other;QC_LOC:PLACE
+hipi461;Gdzie jest Polska?;location-other;QC_LOC:PLACE
+hipi462;Gdzie jest Biebrza?;location-other;QC_LOC:PLACE
+hipi463;Gdzie jest krakowskie przedmieście?;location-other;QC_LOC:PLACE
+hipi464;Gdzie jest Kępa Oborska?;location-other;QC_LOC:PLACE
+hipi465;Gdzie jest Liceum imienia Stanisława Dubois?;location-other;QC_LOC:PLACE
+hipi466;Gdzie jest Milanówek?;location-other;QC_LOC:PLACE
+hipi467;Gdzie jest Mokotów?;location-other;QC_LOC:PLACE
+hipi468;Gdzie jest Uniwersytet im. Adama Mickiewicza?;location-other;QC_LOC:PLACE
+hipi469;Gdzie kupić buty w Poznaniu?;location-other;QC_LOC:ORIG
+hipi474;Gdzie leży UAM?;location-other;QC_LOC:PLACE
+hipi475;Gdzie leży Madagaskar?;location-other;QC_LOC:PLACE
+hipi476;Gdzie leży Ostrołęka?;location-other;QC_LOC:PLACE
+hipi479;Gdzie leży Szczecin?;location-other;QC_LOC:PLACE
+hipi483;Gdzie mieszka Kulczyk?;location-other;QC_LOC:PLACE
+hipi484;Gdzie mieszka Doda?;location-other;QC_LOC:PLACE
+hipi485;Gdzie można uprawiać seks?;location-other;QC_LOC:PLACE
+hipi486;Gdzie odbył się Enter Festival?;location-other;QC_LOC:PLACE
+hipi487;Gdzie pochowano Hankę Mostowiak?;location-other;QC_LOC:PLACE
+hipi488;Gdzie położony jest Poznań?;location-other;QC_LOC:PLACE
+hipi489;Gdzie umarł Rysiek?;location-other;QC_LOC:PLACE
+hipi491;Gdzie urodził się Mariusz Pudzianowski?;location-other;QC_LOC:PLACE
+hipi492;Gdzie urodził się Zbigniew Boniek?;location-other;QC_LOC:PLACE
+hipi493;Gdzie walczył Adamek?;location-other;QC_LOC:PLACE
+hipi495;Gdzie zginął Rysiek z "Klanu"?;location-other;QC_LOC:PLACE
+hipi496;Gdzie znajduje się najszybszy komputer?;location-other;QC_LOC:PLACE
+hipi499;Ile Doda ma lat?;count;QC_QUANTITY:GEN
+hipi501;Ile jest planet w układzie słonecznym?;count;QC_QUANTITY:GEN
+hipi504;Ile kot ma nóg?;count;QC_QUANTITY:GEN
+hipi507;Ile lat ma Kasia Tusk?;count;QC_QUANTITY:GEN
+hipi508;Ile lat ma Liber?;count;QC_QUANTITY:GEN
+hipi509;Ile lat ma najstarszy człowiek na świecie?;count;QC_QUANTITY:GEN
+hipi512;Ile ludzi mieszka w Polsce?;count;QC_QUANTITY:GEN
+hipi514;Ile Mel Gibson ma lat?;count;QC_QUANTITY:GEN
+hipi515;Ile oktaw ma klawiatura fortepianu?;count;QC_QUANTITY:GEN
+hipi517;Ile trwa ciąża u psa?;period;QC_TEMP:PER
+hipi519;Ile wynosi PKB w Polsce?;money;QC_QUANTITY:GEN
+hipi520;Ile wzrostu ma Mezo?;size;QC_QUANTITY:GEN
+hipi522;Ilu żołnierzy zginęło w Afganistanie?;count;QC_QUANTITY:GEN
+hipi523;Kim jest Kubica?;description;QC_DEF:PER
+hipi524;Jak dojechać na festiwal w Jarocinie?;manner;QC_PROCEDURE
+hipi527;Jak jest po angielsku 5?;expression;QC_STATE:GEN
+hipi528;Jak ma imię Tusk?;individual;QC_STATE:NAME
+hipi529;Jak ma na imię Adam Mickiewicz?;individual;QC_STATE:NAME
+hipi530;Jak ma na imię Michael Jackson?;individual;QC_STATE:NAME
+hipi534;jak ma na imię Kaczyński?;individual;QC_STATE:NAME
+hipi536;Jak miał na imię Czarniecki?;individual;QC_STATE:NAME
+hipi537;Jak nagrać płytę DVD?;manner;QC_PROCEDURE
+hipi538;Jak nazywa sie stolica Norwegii?;city;QC_STATE:NAME
+hipi539;Jak nazywa się dziewczyna Nergala?;individual;QC_STATE:NAME
+hipi540;jak nazywał się Chopin?;individual;QC_STATE:NAME
+hipi541;Jak nie zajść w ciążę?;manner;QC_PROCEDURE
+hipi542;Jak połączyć wi-fi?;manner;QC_PROCEDURE
+hipi547;Jak się przebrać za hipiskę?;manner;QC_PROCEDURE
+hipi548;Jak walczyć z owsikami?;manner;QC_PROCEDURE
+hipi549;Jak wymienić dowód osobisty?;manner;QC_PROCEDURE
+hipi550;Jak zrobić jajecznicę?;manner;QC_PROCEDURE
+hipi558;Jakich zespołów słuchali hipisi?;band;QC_DIRECT
+hipi559;Jakie miasta leżą w Polsce?;city;QC_DIRECT
+hipi560;Jakie miasto jest stolicą Francji?;city;QC_DIRECT
+hipi561;Jakie miasta znajdują się w Polsce?;city;QC_DIRECT
+hipi563;Jakie są objawy ciąży?;dis-med;QC_STATE:GEN
+hipi564;Jakie skutki prawne miała Konferencja Poczdamska?;description;QC_DIRECT
+hipi565;Jakiego koloru jest jabłko?;color;QC_DIRECT
+hipi567;Kiedy Tusk wygłosił expose?;date;QC_TEMP:MOM
+hipi571;Kiedy raport Millera?;date;QC_TEMP:MOM
+hipi574;Kiedy zmarł Rysiek z "Klanu"?;date;QC_TEMP:MOM
+hipi577;Kim jest Buffy?;description;QC_DEF:PER
+hipi578;Kim jest Ibisz?;description;QC_DEF:PER
+hipi579;Kim jest Jarosław Kaczyński?;description;QC_DEF:PER
+hipi580;Kim jest Justin Bieber?;description;QC_DEF:PER
+hipi581;Kim jest krowa?;definition;QC_DEF:PER
+hipi584;Kim jest mężczyzna?;definition;QC_DEF:PER
+hipi585;Kim jest pies?;definition;QC_DEF:PER
+hipi586;Kim jest Robert Lewandowski?;description;QC_DEF:PER
+hipi587;Kim jest Sienkiewicz?;description;QC_DEF:PER
+hipi588;Kto będzie jurorem "Voice of Poland"?;individual;QC_PER:IDENT
+hipi589;Kto je ślimaki?;group;QC_PER:ARG
+hipi591;Kto jest obecnie papieżem?;individual;QC_PER:IDENT
+hipi593;Kto jest prezydentem Niemiec?;individual;QC_PER:IDENT
+hipi594;Kto odkrył Amerykę?;individual;QC_PER:ARG
+hipi596;Kto to był Adolf Hitler?;description;QC_DEF:PER
+hipi597;Kto to był Hitler?;description;QC_DEF:PER
+hipi598;Kto to był Janusz Korczak?;description;QC_DEF:PER
+hipi599;Kto to Chuck Norris?;description;QC_DEF:PER
+hipi600;Kto to Donald Tusk?;description;QC_DEF:PER
+hipi601;Kto to gej?;definition;QC_DEF:PER
+hipi602;Kto to jest hipis?;definition;QC_DEF:PER
+hipi603;Kto to jest hipiska?;definition;QC_DEF:PER
+hipi604;Kto to jest Hitler?;description;QC_DEF:PER
+hipi605;Kto to jest Jarosław Kaczyński?;description;QC_DEF:PER
+hipi606;Kto to jest Justin Bieber?;description;QC_DEF:PER
+hipi607;Kto to jest Michael Jackson?;description;QC_DEF:PER
+hipi608;Kto to jest prawiczek?;definition;QC_DEF:PER
+hipi612;Kto zabił Osamę?;individual;QC_PER:ARG
+hipi613;Kto zabił Osamę bin Ladena?;individual;QC_PER:ARG
+hipi614;Kto zabił Kennedy'ego?;individual;QC_PER:ARG
+hipi615;Kto założył google?;individual;QC_PER:ARG
+hipi616;Od ilu lat są "demotywatory"?;period;QC_TEMP:PER
+hipi619;Przez jaką firmę była stworzona gra "Mario Bros"?;company;QC_DIRECT
+hipi620;Skąd sie biorą dzieci?;reason;QC_CAUSE
+hipi626;W którym wieku była Bitwa pod Grunwaldem?;date;QC_TEMP:MOM
+hipi630;Gdzie jest Ambasada Japonii?;location-other;QC_LOC:PLACE
+hipi631;Gdzie wykryto w Polsce wirusa grypy?;location-other;QC_LOC:PLACE
+hipi634;Jak działa "hipisek"?;manner;QC_PROCEDURE
+hipi636;Jak nauczyć się stania na rękach?;manner;QC_PROCEDURE
+hipi637;Jaki film dostał wygrał Złoty Glob?;title;QC_DIRECT
+hipi639;Kto kandyduje na szefa SLD?;individual;QC_PER:ARG
+hipi641;Kto wygrał mecz Śląsk Wrocław - Wisła Kraków?;band;QC_PER:ARG
+hipi642;Kto wygrał wybory?;political-party;QC_PER:ARG
+hipi643;Kto zagra Kurta Cobaina?;individual;QC_PER:ARG
+hipi644;Który kraj jest najbardziej katolicki na świecie?;country;QC_DIRECT
+hipi645;Mam jęczmień co robić?;description;QC_NONPER
+hipi647;Co leci na tvp2?;title;QC_NONPER
+hipi649;Czy Justin Bieber to gej?;yes-no;QC_DECISION
+hipi650;Czy Korwin kandyduje?;yes-no;QC_DECISION
+hipi651;Czy Korwin-Mikke startuje w wyborach?;yes-no;QC_DECISION
+hipi652;Dlaczego ludzie kradną?;reason;QC_CAUSE
+hipi653;Ile schudł Ibisz?;weight;QC_QUANTITY:GEN
+hipi656;Jak zrobić ekran dotykowy?;manner;QC_PROCEDURE
+hipi657;Jaka jest dobra marka samochodu?;vehicle  ;QC_STATE:GEN
+hipi658;Na co poluje wilk?;animal;QC_NONPER
+hipi660;Skąd się wzięli Żydzi w Polsce?;reason;QC_CAUSE
+hipi662;Czy istnieje przyjaźń damsko-męska?;yes-no;QC_DECISION
+hipi663;Czy Nergal kocha Dodę?;yes-no;QC_DECISION
+hipi671;Gdzie Kasia Tusk pozowała?;media;QC_LOC:PLACE
+hipi672;Gdzie jest Bronek?;location-other;QC_LOC:PLACE
+hipi676;Gdzie jest Fort VII?;location-other;QC_LOC:PLACE
+hipi679;Gdzie jest Piekło?;location-other;QC_LOC:PLACE
+hipi681;Gdzie pojechał Tusk?;location-other;QC_LOC:END
+hipi685;Gdzie wylądował samolot?;location-other;QC_LOC:PLACE
+hipi687;Kiedy Depp się rozstał?;date;QC_TEMP:MOM
+hipi688;Kiedy Talibowie zabili polskiego inżyniera?;date;QC_TEMP:MOM
+hipi689;Kto jest winny katastrofie w Smoleńsku?;individual;QC_PER:ARG
+hipi691;Kto wylądował w warszawie?;individual;QC_PER:ARG
+hipi693;Podaj gdzie pojechał Lech Wałęsa.;location-other;QC_LOC:END
+hipi696;UAM jest w Poznaniu?;yes-no;QC_DECISION
+hipi699;Co słychać u Kubicy?;description;QC_NONPER
+hipi700;Co tam nowego na UAM?;description;QC_NONPER
+hipi701;Co to jest strap-on?;definition;QC_DEF:BE
+hipi702;Co to jest takipi?;definition;QC_DEF:BE
+hipi703;Co to jest żadziol?;definition;QC_DEF:BE
+hipi705;Czy Justin Bieber uprawiał seks z Seleną Gomez?;yes-no;QC_DECISION
+hipi706;Czy mogę uprawiać seks, mając zaledwie 11 lat?;yes-no;QC_DECISION
+hipi707;Czy to był zamach?;yes-no;QC_DECISION
+hipi708;Czy Tusk kłamie?;yes-no;QC_DECISION
+hipi710;Czy uniwersytet jest w Polsce?;yes-no;QC_DECISION
+hipi711;Czy w Chorwacji jest euro?;yes-no;QC_DECISION
+hipi712;Czy w Niemczech są geje?;yes-no;QC_DECISION
+hipi713;Czy w Niemczech są słonie?;yes-no;QC_DECISION
+hipi714;Czy w Polsce aborcja jest legalna?;yes-no;QC_DECISION
+hipi715;Czy w Polsce odbył się Marsz Równości?;yes-no;QC_DECISION
+hipi719;Gdzie jedzie Tusk?;location-other;QC_LOC:END
+hipi720;Gdzie jest Donald Tusk?;location-other;QC_LOC:PLACE
+hipi721;Gdzie jest Kubica?;location-other;QC_LOC:PLACE
+hipi722;Gdzie jest Tusk?;location-other;QC_LOC:PLACE
+hipi725;Gdzie zderzyły się pociągi?;location-other;QC_LOC:PLACE
+hipi726;Ile jest gwiazd?;count;QC_QUANTITY:GEN
+hipi730;Jak się ubrać na imprezę?;manner;QC_PROCEDURE
+hipi731;Jak się odchudzać?;manner;QC_PROCEDURE
+hipi732;Jak się robi dziurę w spodniach?;manner;QC_PROCEDURE
+hipi733;Jak smakuje kawa?;description;QC_STATE:INTENS
+hipi734;Jak stłuczony palec u nogi uratować?;manner;QC_PROCEDURE
+hipi739;Jak zostać milionerem?;manner;QC_PROCEDURE
+hipi740;Jaki jest wynik meczu Polska-Czechy?;numeric-other;QC_STATE:GEN
+hipi741;Jakie komórki widać gołym okiem?;dis-med;QC_DIRECT
+hipi742;Kiedy była katastrofa kolejowa?;date;QC_TEMP:MOM
+hipi744;Kto jest winny katastrofy w Smoleńsku?;human-other;QC_PER:ARG
+hipi746;Kto zabił Lecha Kaczyńskiego?;human-other;QC_PER:ARG
+hipi750;Opowiedz coś o liczbach pierwszych.;description;QC_NONPER
+q1;Przez jaki okres czasu należy przechowywać kopie paragonów?;period;QC_TEMP:PER
+q2;Jak często należy dokonywać przeglądów okresowych kas?;period;QC_TEMP:QUANT
+q7;Jak rozliczyć ulgę na dziecko w przypadku urodzenia dziecka w trakcie roku podatkowego ?;manner;QC_PROCEDURE
+q14;Czy fakturę za Internet za grudzień 2011 r. należy uwzględnić w zeznaniu podatkowym za 2011 r., jeżeli termin płatności przypadał w styczniu 2012 r.?;yes-no;QC_DECISION
+q17;Czy dochody małżonków uzyskiwane z wynajmu mieszkania będącego ich wspólną własnością mogą być deklarowane do opodatkowania tylko przez jednego z nich ?;yes-no;QC_DECISION
+q21;W jakim terminie należy złożyć deklarację w sprawie podatku od czynności cywilnoprawnych PCC-3?;date;QC_DIRECT
+q22;Jakie trzeba spełniać warunki, aby skorzystać z ulgi rehabilitacyjnej?;description;QC_DIRECT
+q65;Jakie warunki muszę spełnić aby skorzystać z odliczenia od dochodu wydatków poniesionych z tytułu użytkowania sieci Internet?;description;QC_DIRECT
+q80;Jakie warunki muszę spełnić aby skorzystać z ulgi na zakup kasy rejestrującej w 2009 r. będąc osobą korzystającą ze zwolnienia podmiotowego (zgodnie z ustawą o VAT)?;description;QC_DIRECT
+q83;Jakie są podstawowe obowiązki podatnika prowadzącego ewidencję obrotu i kwot podatku należnego przy zastosowaniu kas rejestrujących?;description;QC_STATE:GEN
+q84;Kiedy powstaje obowiązek ewidencjonowania obrotu przy zastosowaniu kasy rejestrującej?;description;QC_TEMP:MOM
+q87;Kiedy przysługuje zwrot nadwyżki podatku naliczonego nad należnym w terminie skróconym – 25 dni?;description;QC_TEMP:MOM
+q94;Kiedy powstaje obowiązek podatkowy z tytułu świadczenia usług budowlanych oraz budowlano-montażowych?;description;QC_TEMP:MOM
+q97;Jakie warunki musi spełnić podatnik, aby ponownie skorzystać ze zwolnienia podmiotowego z podatku od towarów i usług?;description;QC_DIRECT
+q100;Jaki jest termin zwrotu podatku VAT dla polskiego podatnika, który świadczy jedynie usługi podlegające opodatkowaniu na terytorium krajów UE?;date;QC_TEMP:MOM
+q103;Jakie warunki należy spełnić, aby przysługiwała ulga z tytułu zakupu kasy rejestrującej?;description;QC_DIRECT
+q104;Kiedy podatnik rozpoczynający w ciągu roku podatkowego działalność gospodarczą musi zarejestrować się do VAT?;description;QC_TEMP:MOM
+q105;Kiedy przysługuje zwrot nadwyżki podatku naliczonego nad należnym w terminie skróconym - 25 dni oraz 60 dni?;description;QC_TEMP:MOM
+q106;Czy mogę ubiegać się o zwrot części VAT od wydatków budowlanych, które poniosłem przed uzyskaniem pozwolenia na budowę?;yes-no;QC_DECISION
+q167;Czy po przeprowadzonej kontroli podatkowej w mojej firmie miałbym prawo wnieść dodatkowe uwagi i wyjaśnienia z nią związane?;yes-no;QC_DECISION
+q169;Czy w sytuacji przekształcenia spółki z ograniczoną odpowiedzialnością w spółkę akcyjną zostanie nadany nowy numer NIP?;yes-no;QC_DECISION
+q185;Jakie są ulgi dla podatników mających kłopoty?;description;QC_DIRECT
+q186;Co to jest pomoc publiczna?;definition;QC_DEF:BE
+q190;Czy wcześniejsze rozwiązanie umowy leasingu operacyjnego - która w dacie zawarcia spełniała kryteria określone w art. 23b ust. 1 updof - skutkuje koniecznością korekty kosztów uzyskania przychodów?;yes-no;QC_DECISION
+q194;Czy środki otrzymane od agencji rzadowych podlegają zwolnieniu od podatku dochodowego od osób fizycznych?;yes-no;QC_DECISION
+q195;Czy dochody małżonków uzyskiwane z wynajmu nieruchomości będącej ich wspólną własnością mogą być deklarowane do opodatkowania tylko przez jednego z nich?;yes-no;QC_DECISION
+q200;Jak mogą dokonać odpisu 1 procenta podatku na rzecz organizacji pożytku publicznego osoby, które z rent i emerytur rozliczają się za pośrednictwem ZUS?;manner;QC_PROCEDURE
+q209;Czy może stanowić koszt uzyskania przychodu naliczony podatek VAT związany z wydatkami na reprezentację, które stosownie do art. 16 ust. 1 pkt 28 ustawy o podatku dochodowym od osób prawnych nie stanowią kosztu uzyskania przychodu?;yes-no;QC_DECISION
+q212;Czy otrzymane przez podatnika odszkodowanie z polisy sprawcy wypadku, na pokrycie poniesionych kosztów remontu powypadkowego samochodu, nie objętego ubezpieczeniem dobrowolnym AC, należy zaliczyć do przychodów podatkowych?;yes-no;QC_DECISION
+q214;Czy przedawnione lub umorzone zobowiązania stanowią przychody w kwocie brutto, tj. łącznie z podatkiem od towarów i usług?;yes-no;QC_DECISION
+q215;Czy otrzymanie w 2009 r. darowizny w kwocie 20.000 zł od brata jest opodatkowane podatkiem od spadków i darowizn?;yes-no;QC_DECISION
+q217;Czy od nieodpłatnego zniesienia współwłasności nieruchomości zawieranego pomiędzy teściową a synową należy zapłacić podatek od spadków i darowizn?;yes-no;QC_DECISION
+q225;Czy w związku z zawarciem przedwstępnej umowy sprzedaży należy uiścić podatek od czynności cywilnoprawnych?;yes-no;QC_DECISION
+q227;Czy umowa pożyczki kwoty 100.000 zł udzielona przez ojca synowi objęta jest zwolnieniem od podatku od czynności od cywilnoprawnych?;yes-no;QC_DECISION
+q228;Czy pożyczka udzielona przez teścia zięciowi korzysta ze zwolnienia z podatku od czynności cywilnoprawnych?;yes-no;QC_DECISION
+q229;Na jakiej stronie będzie trzeba wypełnić deklarację podatkową?;web-page;QC_DIRECT
+q254;Jak mam dołączyć załączniki do mojego zeznania PIT-37?;manner;QC_PROCEDURE

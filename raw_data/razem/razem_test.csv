@@ -1,0 +1,550 @@
+hipi2;Co brać na przeziębienie?;http://www.mowimyjak.pl/zdrowie/choroby_i_profilaktyka/co-brac-na-przeziebienie-nim-siegniesz-po-leki-wyprobuj-naturalne-metody,96_33122.html;hipi2;dis-med;QC_NONPER
+hipi6;Co robi Beata Kozidrak?;http://pl.wikipedia.org/wiki/Beata_Kozidrak;wikiBeata#Kozidrak;description;QC_NONPER
+hipi8;Co robi Kluzik-Rostkowska?;http://pl.wikipedia.org/wiki/Joanna_Kluzik-Rostkowska;wikiJoanna#Kluzik_45_Rostkowska;description;QC_NONPER
+hipi19;Co to jest kox?;http://www.miejski.pl/slowo-Kox;hipi19;definition;QC_DEF:BE
+hipi20;Co to jest książka?;http://pl.wikipedia.org/wiki/Ksi%C4%85%C5%Bcka;wikiKsi_261__380_ka;definition;QC_DEF:BE
+hipi24;Co to jest seks?;http://pl.wikipedia.org/wiki/Seks;wikiSeks;definition;QC_DEF:BE
+hipi25;Co to jest ser?;http://pl.wikipedia.org/wiki/Ser;wikiSer;definition;QC_DEF:BE
+hipi27;Co to jest Wordnet?;http://search.blox.pl/2010/10/Daj-sie-zlapac-w-siec-slow-WordNet.html;hipi27;definition;QC_DEF:BE
+hipi32;Co to szkoła?;http://pl.wikipedia.org/wiki/Szko%C5%82a_%28o%C5%9Bwiata%29;wikiSzko_322_a#_40_o_347_wiata_41_;definition;QC_DEF:BE
+hipi43;Czy Berlin jest stolicą Francji?;http://pl.wikipedia.org/wiki/Berlin;wikiBerlin;yes-no;QC_DECISION
+hipi45;Czy Bydgoszcz leży nad Brdą?;http://pl.wikipedia.org/wiki/Bydgoszcz;wikiBydgoszcz;yes-no;QC_DECISION
+hipi53;Czy Kijów jest stolicą Rosji?;http://pl.wikipedia.org/wiki/Kij%C3%B3w;wikiKij_243_w;yes-no;QC_DECISION
+hipi61;Czy Paryż leży we Francji?;http://pl.wikipedia.org/wiki/Pary%C5%BC;wikiPary_380_;yes-no;QC_DECISION
+hipi63;Czy Poznań jest stolicą Polski?;http://pl.wikipedia.org/wiki/Stolica_Polski;wikiStolica#Polski;yes-no;QC_DECISION
+hipi66;Czy Sorbona jest w Nicei?;http://pl.wikipedia.org/wiki/Sorbona;wikiSorbona;yes-no;QC_DECISION
+hipi70;Czy Statua Wolności jest w Paryżu?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;wikiStatua#Wolno_347_ci;yes-no;QC_DECISION
+hipi71;Czy Statua Wolności leży w Kalifornii?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;wikiStatua#Wolno_347_ci;yes-no;QC_DECISION
+hipi72;Czy Statua Wolności znajduje się w Kanadzie?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;wikiStatua#Wolno_347_ci;yes-no;QC_DECISION
+hipi73;Czy Statuła Wolności jest w Kanadzie?;http://pl.wikipedia.org/wiki/Statua_Wolno%C5%9Bci;wikiStatua#Wolno_347_ci;yes-no;QC_DECISION
+hipi76;Czy UAM jest w Poznaniu?;http://amu.edu.pl/dzialalnosc/o-uam;hipi75;yes-no;QC_DECISION
+hipi79;Czy USA leżą w Ameryce północnej?;http://pl.wikipedia.org/wiki/Stany_Zjednoczone;wikiStany#Zjednoczone;yes-no;QC_DECISION
+hipi81;Czy Wieża Eiffla jest w Paryżu?;http://pl.wikipedia.org/wiki/Wie%C5%BCa_Eiffla;wikiWie_380_a#Eiffla;yes-no;QC_DECISION
+hipi86;Czy borsuki mogą zabić?;http://www.sp-sadowa.edu.pl/strona/puszcza/dyplom/kampinos/swiat_zwierzat/ssaki/borsuk/index.html;hipi86;yes-no;QC_DECISION
+hipi89;Czy francuska Sorbona leży w Paryżu?;http://pl.wikipedia.org/wiki/Sorbona;wikiSorbona;yes-no;QC_DECISION
+hipi92;Czy poznańska Katedra jest w Paryżu?;http://www.katedra.archpoznan.pl/;hipi92;yes-no;QC_DECISION
+hipi93;Czy poznańska katedra jest we Francji?;http://www.katedra.archpoznan.pl/;hipi92;yes-no;QC_DECISION
+hipi96;Czy Richardson jest z Zamachowskim?;http://www.plotek.pl/plotek/56,78649,11669113,Zakochani_Richardson_i_Zamachowski__Oficjalnie_razem.html;hipi96;yes-no;QC_DECISION
+hipi105;Czy Włocławek leży nad Wisłą?;http://pl.wikipedia.org/wiki/Elektrownia_Wodna_we_W%C5%82oc%C5%82awku;wikiElektrownia#Wodna#we#W_322_oc_322_awku;yes-no;QC_DECISION
+hipi109;Dlaczego młodzi ludzie umierają?;http://f.kafeteria.pl/temat.php?id_p=3683370;hipi109;reason;QC_CAUSE
+hipi112;Gdzie Nergal będzie jurorem?;http://www.plotek.pl/plotek/1,116221,10270417,Nergal_jako_juror___jak_sobie_radzi_.html;hipi112;media;QC_LOC:PLACE
+hipi115;Gdzie jest Olsztyn?;http://pl.wikipedia.org/wiki/Olsztyn;wikiOlsztyn;location-other;QC_LOC:PLACE
+hipi117;Gdzie jest Poznań?;http://www.zgapa.pl/zgapedia/Pozna%C5%84.html;hipi117;location-other;QC_LOC:PLACE
+hipi118;Gdzie jest Rondo Kaponiera?;http://pl.wikipedia.org/wiki/Rondo_Kaponiera;wikiRondo#Kaponiera;location-other;QC_LOC:PLACE
+hipi119;Gdzie jest UAM?;http://amu.edu.pl/dzialalnosc/o-uam;hipi75;location-other;QC_LOC:PLACE
+hipi121;Gdzie jest krzyż?;http://pl.wikipedia.org/wiki/Krzy%C5%BC_sprzed_Pa%C5%82acu_Prezydenckiego_w_Warszawie;wikiKrzy_380_#sprzed#Pa_322_acu#Prezydenckiego#w#Warszawie;location-other;QC_LOC:PLACE
+hipi122;Gdzie jest lotnisko Ławica?;http://pl.wikipedia.org/wiki/Port_lotniczy_Pozna%C5%84-%C5%81awica;wikiPort#lotniczy#Pozna_324__45__321_awica;location-other;QC_LOC:PLACE
+hipi123;Gdzie jest Ogród Japoński?;http://www.wroclaw.pl/ogrod_japonski.dhtml;hipi123;location-other;QC_LOC:PLACE
+hipi127;Gdzie leży Paryż?;http://pl.wikipedia.org/wiki/Pary%C5%BC;wikiPary_380_;location-other;QC_LOC:PLACE
+hipi128;Gdzie leży Poznań?;http://pl.wikipedia.org/wiki/Pozna%C5%84;wikiPozna_324_;location-other;QC_LOC:PLACE
+hipi129;Gdzie leży Warszawa?;http://pl.wikipedia.org/wiki/Warszawa;wikiWarszawa;location-other;QC_LOC:PLACE
+hipi130;Gdzie leży rynek w Poznaniu?;http://pl.wikipedia.org/wiki/Stary_Rynek_w_Poznaniu;wikiStary#Rynek#w#Poznaniu;location-other;QC_LOC:PLACE
+hipi132;Gdzie mieszka Johnny Depp?;http://www.filmweb.pl/person/Johnny+Depp-29/discussion/Gdzie+dok%C5%82adnie+mieszka+Johnny-821832;hipi132;location-other;QC_LOC:PLACE
+hipi135;Gdzie mieszka ksiądz Natanek?;http://www.fronda.pl/a/prywatni-rycerze-ks-natanka,14033.html;hipi135;location-other;QC_LOC:PLACE
+hipi136;Gdzie mieszka yeti?;http://zapytaj.onet.pl/Category/026,001/2,627355,gdzie_mieszka_YETI.html;hipi136;location-other;QC_LOC:PLACE
+hipi137;Gdzie na Ukrainie odbędą się mecze mistrzostw Europy?;http://pl.wikipedia.org/wiki/Mistrzostwa_Europy_w_Pi%C5%82ce_No%C5%BCnej_2012;wikiMistrzostwa#Europy#w#Pi_322_ce#No_380_nej#2012;location-other;QC_LOC:ORIG
+hipi138;Gdzie odbył się mecz z Grecją?;http://mistrzostwaeuropy.com/euro2012/mecz-polska-grecja-8-czerwca-2012.html;hipi138;location-other;QC_LOC:PLACE
+hipi140;Gdzie rosną banany?;http://www.ayor.pl/s/banany;hipi140;location-other;QC_LOC:PLACE
+hipi141;Gdzie są Plewiska?;http://pl.wikipedia.org/wiki/Plewiska;wikiPlewiska;location-other;QC_LOC:PLACE
+hipi142;Gdzie umarł Rysiek z "Klanu"?;http://www.wirtualnemedia.pl/artykul/zmarl-rysiu-z-klanu;hipi142;location-other;QC_LOC:PLACE
+hipi143;Gdzie urodził się Chopin?;http://pl.wikipedia.org/wiki/Fryderyk_Chopin;wikiFryderyk#Chopin;location-other;QC_LOC:PLACE
+hipi145;Gdzie znajdują się Plewiska?;http://pl.wikipedia.org/wiki/Plewiska;wikiPlewiska;location-other;QC_LOC:PLACE
+hipi147;Ile koń ma nóg?;http://zapytaj.onet.pl/Category/001,005/2,16734842,Ile_kon_ma_nog.html;hipi147;count;QC_QUANTITY:GEN
+hipi148;Ile lat ma Adam Lambert?;http://zapytaj.onet.pl/Category/019,001/2,7144630,ile_lat_ma_adam_lambert_.html;hipi148;count;QC_QUANTITY:GEN
+hipi154;Ile lat ma James Bond?;http://www.wkrakowie.pl/zobacz/james-bond-ma-juz-50-lat;hipi154;count;QC_QUANTITY:GEN
+hipi155;Ile lat ma Tusk?;http://zapytaj.onet.pl/Category/014,002/2,5240642,Ile_lat_ma_Donald_Tusk__.html;hipi152;count;QC_QUANTITY:GEN
+hipi157;Ile lat ma Wałęsa?;http://www.se.pl/wydarzenia/kraj/urodziny-lecha-walesy-nie-wierze-ze-mam-juz-68-lat-huczne-przyjecie-u-walesy-na-200-gosci_208028.html;hipi157;count;QC_QUANTITY:GEN
+hipi164;Ile nóg ma stonoga?;http://www.szkola.net/drukuj/?id=826;hipi164;count;QC_QUANTITY:GEN
+hipi166;Ile trofeum LM wygrał Real Madryt?;http://pl.wikipedia.org/wiki/Real_Madryt#Sukcesy_i_rekordy;wikiReal#Madryt;count;QC_QUANTITY:GEN
+hipi167;Ile trwa ciąża?;http://www.dzieciaczek.com/ile+trwa+ciaza,6.html;hipi167;period;QC_TEMP:PER
+hipi170;Ile wzrostu ma raper Mezo?;http://www.wzrost-gwiazd.pl/Mezo/;hipi170;size;QC_QUANTITY:GEN
+hipi171;Ilu mieszkańców ma Radom?;http://forum.gazeta.pl/forum/w,68,121354178,121359711,Dramatycznie_spada_liczba_mieszkancow_Radomia_.html;hipi171;count;QC_QUANTITY:GEN
+hipi178;Jak ma na imię Tusk?;http://pl.wikipedia.org/wiki/Donald_Tusk;wikiDonald#Tusk;individual;QC_STATE:NAME
+hipi180;Jak mieć dzieci?;http://www.milionkobiet.pl/seks%2Fjak-sie-kochac-by-miec-dziecko,390,1,a.html;hipi180;manner;QC_PROCEDURE
+hipi181;Jak się ubiera hipiska?;http://zapytaj.onet.pl/Category/001,003/2,2462316,Jak_powinni_ubierac_sie_hipisi_.html;hipi181;manner;QC_PROCEDURE
+hipi184;Jak ubierają sie hipiski?;http://zapytaj.onet.pl/Category/001,003/2,2462316,Jak_powinni_ubierac_sie_hipisi_.html;hipi181;manner;QC_PROCEDURE
+hipi190;Jaki biust ma Madonna?;http://www.kozaczek.pl/plotka.php?id=41198http://www.kozaczek.pl/plotka.php?id=41198;hipi190;description;QC_DIRECT
+hipi194;Kiedy umrze Rysiek z "Klanu"?;http://www.pudelek.pl/artykul/38417/tak_umrze_rysiek_z_klanu_mamy_wideo/;hipi185;date;QC_TEMP:MOM
+hipi196;Kiedy zginie Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/dramat-rysiek-z-klanu-umrze-22022012-roku_219723.html;hipi196;date;QC_TEMP:MOM
+hipi199;Kiedy Polska rozpoczęła prezydencję europejską?;http://www.polskaprezydencja2011.pl/;hipi199;date;QC_TEMP:MOM
+hipi205;Kiedy umarł Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/dramat-rysiek-z-klanu-umrze-22022012-roku_219723.html;hipi196;date;QC_TEMP:MOM
+hipi208;Kiedy urodził się Mikołaj Kopernik?;http://pl.wikipedia.org/wiki/Miko%C5%82aj_Kopernik;wikiMiko_322_aj#Kopernik;date;QC_TEMP:MOM
+hipi209;Kiedy urodził się Albert Einstein?;http://pl.wikipedia.org/wiki/Albert_Einstein;wikiAlbert#Einstein;date;QC_TEMP:MOM
+hipi210;Kiedy urodziła się Doda?;http://muzyka.onet.pl/artysci/katalog/doda,164350,artysta.html;hipi210;date;QC_TEMP:MOM
+hipi212;Kiedy zaczął się remont Kaponiery?;http://www.tvn24.pl/wiadomosci-poznan,43/pierwszy-dzien-bez-kaponiery-jest-ciezko-bedzie-jeszcze-trudniej,270525.html;hipi212;date;QC_TEMP:MOM
+hipi213;Kiedy zaczął się remont Kaponiery w Poznaniu?;http://www.tvn24.pl/wiadomosci-poznan,43/pierwszy-dzien-bez-kaponiery-jest-ciezko-bedzie-jeszcze-trudniej,270525.html;hipi212;date;QC_TEMP:MOM
+hipi214;Kiedy zaćmienie słońca?;http://stalker.republika.pl/przyszle_zacmienia.html;hipi214;date;QC_TEMP:MOM
+hipi216;Kim był Kopernik?;http://pl.wikipedia.org/wiki/Miko%C5%82aj_Kopernik;wikiMiko_322_aj#Kopernik;description;QC_DEF:PER
+hipi217;Kim był Kurt Cobain?;http://pl.wikipedia.org/wiki/Kurt_Cobain;wikiKurt#Cobain;description;QC_DEF:PER
+hipi220;Kim jest Nergal?;http://pl.wikipedia.org/wiki/Adam_Darski;wikiAdam#Darski;description;QC_DEF:PER
+hipi222;Kim jest Orłoś?;http://pl.wikipedia.org/wiki/Maciej_Or%C5%82o%C5%9B;wikiMaciej#Or_322_o_347_;description;QC_DEF:PER
+hipi224;Kim jest hipis?;http://zapytaj.onet.pl/Category/002,003/2,14282742,Kto_to_jest_hipis.html;hipi224;definition;QC_DEF:PER
+hipi225;Kim jest prof Jassem?;http://onkologia.gumed.edu.pl/;hipi225;description;QC_DEF:PER
+hipi229;Kto jest prezydentem USA?;http://www.tvn24.pl/raporty/obama-ponownie-prezydentem-usa,497;hipi229;individual;QC_PER:IDENT
+hipi235;Kto to jest Breivik?;http://www.mowimyjak.pl/fakty/kto-jest-kim/anders-breivik-kim-jest-czego-i-kogo-nienawidzi-breivik,49_45696.html;hipi235;description;QC_DEF:PER
+hipi237;Kto to jest Doda?;http://pl.wikipedia.org/wiki/Dorota_Rabczewska;wikiDorota#Rabczewska;description;QC_DEF:PER
+hipi243;Lepper się zabił?;http://www.fakt.pl/Co-zabilo-Leppera-Oto-hipotezy,artykuly,111268,1.html;hipi243;yes-no;QC_DECISION
+hipi251;Podaj lokalizację UAM.;http://poznan.dlastudenta.pl/dlaMaturzysty/szkola_wyzsza/Uniwersytet_im_Adama_Mickiewicza_w_Poznaniu,36201,kontakt.html;hipi251;location-other;QC_DIRECT
+hipi252;Polska ma gaz?;http://www.wykop.pl/link/695233/eia-polska-ma-gaz-na-300-lat/;hipi252;yes-no;QC_DECISION
+hipi262;W którym mieście jest UAM?;http://poznan.dlastudenta.pl/dlaMaturzysty/szkola_wyzsza/Uniwersytet_im_Adama_Mickiewicza_w_Poznaniu,36201,kontakt.html;hipi251;city;QC_DIRECT
+hipi270;Co je tygrys?;https://mrowkojad.wordpress.com/tag/co-je-tygrys/;hipi270;food;QC_DIRECT
+hipi273;Co jest stolicą polski?;http://pl.wikipedia.org/wiki/Stolica_Polski;wikiStolica#Polski;city;QC_NONPER
+hipi278;Co to alkohol?;http://pl.wikipedia.org/wiki/Alkohole;wikiAlkohole;definition;QC_DEF:BE
+hipi280;Co to hipis?;http://pl.wikipedia.org/wiki/Hipis;wikiRuch#hippisowski;definition;QC_DEF:BE
+hipi281;Co to jest Litwa?;http://pl.wikipedia.org/wiki/Litwa;wikiLitwa;definition;QC_DEF:BE
+hipi282;Co to jest Myślibórz?;http://pl.wikipedia.org/wiki/My%C5%9Blib%C3%B3rz;wikiMy_347_lib_243_rz;definition;QC_DEF:BE
+hipi285;Co to jest Sampler?;http://pl.wikipedia.org/wiki/Sampler;wikiSampler;definition;QC_DEF:BE
+hipi286;Co to jest ACTA?;http://pl.wikipedia.org/wiki/ACTA;wikiAnti_45_Counterfeiting#Trade#Agreement;definition;QC_DEF:BE
+hipi288;Co to jest BDSM?;http://pl.wikipedia.org/wiki/Bdsm;wikiBDSM;definition;QC_DEF:BE
+hipi290;Co to jest bułka?;http://pl.wikipedia.org/wiki/Bu%C5%82ka;wikiBu_322_ka;definition;QC_DEF:BE
+hipi291;Co to jest chleb?;http://pl.wikipedia.org/wiki/Chleb;wikiChleb;definition;QC_DEF:BE
+hipi292;Co to jest czarna dziura?;http://pl.wikipedia.org/wiki/Czarna_dziura;wikiCzarna#dziura;definition;QC_DEF:BE
+hipi296;Co to jest felga?;http://pl.wikipedia.org/wiki/Felga;wikiFelga;definition;QC_DEF:BE
+hipi298;Co to jest funkcja?;http://pl.wikipedia.org/wiki/Funkcja;wikiFunkcja;definition;QC_DEF:BE
+hipi299;Co to jest geometria?;http://pl.wikipedia.org/wiki/Geometria;wikiGeometria;definition;QC_DEF:BE
+hipi303;Co to jest godło?;http://pl.wikipedia.org/wiki/God%C5%82o;wikiGod_322_o;definition;QC_DEF:BE
+hipi305;Co to jest hipis?;http://pl.wikipedia.org/wiki/Hipis;wikiRuch#hippisowski;definition;QC_DEF:BE
+hipi306;Co to jest jabłko?;http://pl.wikipedia.org/wiki/Jab%C5%82ko;wikiJab_322_ko;definition;QC_DEF:BE
+hipi307;Co to jest jednorożec?;http://pl.wikipedia.org/wiki/Jednoro%C5%Bcec;wikiJednoro_380_ec;definition;QC_DEF:BE
+hipi309;Co to jest komunizm?;http://pl.wikipedia.org/wiki/Komunizm;wikiKomunizm;definition;QC_DEF:BE
+hipi310;Co to jest kondom?;http://pl.wikipedia.org/wiki/Kondom;wikiPrezerwatywa;definition;QC_DEF:BE
+hipi312;Co to jest krzesło?;http://pl.wikipedia.org/wiki/Krzes%C5%82o;wikiKrzes_322_o;definition;QC_DEF:BE
+hipi313;Co to jest kupa?;http://pl.wikipedia.org/wiki/Kupa_%28dop%C5%82yw_Sawy%29;wikiKupa#_40_dop_322_yw#Sawy_41_;definition;QC_DEF:BE
+hipi314;Co to jest LOL?;http://pl.wikipedia.org/wiki/LOL#Przyk.C5.82ady;wikiSlang#internetowy;definition;QC_DEF:BE
+hipi316;Co to jest matematyka?;http://pl.wikipedia.org/wiki/Matematyka;wikiMatematyka;definition;QC_DEF:BE
+hipi319;Co to jest neurolingwistyczne programowanie?;http://pl.wikipedia.org/wiki/Programowanie_neurolingwistyczne;wikiProgramowanie#neurolingwistyczne;definition;QC_DEF:BE
+hipi321;Co to jest okres?;http://pl.wikipedia.org/wiki/Okres_%28fizyka%29;wikiOkres#_40_fizyka_41_;definition;QC_DEF:BE
+hipi322;Co to jest onomatopeja?;http://pl.wikipedia.org/wiki/Onomatopeja;wikiOnomatopeja;definition;QC_DEF:BE
+hipi324;Co to jest orgazm?;http://pl.wikipedia.org/wiki/Orgazm;wikiOrgazm;definition;QC_DEF:BE
+hipi325;Co to jest penis?;http://pl.wikipedia.org/wiki/Pr%C4%85cie;wikiPr_261_cie;definition;QC_DEF:BE
+hipi338;Co to Kaszub?;http://pl.wikipedia.org/wiki/Kaszubi;wikiKaszubi;definition;QC_DEF:BE
+hipi340;Co to książeczka zdrowia?;http://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BCeczka_zdrowia_dziecka;wikiKsi_261__380_eczka#zdrowia#dziecka;definition;QC_DEF:BE
+hipi343;Co to jest plotkara?;http://pl.wikipedia.org/wiki/Plotkara;wikiPlotkara;definition;QC_DEF:BE
+hipi349;Co to są Brody?;http://pl.wikipedia.org/wiki/Brody_%28obw%C3%B3d_lwowski%29;wikiBrody#_40_obw_243_d#lwowski_41_;definition;QC_DEF:BE
+hipi353;Co wiesz o Kulczyku?;http://pl.wikipedia.org/wiki/Jan_Kulczyk;wikiJan#Kulczyk;description;QC_DEF:PER
+hipi364;Czy Lizbona leży w Europie?;http://lizbona24.pl/artykul/do-lizbony-i-w-lizbonie-praktyczny-poradnik;hipi364;yes-no;QC_DECISION
+hipi365;Czy Polska jest w Europie?;http://zadane.pl/zadanie/3247887;hipi365;yes-no;QC_DECISION
+hipi369;Czy Praga jest w Czechach?;http://pl.wikipedia.org/wiki/Praga;wikiPraga;yes-no;QC_DECISION
+hipi372;Czy Sekwana przepływa przez Paryż?;http://pl.wikipedia.org/wiki/Sekwana;wikiSekwana;yes-no;QC_DECISION
+hipi379;Czy Toronto jest w USA?;http://pl.wikipedia.org/wiki/Toronto_%28Ohio%29;wikiToronto#_40_Ohio_41_;yes-no;QC_DECISION
+hipi389;Czy Wilda leży w Poznaniu?;http://pl.wikipedia.org/wiki/Wilda;wikiWilda;yes-no;QC_DECISION
+hipi391;Czy Adam Małysz ma żonę?;http://www.fakt.pl/Tak-zmieniala-sie-zona-Malysza-FOTY,artykuly,65348,1.html;hipi391;yes-no;QC_DECISION
+hipi394;Czy Doda zerwała z Nergalem?;http://www.fakt.pl/Nergal-zerwal-z-Doda-przez-telefon-,artykuly,98749,1.html;hipi394;yes-no;QC_DECISION
+hipi395;Czy eutanazja jest w Europie legalna?;http://www.fakt.pl/Legalna-eutanazja-w-Niemczech,artykuly,172478,1.html;hipi395;yes-no;QC_DECISION
+hipi403;Czy Justin Bieber jest pedałem?;http://zapytaj.onet.pl/Category/012,016/2,2535090,Czy_justin_bieber_to_gej.html;hipi403;yes-no;QC_DECISION
+hipi416;Czy Pałac Dożów leży w Rzymie?;http://wenecja.lovetotravel.pl/palac_dozow_%28palazzo_ducale%29;hipi416;yes-no;QC_DECISION
+hipi418;Czy Pałac Kultury jest w Rzymie?;http://pl.wikipedia.org/wiki/Pa%C5%82ac_Kultury_i_Nauki;wikiPa_322_ac#Kultury#i#Nauki;yes-no;QC_DECISION
+hipi419;Czy pies to zwierzę?;http://wiadomosci.gazeta.pl/wiadomosci/1,114873,4218212.html;hipi419;yes-no;QC_DECISION
+hipi424;Czy Praga leży w Czechach?;http://pl.wikipedia.org/wiki/Praga;wikiPraga;yes-no;QC_DECISION
+hipi426;Czy Sting zagrał koncert w Warszawie?;http://www.rmf24.pl/kultura/news-koncert-stinga-w-warszawie-gwiazdor-oczarowal-publicznosc,nId,434422;hipi426;yes-no;QC_DECISION
+hipi431;Czy w Warszawie odbył się Marsz Niepodległości?;http://www.se.pl/wydarzenia/warszawa/marsz-niepodleglosci-2012-w-warszawie-marsze-zablokuja-stolice-utrudnienia_289965.html;hipi431;yes-no;QC_DECISION
+hipi432;Czy w Warszawie odbył się Marsz Równości?;http://www.dziennik.pl/grafika/296473,69731,europride_marsz_rownosci_w_warszawie.html;hipi432;yes-no;QC_DECISION
+hipi433;Czy w Warszawie odbył się marsz z okazji Święta Niepodległości?;http://www.se.pl/wydarzenia/warszawa/marsz-niepodleglosci-2012-w-warszawie-marsze-zablokuja-stolice-utrudnienia_289965.html;hipi431;yes-no;QC_DECISION
+hipi436;Czy w Poznaniu jest UAM?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;wikiUniwersytet#im_46_#Adama#Mickiewicza#w#Poznaniu;yes-no;QC_DECISION
+hipi438;Czy Warszawa jest stolicą Libanu?;http://www.esky.pl/warto-zobaczyc/Bejrut.html;hipi438;yes-no;QC_DECISION
+hipi440;Czy Waszyngton jest w Polsce?;http://pl.wikipedia.org/wiki/Waszyngton;wikiWaszyngton;yes-no;QC_DECISION
+hipi441;Czy Wawel jest w Japonii?;http://www.zwiedzaczek.com.pl/index.php/wawel-najslynniejszy-zamek-w-polsce/;hipi103;yes-no;QC_DECISION
+hipi448;Czym jest woda?;http://pl.wikipedia.org/wiki/Woda;wikiWoda;definition;QC_DEF:BE
+hipi454;Gdzie leży Przemyśl?;http://zapytaj.onet.pl/Category/006,009/2,9564810,Gdzie_lezy_przemysl.html;hipi454;location-other;QC_LOC:PLACE
+hipi461;Gdzie jest Polska?;http://www.tvn24.pl/gdzie-jest-polska,248264,s.html;hipi461;location-other;QC_LOC:PLACE
+hipi462;Gdzie jest Biebrza?;http://pl.wikipedia.org/wiki/Biebrza;wikiBiebrza;location-other;QC_LOC:PLACE
+hipi466;Gdzie jest Milanówek?;http://pl.wikipedia.org/wiki/Milan%C3%B3wek;wikiMilan_243_wek;location-other;QC_LOC:PLACE
+hipi468;Gdzie jest Uniwersytet im. Adama Mickiewicza?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;wikiUniwersytet#im_46_#Adama#Mickiewicza#w#Poznaniu;location-other;QC_LOC:PLACE
+hipi474;Gdzie leży UAM?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;wikiUniwersytet#im_46_#Adama#Mickiewicza#w#Poznaniu;location-other;QC_LOC:PLACE
+hipi476;Gdzie leży Ostrołęka?;http://pl.wikipedia.org/wiki/Ostro%C5%82%C4%99ka;wikiOstro_322__281_ka;location-other;QC_LOC:PLACE
+hipi483;Gdzie mieszka Kulczyk?;http://www.plotek.pl/plotek/51,79592,10710380.html?i=0;hipi483;location-other;QC_LOC:PLACE
+hipi484;Gdzie mieszka Doda?;http://zapytaj.onet.pl/Category/001,003/2,733801,Gdzie_mieszka_Doda.html;hipi457;location-other;QC_LOC:PLACE
+hipi485;Gdzie można uprawiać seks?;http://www.forum.polki.pl/showthread.php?t=4630;hipi485;location-other;QC_LOC:PLACE
+hipi486;Gdzie odbył się Enter Festival?;http://www.wiadomosci24.pl/artykul/enter_music_festival_2012_zdjecia_234931.html;hipi486;location-other;QC_LOC:PLACE
+hipi489;Gdzie umarł Rysiek?;http://pl.wikipedia.org/wiki/D%C5%BCem_%28grupa_muzyczna%29;wikiD_380_em#_40_grupa#muzyczna_41_;location-other;QC_LOC:PLACE
+hipi492;Gdzie urodził się Zbigniew Boniek?;http://sport.interia.pl/raport-wybory-prezesa-pzpn/news-zbigniew-boniek,nId,640293;hipi492;location-other;QC_LOC:PLACE
+hipi493;Gdzie walczył Adamek?;http://www.dziennikwschodni.pl/apps/pbcs.dll/article?AID=/20121222/SPORTS/121229871;hipi493;location-other;QC_LOC:PLACE
+hipi495;Gdzie zginął Rysiek z "Klanu"?;http://superseriale.se.pl/seriale/klan-rysiek-bedzie-umieral-przez-4-odcinki_227491.html;hipi495;location-other;QC_LOC:PLACE
+hipi501;Ile jest planet w układzie słonecznym?;http://zapytaj.onet.pl/Category/006,004/2,16981424,Ile_planet_liczy_nasz_Uklad_Sloneczny.html;hipi501;count;QC_QUANTITY:GEN
+hipi504;Ile kot ma nóg?;http://zapytaj.onet.pl/Category/010,002/2,1375206,Ile_nog_ma_kot.html;hipi504;count;QC_QUANTITY:GEN
+hipi507;Ile lat ma Kasia Tusk?;http://www.ilelatma.pl/Kasia-Tusk/;hipi507;count;QC_QUANTITY:GEN
+hipi509;Ile lat ma najstarszy człowiek na świecie?;http://spoleczenstwo.newsweek.pl/ile-lat-ma-najstarszy-czlowiek-swiata,53071,1,1.html;hipi509;count;QC_QUANTITY:GEN
+hipi515;Ile oktaw ma klawiatura fortepianu?;http://www.nutyzafree.pl/index.php/jak-czytac-nuty-grac-na-pianinie/jak-grac-na-pianinie-keyboardzie-klawiatura.html;hipi515;count;QC_QUANTITY:GEN
+hipi530;Jak ma na imię Michael Jackson?;http://zapytaj.onet.pl/Category/019,011/2,3374971,Jak_mial_na_imie_Michael_Jackson.html;hipi530;individual;QC_STATE:NAME
+hipi536;Jak miał na imię Czarniecki?;http://zapytaj.onet.pl/Category/002,019/2,19961464,Jak_mial_na_imie_CZARNIECKI_z_hymnu_Polski__III_zwrotka_.html;hipi536;individual;QC_STATE:NAME
+hipi541;Jak nie zajść w ciążę?;http://www.papilot.pl/ginekolog/8063/Porada-ginekologiczna-Jak-nie-zajsc-w-ciaze-na-100.html;hipi541;manner;QC_PROCEDURE
+hipi548;Jak walczyć z owsikami?;http://www.fakt.pl/Owsiki-jak-z-nimi-walczyc,artykuly,61328,1.html;hipi548;manner;QC_PROCEDURE
+hipi549;Jak wymienić dowód osobisty?;http://www.photoid.eu/index.php?option=com_content&view=article&id=21:jak-wymienic-dowod-osobisty&catid=8&Itemid=102;hipi549;manner;QC_PROCEDURE
+hipi550;Jak zrobić jajecznicę?;http://f.kafeteria.pl/temat.php?id_p=4063979;hipi550;manner;QC_PROCEDURE
+hipi558;Jakich zespołów słuchali hipisi?;http://zapytaj.onet.pl/Category/019,001/2,850095,Jakiej_muzyki_sluchali_hipisi.html;hipi558;band;QC_DIRECT
+hipi559;Jakie miasta leżą w Polsce?;http://pl.wikipedia.org/wiki/Miasta_w_Polsce;wikiMiasta#w#Polsce;city;QC_DIRECT
+hipi567;Kiedy Tusk wygłosił expose?;http://wiadomosci.wp.pl/kat,1342,title,Donald-Tusk-wyglosil-w-sejmie-drugie-expose,wid,15002251,wiadomosc.html?ticaid=1fcb5&_ticrsn=5;hipi567;date;QC_TEMP:MOM
+hipi571;Kiedy raport Millera?;http://www.polskieradio.pl/5/3/Artykul/386580,Minister-oburzony-Kiedy-raport-wciaz-nie-wiadomo;hipi571;date;QC_TEMP:MOM
+hipi577;Kim jest Buffy?;http://pl.wikipedia.org/wiki/Buffy_Summers;wikiBuffy#Summers;description;QC_DEF:PER
+hipi580;Kim jest Justin Bieber?;http://pl.wikipedia.org/wiki/Justin_Bieber;wikiJustin#Bieber;description;QC_DEF:PER
+hipi581;Kim jest krowa?;http://pl.wikipedia.org/wiki/Krowa;wikiKrowa;definition;QC_DEF:PER
+hipi585;Kim jest pies?;http://pl.wikipedia.org/wiki/Pies;wikiPies#domowy;definition;QC_DEF:PER
+hipi587;Kim jest Sienkiewicz?;http://pl.wikipedia.org/wiki/Henryk_Sienkiewicz;wikiHenryk#Sienkiewicz;description;QC_DEF:PER
+hipi589;Kto je ślimaki?;http://www.robale.pl/index/2/438/function.ereg-replace;hipi589;group;QC_PER:ARG
+hipi593;Kto jest prezydentem Niemiec?;http://pl.wikipedia.org/wiki/Joachim_Gauck;wikiJoachim#Gauck;individual;QC_PER:IDENT
+hipi597;Kto to był Hitler?;http://pl.wikipedia.org/wiki/Adolf_Hitler;wikiAdolf#Hitler;description;QC_DEF:PER
+hipi598;Kto to był Janusz Korczak?;http://pl.wikipedia.org/wiki/Janusz_Korczak;wikiJanusz#Korczak;description;QC_DEF:PER
+hipi599;Kto to Chuck Norris?;http://pl.wikipedia.org/wiki/Chuck_Norris;wikiChuck#Norris;description;QC_DEF:PER
+hipi601;Kto to gej?;http://pl.wikipedia.org/wiki/Gej;wikiGej;definition;QC_DEF:PER
+hipi604;Kto to jest Hitler?;http://pl.wikipedia.org/wiki/Adolf_Hitler;wikiAdolf#Hitler;description;QC_DEF:PER
+hipi607;Kto to jest Michael Jackson?;http://pl.wikipedia.org/wiki/Michael_Jackson;wikiMichael#Jackson;description;QC_DEF:PER
+hipi612;Kto zabił Osamę?;http://www.wprost.pl/ar/242589/Pakistan-Osame-zabili-Amerykanie/;hipi612;individual;QC_PER:ARG
+hipi613;Kto zabił Osamę bin Ladena?;http://www.polskieradio.pl/5/3/Artykul/720811,Zabili-bin-Ladena-Zostali-ukarani-za-zdrade-informacji;hipi613;individual;QC_PER:ARG
+hipi614;Kto zabił Kennedy'ego?;http://pl.wikipedia.org/wiki/Zamach_na_Johna_F._Kennedy%27ego;wikiZamach#na#Johna#F_46_#Kennedy_39_ego;individual;QC_PER:ARG
+hipi615;Kto założył google?;http://zapytaj.onet.pl/Category/007,003/2,13772114,Kto_zalozyl_google.html;hipi615;individual;QC_PER:ARG
+hipi619;Przez jaką firmę była stworzona gra "Mario Bros"?;http://pl.wikipedia.org/wiki/Super_Mario_Bros.;wikiSuper#Mario#Bros_46_;company;QC_DIRECT
+hipi639;Kto kandyduje na szefa SLD?;http://www.tvn24.pl/wiadomosci-z-kraju,3/miller-kandyduje-na-szefa-sld,193408.html;hipi639;individual;QC_PER:ARG
+hipi641;Kto wygrał mecz Śląsk Wrocław - Wisła Kraków?;http://www.mmwroclaw.pl/432190/2012/11/18/wisla-krakow--slask-wroclaw-porazka-w-meczu-przyjazni?category=sport;hipi641;band;QC_PER:ARG
+hipi642;Kto wygrał wybory?;http://www.fakt.pl/BARACK-OBAMA-WYGRAl-Wybory-prezydenckie-w-USA,artykuly,186696,1.html;hipi642;political-party;QC_PER:ARG
+hipi643;Kto zagra Kurta Cobaina?;http://www.pudelek.pl/artykul/24050/pattinson_zagra_kurta_cobaina/;hipi643;individual;QC_PER:ARG
+hipi644;Który kraj jest najbardziej katolicki na świecie?;http://jeszczejesteskatolikiem.blox.pl/html/1310721,262146,21.html?150169;hipi644;country;QC_DIRECT
+hipi650;Czy Korwin kandyduje?;http://wiadomosci.wp.pl/kat,1342,title,Korwin-Mikke-kandyduje-Nie-okradajcie-bogatych,wid,13190174,wiadomosc.html;hipi650;yes-no;QC_DECISION
+hipi657;Jaka jest dobra marka samochodu?;http://www.goldenline.pl/forum/526682/jaka-marke-samochodu-uwazasz-za-najlepsza;hipi657;vehicle;QC_STATE:GEN
+hipi660;Skąd się wzięli Żydzi w Polsce?;http://www.historycy.org/index.php?showtopic=25423;hipi660;reason;QC_CAUSE
+hipi672;Gdzie jest Bronek?;http://altersikorowitz.salon24.pl/460513,gdzie-jest-bronek-donek-czyli-pogrzeb-bylego-prezydenta;hipi672;location-other;QC_LOC:PLACE
+hipi676;Gdzie jest Fort VII?;http://pl.wikipedia.org/wiki/Fort_VII_w_Poznaniu;wikiFort#VII#w#Poznaniu;location-other;QC_LOC:PLACE
+hipi679;Gdzie jest Piekło?;http://www.fundamentjezus.com/pieklo.html;hipi679;location-other;QC_LOC:PLACE
+hipi681;Gdzie pojechał Tusk?;http://www.bankier.pl/wiadomosc/Tusk-pojechal-do-Berlina-na-konsultacje-2679007.html;hipi681;location-other;QC_LOC:END
+hipi687;Kiedy Depp się rozstał?;http://plotki.newsweek.pl/johnny-depp-i-vanessa-paradis-sie-rozstali,87375,1,1.html;hipi687;date;QC_TEMP:MOM
+hipi688;Kiedy Talibowie zabili polskiego inżyniera?;http://wyborcza.pl/1,76842,7248264,Zabojca_Polaka_robi_kariere_wsrod_talibow.html;hipi688;date;QC_TEMP:MOM
+hipi696;UAM jest w Poznaniu?;http://pl.wikipedia.org/wiki/Uniwersytet_im._Adama_Mickiewicza_w_Poznaniu;wikiUniwersytet#im_46_#Adama#Mickiewicza#w#Poznaniu;yes-no;QC_DECISION
+hipi701;Co to jest strap-on?;http://pl.wikipedia.org/wiki/Strap-on_dildo;wikiStrap_45_on#dildo;definition;QC_DEF:BE
+hipi702;Co to jest takipi?;http://nlp.pwr.wroc.pl/takipi/;hipi702;definition;QC_DEF:BE
+hipi705;Czy Justin Bieber uprawiał seks z Seleną Gomez?;http://www.kotek.pl/kotek/1,111364,9838360,Justin_Bieber_i_Selena_Gomez_uprawiaja_seks__I_lubia.html;hipi705;yes-no;QC_DECISION
+hipi710;Czy uniwersytet jest w Polsce?;http://pl.wikipedia.org/wiki/Uniwersytety_w_Polsce;wikiUniwersytety#w#Polsce;yes-no;QC_DECISION
+hipi711;Czy w Chorwacji jest euro?;http://blogzpodrozy.pl/2011/03/26/jaka-walute-najlepiej-zabrac-do-chorwacji/;hipi711;yes-no;QC_DECISION
+hipi712;Czy w Niemczech są geje?;http://gaymateo.pl/niemcy-ar103.html;hipi712;yes-no;QC_DECISION
+hipi714;Czy w Polsce aborcja jest legalna?;http://pl.wikipedia.org/wiki/Aborcja_w_Polsce;wikiAborcja#w#Polsce;yes-no;QC_DECISION
+hipi722;Gdzie jest Tusk?;http://wpolityce.pl/artykuly/39832-premier-donald-tusk-z-wizyta-w-singapurze-zobacz-zdjecie-ktorym-pochwalila-sie-kancelaria-premiera;hipi720;location-other;QC_LOC:PLACE
+hipi725;Gdzie zderzyły się pociągi?;http://pl.wikipedia.org/wiki/Katastrofa_kolejowa_pod_Szczekocinami;wikiKatastrofa#kolejowa#pod#Szczekocinami;location-other;QC_LOC:PLACE
+hipi726;Ile jest gwiazd?;http://astropolis.pl/topic/371-ile-jest-gwiazd-we-wszechwiecie/;hipi726;count;QC_QUANTITY:GEN
+hipi730;Jak się ubrać na imprezę?;http://zapytaj.onet.pl/Category/003,001/2,37673,Jak_mam_sie_ubrac_na_impreze.html;hipi730;manner;QC_PROCEDURE
+hipi731;Jak się odchudzać?;http://wizaz.pl/forum/showthread.php?t=580607;hipi731;manner;QC_PROCEDURE
+hipi732;Jak się robi dziurę w spodniach?;http://zapytaj.onet.pl/Category/001,003/2,9680703,Jak_zrobic_dziure_w_spodniach.html;hipi732;manner;QC_PROCEDURE
+hipi739;Jak zostać milionerem?;http://www.wiatrak.nl/876/piec-tajemnic-jak-zostac-milionerem;hipi739;manner;QC_PROCEDURE
+hipi746;Kto zabił Lecha Kaczyńskiego?;http://forum.gazeta.pl/forum/w,1157,135093328,135093328,To_Amerykanie_zabili_Lecha_Kaczynskiego_.html;hipi746;human-other;QC_PER:ARG
+hipi750;Opowiedz coś o liczbach pierwszych.;http://pl.wikipedia.org/wiki/Liczba_pierwsza;wikiLiczba#pierwsza;description;QC_NONPER
+wyszuk282;Od kiedy Warszawa jest stolicą?;http://zapytaj.onet.pl/Category/002,019/2,6283605,Od_kiedy_Warszawa_jest_stolica_polski.html;wyszuk282;date;QC_TEMP:MOM
+pytki128;Ile posolić ziemniaki?;http://pytamy.pl/title,ile-sypa-soli-do-wody-przy-gotowaniu-makaronu-ry-u-pierog-w-klusek-ziemniak-w,pytanie.html?smclgnzlticaid=610344;pytki128;numeric-other;QC_QUANTITY:GEN
+wyszuk58;O czym świadczą wyzwiska i agresja?;http://parenting.pl/portal/agresja-nastolatkow;wyszuk58;description;QC_NONPER
+wyszuk508;Jakie choroby wywołują bakterie?;http://zadane.pl/zadanie/1693973;wyszuk508;dis-med;QC_DIRECT
+wyszuk498;Jakie organizmy należą do roślin?;http://pl.wikipedia.org/wiki/Ro%C5%9Bliny;wikiRo_347_liny;plant;QC_DIRECT
+wyszuk426;Do czego rybie służy linia boczna?;http://pl.wikipedia.org/wiki/Linia_boczna;wikiLinia#boczna;description;QC_NONPER
+wyszuk23;Kto był Zeus?;http://bsmsow.republika.pl/mit8.html;wyszuk23;individual;QC_DEF:PER
+wyszuk480;Jaka rzeka przepływa przez Paryż?;http://nauka.katalogi.pl/Text_do_przet%C5%82umaczenia_na_angielski-t6537.html;wyszuk480;river;QC_DIRECT
+wyszuk70;Dlaczego motyw ostatecznej zagłady świata tak bardzo inspiruje twórców różnych epok?;http://zadane.pl/zadanie/4389725;wyszuk70;reason;QC_CAUSE
+pytki217;W jaki sposób Adam Mickiewicz ukazał przyszłość w "Panu Tadeuszu"?;http://www.opracowania.edu.pl/artykuly/wizja_przyszlosci_narodu_w_quotpanu_tadeuszuquot_438.html;pytki217;manner;QC_PROCEDURE
+wyszuk9;Czym się odżywia jemiołuszka?;http://www.zimorodek.com/przyroda-oiywiona-edukacja-ekologiczna-78/ptaki-edukacja-ekologiczna-67/51-jemiopuszka;wyszuk9;food;QC_NONPER
+wyszuk144;Dlaczego Adolf Hitler tak nienawidził Żydów?;http://www.sciaga.pl/tekst/16921-17-adolf_hitler_ocena_postepowania;wyszuk144;reason;QC_CAUSE
+wyszuk425;Do czego roślinom potrzebny jest tlen?;http://www.e-ogrody.pl/Ogrody/1,113408,4488411.html;wyszuk425;description;QC_NONPER
+pytki185;Po co słoniom takie wielkie uszy?;http://gdansk.naszemiasto.pl/serwisy/co_wiecie_o_wielkim_swiecie/http://gdansk.naszemiasto.pl/artykul/156459,po-co-sloniowi-takie-duze-uszy,id,t.html;pytki185;reason;QC_CAUSE
+wyszuk106;W którym roku urodził się Jan Paweł 2?;http://www.konsulatrp.ru/pl/info/janpawel.html;wyszuk106;date;QC_DIRECT
+wyszuk293;Jak po francusku jest "kocham cię"?;http://www.serducho.pl/kocham_cie/kocham-w-innych-jezykach.htm;wyszuk293;expression;QC_STATE:GEN
+wyszuk87;Jakiego koloru są żmije?;http://www.wedkuje.pl/wedkarstwo,zaskroniec-czy-zmija,7843;wyszuk87;color;QC_DIRECT
+wyszuk6;Co można robić we Wrocławiu?;http://nocleginaplus.pl/77.atrakcje-we-wroclawiu;wyszuk6;description;QC_NONPER
+pytki148;Po co kotom wąsy?;http://swiatkotow.pl/wiedza/artykuly/budowa/art,93,po-co-kotu-wasy.html;pytki148;reason;QC_CAUSE
+wyszuk420;Do czego ludzie potrzebują socjologii?;http://www.aula.pl/~gagolews/sciagi.php?przedmiot=12&material=94;wyszuk420;description;QC_NONPER
+wyszuk192;Z jakiego powodu ludzie ustanawiają prawa?;http://zadane.pl/zadanie/179084;wyszuk192;reason;QC_CAUSE
+wyszuk364;Gdzie umieścić czujnik czadu?;http://www.dom.pl/gdzie-zamontowac-czujnik-tlenku-wegla.html;wyszuk364;location-other;QC_LOC:PLACE
+wyszuk296;Jak po hiszpańsku nazwano mityczną krainę złota?;http://pl.wikipedia.org/wiki/El_Dorado;wikiEl#Dorado;expression;QC_STATE:GEN
+wyszuk357;Czemu kot mruczy?;http://www.uniwersytetdzieci.pl/clubs/showselectedarticle/1608;wyszuk357;reason;QC_CAUSE
+wyszuk231;Ile fps widzi oko?;http://www.modernwar.pl/forum/37-Hydepark/69947-FPS-ludzkie-oko.html;wyszuk231;count;QC_QUANTITY:GEN
+wyszuk127;Dlaczego leci krew z nosa?;http://fitness.wp.pl/zdrowie/wirtualny-poradnik/art760,o-czym-swiadczy-krwawienie-z-nosa.html;wyszuk127;reason;QC_CAUSE
+wyszuk180;Kiedy zaczyna się post w 2013?;http://halloween.friko.net/wielki-post.html;wyszuk180;date;QC_TEMP:MOM
+wyszuk405;Do czego służy procesor?;http://zadane.pl/zadanie/1545417;wyszuk405;description;QC_NONPER
+pytki196;Skąd się bierze kurz?;http://pytamy.pl/title,sk-d-si-bierze-kurz,pytanie.html?smclgnzlticaid=61035f;pytki196;reason;QC_CAUSE
+wyszuk98;Który bank w Polsce współpracuje z Lloyd?;http://biznes.gazetaprawna.pl/artykuly/110564,przelew_z_wielkiej_brytanii_do_polski_nie_musi_kosztowac_100_zl.html;wyszuk98;company;QC_DIRECT
+wyszuk194;Z jakimi krajami walczył Napoleon Bonaparte?;http://zadane.pl/zadanie/2407407;wyszuk194;country;QC_DIRECT
+wyszuk222;Dlaczego zimy w Grecji są chłodne?;http://zadane.pl/zadanie/1543176;wyszuk222;reason;QC_CAUSE
+pytki102;Jak wyczyścić plamę z krwi?;http://kobieta-i-dom.wieszjak.pl/odziez/302767,Jak-usunac-plamy-z-krwi.html;pytki102;manner;QC_PROCEDURE
+wyszuk142;Dlaczego tracę głos?;http://www.artykul.com.pl/utrata-glosu/;wyszuk142;reason;QC_CAUSE
+wyszuk496;Jakie utwory skomponował Fryderyk Chopin?;http://pl.wikipedia.org/wiki/Lista_dzie%C5%82_Fryderyka_Chopina;wikiLista#dzie_322_#Fryderyka#Chopina;title;QC_DIRECT
+pytki117;O co chodzi w nowej promocji Coca Coli?;http://www.cocacola.com.pl/630.html;pytki117;description;QC_DEF:MEANING
+wyszuk407;Do czego można wykorzystać starte jabłko?;http://zadane.pl/zadanie/2984666;wyszuk407;description;QC_NONPER
+pytki152;Dlaczego faceci zasypiają tuż po seksie?;http://kobieta.onet.pl/zdrowie/zycie-intymne/dlaczego-mezczyzni-zasypiaja-zaraz-po/j335s;pytki152;reason;QC_CAUSE
+wyszuk45;Z czym podawać kaczkę pieczoną?;http://poradnikdomowy.pl/poradnikdomowy/1,116271,2967935.html;wyszuk45;food;QC_NONPER
+wyszuk230;Dlaczego sernik opada?;http://free4web.pl/3/2,98177,369839,5786954,Thread.html;wyszuk145;reason;QC_CAUSE
+wyszuk403;Nad czym sprawuje nadzór Minister Obrony Narodowej?;http://prawo.legeo.pl/prawo/ustawa-z-dnia-14-grudnia-1995-r-o-urzedzie-ministra-obrony-narodowej/;wyszuk403;description;QC_NONPER
+wyszuk590;Skąd u noworodka czkawka?;http://www.mamazone.pl/tv/film,3876,czkawka-u-noworodka.aspx;wyszuk590;reason;QC_CAUSE
+wyszuk406;Do czego służy bidet?;http://pl.wikipedia.org/wiki/Bidet;wikiBidet;description;QC_NONPER
+wyszuk574;Jak mało wydawać na jedzenie?;http://www.tipy.pl/artykul_9676,jak-wydawac-mniej-na-jedzenie.html;wyszuk574;manner;QC_PROCEDURE
+wyszuk151;Dlaczego dziecko charczy?;http://parenting.pl/portal/charczenie-u-niemowlat;wyszuk151;reason;QC_CAUSE
+wyszuk549;Kogo chroni BOR?;http://pl.wikipedia.org/wiki/Biuro_Ochrony_Rz%C4%85du;wikiBiuro#Ochrony#Rz_261_du;individual;QC_PER:ARG
+wyszuk505;Jakie jest prawidłowe ciśnienie?;http://www.kardioserwis.pl/page.php/1/0/show/226/ci%C5%9Bnienie_t%C4%99tnicze_krwi.html;wyszuk505;numeric-other;QC_STATE:GEN
+wyszuk149;Dlaczego dzwoni w uszach?;http://www.domzdrowia.pl/czytelnia/page/900,dlaczego-dzwoni-i-szumi-w-uszach;wyszuk149;reason;QC_CAUSE
+pytki34;Z czego zasłynęli Benedyktyni?;http://www.poland.gov.pl/Opactwo,Benedyktynow,w,Tyncu,13066.html;pytki34;description;QC_NONPER
+wyszuk394;Nad czym sprawowała opiekę rzymska bogini Westa?;http://pl.wikipedia.org/wiki/Westa;wikiWesta;entity-other;QC_NONPER
+wyszuk290;Jak po angielsku nazywa się "rower"?;http://zadane.pl/zadanie/4736472;wyszuk290;expression;QC_STATE:GEN
+wyszuk585;Skąd wziąć akt urodzenia?;http://www.ofeminin.pl/forum/f42/__f54_f42-Gdzie-dostac-skrocony-akt-urodzenia.html;wyszuk585;institution;QC_LOC:ORIG
+pytki184;Czym są łaskotki?;http://pl.wikipedia.org/wiki/%C5%81askotki;wiki_321_askotki;definition;QC_DEF:BE
+pytki239;Jak zrobić bokeh, czyli takie świecące kółka, w Photoshopie?;http://forum.photoblog.pl/index/topic/tid/11237;pytki239;manner;QC_PROCEDURE
+pytki3;Jak ściągać z YouTube muzykę?;http://zapytaj.onet.pl/Category/007,025/2,16874917,Jak_sciagnac_muzyke_z_you_tube_.html;pytki3;manner;QC_PROCEDURE
+wyszuk358;Gdzie mieszka Święty Mikołaj?;http://horoskop.wp.pl/kat,1015979,title,Gdzie-mieszka-Swiety-Mikolaj,wid,15155374,wiadomosc.html?ticaid=11035a;wyszuk358;location-other;QC_LOC:PLACE
+pytki50;Jak wymienić termostat w Peugeocie?;http://peugeot.auto.com.pl/forum/viewtopic.php?t=126044;pytki50;manner;QC_PROCEDURE
+wyszuk249;Przez ile państw przepływa Dunaj?;http://pl.wikipedia.org/wiki/Dunaj;wikiDunaj;count;QC_QUANTITY:GEN
+pytki87;Kiedy odbędzie się koncert Jennifer Lopez w Polsce?;http://www.mmtrojmiasto.pl/421441/2012/9/24/jennifer-lopez-w-polsce-we-wrzesniu-zagra-na-pge-arena-gdansk-bilety-od--zl?category=kultura;pytki87;date;QC_TEMP:MOM
+pytki235;Na które uczelnie medyczne potrzebna jest matura z fizyki?;http://www.netkobiety.pl/t4938.html;pytki235;institution;QC_DIRECT
+wyszuk131;Dlaczego psy liżą po twarzy?;http://www.psy.pl/archiwum-miesiecznika/art6894,behawiorysta-radzi-co-oznacza-gdy-pies-lize-mnie-po-twarzy-a-co-gdy-lize-swego-czworonoznego-kumpla.html;wyszuk131;reason;QC_CAUSE
+wyszuk146;Dlaczego świat kończy się w 2012?;http://archeowiesci.pl/2009/11/08/2012-kolejny-koniec-swiata-czyli-katastrofalne-bzdury/;wyszuk146;reason;QC_CAUSE
+pytki125;Co oznacza literka "D" w grupie krwi A rHD +?;http://zapytaj.onet.pl/Category/004,004/2,16446438,Co_oznacza_literka_039d039_w_grupie_krwi_AB_RhD__minus_.html;pytki125;expression;QC_DEF:MEANING
+wyszuk38;Kto to jest kompozytor?;http://pl.wikipedia.org/wiki/Kompozytor;wikiKompozytor;definition;QC_DEF:PER
+wyszuk351;Z której strony jest wyrostek?;http://zapytaj.onet.pl/Category/004,004/2,1751165,Z_ktorej_strony_jest_wyrostek_.html;wyszuk351;description;QC_DIRECT
+wyszuk538;Po co psu ogon?;http://www.pupile.eu/inne/ogon.htm;wyszuk538;reason;QC_CAUSE
+pytki162;Co zrobić, gdy zgubię dowód osobisty?;http://www.photoid.eu/index.php?option=com_content&view=article&id=17:zgubiony-dowod-osobisty&catid=8&Itemid=102;pytki162;description;QC_NONPER
+wyszuk397;Nad czym sprawuje nadzór Państwowa Inspekcja Pracy?;http://www.sciaga.pl/tekst/73346-74-nadzor_panstwowy_i_zwiazkowy_nad_przestrzeganiem_zasad_bhp;wyszuk397;description;QC_NONPER
+wyszuk17;Na czym polega tragizm Edypa?;http://zadane.pl/zadanie/330633;wyszuk17;description;QC_NONPER
+wyszuk470;Jaki gaz wydzielający się podczas pożaru stwarza zagrożenie zatrucia się?;http://www.konferencja.elektro.info.pl/ochrona-ppo-okiem-instalatora/12-wentylacja-poarowa-przebieg-poaru-i-przepyw-dymu;wyszuk470;substance;QC_DIRECT
+wyszuk309;Ile kosztuje gram złota?;http://zapytaj.onet.pl/Category/005,013/2,15507008,Ile_kosztuje_1_gram_zlota.html;wyszuk309;money;QC_QUANTITY:PRICE
+wyszuk200;Skąd się biorą wszy?;http://www.haknalajf.pl/2012/06/skad-sie-biora-wszy.html;wyszuk200;description;QC_CAUSE
+wyszuk27;Z kim jest Doda?;http://podepnij.pl/2012/07/doda-szychowski-sa-znowu-razem/;wyszuk27;individual;QC_PER:ARG
+wyszuk202;Skąd przylatuje czeczotka?;http://zadane.pl/zadanie/4363572;wyszuk202;location-other;QC_LOC:ORIG
+wyszuk557;Kogo pracodawca nie może zwolnić?;http://zielonalinia.gov.pl/Kogo-nie-mozna-zwolnic-1389;wyszuk557;individual;QC_PER:ARG
+wyszuk575;Jak mało spać i być wyspanym?;http://produktywnie.pl/897/tydzien-wczesnego-wstawania-jak-spac-krocej/;wyszuk575;manner;QC_PROCEDURE
+wyszuk592;Dlaczego parafina nie tonie w wodzie?;http://zadane.pl/zadanie/4477504;wyszuk592;reason;QC_CAUSE
+wyszuk568;Jak wywołać okres?;http://www.forumginekologiczne.pl/forum/vt,48,237,556649,0,jak-wywolac-okres;wyszuk568;manner;QC_PROCEDURE
+wyszuk263;Jak obliczyć BMI?;http://www.jak-to-zrobic.pl/index.php/a/3/b/8/c/41/d/116/id/311;wyszuk263;manner;QC_PROCEDURE
+pytki147;Jak działa kod binarny?;http://pl.wikipedia.org/wiki/Dw%C3%B3jkowy_system_liczbowy;wikiDw_243_jkowy#system#liczbowy;manner;QC_PROCEDURE
+pytki220;Jak ożywić ducha w "The Sims 3"?;http://pl.sims.wikia.com/wiki/Poradnik:O%C5%BCywanie_Sim%C3%B3w;pytki220;manner;QC_PROCEDURE
+pytki156;Dlaczego Polska nie posiada elektrowni atomowej?;http://serwisy.gazetaprawna.pl/energetyka/artykuly/682975,elektrownia_atomowa_w_polsce_moze_nie_powstac_nie_ma_pieniedzy_i_woli_politycznej.html;pytki156;reason;QC_CAUSE
+wyszuk252;Przez jakie miasta przepływa Sekwana?;http://pl.wikipedia.org/wiki/Sekwana;wikiSekwana;city;QC_DIRECT
+wyszuk166;W jakiej temperaturze piec schab?;http://zyciowykoktail.blox.pl/2006/10/Pieczenie-schabu.html;wyszuk166;temp;QC_DIRECT
+pytki163;Kto wynalazł szachy?;https://sites.google.com/site/szachyprzeworsk/historiaszach%C3%B3w;pytki163;individual;QC_PER:ARG
+wyszuk115;Jak zrobić lukier?;http://www.ofeminin.pl/forum/f26/__f30_f26-Jak-zrobic-lukier.html;wyszuk115;manner;QC_PROCEDURE
+pytki150;Po co kobietom okres?;http://www.grabieniec.pl/pokaz_artykul.php?id_artykulu=933;pytki150;reason;QC_CAUSE
+wyszuk380;Którędy przebiega międzynarodowa linia zmiany daty?;http://zadane.pl/zadanie/290906;wyszuk380;location-other;QC_LOC:TRAJ
+wyszuk86;Jakiego zapachu nie lubią muchy?;http://www.porady.co.pl/zwalczanie_much.html;wyszuk86;substance;QC_DIRECT
+wyszuk598;Za ile kupiono Alaskę?;http://pl.wikipedia.org/wiki/Zakup_Alaski;wikiZakup#Alaski;money;QC_QUANTITY:PRICE
+wyszuk43;Z czym podać pulpety?;http://www.gotujmy.pl/pulpety-miesno-warzywne-3,przepisy,181533g5,zdjecie.html;wyszuk43;food;QC_NONPER
+wyszuk411;Do czego nosić legginsy?;http://szafiarenka.pl/2/1076056/do-czego-nosic-legginsy.html;wyszuk411;entity-other;QC_NONPER
+wyszuk550;Kogo zabił Makbet?;http://pl.wikipedia.org/wiki/1040;wiki1040;individual;QC_PER:ARG
+wyszuk463;Jaki zawód wybrać?;http://www.edukacjachicago.com/jaki-wybrac-zawod-aby-miec-gwarancje-zatrudnienia/;wyszuk463;description;QC_DIRECT
+pytki103;Co zrobić, aby pozbyć się kreta z ogródka?;http://www.swiatkwiatow.pl/poradnik-ogrodniczy/zwalczanie-kretow-czyli-jak-pozbyc-sie-kreta-z-ogrodu-id63.html;pytki103;description;QC_NONPER
+wyszuk291;Jak po angielsku jest "gimnazjum"?;http://zapytaj.onet.pl/Category/015,006/2,15407898,Jak_przetlumaczycie_Gimnazjum_na_Angielski.html;wyszuk291;expression;QC_STATE:GEN
+pytki135;Jak długo trwa ciąża?;http://www.dzieciaczek.com/ile+trwa+ciaza,6.html;pytki135;period;QC_TEMP:PER
+pytki52;Jak zamknąć konto osobiste w PKO?;http://likwidacja-konta.pl/likwidacja-konta-w-pko-bp/;pytki52;manner;QC_PROCEDURE
+pytki218;Kiedy mówi się piasek, a kiedy piach?;http://zapytaj.onet.pl/Category/002,010/2,4222209,Kiedy_mowi_sie_piasek_a_kiedy_piach.html;pytki218;description;QC_TEMP:MOM
+wyszuk412;Do czego nosić body?;http://www.1000rad.pl/jak-nosic-body;wyszuk412;entity-other;QC_NONPER
+pytki187;Co się stało z Frugo?;http://zapytaj.onet.pl/Category/016,007/2,7740439,Ktos_wie_co_sie_stalo_z_FRUGO_.html;pytki187;description;QC_NONPER
+pytki61;Jaka gleba jest najbardziej żyzna?;http://zadane.pl/zadanie/3561332;pytki61;entity-other;QC_DIRECT
+wyszuk274;Na kiedy jest przewidywany koniec świata?;http://www.se.pl/wydarzenia/kraj/koniec-swiata-21122012-dzis-sie-nie-udalo-kiedy-kolejny-koniec-swiata_297323.html;wyszuk274;date;QC_TEMP:MOM
+wyszuk204;Na co pomaga imbir i miód?;http://www.miódzimbirem.pl/;wyszuk204;dis-med;QC_NONPER
+wyszuk2;Co to jest tablet?;http://pl.wikipedia.org/wiki/Tablet_%28komputer%29;wikiTablet#_40_komputer_41_;definition;QC_DEF:BE
+pytki109;Jak posadzić własną cytrynkę?;http://forum.przyroda.org/topics70/sadzenie-cytryny-z-nasiona-vt7598.htm;pytki109;manner;QC_PROCEDURE
+wyszuk281;Od kiedy Polska jest w NATO?;http://www.wosna5.pl/polska_w_nato;wyszuk281;date;QC_TEMP:MOM
+wyszuk432;Do kogo pasują rude włosy?;http://www.we-dwoje.pl/dla%3Bkogo%3Brudy,artykul,20650.html;wyszuk432;description;QC_PER:ARG
+wyszuk589;Skąd Unia bierze pieniądze?;http://pl.wikipedia.org/wiki/Bud%C5%BCet_Unii_Europejskiej#.C5.B9r.C3.B3d.C5.82a_dochod.C3.B3w_bud.C5.BCetowych_Unii;wikiBud_380_et#Unii#Europejskiej;description;QC_LOC:ORIG
+wyszuk489;Jakie witaminy ma jabłko?;http://pl.wikipedia.org/wiki/Jab%C5%82ko;wikiJab_322_ko;substance;QC_DIRECT
+wyszuk474;Jaki jest najnowszy Android?;http://zapytaj.onet.pl/Category/017,008/2,23185669,Jaki_jest_najnowszy_Android.html;wyszuk474;artifact;QC_STATE:GEN
+wyszuk148;Dlaczego dziecko późno zaczyna chodzić?;http://www.modne.biz/dziecko-dwuletnie/nauka-chodzenia.html;wyszuk148;reason;QC_CAUSE
+pytki53;Jak usunąć konto Facebook?;http://jakusunacfacebooka.pl/;pytki53;manner;QC_PROCEDURE
+wyszuk256;W jakim czasie i okolicznościach powstała Biblia?;http://zadane.pl/zadanie/1615301;wyszuk256;description;QC_DIRECT
+pytki136;Dlaczego ludzie chorują?;http://f.kafeteria.pl/temat.php?id_p=4372670;pytki136;reason;QC_CAUSE
+pytki221;Gdzie w Krakowie znajduje się sklep New Yorker?;http://www.mapahandlu.pl/miasto/krakow/marka/new-yorker/;pytki221;location-other;QC_LOC:PLACE
+pytki189;Jakie jest najdłuższe polskie słowo?;http://www.opinie.pl/biuletyn/archiwum/20070313/pl/;pytki189;expression;QC_STATE:GEN
+wyszuk587;Skąd tradycja ubierania choinki?;http://pl.wikipedia.org/wiki/Choinka;wikiChoinka;reason;QC_CAUSE
+wyszuk208;Na co jest dobry kelp?;http://www.zdrowie.brat.pl/kelp-p-2799.html;wyszuk208;dis-med;QC_NONPER
+wyszuk145;Dlaczego sernik opada po wyrośnięciu?;http://free4web.pl/3/2,98177,369839,5786954,Thread.html;wyszuk145;reason;QC_CAUSE
+pytki215;Na jakiej stronie da się obejrzeć 4-ty sezon "Pamiętnika Wampirów"?;http://zapytaj.onet.pl/Category/019,003/2,20930172,Gdzie_bede_mogla_ogladac_4_sezon_pamietniki_wampirow.html;pytki215;web-page;QC_LOC:PLACE
+wyszuk169;W jakiej temperaturze piec indyka?;http://poradnikdomowy.pl/poradnikdomowy/1,116271,2971014.html;wyszuk169;temp;QC_DIRECT
+pytki73;Jak napisać dobre CV?;http://gospodarka.dziennik.pl/praca/artykuly/207740,jak-napisac-perfekcyjnie-dobre-cv.html;pytki73;manner;QC_PROCEDURE
+wyszuk396;Nad czym pracowała Maria Skłodowska-Curie?;http://www.sciaga.pl/tekst/16238-17-maria_sklodowska_curie;wyszuk396;description;QC_NONPER
+wyszuk129;Dlaczego ludzie się od siebie uzależniają?;http://portal.abczdrowie.pl/uzaleznienie-od-partnera;wyszuk129;reason;QC_CAUSE
+wyszuk472;Jaki jest cel oddychania?;http://zadane.pl/zadanie/169398;wyszuk472;description;QC_STATE:GEN
+wyszuk65;Dlaczego mam zimny nos?;http://dooktor.pl/artykuly-medyczne/porady_medyczne/przyczyny_zimnego_nosa_rak_stop.html;wyszuk65;reason;QC_CAUSE
+pytki74;Jessie J - jak się tak umalować?;http://pytki.pl/jessie-j-jak-sie-tak-umalowac,369;pytki74;manner;QC_PROCEDURE
+wyszuk475;Jaka jest liczba mieszkańców Wielkiej Brytanii?;http://pl.wikipedia.org/wiki/Wielka_Brytania;wikiWielka#Brytania;count;QC_STATE:GEN
+wyszuk248;Jaki okres historii biblijnej obejmuje Stary Testament?;http://portalwiedzy.onet.pl/68781,,,,stary_testament,haslo.html;wyszuk248;period;QC_DIRECT
+wyszuk267;Jak robić pompki?;http://www.tipy.pl/artykul_3639,jak-robic-pompki.html;wyszuk267;manner;QC_PROCEDURE
+wyszuk251;Przez jakie miasta przepływa Wisła?;http://pl.wikipedia.org/wiki/Wis%C5%82a;wikiWis_322_a;city;QC_DIRECT
+wyszuk445;Czym Edyp wydłubał sobie oczy?;http://zadane.pl/wypracowanie/Czy_Edyp_mogl_uniknac_swojego_losu_-51471;wyszuk445;artifact;QC_NONPER
+pytki237;W ciągu ilu dni przychodzi przesyłka z Allegro?;http://zapytaj.onet.pl/Category/027,004/2,967738,W_ile_dni_przychodzi_przesylka_z_allegro_.html;pytki237;count;QC_QUANTITY:GEN
+wyszuk471;Jaki jest prawidłowy puls?;http://forum.abczdrowie.pl/forum-zdrowie/311434,ile-powinien-wynosic-prawidlowy-puls;wyszuk471;numeric-other;QC_STATE:GEN
+wyszuk96;Z jakiego powodu krwawi z odbytu?;http://zdrowie.gazeta.pl/Zdrowie/1,101580,11555434,Krew_w_stolcu___zawsze_alarmujacy_objaw.html;wyszuk96;reason;QC_CAUSE
+pytki160;Skąd się bierze katar?;http://masakrytyczna.blox.pl/2006/04/Skad-sie-bierze-katar.html;pytki160;reason;QC_CAUSE
+wyszuk493;Jakie umiejętności wpisać w CV?;http://controlfind.pl/artykuly/strefa-kandydata/cv-umiejetnosci_bhf.html;wyszuk493;description;QC_DIRECT
+wyszuk22;Co to są proteiny?;http://www.sciaga.pl/tag/proteiny/;wyszuk22;definition;QC_DEF:BE
+pytki182;Dlaczego czarny kolor przyciąga ciepło?;http://zapytaj.onet.pl/Category/001,005/2,20185796,Dlaczego_kolor_czarny_przyciaga_slonce_P.html;pytki182;reason;QC_CAUSE
+wyszuk76;Jakiemu dyktatorowi doradzał Friedman?;http://kuczynski.blogbank.pl/2008/03/04/ksiazka-ktora-niejeden-czytelnik-znienawidzi/;wyszuk76;individual;QC_DIRECT
+wyszuk89;Jakiej restauracji brakuje w Kielcach?;http://forum.gazeta.pl/forum/w,60,102360920,,Restauracja_pytania.html?v=2;wyszuk89;description;QC_DIRECT
+wyszuk156;Dlaczego bolą mnie piersi?;http://zdrowie.gazeta.pl/Zdrowie/1,105912,7457241,Bol_piersi__O_czym_to_swiadczy_.html;wyszuk156;reason;QC_CAUSE
+wyszuk535;Po co są włosy łonowe?;http://niewiarygodne.pl/gid,11884696,img,11884697,kat,1017185,page,7,title,Istnieja-ale-po-co-6-najwiekszych-tajemnic-ludzkiego-ciala,galeriazdjecie.html?smgajticaid=610360;wyszuk535;reason;QC_CAUSE
+pytki59;Jakie spółki należą do WIG20?;http://pl.wikipedia.org/wiki/WIG20;wikiWIG20;company;QC_DIRECT
+wyszuk516;W jaki sposób Napoleon doszedł do władzy?;http://zadane.pl/zadanie/984382;wyszuk516;manner;QC_PROCEDURE
+wyszuk181;Kiedy są dni płodne?;http://kobieta-i-zdrowie.wieszjak.pl/cykl-miesiaczkowy/236086,Kiedy-mam-dni-plodne.html;wyszuk181;date;QC_TEMP:MOM
+wyszuk581;Skąd się bierze katar?;http://pl.wikipedia.org/wiki/Nie%C5%BCyt_nosa;wikiNie_380_yt#nosa;reason;QC_CAUSE
+wyszuk562;Z kogo składa się rada ministrów?;http://www.sciaga.pl/tekst/14258-15-rada_ministrow;wyszuk562;individual;QC_PER:ARG
+wyszuk35;Co to jest list mazalny?;http://msp.money.pl/grupa-pl_soc_prawo/sprzedawca;wyszuk35;definition;QC_DEF:BE
+pytki27;Co to jest kredyt fasadowy?;http://pytki.pl/co-to-jest-kredyt-fasadowy,601;pytki27;definition;QC_DEF:BE
+wyszuk243;Ilu Polaków zginęło podczas 2-iej wojny?;http://www.nto.pl/apps/pbcs.dll/article?AID=/20090828/REPORTAZ/545367516;wyszuk243;count;QC_QUANTITY:GEN
+pytki32;Gdzie w Poznaniu znajdę korty do gry w tenisa?;http://www.goldenline.pl/forum/883562/gdzie-w-poznaniu-mozna-przyjemnie-pograc-w-tenisa;pytki32;location-other;QC_LOC:PLACE
+wyszuk398;Nad czym pracował Jan Matejko?;http://zadane.pl/zadanie/4284810;wyszuk398;description;QC_NONPER
+wyszuk201;Skąd przylatuje jemiołuszka?;http://zadane.pl/zadanie/4276388;wyszuk201;location-other;QC_LOC:ORIG
+wyszuk33;Co to jest mirra?;http://sklep.tarotnet.pl/product_info.php?products_id=36848;wyszuk33;definition;QC_DEF:BE
+wyszuk492;Jakie ryby morskie są dostępne w sprzedaży?;http://zapytaj.onet.pl/Category/006,012/2,7926474,jakie_ryby_morskie_sa_dostepne_w_sprzedazy_jakie_ryby_sprzedawane_sa_w_najwiekszych_ilosciach_jakie_ryby_sprzedawane_sa_w_najmniejszych_ilosciach.html;wyszuk492;animal;QC_DIRECT
+wyszuk388;Z czym łączyć kreatynę?;http://www.sfd.pl/Kreatyna_z_czym_po%C5%82%C4%85czy%C4%87_-t191177.html;wyszuk388;substance;QC_NONPER
+pytki33;Co zrobić, aby modelina byłą twarda?;http://f.kafeteria.pl/temat.php?id_p=4646446;pytki33;description;QC_NONPER
+wyszuk478;Jaka jest liczba mieszkańców Szwecji?;http://szwecja.net/NOW/ArchiwumNowin/2006/060112-ludnosc.shtml;wyszuk478;count;QC_STATE:GEN
+wyszuk383;Którędy z Warszawy do Wrocławia?;http://www.maxbimmer.pl/f19/wroclaw-warszawa-ktoredy-najszybciej-2175/;wyszuk383;location-other;QC_LOC:TRAJ
+wyszuk99;Które psy są agresywne?;http://www.fanimal.pl/p/jakie-rasy-psow-uznawane-sa-za-agresywne-1146;wyszuk99;animal;QC_DIRECT
+pytki64;Jak postępować w przypadku oparzenia?;http://zadane.pl/zadanie/1344216;pytki64;manner;QC_PROCEDURE
+wyszuk72;Dlaczego drzewa zrzucają liście?;http://zadane.pl/zadanie/1783812;wyszuk72;reason;QC_CAUSE
+pytki199;Czym się różni konturówka do oczu od kredki do oczu?;http://zapytaj.onet.pl/Category/003,006/2,8277826,Czym_rozni_sie_konturowka_do_oczu_od_kredki_do_oczu.html;pytki199;description;QC_NONPER
+pytki42;Co zrobić, gdy kręci się w głowie?;http://zapytaj.onet.pl/Category/001,001/2,1877780,Co_zrobic_jesli_kreci_mi_sie_w_glowie_.html;pytki42;description;QC_NONPER
+wyszuk497;Jakie organizmy należą do zwierząt?;http://pl.wikipedia.org/wiki/Zwierz%C4%99ta;wikiZwierz_281_ta;animal;QC_DIRECT
+wyszuk441;Czym karmić psa?;http://labradorypieski.bloog.pl/id,5502822,title,Czym-najlepiej-karmic-psa,index.html;wyszuk441;food;QC_NONPER
+pytki169;Jaki jest rekord promili?;http://www.teksty.jeja.pl/247,alkoholowe-rekordy.html;pytki169;numeric-other;QC_STATE:GEN
+wyszuk408;Do czego może prowadzić nieprzestrzeganie prawa?;http://zadane.pl/zadanie/3099442;wyszuk408;description;QC_NONPER
+wyszuk390;Przy czym spala się najwięcej kalorii?;http://zapytaj.onet.pl/Category/003,004/2,328776,Ile_na_czym_sie_spala_kalori_w_ciagu_1_godziny.html;wyszuk390;action;QC_NONPER
+wyszuk214;Przez co odmienia się zaimek?;http://zapytaj.onet.pl/Category/002,010/2,271065,Przez_co_odmienia_sie_zaimek.html;wyszuk214;language;QC_NONPER
+pytki179;Co poradzić na pchły?;http://www.hillspet.pl/pl-pl/dog-mature/dealing-with-dog-fleas.html;pytki179;description;QC_NONPER
+wyszuk77;Jakiemu procesowi poddaje się węgiel kamienny?;http://docs7.chomikuj.pl/168567684,PL,0,0,brykietownie.doc;wyszuk77;description;QC_DIRECT
+pytki195;Dlaczego mamy sny?;http://astrologia1.w.interia.pl/sny/index.html;pytki195;reason;QC_CAUSE
+wyszuk588;Skąd autor zaczerpnął pomysł na tytuł powieści "Quo vadis"?;http://pl.wikipedia.org/wiki/Quo_vadis;wikiQuo#vadis;description;QC_LOC:ORIG
+wyszuk433;Pod czym powinien spać noworodek?;http://babyonline.pl/niemowle_opieka_i_wychowanie_artykul,4903.html;wyszuk433;entity-other;QC_NONPER
+wyszuk327;O której leci "Ukryta Prawda"?;http://pl.wikipedia.org/wiki/Ukryta_prawda_%28serial_telewizyjny%29;wikiUkryta#prawda#_40_serial#telewizyjny_41_;date;QC_TEMP:MOM
+wyszuk176;Po co bierzmowanie?;http://www.jozefswarzedz.archpoznan.pl/index.php/bierzmowanie/5-po-co-bierzmowanie;wyszuk176;reason;QC_CAUSE
+wyszuk307;Które związki są produktami oddychania beztlenowego?;http://zadane.pl/zadanie/346570;wyszuk307;substance;QC_DIRECT
+wyszuk213;Przez co odmienia się czasownik?;http://zadane.pl/zadanie/2096989;wyszuk213;language;QC_NONPER
+wyszuk356;Z czego są parówki?;http://pytamy.pl/title,z-czego-robi-si-par-wki,pytanie.html?smclgnzlticaid=610359;wyszuk356;substance;QC_NONPER
+pytki129;Odżywka do zniszczonych włosów?;http://f.kafeteria.pl/temat.php?id_p=3139318;pytki129;substance;QC_DIRECT
+pytki177;Jak założyć firmę?;http://jakzalozycfirme.info/;pytki177;manner;QC_PROCEDURE
+wyszuk583;Skąd Edyp znał rozwiązanie zagadki Sfinksa?;http://www.opracowania.com.pl/uzasadnij-bohaterem-tragicznym-jest-edyp/;wyszuk583;reason;QC_CAUSE
+wyszuk386;Którędy będzie przebiegać obwodnica Lublina?;http://pl.wikipedia.org/wiki/Obwodnica_Lublina;wikiObwodnica#Lublina;location-other;QC_LOC:TRAJ
+wyszuk48;Z czym podajemy żeberka?;http://www.mojegotowanie.pl/przepisy/miesa/zeberka_z_piekarnika_w_keczapie_i_musztardzie;wyszuk48;food;QC_NONPER
+pytki113;Jaki pies przy małym dziecku?;http://www.fanimal.pl/p/jaki-pies-dla-dziecka-2621;pytki113;animal;QC_DIRECT
+wyszuk199;Skąd pochodzą słowa "quod bonum felix faustum"?;http://zycie.awf.wroc.pl/nr113/02-113.html;wyszuk199;intellect-other;QC_LOC:ORIG
+wyszuk245;Ilu Polaków dostało Nagrodę Nobla?;http://www.wprost.pl/ar/140424/Ilu-naprawde-noblistow-ma-Polska/;wyszuk245;count;QC_QUANTITY:GEN
+wyszuk235;Ile osi symetrii ma prostokąt?;http://pl.wikipedia.org/wiki/Prostok%C4%85t;wikiProstok_261_t;count;QC_QUANTITY:GEN
+wyszuk561;Jak długo ważna jest recepta?;http://www.zdrowomi.pl/farmacja/farmacja-pytania-odpowiedzi/1-farmacja/9-ile-czasu-wana-jest-recepta.html;wyszuk561;period;QC_TEMP:PER
+pytki180;Jak szybko wyleczyć grypę?;http://wizaz.pl/forum/showthread.php?t=299329;pytki180;manner;QC_PROCEDURE
+wyszuk167;W jakiej temperaturze piec biszkopt?;http://zapytaj.onet.pl/Category/016,008/2,43826,W_jakiej_temperaturze_i_prze_jaki_czas_piec_to_ciasto.html;wyszuk167;temp;QC_DIRECT
+wyszuk495;Jakie udziały rynkowe posiada Philip Morris w Polsce?;http://www.iph.krakow.pl/?a=page&id=47&step=2&partner_id=221;wyszuk495;description;QC_DIRECT
+pytki159;Dlaczego niebo jest niebieskie?;http://pl.wikipedia.org/wiki/Kolor_nieba;wikiKolor#nieba;reason;QC_CAUSE
+pytki114;W jaki sposób mogę wydać swoje opowiadania?;http://www.ksiazka.net.pl/index.php?id=49&tx_ttnews[tt_news]=1222&cHash=933d535633;pytki114;manner;QC_PROCEDURE
+wyszuk46;Z czym pić Bacardi?;http://www.dobramama.pl/pokaz/197126/bacardi_z_czym_pic;wyszuk46;food;QC_NONPER
+wyszuk483;Jaka fryzura pasuje do owalnej twarzy?;http://pieknieje.pl/artykuly/czas-na-zmiane-fryzury-dobierz-ja-z-nami;wyszuk483;entity-other;QC_DIRECT
+wyszuk586;Skąd wypłynął Titanic?;http://www.rmf24.pl/fakty/swiat/news-100-lat-temu-titanic-wyplynal-z-southampton,nId,597090;wyszuk586;city;QC_LOC:ORIG
+wyszuk191;Z jakiego kraju wywodzi się kolęda "Cicha noc"?;http://pl.wikibooks.org/wiki/Kol%C4%99dy/niemieckie:_Stille_Nacht;wyszuk191;country;QC_DIRECT
+wyszuk128;Dlaczego łzawi mi oko?;http://www.kobieta.pl/zdrowie/medycyna/zobacz/artykul/kap-kap-lzawia-oczy/;wyszuk128;reason;QC_CAUSE
+pytki175;Kto wynalazł pizzę?;http://zapytaj.onet.pl/Category/016,009/2,9679383,kto_wynalazl_pizze_.html;pytki175;individual;QC_PER:ARG
+wyszuk83;Jakiego zapachu nie lubią koty?;http://www.cafeanimal.pl/forum/Koty,6/tematy/cytryna,20;wyszuk83;substance;QC_DIRECT
+wyszuk424;Do czego wykorzystywana jest siarka?;http://pl.wikipedia.org/wiki/Siarka;wikiSiarka;description;QC_NONPER
+wyszuk543;Kogo można ubezwłasnowolnić?;http://www.poradnia.pl/kiedy-mozna-orzec-ubezwlasnowolnienie.html;wyszuk543;individual;QC_PER:ARG
+wyszuk56;Na czym polega obrzezanie?;http://pl.wikipedia.org/wiki/Obrzezanie;wikiObrzezanie;description;QC_NONPER
+wyszuk64;Dlaczego "Chłopi" to epopeja chłopska?;http://march.home.staszic.waw.pl/chlopi/pfdc_chlopi_epopeja/;wyszuk64;reason;QC_CAUSE
+pytki172;Jak rozpoznać depresję?;http://stanislaw.porczyk.eu/jak_rozpoznac_depresje/;pytki172;manner;QC_PROCEDURE
+pytki80;Jak wybielić skarpetki?;http://drogerienatura.pl/forum?topic=1561;pytki80;manner;QC_PROCEDURE
+wyszuk272;Jak powinien wyglądać referat?;http://zapytaj.onet.pl/Category/015,006/2,2949034,Referat__jak_powinien_wygladac_.html;wyszuk272;manner;QC_PROCEDURE
+wyszuk576;Jak mało jeść?;http://mamzdrowie.pl/4-sztuczki-psychologiczne-aby-mniej-jesc/;wyszuk576;manner;QC_PROCEDURE
+wyszuk438;Czym mierzymy ciśnienie?;http://pl.wikipedia.org/wiki/Barometr;wikiBarometr;artifact;QC_NONPER
+pytki29;Kiedy RMF będzie rozdawał choineczki?;http://www.rmf24.pl/fakty/news-choinka-pod-choinke-konwoj-zielonych-drzewek-od-rmf-fm,nId,724685;pytki29;date;QC_TEMP:MOM
+wyszuk227;Dlaczego Heloci stali się problemem dla Sparty?;http://zapytaj.onet.pl/Category/002,019/2,22251431,Dlaczego_heloci_stali_sie_problemem_dla_Sparty_.html;wyszuk227;reason;QC_CAUSE
+pytki62;Z kim graniczy Polska?;http://pl.wikipedia.org/wiki/Granice_Polski;wikiGranice#Polski;country;QC_PER:ARG
+pytki41;Co to jest asymptota?;http://pl.wikipedia.org/wiki/Asymptota;wikiAsymptota;definition;QC_DEF:BE
+pytki39;Co to jest projekt denko?;http://www.netkobiety.pl/t22754.html;pytki39;definition;QC_DEF:BE
+wyszuk3;Co to znaczy "swag"?;http://www.miejski.pl/slowo-SWAG;wyszuk3;expression;QC_DEF:MEANING
+wyszuk461;Jakim gatunkom psów obcina się ogony?;http://forum.hard-core.pl/viewtopic.php?f=10&t=41927;wyszuk461;animal;QC_DIRECT
+wyszuk268;Jak powstał dubstep?;http://pl.wikipedia.org/wiki/Dubstep;wikiDubstep;manner;QC_PROCEDURE
+pytki131;Z kim będzie walczył Adamek?;http://sport.tvp.pl/8830416/inne/sporty-walki/boks/aktualnosci/adamek-bedzie-walczyl-z-cunninghamem;pytki131;individual;QC_PER:ARG
+wyszuk332;Z czego słynie Islandia?;http://zapytaj.onet.pl/Category/011,003/2,2690807,z_czego_slynie_islandia.html;wyszuk332;description;QC_NONPER
+wyszuk286;Czemu rosół jest mętny?;http://f.kafeteria.pl/temat.php?id_p=3285199;wyszuk286;reason;QC_CAUSE
+wyszuk417;Do czego zobowiązuje chrzest?;http://zapytaj.onet.pl/Category/002,017/2,4012619,Do_czego_zobowiazuje_nas_chrzest_swiety.html;wyszuk417;description;QC_NONPER
+wyszuk269;Jak powstaje tęcza?;http://www.sciaga.pl/tekst/94393-95-jak_powstaje_tecza;wyszuk269;manner;QC_PROCEDURE
+wyszuk141;Dlaczego robią się zajady?;http://portal.abczdrowie.pl/domowe-sposoby-na-zajady#;wyszuk141;reason;QC_CAUSE
+wyszuk82;Którą ze swoich decyzji zmienia Roland w trakcie walki?;http://zadane.pl/zadanie/3124509;wyszuk82;description;QC_DIRECT
+wyszuk440;Czym karmić chomika?;http://www.mporady.pl/jak-karmic-chomika.html;wyszuk440;food;QC_NONPER
+wyszuk384;Którędy z Krakowa do Pragi?;http://www.grupy.v10.pl/Krakow,gt,Praga,1,1611595,2007_05.html;wyszuk384;location-other;QC_LOC:TRAJ
+wyszuk284;Czemu Hitler przegrał wojnę?;http://www.historiarybnik.fora.pl/historia,49/dlaczego-hitler-przegral-wojne,51.html;wyszuk284;reason;QC_CAUSE
+wyszuk517;W jaki sposób ludzie dostosowują się do zmian pogody?;http://zadane.pl/zadanie/1819131;wyszuk517;manner;QC_PROCEDURE
+wyszuk513;O jakiej porze dnia najlepiej ćwiczyć?;http://vitalia.pl/forum24,502091,0_Kiedy-najlepiej-cwiczyc.html;wyszuk513;date;QC_DIRECT
+wyszuk318;Na ile starcza e-papieros?;http://zapytaj.onet.pl/Category/032,005/2,21688734,Na_ile_starcza_epapieros.html;wyszuk318;count;QC_QUANTITY:GEN
+pytki90;Skąd tyle kurzu w łazience?;http://f.kafeteria.pl/temat.php?id_p=3675451;pytki90;reason;QC_CAUSE
+wyszuk138;Dlaczego wypadają włosy?;http://www.resmedica.pl/uroda/gdy-wypadaja-wlosy;wyszuk138;reason;QC_CAUSE
+wyszuk302;Jak po latach zdać maturę?;http://www.doroslimatura.pl/poznan/matura-dla-doroslych-wazne/;wyszuk302;manner;QC_PROCEDURE
+wyszuk494;Jakie uprawnienia ma prezydent?;http://pl.wikipedia.org/wiki/Prezydent_Rzeczypospolitej_Polskiej;wikiPrezydent#Rzeczypospolitej#Polskiej;description;QC_DIRECT
+wyszuk85;Jakiego koloru jest pluskwa?;http://www.themar.com.pl/weterynaria/szkodniki/pluskwa;wyszuk85;color;QC_DIRECT
+wyszuk603;Po ile stoi dolar?;http://www.kursdolara.net/;wyszuk603;money;QC_QUANTITY:PRICE
+wyszuk594;Za ile punktów zabierają prawo jazdy?;http://zabraneprawojazdy.pl/;wyszuk594;count;QC_QUANTITY:GEN
+wyszuk228;Dlaczego samolot lata?;http://zapytaj.onet.pl/Category/015,006/2,6259,dlaczego_samoloty_lataja.html;wyszuk228;reason;QC_CAUSE
+wyszuk51;Na czym polega badanie EEG?;http://eegzamosc.republika.pl/co_to_jest_eeg.htm;wyszuk51;description;QC_NONPER
+pytki155;Jak się najlepiej opalić?;http://kopalniawiedzy.pl/opalanie-promieniowanie-ultrafioletowe-UV-uszkodzenia-DNA-naprawa-enzym-XPA-Aziz-Sancar,14164;pytki155;manner;QC_PROCEDURE
+wyszuk371;Gdzie Autocad zapisuje kopie zapasowe?;http://forum.cad.pl/automatyczny-zapis-t46949.html;wyszuk371;location-other;QC_LOC:PLACE
+pytki47;Gdzie znajdę informacje o wysokości mienia Skarbu Państwa?;http://pytki.pl/gdzie-znajde-informacje-o-wysokosci-mienia-skarbu-panstwa,455;pytki47;institution;QC_LOC:PLACE
+pytki35;Ile wynosi nowe minimalne wynagrodzenie?;http://prawo.rp.pl/artykul/937491.html;pytki35;money;QC_QUANTITY:GEN
+pytki241;Jak przerobić foto?;http://pececik.blogspot.com/2010/03/foto-efekty-przerabianie-zdjec-jak.html;pytki241;manner;QC_PROCEDURE
+wyszuk178;Po co nam sen?;http://pl.wikipedia.org/wiki/Sen;wikiSen;reason;QC_CAUSE
+wyszuk519;Po co mieć dzieci?;http://www.teksty.jeja.pl/69,20-powodow-dla-ktorych-warto-miec.html;wyszuk519;reason;QC_CAUSE
+wyszuk26;Kto to są masoni?;http://wiara.arachbox.com/Masoni;wyszuk26;definition;QC_DEF:PER
+wyszuk313;Co ile karmić noworodka?;http://dziecko-info.rodzice.pl/archive/index.php/t-100771.html;wyszuk313;period;QC_TEMP:QUANT
+wyszuk401;Nad czym zastanawia się biblijny Kohelet?;http://zadane.pl/zadanie/1103347;wyszuk401;description;QC_NONPER
+wyszuk342;Z czym rozrobić spirytus?;http://www.zaradni.pl/porada/4902,jak_rozrobic_spirytus;wyszuk342;food;QC_NONPER
+pytki133;Jakie są konsekwencje za nierozliczony PIT?;http://www.pit.pl/aktualnosci-podatkowe/2011/archiwum-2011-v/1205-co-grozi-za-nierozliczenie-pita-9873/;pytki133;description;QC_STATE:GEN
+wyszuk7;Kto to jest hipster?;http://zapytaj.onet.pl/Category/001,003/2,20143707,Kto_to_hipster.html;wyszuk7;definition;QC_DEF:PER
+wyszuk197;Z jakiej mąki jest chleb razowy?;http://pl.wikipedia.org/wiki/Chleb_razowy;wikiChleb#razowy;substance;QC_DIRECT
+wyszuk113;Jak zrobić twaróg?;http://www.kuron.com.pl/forum/viewtopic.php?p=16040;wyszuk113;manner;QC_PROCEDURE
+wyszuk124;Dlaczego zginął John Kennedy?;http://www.historycy.org/index.php?showtopic=4634&st=75;wyszuk124;reason;QC_CAUSE
+wyszuk504;Jakie jest najgłębsze jezioro w Polsce?;http://pl.wikipedia.org/wiki/Ha%C5%84cza_%28jezioro%29;wikiHa_324_cza#_40_jezioro_41_;lake;QC_STATE:GEN
+wyszuk218;Jakiego języka warto się uczyć?;http://swiatjezykow.blogspot.com/2011/02/jakiego-jezyka-warto-sie-uczyc.html;wyszuk218;language;QC_DIRECT
+pytki66;Jak zmienić język klawiatury?;http://www.laart.eu/pc_serwis/zmiana_jezyka_klawiatury.htm;pytki66;manner;QC_PROCEDURE
+wyszuk266;Jak rzucić palenie?;http://jak-rzucic-palenie.com.pl/;wyszuk266;manner;QC_PROCEDURE
+wyszuk179;Kiedy przylatuje jemiołuszka?;http://zadane.pl/zadanie/4302357;wyszuk179;date;QC_TEMP:MOM
+wyszuk414;Do czego Bóg powołał Mojżesza?;http://zadane.pl/zadanie/589713;wyszuk414;description;QC_NONPER
+pytki93;Czym usunąć kamień z toalety?;http://f.kafeteria.pl/temat.php?id_p=3573399;pytki93;substance;QC_NONPER
+wyszuk163;W jaki sposób badamy inne planety?;http://zadane.pl/zadanie/4276269;wyszuk163;manner;QC_PROCEDURE
+wyszuk450;Czym uszczelnić okna?;http://swiatowid.blox.pl/2004/11/Tanie-grzanie.html;wyszuk450;substance;QC_NONPER
+wyszuk160;W jaki sposób Grecy i Rzymianie czcili bogów?;http://zadane.pl/zadanie/78850;wyszuk160;manner;QC_PROCEDURE
+pytki83;Co to jest grafen?;http://pl.wikipedia.org/wiki/Grafen;wikiGrafen;definition;QC_DEF:BE
+wyszuk32;Co to jest sumienie?;http://pl.wikipedia.org/wiki/Sumienie;wikiSumienie;definition;QC_DEF:BE
+wyszuk16;Na czym polega skraplanie powietrza?;http://zadane.pl/zadanie/42129;wyszuk16;description;QC_NONPER
+wyszuk299;Jak po japońsku jest "przepraszam"?;http://zapytaj.onet.pl/Category/015,009/2,19411770,Jak_po_japonsku_jest_przepraszam.html;wyszuk299;expression;QC_STATE:GEN
+pytki116;Czemu nie można dzielić przez 0?;http://www.matematyka.wroc.pl/doniesienia/klopotliwe-pytania-5-dlaczego-nie-mozna-dzielic-przez-zero;pytki116;reason;QC_CAUSE
+wyszuk419;Do czego lipa jest przydatna ludziom?;http://zapytaj.onet.pl/Category/027,004/2,22241858,Do_czego_moze_byc_przydatna_ludzia_lipa.html;wyszuk419;description;QC_NONPER
+wyszuk323;Z którym filozofem kojarzone jest pojęcie złotego środka?;http://www.sciaga.pl/tekst/5273-6-arstoteles_teoria_zlotego_srodka;wyszuk323;individual;QC_DIRECT
+wyszuk155;Dlaczego błonnik jest ważny?;http://www.bryk.pl/teksty/liceum/biologia/cz%C5%82owiek/18793-zasady_zdrowego_od%C5%BCywiania.html;wyszuk155;reason;QC_CAUSE
+wyszuk379;Którędy przebiega autostrada A1?;http://pl.wikipedia.org/wiki/Autostrada_A1_%28Polska%29;wikiAutostrada#A1#_40_Polska_41_;location-other;QC_LOC:TRAJ
+wyszuk314;Co ile wymieniać olej?;http://www.forumsamochodowe.com/ogolnie-o-samochodach/3335-co-ile-wymiana-oleju.html;wyszuk314;period;QC_TEMP:QUANT
+wyszuk366;Gdzie wyrobić paszport?;http://wyrobieniepaszportu.pl/gdzie-wyrobic-paszport.html;wyszuk366;institution;QC_LOC:PLACE
+pytki143;Jak usunąć oś czasu na Facebooku?;http://zapytaj.onet.pl/Category/007,018/2,21042614,Jak_usunac_os_czasu_na_facebooku_.html;pytki143;manner;QC_PROCEDURE
+wyszuk556;Kogo wskrzesił Jezus?;http://zapytaj.onet.pl/Category/002,017/2,3428197,Kogo_wskrzesil_Jezus_Chrystus.html;wyszuk556;individual;QC_PER:ARG
+pytki79;Jak zrobić stojak na biżuterię?;http://wariatkki2-artfashion.blogspot.com/2012/01/jak-zrobic-stojak-na-bizuterie.html;pytki79;manner;QC_PROCEDURE
+wyszuk537;Po co pisano kroniki?;http://www.bryk.pl/s%C5%82owniki/s%C5%82ownik_historyczny/88216-kronika_z_gr_chronika_roczniki.html;wyszuk537;reason;QC_CAUSE
+wyszuk53;Na czym polega dieta Dukana?;http://cafeteria.pl/zdrowie/dieta/dieta-dukana/;wyszuk53;description;QC_NONPER
+wyszuk133;Dlaczego puchną nogi?;http://zdrowie.gazeta.pl/Zdrowie/1,105912,39443.html;wyszuk133;reason;QC_CAUSE
+wyszuk509;Jakie były losy królestwa Aleksandra Macedońskiego po jego śmierci?;http://zadane.pl/zadanie/263265;wyszuk509;description;QC_STATE:GEN
+pytki132;Z kim będzie walczył Pudzian?;http://expressilustrowany.pl/pudzianowski-bedzie-walczyl-z-przyjacielem,artykul.html?material_id=50b643f1fbaedd8546010000;pytki132;individual;QC_PER:ARG
+pytki78;Z czym zrobić jajecznicę?;http://zapytaj.onet.pl/Category/016,003/2,12546414,Z_czym_najlepsza_jest_jajecznica_.html;pytki78;food;QC_NONPER
+wyszuk477;Jaka jest najniższa krajowa?;http://praca.wp.pl/title,Malo-zarabiasz-Oni-maja-jeszcze-gorzej,wid,14265954,wiadomosc.html;wyszuk477;money;QC_STATE:GEN
+wyszuk462;Jaki zawód jest najbardziej opłacalny?;http://dojrzewamy.pl/pyt/104082/jaki-jest-najbardziej-oplacalny-zawod;wyszuk462;description;QC_DIRECT
+wyszuk503;Jakie firmy mogą zawiesić działalność gospodarczą?;http://poradnik.wfirma.pl/-zawieszenie-prowadzenia-dzialalnosci-gospodarczej;wyszuk503;company;QC_DIRECT
+pytki54;Gdzie znajdę informacje nt. poprawności wykonania budżetu?;http://pytki.pl/gdzie-znajde-informacje-nt-poprawnosci-wykonania-budzetu,433;pytki54;institution;QC_LOC:PLACE
+wyszuk563;Jak manipulować ludźmi?;http://www.tipy.pl/artykul_3771,jak-manipulowac-ludzmi.html;wyszuk563;manner;QC_PROCEDURE
+wyszuk329;O której się robi jasno?;http://www.poloniaberlin.de/forum/topics35/o-ktorej-robi-sie-na-dworze-jasno-vt16254.htm;wyszuk329;date;QC_TEMP:MOM
+wyszuk486;Jakie są dodatki do The Sims 3?;http://zapytaj.onet.pl/Category/029,014/2,20335661,Jakie_sa_dodatki_do_the_sims_3.html;wyszuk486;title;QC_STATE:GEN
+wyszuk528;Po co jest podwiązka?;http://pl.wikipedia.org/wiki/Podwi%C4%85zka;wikiPodwi_261_zka;reason;QC_CAUSE
+wyszuk479;Jaka rzeka przepływa przez Londyn?;http://www.rybnikpogodzinach.pl/Tamiza_w_Londynie.html;wyszuk479;river;QC_DIRECT
+wyszuk13;Z czym się pije martini?;http://f.kafeteria.pl/temat.php?id_p=3175299;wyszuk13;food;QC_NONPER
+wyszuk152;Dlaczego bolą stawy?;http://dbamozdrowie.org/dlaczego-bola-stawy.html;wyszuk152;reason;QC_CAUSE
+wyszuk241;Ilu kolarzy pojawiło się na największej paradzie rowerów na świecie?;http://flash.bikestats.pl/705375,Dookola-Europy-dzien-9.html;wyszuk241;count;QC_QUANTITY:GEN
+pytki77;Wieczne zmęczenie - co jest przyczyną?;http://wizaz.pl/forum/showthread.php?t=298814;pytki77;reason;QC_CAUSE
+wyszuk12;Czym się odżywia czeczotka?;http://zadane.pl/zadanie/4242108;wyszuk12;food;QC_NONPER
+wyszuk451;Czym usunąć rdzę?;http://www.rynekjubilerski.pl/pokaz.php?id=677;wyszuk451;substance;QC_NONPER
+q1;Przez jaki okres czasu należy przechowywać kopie paragonów?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103195;a1;period;QC_TEMP:PER
+q101;Kiedy powstaje obowiązek ewidencjonowania obrotu przy zastosowaniu kasy rejestrującej?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103198;a101;description;QC_TEMP:MOM
+q103;Jakie warunki należy spełnić, aby przysługiwała ulga z tytułu zakupu kasy rejestrującej?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103200;a103;description;QC_DIRECT
+q104;Kiedy podatnik rozpoczynający w ciągu roku podatkowego działalność gospodarczą musi zarejestrować się do VAT?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103201;a104;description;QC_TEMP:MOM
+q106;Czy mogę ubiegać się o zwrot części VAT od wydatków budowlanych, które poniosłem przed uzyskaniem pozwolenia na budowę?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103203;a106;yes-no;QC_DECISION
+q185;Jakie są ulgi dla podatników mających kłopoty?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103290;a185;description;QC_DIRECT
+q186;Co to jest pomoc publiczna?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103291;a186;definition;QC_DEF:BE
+q190;Czy wcześniejsze rozwiązanie umowy leasingu operacyjnego - która w dacie zawarcia spełniała kryteria określone w art. 23b ust. 1 updof - skutkuje koniecznością korekty kosztów uzyskania przychodów?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103296;a190;yes-no;QC_DECISION
+q194;Czy środki otrzymane od agencji rzadowych podlegają zwolnieniu od podatku dochodowego od osób fizycznych?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103300;a194;yes-no;QC_DECISION
+q195;Czy dochody małżonków uzyskiwane z wynajmu nieruchomości będącej ich wspólną własnością mogą być deklarowane do opodatkowania tylko przez jednego z nich?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103301;a195;yes-no;QC_DECISION
+q2;Jak często należy dokonywać przeglądów okresowych kas?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103306;a2;period;QC_TEMP:QUANT
+q209;Czy może stanowić koszt uzyskania przychodu naliczony podatek VAT związany z wydatkami na reprezentację, które stosownie do art. 16 ust. 1 pkt 28 ustawy o podatku dochodowym od osób prawnych nie stanowią kosztu uzyskania przychodu?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103317;a209;yes-no;QC_DECISION
+q22;Jakie trzeba spełniać warunki, aby skorzystać z ulgi rehabilitacyjnej?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103329;a22;description;QC_DIRECT
+q225;Czy w związku z zawarciem przedwstępnej umowy sprzedaży należy uiścić podatek od czynności cywilnoprawnych?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103335;a225;yes-no;QC_DECISION
+q254;Jak mam dołączyć załączniki do mojego zeznania PIT-37?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103367;a254;manner;QC_PROCEDURE
+q80;Jakie warunki muszę spełnić aby skorzystać z ulgi na zakup kasy rejestrującej w 2009 r. będąc osobą korzystającą ze zwolnienia podmiotowego (zgodnie z ustawą o VAT)?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103429;a80;description;QC_DIRECT
+q83;Jakie są podstawowe obowiązki podatnika prowadzącego ewidencję obrotu i kwot podatku należnego przy zastosowaniu kas rejestrujących?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103432;a83;description;QC_STATE:GEN
+q87;Kiedy przysługuje zwrot nadwyżki podatku naliczonego nad należnym w terminie skróconym – 25 dni?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103436;a87;description;QC_TEMP:MOM
+q93;Jakie są podstawowe obowiązki podatnika prowadzącego ewidencję obrotu i kwot podatku należnego przy zastosowaniu kas rejestrujących?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103443;a93;description;QC_STATE:GEN
+q97;Jakie warunki musi spełnić podatnik, aby ponownie skorzystać ze zwolnienia podmiotowego z podatku od towarów i usług?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103447;a97;description;QC_DIRECT

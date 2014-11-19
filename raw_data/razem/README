@@ -1,0 +1,30 @@
+RAZEM QUESTIONS SET
+
+In this directory contains questions from different questions sets:
+> hipisek
+> pytki
+> wyszukiwarki
+> urząd skarbowy
+
+File 'razem_test_all.csv' (598) is set of randomly selected questions from different questions sets. It was using to testing QuestionAnswering module efficiency.
+File 'razem_test.csv' (550) is corrected and cleaned version of 'razem_test_all.csv' set. It was using to testing QuestionAnswering module efficiency.
+File 'razem_eval.csv' (544) is set of randomly selected questions from different questions sets (no question from 'razem_test.csv' set). It was using to evaluating QuestionAnswering module efficiency.
+
+Those three files have the same structure with sections:
+
+>>> id;question_text;answer_document_link;answer_document_id;expected_answer_type;question_class <<<
+
+where:
+
+> id                    - id of question in data set
+> question_text         - question text
+> answer_document_link  - link to document, which is suggested answer on given question
+> answer_document_id    - id of answer document
+> expected_answer_type  - expected type of an answer
+> question_class        - stuctural class of a question
+
+
+Old files and theirs new names:
+> razem_eval/razem_eval.csv         ---->   razem/razem_eval.csv
+> razem_test/razem_test.csv         ---->   razem/razem_test.csv
+> razem_test/razem_test_old.csv     ---->   razem/razem_test_all.csv

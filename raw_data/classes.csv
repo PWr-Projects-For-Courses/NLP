@@ -1,0 +1,84 @@
+BOOLEAN;if-if;;;;;pytanie typu czy-czy
+BOOLEAN;yes-no;;;;;pytanie typu tak-nie
+DESCRIPTION;definition;;;;;pytanie o wyjaśnienie, zdefiniowanie wyrazu, terminu, skrótu lub symbolu, pytanie o rozwinięcie skrótu, skrótowca (odpowiedzią będzie pełna nazwa, która uległa skróceniu), pytanie o tłumaczenie na język polski (odpowiedzią jest odpowiednik słowa, wyrażenia obcojęzycznego w języku polskim)
+DESCRIPTION;description;;;;;pytanie o opis, pytanie o większą ilości informacji, pytanie o szczegóły, uszczegółowienie, o dokładniejszy opis
+DESCRIPTION;description-other;;;;;pytanie o opisy inne niż wyszczegółowione w ramach etykiety DESCRIPTION
+DESCRIPTION;expression;;;;znak językowy 1;"pytanie o słowo, wyrażenie, skrót lub symbol (musi jawnie dotyczyć wyrażenia językowego), pytania o tłumaczenie z polskiego na inny język (odpowiedzią jest słowo bądź wyrażenie), pytania typu: ""Jaki jest skrót (...)?"", ""Podaj rzeczownik na 4 litery, zaczynający się od P?"", ""Jaki symol ma argon?"", UWAGA: jeśli pasuje do innej klasy, to należy ją wybrać (np. ""Jak nazywa się odpowiednik Polopiryny?"" to pytanie typu artifact)"
+DESCRIPTION;manner;;;;sposób 2;pytanie o sposób, procedurę uzyskania czegoś, przepis(np. Przepis a ciasto) 
+DESCRIPTION;reason;;;;;pytanie o przyczynę, motywacje
+ENTITY;animal;;zw;animal_nam;zwierzę 1, człowiek o płci męskiej 1, człowiek o płci żeńskiej 1;pytania o zwierzęta
+ENTITY;artifact;;;brand_nam [częściowo];przedmiot 1, lekarstwo 1;"pytanie o narzędzia i urządzenia, przedmioty fizyczne służące jakiemuś celowi, także wszelkie inne rzeczy wytworzone (w tym marki i nazwy produktów, leków, np. IPhone - o ile nie podpada pod inną kategorię, np. marki samochodów to ""vehicle"")"
+ENTITY;Body-part;;czc;;część ciała 1, element anatomiczny 1;pytanie o części ciała
+ENTITY;building;;;facility_nam;obiekt budowlany 1;pytanie o budynki i obiekty budowlane
+ENTITY;color;;;;kolor 1;pytanie o kolory
+ENTITY;currency;;il;currency_nam;jednostka monetarna 2;pytanie o waluty, jednostki monetarne
+ENTITY;dis-med;;;;zaburzenie 2;"pytanie o choroby, nazwy objawów, leczenie, nazwy terapii, itp. (ale już nie nazwy leków, nie dawkowanie - to kategoria ""manner"")"
+ENTITY;entity-other;;;[dużo];obiekt fizykalny, którego części są połączone bezpośrednio 1;pytanie o pozostałe, niewyposzczególnieone w innych klasach ENTITY byty fizyczne lub abstrakcyjne, ale nieosobowe (osobowe należą do etykiety HUMAN)
+ENTITY;event;;;event_nam;wydarzenie 1, rozgrywka 1;pytanie o wydarzenia społeczne, kulturalne, historyczne (np. wojny), sportowe, wydarzenia dnia codziennego
+ENTITY;food;;jedz;brand_nam [częściowo];produkt spożywczy 1;pytanie o jedzenie, posiłki, produkty spożywcze
+ENTITY;ideology;;;;teoria 4, pogląd 1, technologia 1, dziedzina 1, nauka 1, zasada 4, prawo 3, model 1;pytanie o ideologie, teorie naukowe, prawa, technologie, religie, wierzenia, zabobony, wszelakie systemy myślowe
+ENTITY;intellect-other;document;;document_nam;akt 1, orzeczenie 1, postanowienie 2;pytanie o dokumenty, akty, orzeczenia, postanowienia, inne pisma
+ENTITY;intellect-other;licence;;licence_nam;licencja 2;pytanie o licencje, uprawnienia
+ENTITY;intellect-other;software;;software_nam;program 1 program komputerowy 1, oprogramowanie 1, software 1;pytanie o programy, pakiety oporogramowania (w tym gry i systemy operacyjne)
+ENTITY;intellect-other;title;;title_nam;utwór 1, dzieło 1;pytanie o tytuły utworów i dzieł
+ENTITY;intellect-other;treaty;;treaty_nam;umowa 1, porozumienie 1;pytanie o traktaty, umowy, porozumienia
+ENTITY;intellect-other;web-page;;web_nam;strona 7, strona internetowa 1, strona WWW 1, witryna 1;pytanie o adresy stron internetowych
+ENTITY;intellect-other;www-address;;www_nam;domena 3, adres internetowy 1, adres 1;pytanie o domeny, adresy mailowe, serwisy internetowe
+ENTITY;language;;;;język 1;"pytanie o język i pojęcia językoznawcze (nazwy części mowy, konstrukcji językowych, itp.), np. ""Jaką część mowy ma słowo ""wąglik""?"", ""Jakim językiem mówi się w Urugwaju?"" (nie należą tu pytania o języki programowania ani pytania o synonimy słów, tłumaczenia, itp.)"
+ENTITY;natural-phenomenon;;;;skała 2, osad 1, głaz 1, teren 1, przedmiot naturalny 1, zjawisko naturalne 1, kropla 4, płat 2, obiekt astronomiczny 1, obiekt geograficzny 1;pytanie o przedmioty typu: kamień, patyk, kropla wody, deszcz, burza, zjawiska naturalne, itp.
+ENTITY;plant;;rsl;plant_nam;roślina 1, organ rośliny 1;pytanie o rośliny
+ENTITY;substance;;sbst;brand_nam [częściowo];substancja 1;pytanie o substancje
+ENTITY;system;;;system_nam;system operacyjny 1, struktura ,2 system 7, układ 1;pytanie o nazwy konkretnych instancji fizycznych systemów posiadających własną infrastrukturę i realizujących określone cele (np. systemy informatyczne, ostrzegawcze, EPI, ECURIE, itp.)
+ENTITY;vehicle;;;brand_nam, vehicle_nam;pojazd 2;pytanie o nazwy pojazdów (w tym marki aut)
+HUMAN;group;;;nation_nam;grupa ludzi 1;"pytanie o grupę ludzi, grono, społeczność (np. ""Kto pracuje w Samsungu?"")"
+HUMAN;human-other;;;;osoba 4;pytanie o człowieka, ludzi, którego nie da się przypisać do innej klasy w ramach etykiety HUMAN
+HUMAN;individual;;os;person_add_nam, person_first_nam, person_group_nam, person_last_nam, person_adj_nam, person_nam;osoba 1, istota fantastyczna 1, humanoid 1;"pytanie o jedną, konkretną osobę (np. ""Kto jest premierem Australii?"", ""Kim był Piłsudski?"")"
+HUMAN;organization-other;band;;band_nam;zespół muzyczny 1, zespół 6, ekipa 3, team 2, załoga 3, klub 2;pytanie o nazwę zespółu muzycznego, drużyny, klubu, zespołu, teamu, tandemu, ekipy, załogi
+HUMAN;organization-other;company;;company_nam;firma 1, interes 3, biznes 2, buisness 1, przediębiortwo 1, półka 1, armator 1;pytanie o nazwę zakładu, korporacji, firmy, fabryki
+HUMAN;organization-other;institution;;institution_nam;instytucja 1, instytucja publiczna 1, instytucja 2;pytanie o nazwę instytucji, resortu, szkoły
+HUMAN;organization-other;media;;institution_nam;telewizja 4, stacja telewizyjna 1, media 2, czwarta władza 1, masmedia 1, publikatory 1, środki masowego przekazu 1, mas-media 1, program 6;pytanie o media, stacje telefizyjne, rozgłośnie radiowe
+HUMAN;organization-other;organization;;organization_nam;organizacja 1;pytanie o organizacje
+HUMAN;organization-other;organization-sub;;organization_sub_nam;organizacja międzynarodowa 1, jednostka organizacyjna 1, dział 2, wydział 3, pion 2, sekcja 3, wydział 5;pytanie o działy, wydziały, piony, sekcje, jednostki organizacji, etc.
+HUMAN;organization-other;periodic;;periodic_nam;grupa 5, czasopismo 1, periodyk 1, pismo 1, tytuł prasowy 1;pytanie o periodyki, pisma, czasopisma, gazety
+HUMAN;organization-other;political-party;;political_party_nam;partia 1, stronnictwo 1, ugrupowanie 3, formacja 2, opcja 1;pytanie o partie polityczne
+LOCATION;astronomical-object;;;astronomical_nam;ciało niebieskie 1, czarna dziura 1, przestrzeń pozaziemska 1, kosmos 2, przestrzeń kosmiczna 1;pytanie o przestrzeń pozaziemską, obiekty astronomiczne, etc.
+LOCATION;city-part;;;conurbation_nam, district_nam, park_nam, subdivision_nam;dzielnica 1;pytanie o obszary wyróżnione w obrębie miasta
+LOCATION;country;;msc;country_nam;państwo 1;pytania o państwa
+LOCATION;country-part;admin1;;admin1_nam;województwo 1, prowincja 1, kraj 4;pytanie o województwa, prowincje, landy, stany
+LOCATION;country-part;admin2;;admin2_nam;powiat 1;pytanie o powiaty, hrabstwa
+LOCATION;country-part;admin3;;admin3_nam;gmina 1, dzielnica 1, rejon 2, dzielnica miasta 1;pytanie o gminy, dzielnice miast
+LOCATION;country-part;country-region;msc;country_region_nam;region 1;"pytanie o element wyróżniony w podziale kraju, nie pasujący do innych podklas wyróżnionych w ramach klasy ""country-part"""
+LOCATION;country-part;historical-region;;historical_region_nam;kraina historyczna 1;pytanie o krainy historyczne
+LOCATION;country-part;other;;;jednostka administracyjna 1;pytanie o inne jednostki administracyjne, nie pasujące do pozostałych klas etykiety LOCATION
+LOCATION;geographical-other;bay;;bay_nam;zatoka 2, zakole 2, zalew 2;pytanie o zatoki, zalewy, zakola
+LOCATION;geographical-other;cape;;cape_nam;przylądek 1, cypel 2;pytanie o przylądeki, cyple
+LOCATION;geographical-other;continent;;continent_nam;stały ląd 1, kontynent 1;pytanie o kontynenty, stały ląd
+LOCATION;geographical-other;island;;island_nam;wyspa 1;pytanie o wyspy, archipelagi
+LOCATION;geographical-other;lagoon;;lagoon_nam;laguna 1;pytanie o laguny
+LOCATION;geographical-other;lake;;lake_nam;jezioro 2, zbiornik wodny 1, akwen 1;pytanie o jeziora, akweny, zbiorniki wodne
+LOCATION;geographical-other;mountain;;mountain_nam;wzniesienie 5, wyniosłość 2;pytanie o wzniesienia, wyniosłości, góry
+LOCATION;geographical-other;ocean;;ocean_nam;ocean 1;pytanie o oceany
+LOCATION;geographical-other;other;;toponymy_nam;miejsce 1, obszar 1, woda 4;"pytanie o miejsca, obszary nie pasujące do innych podklas klasy ""geographical-other"""
+LOCATION;geographical-other;peninsula;;peninsuala_nam;półwysep 1;pytanie o półwyspy
+LOCATION;geographical-other;region;;region_nam;region 2, ziemia 6, rejon 1, kraina 3, kraj 2;pytanie o regiony, krainy
+LOCATION;geographical-other;river;;river_nam;ciek wodny 1;pytanie o rzeki
+LOCATION;geographical-other;sandspit;;sandspit_nam;mierzeja 1;pytanie o mierzeje
+LOCATION;geographical-other;sea;;sea_nam;morze 1;pytanie o morza
+LOCATION;location-other;;msc;toponymy_nam;miejsce 1, obszar 1, woda 4, półwysep 1;"pytanie o wszelakie inne miejsca albo niedospecyfikowane pytania (np. ""Gdzie jest X?"")"
+LOCATION;settlement;;msc, grp;city_nam;miejscowość 1, zabudowanie 1, zabudowanie 3;pytanie o miejscowości, miasta, aglomeracje
+LOCATION;street;square;;square_nam;plac 1, przecięcie 6;pytanie o nazwy placów (np. plac Grunwaldzki)
+LOCATION;street;street;;road_nam;ulica 1, park 1, ciąg 2;pytanie o różne formy ulic
+NUMERIC;count;;il;;liczba 1;"pytanie o liczności zbiorów (np. ""Ile kropek ma biedronka?"", ""Ile razy dziennie podaje się Polopirynę?"")"
+NUMERIC;date;;;;termin 1, chwila 1, dzień 1;pytanie o daty, momenty w czasie
+NUMERIC;distance;;;;interwał 3, jednostka długości 1, odległość 1;pytanie o odległości
+NUMERIC;money;;;;pieniądze 1, cena 2, należność 1;pytanie o ceny
+NUMERIC;numeric-other;;;;jednostka 4, jednostka czasu 1, parametr 1;pytanie o inne wartości numeryczne, nie pasujące do pozostałych klas etykiety NUMERIC
+NUMERIC;order;;;;układ 3;pytanie o porządek, kolejność
+NUMERIC;percent;;il;;procent 1, procent 2, promil 1, porcja 1, kawałek 2, ćwiartka 2;pytanie o części, odsetki, ułamki, procenty czegoś
+NUMERIC;period;;;;czas 3, jednostka czasu 1;pytanie o okresy czasu
+NUMERIC;size;;il;;wymiar 2, liczba 1;pytanie o rozmiary
+NUMERIC;speed;;;;prędkość 2;pytanie o szybkości, prędkości
+NUMERIC;temp;;;;temperatura 1;pytanie o temperatury
+NUMERIC;weight;;;;ciężar 1;pytanie o wagi, ciężary
+SITUATION;action;;;;czynność 1;pytanie o akcje, czynności
+SITUATION;situation-other;;;;;"pytanie o inne sytuacje, nie pasujące do klasy ""action"""

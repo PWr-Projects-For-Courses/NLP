@@ -1,4 +1,37 @@
-NLP
-===
+Inżynieria języka naturalnego
+=============================
 
-Inżynieria języka naturalnego (2014/2015, sem. zim.) śr. 13:15
+Kod programu na którym opiera się projekt.
+
+Grupa zajęciowa
+---------------
+
+Rok akademicki 2014/2015
+
+Semestr zimowy
+
+Śr. 13:15
+
+Autorzy
+-------
+
+* Jacek Miszczak (179158)
+* Filip Malczak (179326)
+
+Dev Notes
+---------
+
+> Zawartość tego i kolejnych rozdziałów nie powinna być brana pod uwagę przy ocenie; są to jedynie prywatne notatki.
+
+1. Tym razem w komentarzach i dokumentach używajmy j. polskiego. Jakby nie patrzeć, nim się zajmujemy... Klasy i
+zmienne - klasycznie, po angielsku ~F
+2. Dla ujednolicenia używajmy terminów "question class" (qc) i "expected answer type" (eat) zamiast "klasa pytania"
+i "oczekiwany typ odpowiedzi" (OTO) ~F
+3. Proszę o dodawanie takiej formułki na górę każdego modułu, na rzecz wygody na linuksie:
+
+> \#!/usr/bin/python2
+
+> \# -*- coding: UTF-8 -*-
+
+4. w module main jedyne co się zmienia to moduł z pakietu question_classification. Jeśli piszemy skrypty, to wystawiamy
+z nich funkcję main przyjmującą sys.argv która zostanie tam (w main.py) wywołana. ~F

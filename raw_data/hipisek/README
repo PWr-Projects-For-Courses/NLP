@@ -1,0 +1,42 @@
+HIPISEK QUESTIONS SET
+
+In this directory there are files with questions comming from Hipisek.pl service and from Urząd Skarbowy (Polish Tax Office).
+
+In 'questions' directory there are files containing questions from those services divided by two subsets.
+All questions from 'hipi_part1.csv' (254) and 'hipi_part2.csv' (256) were merged into one set in 'hipi_all.csv' (510) file.
+In file 'hipi.csv' (499) there are cleaned and corrected questions from 'hipi_all.csv' set.
+
+All those files have the same structure with sections:
+
+>>>   id ; question_text ; expected_answer_type ; question_class   <<<
+
+where:
+
+> id                    - id of question in data set
+> question_text         - question text
+> expected_answer_type  - expected type of an answer
+> question_class        - stuctural class of a question
+
+
+In 'questions_answers' directory there are files containing questions from 'hipi_part2.csv' subset with url addresses to answer documents for those questions.
+File 'hipi_ans_all.csv' (309) contains mainly questions from 'hipi_part2.csv' subset and some additional questions (any comes from 'hipi_part1.csv' subset).
+File 'hipi_ans_clean.csv' (246) contains only questions for which answer document were found, but contains some duplicates. It's obsoleted set and exist only because it was using for tests, earlier then file 'hipi_ans.csv' was created.
+File 'hipi_ans.csv' (236) containes cleand and corrected version of 'hipi_ans_clean.csv' set, without duplicates nor language errors.
+
+Those three files have the same structure with sections:
+
+>>>   id ; question_text ; answer_document_link ; expected_answer_type ; question_class   <<<
+
+where:
+
+> id                    - id number of question in data set
+> question_text         - question text
+> answer_document_link  - link to document, which is suggested answer on given question
+> expected_answer_type  - expected type of an answer
+> question_class        - stuctural class of a question
+
+
+Old files and theirs new names:
+> hipi_test_new.csv         ---->   questions_answers/hipi_ans.csv
+> hipi_test_old.csv         ---->   questions_answers/hipi_ans_all.csv
+> hipi_test_poprawka.csv    ---->   questions_answers/hipi_ans_clean.csv

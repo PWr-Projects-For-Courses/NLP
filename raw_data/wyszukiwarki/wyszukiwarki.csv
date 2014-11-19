@@ -1,0 +1,496 @@
+1;Co to znaczy "lol"?;google.pl;http://coznaczy.info.pl/co-znaczy-lol;expression;QC_DEF:MEANING
+2;Co to jest tablet?;google.pl;http://pl.wikipedia.org/wiki/Tablet_%28komputer%29;definition;QC_DEF:BE
+3;Co to znaczy "swag"?;google.pl;http://www.miejski.pl/slowo-SWAG;expression;QC_DEF:MEANING
+4;Co to znaczy "xd"?;google.pl;http://www.miejski.pl/slowo-xD;expression;QC_DEF:MEANING
+5;Co można odliczyć od podatku?;google.pl;http://www.pit.pl/odliczenia_od_podatku_226.php;description;QC_NONPER
+6;Co można robić we Wrocławiu?;google.pl;http://nocleginaplus.pl/77.atrakcje-we-wroclawiu;description;QC_NONPER
+7;Kto to jest hipster?;google.pl;http://zapytaj.onet.pl/Category/001,003/2,20143707,Kto_to_hipster.html;definition;QC_DEF:PER
+8;Kto to jest patriota?;google.pl;http://www.sjp.pl/patriota;definition;QC_DEF:PER
+9;Czym się odżywia jemiołuszka?;google.pl;http://www.zimorodek.com/przyroda-oiywiona-edukacja-ekologiczna-78/ptaki-edukacja-ekologiczna-67/51-jemiopuszka;food;QC_NONPER
+10;Czym jest miłość?;google.pl;http://pl.wikipedia.org/wiki/Mi%C5%82o%C5%9B%C4%87;definition;QC_DEF:BE
+11;Czym jest wiara?;google.pl;http://pl.wikipedia.org/wiki/Wiara_%28psychologia%29;definition;QC_DEF:BE
+12;Czym się odżywia czeczotka?;google.pl;http://zadane.pl/zadanie/4242108;food;QC_NONPER
+13;Z czym się pije martini?;google.pl;http://f.kafeteria.pl/temat.php?id_p=3175299;food;QC_NONPER
+14;Z czym pić malibu?;google.pl;http://www.partytonight.pl/jak-pic-malibu.php;food;QC_NONPER
+15;Z kim graniczy Polska?;google.pl;http://zadane.pl/zadanie/3509274;country;QC_PER:ARG
+16;Na czym polega skraplanie powietrza?;google.pl;http://zadane.pl/zadanie/42129;description;QC_NONPER
+17;Na czym polega tragizm Edypa?;google.pl;http://zadane.pl/zadanie/330633;description;QC_NONPER
+18;Na czym polega zjawisko indukcji elektromagnetycznej?;google.pl;http://zadane.pl/zadanie/785900;description;QC_NONPER
+19;Na czym polega in vitro?;google.pl;http://wiadomosci.wp.pl/kat,1342,title,Na-czym-polega-in-vitro,wid,8091502,wiadomosc.html?ticaid=110218;description;QC_NONPER
+20;Na kim ciąży obowiązek alimentacyjny?;google.pl;http://www.niepelnosprawni.pl/ledge/x/35466;individual;QC_PER:ARG
+21;Co to jest śledziona?;altavista.com;http://pl.wikipedia.org/wiki/%C5%9Aledziona;definition;QC_DEF:BE
+22;Co to są proteiny?;altavista.com;http://www.sciaga.pl/tag/proteiny/;definition;QC_DEF:BE
+23;Kto był Zeus?;altavista.com;http://bsmsow.republika.pl/mit8.html;individual;QC_DEF:PER
+24;Kto to był Lucyfer?;altavista.com;http://pl.wikipedia.org/wiki/Lucyfer;individual;QC_DEF:PER
+25;Kto to nimfomanka?;altavista.com;http://zapytaj.onet.pl/Category/001,001/2,47970,co_to_jest_nimfomanka.html;definition;QC_DEF:PER
+26;Kto to są masoni?;altavista.com;http://wiara.arachbox.com/Masoni;definition;QC_DEF:PER
+27;Z kim jest Doda?;altavista.com;http://podepnij.pl/2012/07/doda-szychowski-sa-znowu-razem/;individual;QC_PER:ARG
+30;Co to jest celandine?;bing.pl;http://pl.wiktionary.org/wiki/celandine;definition;QC_DEF:BE
+31;Co to jest gluten?;bing.pl;http://www.zdrowyprzedszkolak.org/publikacje/wszystko-o-glutenie/;definition;QC_DEF:BE
+32;Co to jest sumienie?;bing.pl;http://pl.wikipedia.org/wiki/Sumienie;definition;QC_DEF:BE
+33;Co to jest mirra?;bing.pl;http://sklep.tarotnet.pl/product_info.php?products_id=36848;definition;QC_DEF:BE
+34;Co to jest przebiegunowanie Ziemi?;bing.pl;http://pl.wikipedia.org/wiki/Przebiegunowanie_Ziemi;definition;QC_DEF:BE
+35;Co to jest list mazalny?;bing.pl;http://msp.money.pl/grupa-pl_soc_prawo/sprzedawca%3Bnie%3Bchce%3Bwykreslic%3Bsplaconej%3Bhipoteki%3Bdlugie,watek,335109.html;definition;QC_DEF:BE
+37;Kto to jest Hugo Chavez?;bing.pl;http://pl.wikipedia.org/wiki/Hugo_Ch%C3%A1vez;individual;QC_DEF:PER
+38;Kto to jest kompozytor?;bing.pl;http://pl.wikipedia.org/wiki/Kompozytor;definition;QC_DEF:PER
+39;Z kim spotyka się Mateusz Damięcki?;bing.pl;http://www.lansik.pl/4027/z-kim-spotyka-sie-damiecki/;individual;QC_PER:ARG
+43;Z czym podać pulpety?;bing.pl;http://www.gotujmy.pl/pulpety-miesno-warzywne-3,przepisy,181533g5,zdjecie.html;food;QC_NONPER
+44;Z czym najlepiej pic wódkę?;bing.pl;http://zapytaj.onet.pl/Category/016,004/2,5473038,Z_czym_najlepiej_jest_mieszac_wodke.html;food;QC_NONPER
+45;Z czym podawać kaczkę pieczoną?;bing.pl;http://poradnikdomowy.pl/poradnikdomowy/1,116271,2967935.html;food;QC_NONPER
+46;Z czym pić Bacardi?;bing.pl;http://www.dobramama.pl/pokaz/197126/bacardi_z_czym_pic;food;QC_NONPER
+47;Z czym pić absynt?;bing.pl;http://nitewatch.blogspot.com/2005_01_01_archive.html;food;QC_NONPER
+48;Z czym podajemy żeberka?;bing.pl;http://www.mojegotowanie.pl/przepisy/miesa/zeberka_z_piekarnika_w_keczapie_i_musztardzie;food;QC_NONPER
+49;Na czym pisali Grecy?;bing.pl;http://www.sciaga.pl/tag/napisz-na-czym-pisali-starozytni-grecy/;entity-other;QC_NONPER
+50;Na czym polega intercyza?;bing.pl;http://malzenstwo.wieszjak.pl/majatek/252813,Intercyza-na-czym-polega.html;description;QC_NONPER
+51;Na czym polega badanie EEG?;bing.pl;http://eegzamosc.republika.pl/co_to_jest_eeg.htm;description;QC_NONPER
+53;Na czym polega dieta Dukana?;bing.pl;http://cafeteria.pl/zdrowie/dieta/dieta-dukana/;description;QC_NONPER
+55;Na czym polega łączenie emerytur Polska – USA?;bing.pl;http://praca.gazetaprawna.pl/artykuly/499183,zus_obliczajac_polska_emeryture_uwzgledni_prace_w_usa.html;description;QC_NONPER
+56;Na czym polega obrzezanie?;bing.pl;http://pl.wikipedia.org/wiki/Obrzezanie;description;QC_NONPER
+58;O czym świadczą wyzwiska i agresja?;bing.pl;http://parenting.pl/portal/agresja-nastolatkow;description;QC_NONPER
+59;O czym świadczy kolor nasienia?;bing.pl;http://www.medisa.pl/pecherzyki_nasienne.html;description;QC_NONPER
+60;O czym świadczą bóle mięśni oraz osłabienie?;bing.pl;http://www.forummedyczne.pl/zaburzenia-rownowagi-i-bol-miesni-przy-zmianach-pogody-t309.htm;description;QC_NONPER
+61;Czemu niemowlę wymiotuje po mleku?;bing.pl;http://www.dlarodzinki.pl/niemowle/zdrowie/wymiotujace-niemowle-uwazaj-by-nie-dopuscic-do-odwodnienia,156_1071.html;reason;QC_CAUSE
+62;Czemu niebo jest niebieskie?;google.pl;http://pl.wikipedia.org/wiki/Kolor_nieba;reason;QC_CAUSE
+63;Dlaczego na drzwiach piszemy K+M+B?;bing.pl;http://zadane.pl/zadanie/1985883;reason;QC_CAUSE
+64;Dlaczego "Chłopi" to epopeja chłopska?;bing.pl;http://march.home.staszic.waw.pl/chlopi/pfdc_chlopi_epopeja/;reason;QC_CAUSE
+65;Dlaczego mam zimny nos?;bing.pl;http://dooktor.pl/artykuly-medyczne/porady_medyczne/przyczyny_zimnego_nosa_rak_stop.html;reason;QC_CAUSE
+68;Dlaczego mak jest gorzki?;bing.pl;http://www.mniammniam.com/forum/topic.php?t=5280;reason;QC_CAUSE
+70;Dlaczego motyw ostatecznej zagłady świata tak bardzo inspiruje twórców różnych epok?;google.pl;http://zadane.pl/zadanie/4389725;reason;QC_CAUSE
+71;Dlaczego morze jest słone?;google.pl;http://smetnik1.blox.pl/2007/07/Czemu-morze-jest-slone.html;reason;QC_CAUSE
+72;Dlaczego drzewa zrzucają liście?;google.pl;http://zadane.pl/zadanie/1783812;reason;QC_CAUSE
+74;Jakie są zastosowania wosku pszczelego?;google.pl;http://pl.wikipedia.org/wiki/Wosk_pszczeli#Zastosowanie;description;QC_STATE:GEN
+75;Jakie mam IP?;google.pl;http://www.pokapoka.pl/;numeric-other;QC_DIRECT
+76;Jakiemu dyktatorowi doradzał Friedman?;google.pl;http://kuczynski.blogbank.pl/2008/03/04/ksiazka-ktora-niejeden-czytelnik-znienawidzi/;individual;QC_DIRECT
+77;Jakiemu procesowi poddaje się węgiel kamienny?;google.pl;http://docs7.chomikuj.pl/168567684,PL,0,0,brykietownie.doc;description;QC_DIRECT
+78;Którym papieżem był Jan Paweł II?;google.pl;http://zapytaj.onet.pl/Category/002,017/2,3194156,Ktorym_z_kolei_papierzem_byl_Jan_Pawel_II_.html;count;QC_DIRECT
+79;Którego są Andrzejki?;google.pl;http://pl.wikipedia.org/wiki/Andrzejki;date  ;QC_TEMP:MOM
+80;Którego jest wigilia?;google.pl;http://pl.wikipedia.org/wiki/Wigilia_Bo%C5%BCego_Narodzenia;date  ;QC_TEMP:MOM
+81;Którą stroną włożyć kartę do bankomatu?;google.pl;http://www.bsklobuck.pl/bankomaty.html;description;QC_DIRECT
+82;Którą ze swoich decyzji zmienia Roland w trakcie walki?;google.pl;http://zadane.pl/zadanie/3124509;description;QC_DIRECT
+83;Jakiego zapachu nie lubią koty?;bing.pl;http://www.cafeanimal.pl/forum/Koty,6/tematy/cytryna,20;substance;QC_DIRECT
+84;Jakiego mężczyzny szukają kobiety?;bing.pl;http://facet.interia.pl/seks-i-zwiazki/partnerstwo/news-jakich-mezczyzn-naprawde-lubia-kobiety,nId,448348;individual;QC_DIRECT
+85;Jakiego koloru jest pluskwa?;bing.pl;http://www.themar.com.pl/weterynaria/szkodniki/pluskwa;color;QC_DIRECT
+86;Jakiego zapachu nie lubią muchy?;bing.pl;http://www.porady.co.pl/zwalczanie_much.html;substance;QC_DIRECT
+87;Jakiego koloru są żmije?;bing.pl;http://www.wedkuje.pl/wedkarstwo,zaskroniec-czy-zmija,7843;color;QC_DIRECT
+88;Jakiej wielkości są polskie nominały?;bing.pl;http://pl.wikipedia.org/wiki/Z%C5%82oty#Nomina.C5.82y_z.C5.82otego; size  ;QC_DIRECT
+89;Jakiej restauracji brakuje w Kielcach?;bing.pl;http://forum.gazeta.pl/forum/w,60,102360920,,Restauracja_pytania.html?v=2;description;QC_DIRECT
+90;Z jakiego miejsca można pobrać szpik kostny?;bing.pl;http://dooktor.pl/artykuly-medyczne/nowotwory/przeszczep_szpiku_kostnego.html;body-part ;QC_DIRECT
+92;Z jakiego mięsa robimy rosół?;bing.pl;http://www.jtz.pl/jak-ugotowac-dobry-rosol;food;QC_DIRECT
+94;Z jakiego rejonu pochodzi pomidor?;bing.pl;http://pl.wikipedia.org/wiki/Pomidor_zwyczajny;region;QC_LOC:ORIG
+95;Z jakiego powodu łatwo powstają siniaki?;bing.pl;http://www.kafeteria.pl/ziu/obiekt.php?id_t=567;reason;QC_CAUSE
+96;Z jakiego powodu krwawi z odbytu?;bing.pl;http://zdrowie.gazeta.pl/Zdrowie/1,101580,11555434,Krew_w_stolcu___zawsze_alarmujacy_objaw.html;reason;QC_CAUSE
+97;Który bok Chrystusa został przebity?;bing.pl;http://www.racjonalista.pl/kk.php/s,7059;body-part ;QC_DIRECT
+98;Który bank w Polsce współpracuje z Lloyd?;bing.pl;http://biznes.gazetaprawna.pl/artykuly/110564,przelew_z_wielkiej_brytanii_do_polski_nie_musi_kosztowac_100_zl.html;company;QC_DIRECT
+99;Które psy są agresywne?;bing.pl;http://www.fanimal.pl/p/jakie-rasy-psow-uznawane-sa-za-agresywne-1146;animal;QC_DIRECT
+101;Które ćwiczenia spalają najwięcej kalorii? ;bing.pl;http://www.ormasport.pl/odpowiedzo_1.php;description;QC_DIRECT
+103;Które produkty mają dużo błonnika?;bing.pl;http://www.menshealth.pl/zdrowie/Co-za-duzo-to-niezdrowo,4734,3;food;QC_DIRECT
+105;W którym tygodniu widać płeć dziecka?;bing.pl;http://40tygodni.pl/Category/006/2,49971,W-ktorych-tygodniach-ciazy-robi-sie-USG-i-kiedy-mozna-okreslic-plec.html;date;QC_DIRECT
+106;W którym roku urodził się Jan Paweł 2?;bing.pl;http://www.konsulatrp.ru/pl/info/janpawel.html;date  ;QC_DIRECT
+107;Jak zażywać antybiotyk?;bing.pl;http://www.poradnikzdrowie.pl/zdrowie/domowa-apteczka/antybiotyki-11-rad-jak-brac-antybiotyk-by-byl-bezpieczny_34592.html;manner;QC_PROCEDURE
+108;Jak zbić temperaturę dziecku?;bing.pl;http://www.jtz.pl/jak-zbic-goraczke-u-dziecka;manner;QC_PROCEDURE
+109;Jak zbić wysokie ciśnienie krwi?;bing.pl;http://fitness.wp.pl/multimedia/galerie/art863.html;manner;QC_PROCEDURE
+110;Jak zrobić kopytka?;bing.pl;http://www.jak-to-zrobic.pl/index.php/a/3/b/1/c/10/d/25/id/533;manner;QC_PROCEDURE
+111;Jak zrobić czapkę na drutach?;bing.pl;http://nadrutach.blox.pl/html;manner;QC_PROCEDURE
+112;Jak zarabiać siedząc w domu?;bing.pl;http://ebizneskurs.pl/jak-zarobic-siedzac-w-domu-3-pomysly-na-biznes-w-internecie/;manner;QC_PROCEDURE
+113;Jak zrobić twaróg?;bing.pl;http://www.kuron.com.pl/forum/viewtopic.php?p=16040;manner;QC_PROCEDURE
+114;Jak zajść w ciążę?;google.pl;http://abcciaza.pl/pytania/nie-moge-zajsc-w-ciaze-choc-wyniki-badan-sa-dobre;manner;QC_PROCEDURE
+115;Jak zrobić lukier?;google.pl;http://www.ofeminin.pl/forum/f26/__f30_f26-Jak-zrobic-lukier.html;manner;QC_PROCEDURE
+116;Jak zrobić zakwas na chleb?;google.pl;http://piekarnia.wordpress.com/2008/07/04/jak-zrobic-zakwas-na-chleb/;manner;QC_PROCEDURE
+117;Jak zrobić gołąbki?;google.pl;http://www.jtz.pl/jak-zrobic-golabki;manner;QC_PROCEDURE
+120;Dlaczego zebra jest w paski?;bing.pl;http://nauka.newsweek.pl/wiemy--dlaczego-zebra-ma-paski,88150,1,1.html;reason;QC_CAUSE
+121;Dlaczego zdradzamy?;bing.pl;http://seks.wieszjak.pl/psychoseksuologia/294507,Dlaczego-zdradzamy.html;reason;QC_CAUSE
+124;Dlaczego zginął John Kennedy?;bing.pl;http://www.historycy.org/index.php?showtopic=4634&st=75;reason;QC_CAUSE
+125;Dlaczego koty masują łapkami?;bing.pl;http://ulubiency.wp.pl/kat,1010805,title,Dlaczego-kot-udeptuje-kolana,wid,10746096,wiadomosc.html;reason;QC_CAUSE
+126;Dlaczego kot wymiotuje?;bing.pl;http://www.med-weterynarz.pl/Edukacja/Gdy-wymiotuje-kot;reason;QC_CAUSE
+127;Dlaczego leci krew z nosa?;bing.pl;http://fitness.wp.pl/zdrowie/wirtualny-poradnik/art760,o-czym-swiadczy-krwawienie-z-nosa.html;reason;QC_CAUSE
+128;Dlaczego łzawi mi oko?;bing.pl;http://www.kobieta.pl/zdrowie/medycyna/zobacz/artykul/kap-kap-lzawia-oczy/;reason;QC_CAUSE
+129;Dlaczego ludzie się od siebie uzależniają?;bing.pl;http://portal.abczdrowie.pl/uzaleznienie-od-partnera;reason;QC_CAUSE
+131;Dlaczego psy liżą po twarzy?;bing.pl;http://www.psy.pl/archiwum-miesiecznika/art6894,behawiorysta-radzi-co-oznacza-gdy-pies-lize-mnie-po-twarzy-a-co-gdy-lize-swego-czworonoznego-kumpla.html;reason;QC_CAUSE
+132;Dlaczego piecze, jak sikam?;bing.pl;http://www.poradnikzdrowie.pl/eksperci/pytania/pecherz-w-opalach/43154/1/;reason;QC_CAUSE
+133;Dlaczego puchną nogi?;bing.pl;http://zdrowie.gazeta.pl/Zdrowie/1,105912,39443.html;reason;QC_CAUSE
+135;Dlaczego puchną ręce?;bing.pl;http://forum.gazeta.pl/forum/w,22,22343560,22356107,Re_puchna_mi_rece_i_stopy_DLACZEGO_mam_20_LAT.html?v=2;reason;QC_CAUSE
+137;Dlaczego włosy stają się suche i skręcone?;bing.pl;http://portal.abczdrowie.pl/przesuszone-wlosy;reason;QC_CAUSE
+138;Dlaczego wypadają włosy?;bing.pl;http://www.resmedica.pl/uroda/gdy-wypadaja-wlosy;reason;QC_CAUSE
+139;Dlaczego w nocy poci się główka dziecku?;bing.pl;http://www.babyboom.pl/forum/zdrowe-dziecko-f24/gdy-poci-sie-glowka-3984/;reason;QC_CAUSE
+140;Dlaczego robią się siniaki?;bing.pl;http://www.kafeteria.pl/ziu/obiekt.php?id_t=567;reason;QC_CAUSE
+141;Dlaczego robią się zajady?;bing.pl;http://portal.abczdrowie.pl/domowe-sposoby-na-zajady#;reason;QC_CAUSE
+142;Dlaczego tracę głos?;bing.pl;http://www.artykul.com.pl/utrata-glosu/;reason;QC_CAUSE
+143;Dlaczego upadły PGR-y w Polsce?;bing.pl;http://www.historycy.org/index.php?showtopic=53343&st=30;reason;QC_CAUSE
+144;Dlaczego Adolf Hitler tak nienawidził Żydów?;bing.pl;http://www.sciaga.pl/tekst/16921-17-adolf_hitler_ocena_postepowania;reason;QC_CAUSE
+145;Dlaczego sernik opada po wyrośnięciu?;bing.pl;http://free4web.pl/3/2,98177,369839,5786954,Thread.html;reason;QC_CAUSE
+146;Dlaczego świat kończy się w 2012?;bing.pl;http://archeowiesci.pl/2009/11/08/2012-kolejny-koniec-swiata-czyli-katastrofalne-bzdury/;reason;QC_CAUSE
+147;Dlaczego samoloty latają tak wysoko?;bing.pl;http://www.dzieckopyta.pl/pytanie/157/dlaczego-samoloty-lataja-tak-wysoko;reason;QC_CAUSE
+148;Dlaczego dziecko późno zaczyna chodzić?;bing.pl;http://www.modne.biz/dziecko-dwuletnie/nauka-chodzenia.html;reason;QC_CAUSE
+149;Dlaczego dzwoni w uszach?;bing.pl;http://www.domzdrowia.pl/czytelnia/page/900,dlaczego-dzwoni-i-szumi-w-uszach;reason;QC_CAUSE
+150;Dlaczego drętwieją ręce?;bing.pl;http://www.styl.pl/zdrowie/porady/news-dlaczego-dretwieja-ci-rece-i-nogi,nId,599363;reason;QC_CAUSE
+151;Dlaczego dziecko charczy?;bing.pl;http://parenting.pl/portal/charczenie-u-niemowlat;reason;QC_CAUSE
+152;Dlaczego bolą stawy?;bing.pl;http://dbamozdrowie.org/dlaczego-bola-stawy.html;reason;QC_CAUSE
+153;Dlaczego boli biodro?;bing.pl;http://www.zdronet.pl/bol-biodra,884,przyczyny-bolu-biodra,8638,choroba.html;reason;QC_CAUSE
+155;Dlaczego błonnik jest ważny?;bing.pl;http://www.bryk.pl/teksty/liceum/biologia/cz%C5%82owiek/18793-zasady_zdrowego_od%C5%BCywiania.html;reason;QC_CAUSE
+156;Dlaczego bolą mnie piersi?;bing.pl;http://zdrowie.gazeta.pl/Zdrowie/1,105912,7457241,Bol_piersi__O_czym_to_swiadczy_.html;reason;QC_CAUSE
+157;Dlaczego budzę się w nocy?;bing.pl;http://portal.abczdrowie.pl/pytania/jaka-moze-byc-przyczyna-budzenia-sie-w-nocy;reason;QC_CAUSE
+158;Dlaczego boli mnie kolano przy ćwiczeniach?;bing.pl;http://www.megapedia.pl/bol-kolana-przy-chodzeniu-zginaniu-i-prostowaniu.html;reason;QC_CAUSE
+160;W jaki sposób Grecy i Rzymianie czcili bogów?;google.pl;http://zadane.pl/zadanie/78850;manner;QC_PROCEDURE
+162;W jaki sposób powstały Żuławy?;google.pl;http://zadane.pl/zadanie/1787346;manner;QC_PROCEDURE
+163;W jaki sposób badamy inne planety?;google.pl;http://zadane.pl/zadanie/4276269;manner;QC_PROCEDURE
+164;W jakiej temperaturze piec pierniczki?;bing.pl;http://wolnakuchnia.com/983.html;temp;QC_DIRECT
+165;W jakiej temperaturze piec kurczaka?;bing.pl;http://www.gotujmy.pl/wszystko-o-pieczeniu-zlocistego-kurczaka,artykuly,1925.html;temp;QC_DIRECT
+166;W jakiej temperaturze piec schab?;bing.pl;http://zyciowykoktail.blox.pl/2006/10/Pieczenie-schabu.html;temp;QC_DIRECT
+167;W jakiej temperaturze piec biszkopt?;bing.pl;http://zapytaj.onet.pl/Category/016,008/2,43826,W_jakiej_temperaturze_i_prze_jaki_czas_piec_to_ciasto.html;temp;QC_DIRECT
+168;W jakiej temperaturze piec sernik?;bing.pl;http://www.kwestiasmaku.com/desery/serniki/idealny/przepis.html;temp;QC_DIRECT
+169;W jakiej temperaturze piec indyka?;bing.pl;http://poradnikdomowy.pl/poradnikdomowy/1,116271,2971014.html;temp;QC_DIRECT
+170;W jakie akcje inwestować?;google.pl;http://www.goldenline.pl/forum/6323/w-jakie-akcje-warto-obecnie-inwestowac;description;QC_DIRECT
+174;O co zapytać dewelopera?;bing.pl;http://www.odmladzaniebotoksem.darmoweonline.com/instalacje--informacji.php;description;QC_NONPER
+175;Po co robić badanie krwi przy zapaleniu jelit?;bing.pl;http://pl.wikipedia.org/wiki/Wrzodziej%C4%85ce_zapalenie_jelita_grubego;reason;QC_CAUSE
+176;Po co bierzmowanie?;bing.pl;http://www.jozefswarzedz.archpoznan.pl/index.php/bierzmowanie/5-po-co-bierzmowanie;reason;QC_CAUSE
+178;Po co nam sen?;google.pl;http://pl.wikipedia.org/wiki/Sen;reason;QC_CAUSE
+179;Kiedy przylatuje jemiołuszka?;bing.pl;http://zadane.pl/zadanie/4302357;date;QC_TEMP:MOM
+180;Kiedy zaczyna się post w 2013?;bing.pl;http://halloween.friko.net/wielki-post.html;date;QC_TEMP:MOM
+181;Kiedy są dni płodne?;bing.pl;http://kobieta-i-zdrowie.wieszjak.pl/cykl-miesiaczkowy/236086,Kiedy-mam-dni-plodne.html;date;QC_TEMP:MOM
+182;Kiedy jest dzień babci?;bing.pl;http://pl.wikipedia.org/wiki/Dzie%C5%84_Babci;date;QC_TEMP:MOM
+183;Kiedy jest dzień babci i dziadka?;bing.pl;http://zapytaj.onet.pl/Category/001,003/2,159544,kiedy_jest_dzien_babci_i_dziadka.html;date;QC_TEMP:MOM
+185;Gdzie najlepiej mieszkać w Polsce?;bing.pl;http://wiadomosci.wp.pl/kat,1342,title,Gdzie-w-Polsce-mieszka-sie-najlepiej,wid,11856410,wiadomosc.html?ticaid=1102e8&_ticrsn=3;city;QC_LOC:PLACE
+188;Gdzie oglądać stream line movies za darmo?;bing.pl;http://www.chip.pl/artykuly/porownania/2011/03/jak-ogladac-filmy-za-darmo-i-bez-limitow;www-address;QC_LOC:PLACE
+191;Z jakiego kraju wywodzi się kolęda "Cicha noc"?;google.pl;http://pl.wikibooks.org/wiki/Kol%C4%99dy/niemieckie:_Stille_Nacht;country;QC_DIRECT
+192;Z jakiego powodu ludzie ustanawiają prawa?;google.pl;http://zadane.pl/zadanie/179084;reason;QC_CAUSE
+193;Z jakimi państwami graniczy Francja?;google.pl;http://zadane.pl/zadanie/293950;country;QC_DIRECT
+194;Z jakimi krajami walczył Napoleon Bonaparte?;google.pl;http://zadane.pl/zadanie/2407407;country;QC_DIRECT
+195;Z jakim zamiarem Bóg zwrócił się do Maryi?;google.pl;http://zadane.pl/zadanie/212269;description;QC_DIRECT
+197;Z jakiej mąki jest chleb razowy?;bing.pl;http://pl.wikipedia.org/wiki/Chleb_razowy;substance ;QC_DIRECT
+199;Skąd pochodzą słowa "quod bonum felix faustum"?;bing.pl;http://zycie.awf.wroc.pl/nr113/02-113.html;intellect-other;QC_LOC:ORIG
+200;Skąd się biorą wszy?;bing.pl;http://www.haknalajf.pl/2012/06/skad-sie-biora-wszy.html;description;QC_CAUSE
+201;Skąd przylatuje jemiołuszka?;google.pl;http://zadane.pl/zadanie/4276388;location-other;QC_LOC:ORIG
+202;Skąd przylatuje czeczotka?;google.pl;http://zadane.pl/zadanie/4363572;location-other;QC_LOC:ORIG
+203;Na co pomaga picie piwa?;bing.pl;http://pogromcymitowmedycznych.pl/myth/235/picie-piwa-pomaga-na-robaki-w-%C5%BCo%C5%82%C4%85dku/;dis-med;QC_NONPER
+204;Na co pomaga imbir i miód?;bing.pl;http://www.miódzimbirem.pl/;dis-med;QC_NONPER
+205;Na co zmarł Marek Grechuta?;bing.pl;http://axunarts.wordpress.com/2006/10/09/marek-grechuta-wspomnienie/;dis-med;QC_NONPER
+206;Na co chorują boksery?;bing.pl;http://zwierzaki24.waw.pl/psy-ogloszenia-bokser.html;dis-med;QC_NONPER
+208;Na co jest dobry kelp?;bing.pl;http://www.zdrowie.brat.pl/kelp-p-2799.html;dis-med;QC_NONPER
+209;Dokąd dotarła pierwsza wyprawa Kolumba?;google.pl;http://zadane.pl/zadanie/1641796;Location-other;QC_LOC:END
+211;Przez co odmienia się przymiotnik?;google.pl;http://zadane.pl/zadanie/2730608;language;QC_NONPER
+212;Przez co rozmnaża się morszczyn?;google.pl;http://zadane.pl/zadanie/171682;description;QC_NONPER
+213;Przez co odmienia się czasownik?;google.pl;http://zadane.pl/zadanie/2096989;language;QC_NONPER
+214;Przez co odmienia się zaimek?;google.pl;http://zapytaj.onet.pl/Category/002,010/2,271065,Przez_co_odmienia_sie_zaimek.html;language;QC_NONPER
+215;Przez kogo zostały zniszczone Pompeje?;google.pl;http://zadane.pl/zadanie/116502;natural-phenomenon;QC_PER:ARG
+216;Przez kogo Bóg zawarł z nami przymierze?;google.pl;http://zadane.pl/zadanie/2192016;individual;QC_PER:ARG
+217;Jakiego koloru jest upierzenie zimorodka?;google.pl;http://zapytaj.onet.pl/Category/010,014/2,8525619,Jakiego_koloru_jest_upierzenie_zimorodka.html;color;QC_DIRECT
+218;Jakiego języka warto się uczyć?;google.pl;http://swiatjezykow.blogspot.com/2011/02/jakiego-jezyka-warto-sie-uczyc.html;language;QC_DIRECT
+219;Jakiego laptopa kupić?;google.pl;http://formaty.livre.pl/jak-kupic-laptopa-zakup-laptopa/;artifact;QC_DIRECT
+220;Którego psa z miotu wybrać?;bing.pl;http://www.dogomania.pl/forum/threads/10873-Wyb%C3%B3r-szczeniaka-z-miotu;animal;QC_DIRECT
+221;Dlaczego nie odczuwamy ciśnienia atmosferycznego?;google.pl;http://zadane.pl/zadanie/406673;reason;QC_CAUSE
+222;Dlaczego zimy w Grecji są chłodne?;google.pl;http://zadane.pl/zadanie/1543176;reason;QC_CAUSE
+224;Dlaczego zachowanie asertywne jest najkorzystniejsze dla jednostki?;google.pl;http://zadane.pl/zadanie/51599;reason;QC_CAUSE
+226;Dlaczego Hellenowie nie stworzyli jednego państwa?;google.pl;http://zadane.pl/zadanie/183638;reason;QC_CAUSE
+227;Dlaczego Heloci stali się problemem dla Sparty?;google.pl;http://zapytaj.onet.pl/Category/002,019/2,22251431,Dlaczego_heloci_stali_sie_problemem_dla_Sparty_.html;reason;QC_CAUSE
+228;Dlaczego samolot lata?;google.pl;http://zapytaj.onet.pl/Category/015,006/2,6259,dlaczego_samoloty_lataja.html;reason;QC_CAUSE
+230;Dlaczego sernik opada?;google.pl;http://free4web.pl/3/2,98177,369839,5786954,Thread.html;reason;QC_CAUSE
+231;Ile fps widzi oko?;google.pl;http://www.modernwar.pl/forum/37-Hydepark/69947-FPS-ludzkie-oko.html;count;QC_QUANTITY:GEN
+232;Ile zarabia policjant?;google.pl;http://www.info.policja.pl/portal/inf/859/47709/Zarobki_policjantow.html;money ;QC_QUANTITY:GEN
+233;Ile zarabia lekarz?;google.pl;http://forsal.pl/artykuly/660375,ile_zarabia_lekarz_w_polsce.html;money ;QC_QUANTITY:GEN
+234;Ile zarabia nauczyciel?;google.pl;http://www.careego.pl/1660/zawod-nauczyciel/;money ;QC_QUANTITY:GEN
+235;Ile osi symetrii ma prostokąt?;google.pl;http://pl.wikipedia.org/wiki/Prostok%C4%85t;count;QC_QUANTITY:GEN
+237;Ilu było papieży?;google.pl;http://zadane.pl/zadanie/2924647;count;QC_QUANTITY:GEN
+238;Ilu członków ma UE?;google.pl;http://zadane.pl/zadanie/2707904;count;QC_QUANTITY:GEN
+239;Ilu członków liczy One Direction?;google.pl;http://muzyka.onet.pl/publikacje/one-direction-slynna-piatka,1,5267155,wiadomosc.html;count;QC_QUANTITY:GEN
+240;Ilu aktorów mogło występować w teatrze greckim?;google.pl;http://zadane.pl/zadanie/367356;count;QC_QUANTITY:GEN
+241;Ilu kolarzy pojawiło się na największej paradzie rowerów na świecie?;google.pl;http://flash.bikestats.pl/705375,Dookola-Europy-dzien-9.html;count;QC_QUANTITY:GEN
+242;Ilu księży jest w Polsce?;google.pl;http://ekai.pl/wydarzenia/religijnosc/x23427/ilu-ksiezy-w-polsce/;count;QC_QUANTITY:GEN
+243;Ilu Polaków zginęło podczas 2-iej wojny?;google.pl;http://www.nto.pl/apps/pbcs.dll/article?AID=/20090828/REPORTAZ/545367516;count;QC_QUANTITY:GEN
+244;Ilu Polaków korzysta z Internetu?;google.pl;http://wiadomosci.wp.pl/kat,1342,title,Juz-22-mln-Polakow-korzysta-z-internetu,wid,15184727,wiadomosc.html?ticaid=110301&_ticrsn=3;count;QC_QUANTITY:GEN
+245;Ilu Polaków dostało Nagrodę Nobla?;google.pl;http://www.wprost.pl/ar/140424/Ilu-naprawde-noblistow-ma-Polska/;count;QC_QUANTITY:GEN
+246;Jak długo ładować akumulator?;google.pl;http://www.skiptoinfo.com/motoryzacja,26/uklad-elektryczny,27/ladowanie-akumulatora-sprawdz-jak-dlugo-ile-czasu-ladowac-akumulator,13/;period;QC_TEMP:PER
+247;Jak długo piec kurczaka?;google.pl;http://www.mowimyjak.pl/styl-zycia/kuchnia/jak-upiec-kurczaka-w-jakiej-temperaturze-i-jak-dlugo-piec-kurczaka,17_44014.html;period;QC_TEMP:PER
+248;Jaki okres historii biblijnej obejmuje Stary Testament?;google.pl;http://portalwiedzy.onet.pl/68781,,,,stary_testament,haslo.html;period;QC_DIRECT
+249;Przez ile państw przepływa Dunaj?;google.pl;http://pl.wikipedia.org/wiki/Dunaj;count;QC_QUANTITY:GEN
+251;Przez jakie miasta przepływa Wisła?;google.pl;http://pl.wikipedia.org/wiki/Wis%C5%82a;city;QC_DIRECT
+252;Przez jakie miasta przepływa Sekwana?;google.pl;http://pl.wikipedia.org/wiki/Sekwana;city;QC_DIRECT
+253;Przez jakie krainy geograficzne przepływa Odra?;google.pl;http://zadane.pl/zadanie/4061887;country-region;QC_DIRECT
+254;W jakim mieście żyli klasycy literatury niemieckiej - Goethe i Schiller?;google.pl;http://www.goethe.de/ins/de/ort/wei/sta/plindex.htm;city;QC_DIRECT
+255;W jakim celu ludzie chodzą do teatru?;google.pl;http://zadane.pl/zadanie/202247;reason;QC_DIRECT
+256;W jakim czasie i okolicznościach powstała Biblia?;google.pl;http://zadane.pl/zadanie/1615301;description;QC_DIRECT
+257;Jak edytować pdf?;google.pl;http://www.tipy.pl/artykul_1959,jak-edytowac-pdf.html;manner;QC_PROCEDURE
+258;Jak efektywnie się uczyć?;google.pl;http://www.uczsieszybko.pl/jak-efektywnie-sie-uczyc/;manner;QC_PROCEDURE
+260;Jak malować brwi?;google.pl;http://www.pieknoscdnia.pl/kosmetyki/makijaz/item/109-jak-malowac-brwi;manner;QC_PROCEDURE
+261;Jak medytować?;google.pl;http://www.pozaschematy.pl/2008/01/29/jak-medytowac/;manner;QC_PROCEDURE
+262;Jak odmawiać różaniec?;google.pl;http://rozaniec.web-portals.pl/;manner;QC_PROCEDURE
+263;Jak obliczyć BMI?;google.pl;http://www.jak-to-zrobic.pl/index.php/a/3/b/8/c/41/d/116/id/311;manner;QC_PROCEDURE
+265;Jak wiązać krawat?;google.pl;http://maroko.republika.pl/dodatki/krawat.htm;manner;QC_PROCEDURE
+266;Jak rzucić palenie?;google.pl;http://jak-rzucic-palenie.com.pl/;manner;QC_PROCEDURE
+267;Jak robić pompki?;google.pl;http://www.tipy.pl/artykul_3639,jak-robic-pompki.html;manner;QC_PROCEDURE
+268;Jak powstał dubstep?;google.pl;http://pl.wikipedia.org/wiki/Dubstep;manner;QC_PROCEDURE
+269;Jak powstaje tęcza?;google.pl;http://www.sciaga.pl/tekst/94393-95-jak_powstaje_tecza;manner;QC_PROCEDURE
+270;Jak powiększyć oczy?;google.pl;http://zapytaj.onet.pl/Category/003,002/2,191058,Jak_powiekszyc_optycznie_oczy.html;manner;QC_PROCEDURE
+272;Jak powinien wyglądać referat?;google.pl;http://zapytaj.onet.pl/Category/015,006/2,2949034,Referat__jak_powinien_wygladac_.html;manner;QC_PROCEDURE
+273;Jak liczyć procenty?;google.pl;http://praktypedia.pl/Jak_liczy%C4%87_procenty;manner;QC_PROCEDURE
+274;Na kiedy jest przewidywany koniec świata?;google.pl;http://www.se.pl/wydarzenia/kraj/koniec-swiata-21122012-dzis-sie-nie-udalo-kiedy-kolejny-koniec-swiata_297323.html;date;QC_TEMP:MOM
+275;Na kiedy zapowiadają śnieg?;google.pl;http://wiadomosci.wp.pl/kat,1010223,title,Wielka-Brytania-synoptycy-zapowiadaja-snieg-i-mroz,wid,15136754,wiadomosc.html?ticaid=110312;date;QC_TEMP:MOM
+276;Na kiedy Shakira ma termin porodu?;google.pl;http://www.fakt.pl/Shakira-jest-w-ciazy-Gwiazda-pokazala-zdjecie-usg-swojego-plodu,artykuly,191251,1.html;date;QC_TEMP:MOM
+277;Od kiedy przybywa dnia?;google.pl;http://pl.wikipedia.org/wiki/Zima;date;QC_TEMP:MOM
+278;Od kiedy można śpiewać kolędy?;google.pl;http://zapytaj.onet.pl/Category/024,001/2,22579300,Od_kiedy_mozna_spiewac_koledy_.html;date;QC_TEMP:MOM
+279;Od kiedy można składać PIT?;google.pl;http://prawo.rp.pl/artykul/965513.html;date;QC_TEMP:MOM
+280;Od kiedy są ferie zimowe?;google.pl;http://www.mmtrojmiasto.pl/376451/2013/1/25/terminy-ferii-zimowych-w--roku-wojewodztwo-pomorskie?category=magazyn;date;QC_TEMP:MOM
+281;Od kiedy Polska jest w NATO?;google.pl;http://www.wosna5.pl/polska_w_nato;date;QC_TEMP:MOM
+282;Od kiedy Warszawa jest stolicą?;google.pl;http://zapytaj.onet.pl/Category/002,019/2,6283605,Od_kiedy_Warszawa_jest_stolica_polski.html;date;QC_TEMP:MOM
+283;Od kiedy wchodzą nowe przepisy na prawo jazdy?;google.pl;http://www.dziennikbaltycki.pl/artykul/730661,kontrowersje-wokol-egzaminow-na-prawo-jazdy-nowe-przepisy,id,t.html?cookie=1;date;QC_TEMP:MOM
+284;Czemu Hitler przegrał wojnę?;google.pl;http://www.historiarybnik.fora.pl/historia,49/dlaczego-hitler-przegral-wojne,51.html;reason;QC_CAUSE
+286;Czemu rosół jest mętny?;google.pl;http://f.kafeteria.pl/temat.php?id_p=3285199;reason;QC_CAUSE
+287;Czemu robi się zakalec?;google.pl;http://f.kafeteria.pl/temat.php?id_p=3439367;reason;QC_CAUSE
+288;Czemu Antwerpia zawdzięcza swój dobrobyt?;google.pl;http://zadane.pl/zadanie/2889230;entity-other;QC_NONPER
+290;Jak po angielsku nazywa się "rower"?;google.pl;http://zadane.pl/zadanie/4736472;expression;QC_STATE:GEN
+291;Jak po angielsku jest "gimnazjum"?;google.pl;http://zapytaj.onet.pl/Category/015,006/2,15407898,Jak_przetlumaczycie_Gimnazjum_na_Angielski.html;expression;QC_STATE:GEN
+293;Jak po francusku jest "kocham cię"?;google.pl;http://www.serducho.pl/kocham_cie/kocham-w-innych-jezykach.htm;expression;QC_STATE:GEN
+295;Jak po hebrajsku nazywa się Miejsce Czaszki?;google.pl;http://www.voxdomini.com.pl/valt/p-ew/04-j-19.htm;expression;QC_STATE:GEN
+296;Jak po hiszpańsku nazwano mityczną krainę złota?;google.pl;http://pl.wikipedia.org/wiki/El_Dorado;expression;QC_STATE:GEN
+298;Jak po hiszpańsku jest "cześć"?;google.pl;http://www.hiszpanski.org.pl/Slowka-zwroty-i-slownictwo-hiszpanskie/Poznajemy-sie.html;expression;QC_STATE:GEN
+299;Jak po japońsku jest "przepraszam"?;google.pl;http://zapytaj.onet.pl/Category/015,009/2,19411770,Jak_po_japonsku_jest_przepraszam.html;expression;QC_STATE:GEN
+301;Jak po liceum dostanę się do policji?;google.pl;http://www.mporady.pl/jak-sie-dostac-do-policji.html;manner;QC_PROCEDURE
+302;Jak po latach zdać maturę?;google.pl;http://www.doroslimatura.pl/poznan/matura-dla-doroslych-wazne/;manner;QC_PROCEDURE
+304;Którego są Walentynki?;google.pl;http://pl.wikipedia.org/wiki/Walentynki;date;QC_TEMP:MOM
+305;Której partycji system Windows przypisuje literę "c"?;google.pl;http://pl.wikipedia.org/wiki/Partycja_logiczna;entity-other;QC_DIRECT
+306;Której prowincji namiestnikiem był Cezar?;google.pl;http://pl.wikipedia.org/wiki/Gajusz_Juliusz_Cezar;admin1;QC_DIRECT
+307;Które związki są produktami oddychania beztlenowego?;google.pl;http://zadane.pl/zadanie/346570;substance;QC_DIRECT
+308;Które zwierzęta zapadają w sen zimowy?;google.pl;http://zadane.pl/zadanie/3386063;animal;QC_DIRECT
+309;Ile kosztuje gram złota?;google.pl;http://zapytaj.onet.pl/Category/005,013/2,15507008,Ile_kosztuje_1_gram_zlota.html;money ;QC_QUANTITY:PRICE
+310;Ile kosztuje znaczek na list?;google.pl;http://www.obeznani.pl/s/1/ile-kosztuje-znaczek-na-list-polecony;money ;QC_QUANTITY:PRICE
+311;Ile kosztuje rozwód?;google.pl;http://rozwody.wieszjak.pl/pozew-rozwodowy/215186,Ile-kosztuje-rozwod.html;money ;QC_QUANTITY:PRICE
+313;Co ile karmić noworodka?;google.pl;http://dziecko-info.rodzice.pl/archive/index.php/t-100771.html;period ;QC_TEMP:QUANT
+314;Co ile wymieniać olej?;google.pl;http://www.forumsamochodowe.com/ogolnie-o-samochodach/3335-co-ile-wymiana-oleju.html;period ;QC_TEMP:QUANT
+317;Na ile części koła olimpijskie dzielą olimpijską flagę?;google.pl;http://zadane.pl/zadanie/3188334;count;QC_QUANTITY:GEN
+318;Na ile starcza e-papieros?;google.pl;http://zapytaj.onet.pl/Category/032,005/2,21688734,Na_ile_starcza_epapieros.html;count;QC_QUANTITY:GEN
+319;Któremu z ludów starożytnego Bliskiego Wschodu zawdzięczamy alfabet?;google.pl;http://zadane.pl/zadanie/1561539;group ;QC_DIRECT
+322;Z którym aktorem Anna Jopek nagrała płytę?;google.pl;http://nocoty.pl/gid,15140540,kat,1013545,title,Ze-szczytu-na-samo-dno,galeria.html?ticaid=51034f;individual;QC_DIRECT
+323;Z którym filozofem kojarzone jest pojęcie złotego środka?;google.pl;http://www.sciaga.pl/tekst/5273-6-arstoteles_teoria_zlotego_srodka;individual;QC_DIRECT
+324;Z którymi grzybami trującymi lub niejadalnymi można pomylić borowika szlachetnego?;google.pl;http://pl.wikipedia.org/wiki/Borowik_szlachetny;plant;QC_DIRECT
+325;Z którymi państwami Polska współtworzy Grupę Wyszehradzką?;google.pl;http://www.bankier.pl/wiadomosc/W-srode-szczyt-premierow-panstw-Grupy-Wyszehradzkiej-z-udzialem-Merkel-i-Hollande-a-2774431.html;country;QC_DIRECT
+326;O której jest losowanie lotto?;google.pl;http://zapytaj.onet.pl/Category/019,003/2,9200368,o_ktorej_jest_losowanie_lotto.html;date;QC_TEMP:MOM
+327;O której leci "Ukryta Prawda"?;google.pl;http://pl.wikipedia.org/wiki/Ukryta_prawda_%28serial_telewizyjny%29;date;QC_TEMP:MOM
+329;O której się robi jasno?;google.pl;http://www.poloniaberlin.de/forum/topics35/o-ktorej-robi-sie-na-dworze-jasno-vt16254.htm;date;QC_TEMP:MOM
+330;Z czego produkowana jest benzyna?;google.pl;http://pl.wikipedia.org/wiki/Benzyna;substance;QC_NONPER
+331;Z czego słynie Polska?;google.pl;http://zapytaj.onet.pl/Category/011,007/2,7082620,Z_czego_slynie_Polska.html;description;QC_NONPER
+332;Z czego słynie Islandia?;google.pl;http://zapytaj.onet.pl/Category/011,003/2,2690807,z_czego_slynie_islandia.html;description;QC_NONPER
+333;Z czego powstaje bursztyn?;google.pl;http://zadane.pl/zadanie/217581;substance;QC_NONPER
+334;Z czego produkuje się bawełnę?;google.pl;http://pl.wikipedia.org/wiki/Bawe%C5%82na_%28ro%C5%9Blina%29#Zastosowanie;substance;QC_NONPER
+336;Z czego można zrobić choinkę?;google.pl;http://zapytaj.onet.pl/Category/006,015/2,15863573,Z_czego_mozna_zrobic_choinke_na_technike_.html;substance;QC_NONPER
+337;Z czego finansowany jest "Przystanek Woodstock"?;google.pl;http://pl.wikipedia.org/wiki/Przystanek_Woodstock;organization-other;QC_NONPER
+339;Z czego najlepiej zrobić łuk?;google.pl;http://www.forum.gildia.pl/index.php?topic=1552.0;substance;QC_NONPER
+340;Z czego był wykonany Dyskobol?;google.pl;http://encyklopedia.interia.pl/haslo?hid=134975;substance;QC_NONPER
+341;Z czego budowano piramidy?;google.pl;http://zadane.pl/zadanie/1460478;substance;QC_NONPER
+342;Z czym rozrobić spirytus?;google.pl;http://www.zaradni.pl/porada/4902,jak_rozrobic_spirytus;food;QC_NONPER
+343;z czym graniczy Francja?;google.pl;http://zapytaj.onet.pl/Category/030,018/2,2900014,Z_kim_graniczy_Francja.html;country;QC_NONPER
+344;Z czym podawać quiche?;google.pl;http://www.digest.com.pl/quiche-na-szybko;food;QC_NONPER
+346;Przy kim zostaje dziecko po rozwodzie?;google.pl;http://wizaz.pl/forum/showthread.php?t=304826;individual;QC_PER:ARG
+348;Przez kogo sprawowany jest nadzór nad warunkami pracy?;google.pl;http://pl.wikipedia.org/wiki/Pa%C5%84stwowa_Inspekcja_Pracy;institution;QC_PER:ARG
+349;Przez kogo są powoływani sędziowie?;google.pl;http://www.antwo.pl/q,428750,przez_kogo_powolywani_sa_sedziowie.html;institution;QC_PER:ARG
+350;Przez kogo do lecznictwa zostały wprowadzone tabletki?;google.pl;http://pl.wikipedia.org/wiki/Tabletka;individual;QC_PER:ARG
+351;Z której strony jest wyrostek?;google.pl;http://zapytaj.onet.pl/Category/004,004/2,1751165,Z_ktorej_strony_jest_wyrostek_.html;description;QC_DIRECT
+354;O co chodzi z "69"?;google.pl;http://pl.wikipedia.org/wiki/Pozycja_69;description;QC_DEF:MEANING
+355;Na co wymienia się "ż"?;google.pl;http://zapytaj.onet.pl/Category/002,010/2,2477441,Na_co_wymienia_sie_z.html;language;QC_NONPER
+356;Z czego są parówki?;google.pl;http://pytamy.pl/title,z-czego-robi-si-par-wki,pytanie.html?smclgnzlticaid=610359;substance;QC_NONPER
+357;Czemu kot mruczy?;google.pl;http://www.uniwersytetdzieci.pl/clubs/showselectedarticle/1608;reason;QC_CAUSE
+358;Gdzie mieszka Święty Mikołaj?;google.pl;http://horoskop.wp.pl/kat,1015979,title,Gdzie-mieszka-Swiety-Mikolaj,wid,15155374,wiadomosc.html?ticaid=11035a;location-other;QC_LOC:PLACE
+359;Gdzie można kupić ćwieki?;google.pl;http://www.kotek.pl/bloxlite/0,110557,8294075.html?blogName=neverhappy&year=2011&month=10&title=diy__cwieki&counter=0&bo=1&v=1&obxx=217385;location-other;QC_LOC:PLACE
+360;Gdzie mieszka Selena Gomez?;google.pl;http://zapytaj.onet.pl/Category/019,010/2,8686881,Gdzie_mieszka_Selena_Gomez.html;location-other;QC_LOC:PLACE
+361;Gdzie ulokować pieniądze?;google.pl;http://www.biznesforum.pl/gdzie-ulokowac-pieniadze-vt53212.html;location-other;QC_LOC:PLACE
+362;Gdzie uchwalono Konstytucje 3 maja?;google.pl;http://zadane.pl/zadanie/982466;location-other;QC_LOC:PLACE
+363;Gdzie urodził się Zbigniew Herbert?;google.pl;http://pl.wikipedia.org/wiki/Zbigniew_Herbert;location-other;QC_LOC:PLACE
+364;Gdzie umieścić czujnik czadu?;google.pl;http://www.dom.pl/gdzie-zamontowac-czujnik-tlenku-wegla.html;location-other;QC_LOC:PLACE
+366;Gdzie wyrobić paszport?;google.pl;http://wyrobieniepaszportu.pl/gdzie-wyrobic-paszport.html;institution;QC_LOC:PLACE
+367;Gdzie występuje witamina D?;google.pl;http://pl.wikipedia.org/wiki/Witamina_D;food;QC_LOC:PLACE
+369;Gdzie pada śnieg?;google.pl;http://podroze.onet.pl/aktualnosci/snieg-pada-w-sudetach/rnfs3;location-other;QC_LOC:PLACE
+370;Gdzie powstały Legiony Polskie?;google.pl;http://zadane.pl/zadanie/591286;location-other;QC_LOC:PLACE
+371;Gdzie Autocad zapisuje kopie zapasowe?;google.pl;http://forum.cad.pl/automatyczny-zapis-t46949.html;location-other;QC_LOC:PLACE
+373;Ku czemu prowadzi globalizacja?;google.pl;http://www.sciaga.pl/tekst/63953-64-globalizacja_pozytywne_i_negatywne_skutki;description;QC_NONPER
+379;Którędy przebiega autostrada A1?;google.pl;http://pl.wikipedia.org/wiki/Autostrada_A1_%28Polska%29;location-other;QC_LOC:TRAJ
+380;Którędy przebiega międzynarodowa linia zmiany daty?;google.pl;http://zadane.pl/zadanie/290906;location-other;QC_LOC:TRAJ
+383;Którędy z Warszawy do Wrocławia?;google.pl;http://www.maxbimmer.pl/f19/wroclaw-warszawa-ktoredy-najszybciej-2175/;location-other;QC_LOC:TRAJ
+384;Którędy z Krakowa do Pragi?;google.pl;http://www.grupy.v10.pl/Krakow,gt,Praga,1,1611595,2007_05.html;location-other;QC_LOC:TRAJ
+386;Którędy będzie przebiegać obwodnica Lublina?;google.pl;http://pl.wikipedia.org/wiki/Obwodnica_Lublina;location-other;QC_LOC:TRAJ
+387;Którędy do Gdańska z Warszawy?;google.pl;http://pl.regionalne.warszawa.narkive.com/bDAA4NmE/warszawa-gda-sk-ktor-dy-jecha-samochodem;location-other;QC_LOC:TRAJ
+388;Z czym łączyć kreatynę?;google.pl;http://www.sfd.pl/Kreatyna_z_czym_po%C5%82%C4%85czy%C4%87_-t191177.html;substance;QC_NONPER
+389;Z czym się je kawior?;google.pl;http://www.grupy.otopr.pl/z-czym-kawior-,usn,2982526.html;food;QC_NONPER
+390;Przy czym spala się najwięcej kalorii?;google.pl;http://zapytaj.onet.pl/Category/003,004/2,328776,Ile_na_czym_sie_spala_kalori_w_ciagu_1_godziny.html;action;QC_NONPER
+391;Przy czym można się podniecić?;google.pl;http://zapytaj.onet.pl/Category/021,003/2,4094550,jak_sie_podniecic.html;entity-other;QC_NONPER
+394;Nad czym sprawowała opiekę rzymska bogini Westa?;google.pl;http://pl.wikipedia.org/wiki/Westa;entity-other;QC_NONPER
+396;Nad czym pracowała Maria Skłodowska-Curie?;google.pl;http://www.sciaga.pl/tekst/16238-17-maria_sklodowska_curie;description;QC_NONPER
+397;Nad czym sprawuje nadzór Państwowa Inspekcja Pracy?;google.pl;http://www.sciaga.pl/tekst/73346-74-nadzor_panstwowy_i_zwiazkowy_nad_przestrzeganiem_zasad_bhp;description;QC_NONPER
+398;Nad czym pracował Jan Matejko?;google.pl;http://zadane.pl/zadanie/4284810;description;QC_NONPER
+401;Nad czym zastanawia się biblijny Kohelet?;google.pl;http://zadane.pl/zadanie/1103347;description;QC_NONPER
+402;Nad czym pracuje Apple?;google.pl;http://myapple.pl/content/4146-apple-pracuje-nad-nowa-wersja-logic-pro.html;description;QC_NONPER
+403;Nad czym sprawuje nadzór Minister Obrony Narodowej?;google.pl;http://prawo.legeo.pl/prawo/ustawa-z-dnia-14-grudnia-1995-r-o-urzedzie-ministra-obrony-narodowej/;description;QC_NONPER
+404;Do czego służy tablet?;google.pl;http://tablety.komorkomania.pl/2011/11/06/tablety-rosna-w-sile-ale-do-czego-tak-naprawde-sluza;description;QC_NONPER
+405;Do czego służy procesor?;google.pl;http://zadane.pl/zadanie/1545417;description;QC_NONPER
+406;Do czego służy bidet?;google.pl;http://pl.wikipedia.org/wiki/Bidet;description;QC_NONPER
+407;Do czego można wykorzystać starte jabłko?;google.pl;http://zadane.pl/zadanie/2984666;description;QC_NONPER
+408;Do czego może prowadzić nieprzestrzeganie prawa?;google.pl;http://zadane.pl/zadanie/3099442;description;QC_NONPER
+409;Do czego może doprowadzić anemia?;google.pl;http://portal.abczdrowie.pl/skutki-anemii;description;QC_NONPER
+410;Do czego niezbędne jest posiadanie karty bibliotecznej Biblioteki Głównej UMCS?;google.pl;http://bg.umcs.lublin.pl/nowa/;description;QC_NONPER
+411;Do czego nosić legginsy?;google.pl;http://szafiarenka.pl/2/1076056/do-czego-nosic-legginsy.html;entity-other;QC_NONPER
+412;Do czego nosić body?;google.pl;http://www.1000rad.pl/jak-nosic-body;entity-other;QC_NONPER
+413;Do czego Bronisław Malinowski porównuje kulturę?;google.pl;http://zadane.pl/zadanie/3948851;description;QC_NONPER
+414;Do czego Bóg powołał Mojżesza?;google.pl;http://zadane.pl/zadanie/589713;description;QC_NONPER
+415;Do czego człowiek wykorzystuje wodę?;google.pl;http://zadane.pl/zadanie/304887;description;QC_NONPER
+416;Do czego zobowiązana jest cała wspólnota wierzących w Jezusa Chrystusa?;google.pl;http://www.zaliczaj.pl/zadanie/194280/pomocy/;description;QC_NONPER
+417;Do czego zobowiązuje chrzest?;google.pl;http://zapytaj.onet.pl/Category/002,017/2,4012619,Do_czego_zobowiazuje_nas_chrzest_swiety.html;description;QC_NONPER
+418;Do czego Grecy wykorzystywali winogrona?;google.pl;http://zadane.pl/zadanie/4296840;description;QC_NONPER
+419;Do czego lipa jest przydatna ludziom?;google.pl;http://zapytaj.onet.pl/Category/027,004/2,22241858,Do_czego_moze_byc_przydatna_ludzia_lipa.html;description;QC_NONPER
+420;Do czego ludzie potrzebują socjologii?;google.pl;http://www.aula.pl/~gagolews/sciagi.php?przedmiot=12&material=94;description;QC_NONPER
+421;Do czego jest wykorzystywany węgiel?;google.pl;http://www.sciaga.pl/tekst/23537-24-wegiel_pochodzenie_rodzaje_wykorzystywanie;description;QC_NONPER
+422;Do czego dodajemy rozmaryn?;google.pl;http://www.gotujmy.pl/do-czego-dodawac-rozmaryn,artykuly,8889.html;food;QC_NONPER
+423;Do czego dążył ruch egzekucyjny?;google.pl;http://pl.wikipedia.org/wiki/Ruch_egzekucyjny;description;QC_NONPER
+424;Do czego wykorzystywana jest siarka?;google.pl;http://pl.wikipedia.org/wiki/Siarka;description;QC_NONPER
+425;Do czego roślinom potrzebny jest tlen?;google.pl;http://www.e-ogrody.pl/Ogrody/1,113408,4488411.html;description;QC_NONPER
+426;Do czego rybie służy linia boczna?;google.pl;http://pl.wikipedia.org/wiki/Linia_boczna;description;QC_NONPER
+428;Do czego potrzebna jest witamina D?;google.pl;http://vitanatural.pl/do-czego-potrzebna-jest-witamina-d;description;QC_NONPER
+429;Do kogo adresować list motywacyjny?;google.pl;http://mycv.pl/porady_list-motywacyjny;individual;QC_PER:ARG
+430;Do kogo modlą się buddyści?;google.pl;http://gosc.pl/doc/1106770.Buddysci-nie-czcza-demonow;individual;QC_PER:ARG
+431;Do kogo pisał listy święty Paweł?;google.pl;http://nowezycie.archidiecezja.wroc.pl/numery/112008/07.html;group ;QC_PER:ARG
+432;Do kogo pasują rude włosy?;google.pl;http://www.we-dwoje.pl/dla%3Bkogo%3Brudy,artykul,20650.html;description;QC_PER:ARG
+433;Pod czym powinien spać noworodek?;google.pl;http://babyonline.pl/niemowle_opieka_i_wychowanie_artykul,4903.html;entity-other;QC_NONPER
+434;Pod czym można zobaczyć atom?;google.pl;http://pl.wikipedia.org/wiki/Atom#Techniki_analizy_i_obrazowania;artifact;QC_NONPER
+435;Pod czym najlepiej spać?;google.pl;http://www.bólkręgosłupa.pl/jak-spac-aby-kregoslup-nie-bolal/;artifact;QC_NONPER
+436;Czym myć lodówkę?;google.pl;http://eyeliner.pl/2009/04/19/jak-prawidlowo-wyczyscic-lodowke/;artifact;QC_NONPER
+438;Czym mierzymy ciśnienie?;google.pl;http://pl.wikipedia.org/wiki/Barometr;artifact;QC_NONPER
+439;Czym kusza różni się od łuku?;google.pl;http://pl.wikipedia.org/wiki/Kusza;description;QC_NONPER
+440;Czym karmić chomika?;google.pl;http://www.mporady.pl/jak-karmic-chomika.html;food;QC_NONPER
+441;Czym karmić psa?;google.pl;http://labradorypieski.bloog.pl/id,5502822,title,Czym-najlepiej-karmic-psa,index.html;food;QC_NONPER
+442;Czym wybielić zęby?;google.pl;http://polki.pl/uroda_twarz_artykul,10023232.html;substance;QC_NONPER
+443;Czym wyczyścić złoto?;google.pl;http://www.ppr.pl/artykul-nie-straszna-zadna-plama-62203-dzial-1761.php;substance;QC_NONPER
+444;Czym edytować gif?;google.pl;http://ocforum.pl/18-software/w-czym-edytowac-ruchomego-gifa-5624/;software;QC_NONPER
+445;Czym Edyp wydłubał sobie oczy?;google.pl;http://zadane.pl/wypracowanie/Czy_Edyp_mogl_uniknac_swojego_losu_-51471;artifact;QC_NONPER
+447;Czym różni się iPhone 4 od 4s?;google.pl;http://test-swiat.pl/elektronika/wady-i-zalety-iphonea-4-i-4s/;description;QC_NONPER
+448;Czym rozpakować rar?;google.pl;http://antywir24.pl/275-winrar-kompresja-i-dekompresja-plikow.html;software;QC_NONPER
+449;Czym różni się demokracja ateńska od dzisiejszej?;google.pl;http://zadane.pl/zadanie/3143519;description;QC_NONPER
+450;Czym uszczelnić okna?;google.pl;http://swiatowid.blox.pl/2004/11/Tanie-grzanie.html;substance;QC_NONPER
+451;Czym usunąć rdzę?;google.pl;http://www.rynekjubilerski.pl/pokaz.php?id=677;substance;QC_NONPER
+452;Czym dekorować pierniczki?;google.pl;http://www.wielkiezarcie.com/article71950.html;food;QC_NONPER
+453;Czym usunąć silikon?;google.pl;http://samremontujeszmieszkanie.pl/2010/03/jak-usunac-stary-silikon/;substance;QC_NONPER
+454;Czym otworzyć rmvb?;google.pl;http://pobierz.pl/porada/czym-otworzyc-plik-w-formacie-rmvb-najlepszy-odtwarzacz-rmvb-kodeki-player-konwersja-rmvb-do-avi;software;QC_NONPER
+455;Czym otworzyć epub?;google.pl;http://radyit.blogspot.com/2011/11/jak-otworzyc-plik-z-rozszerzeniem-epub.html;software;QC_NONPER
+457;Czym izolować fundamenty?;google.pl;http://forum.muratordom.pl/archive/index.php/t-14183.html?s=b5fc598775f7da03a7f32459bff18d62;substance;QC_NONPER
+458;Czym impregnować buty?;google.pl;http://w-spodnicy.ofeminin.pl/Tekst/Babskie-sprawy/529455,1,Impregnacja-butow--impregnacja-obuwia--impregnacja.html;substance;QC_NONPER
+459;Czym interesuje się młodzież?;google.pl;http://zapytaj.onet.pl/Category/002,010/2,8389524,Napisz_krotki_tekst_do_dyskusji_internetowej_na_temat_Mlodziez_interesuje_sie_dzisquot_Podkresl_ze_to_twoja_opinia.html;description;QC_NONPER
+460;Czym płukać gardło?;google.pl;http://www.zaradni.pl/porada/10374,jak_wyleczyc_gardlo_domowymi_sposobami;substance;QC_NONPER
+461;Jakim gatunkom psów obcina się ogony?;google.pl;http://forum.hard-core.pl/viewtopic.php?f=10&t=41927;animal;QC_DIRECT
+462;Jaki zawód jest najbardziej opłacalny?;google.pl;http://dojrzewamy.pl/pyt/104082/jaki-jest-najbardziej-oplacalny-zawod;description;QC_DIRECT
+463;Jaki zawód wybrać?;google.pl;http://www.edukacjachicago.com/jaki-wybrac-zawod-aby-miec-gwarancje-zatrudnienia/;description;QC_DIRECT
+466;Jaki ustrój panuje w Polsce?;google.pl;http://pl.wikipedia.org/wiki/Ustr%C3%B3j_polityczny_Polski;description;QC_DIRECT
+467;Jaki urlop przysługuje pracownikowi?;google.pl;http://www.praca.pl/en_poradniki/rynek-pracy/jaki-urlop-przysluguje-pracownikowi_pr-1086.html;description;QC_DIRECT
+469;Jaki fundusz emerytalny wybrać?;google.pl;http://www.vipkredyt.pl/najlepsze-fundusze-emerytalne/jak-wybrac-fundusz-emerytalny/;company;QC_DIRECT
+470;Jaki gaz wydzielający się podczas pożaru stwarza zagrożenie zatrucia się?;google.pl;http://www.konferencja.elektro.info.pl/ochrona-ppo-okiem-instalatora/12-wentylacja-poarowa-przebieg-poaru-i-przepyw-dymu;substance;QC_DIRECT
+471;Jaki jest prawidłowy puls?;google.pl;http://forum.abczdrowie.pl/forum-zdrowie/311434,ile-powinien-wynosic-prawidlowy-puls;numeric-other;QC_STATE:GEN
+472;Jaki jest cel oddychania?;google.pl;http://zadane.pl/zadanie/169398;description;QC_STATE:GEN
+473;Jaki jest wzór na pole trapezu?;google.pl;http://brasil.cel.agh.edu.pl/~09mdrobniak/ctrapez.html;numeric-other;QC_STATE:GEN
+474;Jaki jest najnowszy Android?;google.pl;http://zapytaj.onet.pl/Category/017,008/2,23185669,Jaki_jest_najnowszy_Android.html;artifact;QC_STATE:GEN
+475;Jaka jest liczba mieszkańców Wielkiej Brytanii?;google.pl;http://pl.wikipedia.org/wiki/Wielka_Brytania;count;QC_STATE:GEN
+477;Jaka jest najniższa krajowa?;google.pl;http://praca.wp.pl/title,Malo-zarabiasz-Oni-maja-jeszcze-gorzej,wid,14265954,wiadomosc.html;money ;QC_STATE:GEN
+478;Jaka jest liczba mieszkańców Szwecji?;google.pl;http://szwecja.net/NOW/ArchiwumNowin/2006/060112-ludnosc.shtml;count;QC_STATE:GEN
+479;Jaka rzeka przepływa przez Londyn?;google.pl;http://www.rybnikpogodzinach.pl/Tamiza_w_Londynie.html;river;QC_DIRECT
+480;Jaka rzeka przepływa przez Paryż?;google.pl;http://nauka.katalogi.pl/Text_do_przet%C5%82umaczenia_na_angielski-t6537.html;river;QC_DIRECT
+481;Jaka ustawa tworzy podstawę prawa bilansowego?;google.pl;http://pl.wikipedia.org/wiki/Ustawa_o_rachunkowo%C5%9Bci;document;QC_DIRECT
+482;Jaka usługa musi być uruchomiona na serwerze, aby stacja robocza pobierała automatycznie adres ip?;google.pl;http://pl.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol;software;QC_DIRECT
+483;Jaka fryzura pasuje do owalnej twarzy?;google.pl;http://pieknieje.pl/artykuly/czas-na-zmiane-fryzury-dobierz-ja-z-nami;entity-other;QC_DIRECT
+484;Jaka hierarchia wartości dominuje we współczesnym świecie?;google.pl;http://www.sciaga.pl/tekst/96748-97-czy_hierarchia_wartosci_w_zyciu_zmienila_sie_od_czasow_renesansu;description;QC_DIRECT
+485;Jaka jest główna idea Internetu?;google.pl;http://zapytaj.onet.pl/Category/007,003/2,6322974,Jaka_jest_glowna_idea_internetu.html;description;QC_STATE:GEN
+486;Jakie są dodatki do The Sims 3?;google.pl;http://zapytaj.onet.pl/Category/029,014/2,20335661,Jakie_sa_dodatki_do_the_sims_3.html;title;QC_STATE:GEN
+487;Jakie elementy tworzą świat przedstawiony w utworze literackim?;google.pl;http://pl.wikipedia.org/wiki/%C5%9Awiat_przedstawiony;description;QC_DIRECT
+488;Jakie elementy powinna zawierać rozprawka?;google.pl;http://pl.wikipedia.org/wiki/Rozprawka;description;QC_DIRECT
+489;Jakie witaminy ma jabłko?;google.pl;http://pl.wikipedia.org/wiki/Jab%C5%82ko;substance;QC_DIRECT
+490;Jakie witaminy ma banan?;google.pl;http://www.poradnia.pl/banany-skladniki-odzywcze.html;substance;QC_DIRECT
+491;Jakie ryby biorą w listopadzie?;google.pl;http://www.narybki.net/forum/viewthread.php?thread_id=5271;animal;QC_DIRECT
+492;Jakie ryby morskie są dostępne w sprzedaży?;google.pl;http://zapytaj.onet.pl/Category/006,012/2,7926474,jakie_ryby_morskie_sa_dostepne_w_sprzedazy_jakie_ryby_sprzedawane_sa_w_najwiekszych_ilosciach_jakie_ryby_sprzedawane_sa_w_najmniejszych_ilosciach.html;animal;QC_DIRECT
+493;Jakie umiejętności wpisać w CV?;google.pl;http://controlfind.pl/artykuly/strefa-kandydata/cv-umiejetnosci_bhf.html;description;QC_DIRECT
+494;Jakie uprawnienia ma prezydent?;google.pl;http://pl.wikipedia.org/wiki/Prezydent_Rzeczypospolitej_Polskiej;description;QC_DIRECT
+495;Jakie udziały rynkowe posiada Philip Morris w Polsce?;google.pl;http://www.iph.krakow.pl/?a=page&id=47&step=2&partner_id=221;description;QC_DIRECT
+496;Jakie utwory skomponował Fryderyk Chopin?;google.pl;http://pl.wikipedia.org/wiki/Lista_dzie%C5%82_Fryderyka_Chopina;title;QC_DIRECT
+497;Jakie organizmy należą do zwierząt?;google.pl;http://pl.wikipedia.org/wiki/Zwierz%C4%99ta;animal;QC_DIRECT
+498;Jakie organizmy należą do roślin?;google.pl;http://pl.wikipedia.org/wiki/Ro%C5%9Bliny;plant;QC_DIRECT
+501;Jakie decyzje podejmowano podczas obrad sejmu walnego?;google.pl;http://pl.wikipedia.org/wiki/Sejm_walny;description;QC_DIRECT
+502;Jakie funkcje pełni plecha glonów wielokomórkowych?;google.pl;http://zadane.pl/zadanie/2986994;description;QC_DIRECT
+503;Jakie firmy mogą zawiesić działalność gospodarczą?;google.pl;http://poradnik.wfirma.pl/-zawieszenie-prowadzenia-dzialalnosci-gospodarczej;company;QC_DIRECT
+504;Jakie jest najgłębsze jezioro w Polsce?;google.pl;http://pl.wikipedia.org/wiki/Ha%C5%84cza_%28jezioro%29;lake;QC_STATE:GEN
+505;Jakie jest prawidłowe ciśnienie?;google.pl;http://www.kardioserwis.pl/page.php/1/0/show/226/ci%C5%9Bnienie_t%C4%99tnicze_krwi.html;numeric-other;QC_STATE:GEN
+506;Jakie jest przeznaczenie dysku twardego?;google.pl;http://www.obeznani.pl/s/1/jakie-jest-przeznaczenie-dysku-twardego;description;QC_STATE:GEN
+507;Jakie kolory ma tęcza?;google.pl;http://zapytaj.onet.pl/Category/001,001/2,2607835,Jakie_kolory_ma_tecza.html;color;QC_DIRECT
+508;Jakie choroby wywołują bakterie?;google.pl;http://zadane.pl/zadanie/1693973;dis-med;QC_DIRECT
+509;Jakie były losy królestwa Aleksandra Macedońskiego po jego śmierci?;google.pl;http://zadane.pl/zadanie/263265;description;QC_STATE:GEN
+510;Jakie natężenie dźwięku jest uznawane za próg bólu?;google.pl;http://www.bryk.pl/teksty/liceum/fizyka/oddzia%C5%82ywania_w_przyrodzie/10062-d%C5%BAwi%C4%99k.html;numeric-other;QC_DIRECT
+511;O jakich potrzebach dzieci zapominają dorośli?;google.pl;http://www.asksa.republika.pl/potrzeby.htm;description;QC_DIRECT
+513;O jakiej porze dnia najlepiej ćwiczyć?;google.pl;http://vitalia.pl/forum24,502091,0_Kiedy-najlepiej-cwiczyc.html;date;QC_DIRECT
+514;W jaki sposób układ limfatyczny łączy się z układem krwionośnym?;google.pl;http://zadane.pl/zadanie/1780343;manner;QC_PROCEDURE
+516;W jaki sposób Napoleon doszedł do władzy?;google.pl;http://zadane.pl/zadanie/984382;manner;QC_PROCEDURE
+517;W jaki sposób ludzie dostosowują się do zmian pogody?;google.pl;http://zadane.pl/zadanie/1819131;manner;QC_PROCEDURE
+518;W jaki sposób ludzie mogą zapobiegać negatywnym skutkom zmian klimatycznych?;google.pl;http://zadane.pl/zadanie/4349138;manner;QC_PROCEDURE
+519;Po co mieć dzieci?;google.pl;http://www.teksty.jeja.pl/69,20-powodow-dla-ktorych-warto-miec.html;reason;QC_CAUSE
+520;Po co ludzie się tną?;google.pl;http://zapytaj.onet.pl/Category/004,001/2,7124,po_co_ludzie_sie_tna.html;reason;QC_CAUSE
+521;Po co ludziom państwo?;google.pl;http://zadane.pl/zadanie/1093373;reason;QC_CAUSE
+522;Po co faraonowie budowali piramidy?;google.pl;http://zadane.pl/zadanie/1153625;reason;QC_CAUSE
+523;Po co dzielić dysk na partycje?;google.pl;http://www.benchmark.pl/poradnik/Dzielenie_dysku_na_partycje._Potrzebne.-3444.html;reason;QC_CAUSE
+524;Po co hoduje się kury?;google.pl;http://hodowla.freesites24.com/;reason;QC_CAUSE
+526;Po co hoduje się konie?;google.pl;http://zadane.pl/zadanie/2506088;reason;QC_CAUSE
+528;Po co jest podwiązka?;google.pl;http://pl.wikipedia.org/wiki/Podwi%C4%85zka;reason;QC_CAUSE
+529;Po co ksiądz chodzi po kolędzie?;google.pl;http://zapytaj.onet.pl/Category/009,001/2,22925039,Po_co_ksiadz_chodzi_po_koledzie.html;reason;QC_CAUSE
+530;Po co aktualizować bios?;google.pl;http://www.chip.pl/artykuly/tips-tricks/sprzet/2010/01/aktualizacja-bios-u;reason;QC_CAUSE
+531;Po co rośliny wytwarzają owoce?;google.pl;http://zadane.pl/zadanie/1982818;reason;QC_CAUSE
+533;Po co yorkowi papiloty?;google.pl;http://e-yorki.blog.onet.pl/2008/01/09/035-zakladamy-yorkowi-papiloty/;reason;QC_CAUSE
+534;Po co są migdałki?;google.pl;http://polki.pl/rodzina_maledziecko_artykul,10002213.html;reason;QC_CAUSE
+535;Po co są włosy łonowe?;google.pl;http://niewiarygodne.pl/gid,11884696,img,11884697,kat,1017185,page,7,title,Istnieja-ale-po-co-6-najwiekszych-tajemnic-ludzkiego-ciala,galeriazdjecie.html?smgajticaid=610360;reason;QC_CAUSE
+536;Po co się uczyć?;google.pl;http://www.1000extrarzeczywszkole.pl/?p=747;reason;QC_CAUSE
+537;Po co pisano kroniki?;google.pl;http://www.bryk.pl/s%C5%82owniki/s%C5%82ownik_historyczny/88216-kronika_z_gr_chronika_roczniki.html;reason;QC_CAUSE
+538;Po co psu ogon?;google.pl;http://www.pupile.eu/inne/ogon.htm;reason;QC_CAUSE
+539;Po co powstała Unia Europejska?;google.pl;http://www.ekonomicznie.pl/strefa.php?strefa=studenta&art=174;reason;QC_CAUSE
+540;Kogo można zgłosić do ubezpieczenia jako członka rodziny?;google.pl;http://e-inspektorat.zus.pl/sprawy.asp?id_profilu=2&id_sprawy=228&menu=3&pomoc=3;individual;QC_PER:ARG
+541;Kogo można powołać do służby stałej w korpusie oficerów zawodowych wojska polskiego?;google.pl;http://www.wojsko-polskie.pl/sily-zbrojne-rp/18141,sluzba-wojskowa.html;individual;QC_PER:ARG
+543;Kogo można ubezwłasnowolnić?;google.pl;http://www.poradnia.pl/kiedy-mozna-orzec-ubezwlasnowolnienie.html;individual;QC_PER:ARG
+544;Kogo nazywamy człowiekiem renesansu?;google.pl;http://zapytaj.onet.pl/Category/002,019/2,1679793,Kogo_nazywamy_czlowiekiem_renesansu.html;description;QC_PER:ARG
+545;Kogo nazywa się aniołami biznesu?;google.pl;http://www.polski-inwestor.com/informacje-aniolowie_biznesu_remedium_na_bezrobocie-352-drukuj.html;company;QC_PER:ARG
+546;Kogo nazywamy patriotą?;google.pl;http://zadane.pl/zadanie/4187443;individual;QC_PER:ARG
+547;Kogo brakuje na rynku pracy?;google.pl;http://forum.gazeta.pl/forum/w,34281,57271462,57271462,Na_rynku_pracy_brakuje_rzemieslnikow.html;group ;QC_PER:ARG
+548;Kogo beatyfikował Jan Paweł II?;google.pl;http://pl.wikipedia.org/wiki/Beatyfikowani_i_kanonizowani_przez_Jana_Paw%C5%82a_II;individual;QC_PER:ARG
+549;Kogo chroni BOR?;google.pl;http://pl.wikipedia.org/wiki/Biuro_Ochrony_Rz%C4%85du;individual;QC_PER:ARG
+550;Kogo zabił Makbet?;google.pl;http://pl.wikipedia.org/wiki/1040;individual;QC_PER:ARG
+551;Kogo Zbigniew Herbert nazywa dziedzicami?;google.pl;http://zadane.pl/zadanie/4117930;individual;QC_PER:ARG
+552;Kogo zabiła Balladyna??;google.pl;http://zapytaj.onet.pl/Category/002,010/2,4399037,Kogo_i_z_jakiego_powodu_zabila_Balladyna_.html;individual;QC_PER:ARG
+553;Kogo atakował leśmianowski Dusiołek?;google.pl;http://www.bryk.pl/teksty/gimnazjum/j%C4%99zyk_polski/wiersze/17494-boles%C5%82aw_le%C5%9Bmian_dusio%C5%82ek_interpretacja_wiersza.html;individual;QC_PER:ARG
+554;Jak długo trwa grypa?;google.pl;http://forum.gazeta.pl/forum/w,902,103409921,103416719,Leczona_grypa_trwa_tylko_7_dni_a_nie_leczona_az_ty.html;period;QC_TEMP:PER
+555;Kogo Rzymianie nazywali barbarzyńcami?;google.pl;http://zadane.pl/zadanie/199342;group ;QC_PER:ARG
+556;Kogo wskrzesił Jezus?;google.pl;http://zapytaj.onet.pl/Category/002,017/2,3428197,Kogo_wskrzesil_Jezus_Chrystus.html;individual;QC_PER:ARG
+557;Kogo pracodawca nie może zwolnić?;google.pl;http://zielonalinia.gov.pl/Kogo-nie-mozna-zwolnic-1389;individual;QC_PER:ARG
+558;Kogo powołuje sejm?;google.pl;http://www.sciaga.pl/slowniki-tematyczne/285/sejm-rzeczypospolitej/;individual;QC_PER:ARG
+559;Kogo powiadomić o zmianie dowodu osobistego?;google.pl;http://blaszczykiewicz.pl/2011/06/10/kogo-i-co-poinformowac-o-zmianie-dowodu-osobistego/;institution;QC_PER:ARG
+561;Jak długo ważna jest recepta?;google.pl;http://www.zdrowomi.pl/farmacja/farmacja-pytania-odpowiedzi/1-farmacja/9-ile-czasu-wana-jest-recepta.html;period;QC_TEMP:PER
+562;Z kogo składa się rada ministrów?;google.pl;http://www.sciaga.pl/tekst/14258-15-rada_ministrow;individual;QC_PER:ARG
+563;Jak manipulować ludźmi?;google.pl;http://www.tipy.pl/artykul_3771,jak-manipulowac-ludzmi.html;manner;QC_PROCEDURE
+564;Jak można zarazić się HIV?;google.pl;http://seks.wieszjak.pl/hiv-i-aids/215032,W-jaki-sposob-moge-zarazic-sie-wirusem-HIV.html;manner;QC_PROCEDURE
+565;Z kogo Polacy mogą być dumni?;google.pl;http://arek83lbn.salon24.pl/120681,z-kogo-sa-dumni-polacy;individual;QC_PER:ARG
+566;Z kogo składa się senat?;google.pl;http://pl.wikipedia.org/wiki/Senat_Rzeczypospolitej_Polskiej;individual;QC_PER:ARG
+568;Jak wywołać okres?;google.pl;http://www.forumginekologiczne.pl/forum/vt,48,237,556649,0,jak-wywolac-okres;manner;QC_PROCEDURE
+569;Jak efektownie tasować karty?;google.pl;http://www.betplatform.com/pl/poker/tasowanie-kart/2/;manner;QC_PROCEDURE
+570;Jak odetkać ucho?;google.pl;http://www.tipy.pl/artykul_3854,jak-odetkac-ucho.html;manner;QC_PROCEDURE
+571;Jak sformatować dysk?;google.pl;http://www.jak-to-zrobic.pl/index.php/a/3/b/7/c/37/d/103/id/112;manner;QC_PROCEDURE
+572;Jak bardzo boli poród?;google.pl;http://zapytaj.onet.pl/Category/004,007/2,22947230,Czy_porod_bardzo_boli_.html;description;QC_STATE:INTENS
+573;Jak bardzo szybko schudnąć?;google.pl;http://www.se.pl/kobieta/zdrowie-kosmetyki/jak-szybko-schudnac-dieta-zegarowa-3-kg-w-3-dni_188968.html;manner;QC_PROCEDURE
+574;Jak mało wydawać na jedzenie?;google.pl;http://www.tipy.pl/artykul_9676,jak-wydawac-mniej-na-jedzenie.html;manner;QC_PROCEDURE
+575;Jak mało spać i być wyspanym?;google.pl;http://produktywnie.pl/897/tydzien-wczesnego-wstawania-jak-spac-krocej/;manner;QC_PROCEDURE
+576;Jak mało jeść?;google.pl;http://mamzdrowie.pl/4-sztuczki-psychologiczne-aby-mniej-jesc/;manner;QC_PROCEDURE
+581;Skąd się bierze katar?;google.pl;http://www.mmkrakow.pl/blog/entry/258588/Tam+gdzie+zaczyna+si%C4%99+Wis%C5%82a....html;reason;QC_CAUSE
+582;Skąd można pobierać filmy za darmo?;google.pl;http://pl.wikipedia.org/wiki/Nie%C5%BCyt_nosa;web-page;QC_LOC:ORIG
+584;Skąd lumpeksy biorą ciuchy?;google.pl;http://www.opracowania.com.pl/uzasadnij-bohaterem-tragicznym-jest-edyp/;description;QC_LOC:ORIG
+585;Skąd wziąć akt urodzenia?;google.pl;http://www.obeznani.pl/s/1/skad-sie-biora-ubrania-w-lumpeksach;institution;QC_LOC:ORIG
+586;Skąd wypłynął Titanic?;google.pl;http://www.ofeminin.pl/forum/f42/__f54_f42-Gdzie-dostac-skrocony-akt-urodzenia.html;city;QC_LOC:ORIG
+587;Skąd tradycja ubierania choinki?;google.pl;http://www.rmf24.pl/fakty/swiat/news-100-lat-temu-titanic-wyplynal-z-southampton,nId,597090;reason;QC_CAUSE
+588;Skąd autor zaczerpnął pomysł na tytuł powieści "Quo vadis"?;google.pl;http://pl.wikipedia.org/wiki/Choinka;description;QC_LOC:ORIG
+589;Skąd Unia bierze pieniądze?;google.pl;http://pl.wikipedia.org/wiki/Quo_vadis;description;QC_LOC:ORIG
+590;Skąd u noworodka czkawka?;google.pl;http://pl.wikipedia.org/wiki/Bud%C5%BCet_Unii_Europejskiej#.C5.B9r.C3.B3d.C5.82a_dochod.C3.B3w_bud.C5.BCetowych_Unii;reason;QC_CAUSE
+591;Skąd lata easyJet?;google.pl;http://www.mamazone.pl/tv/film,3876,czkawka-u-noworodka.aspx;city;QC_LOC:ORIG
+593;Dlaczego kot gryzie?;google.pl;http://zadane.pl/zadanie/4477504;reason;QC_CAUSE
+594;Za ile punktów zabierają prawo jazdy?;google.pl;http://zapytaj.onet.pl/Category/010,002/2,17693590,Czemu_moj_kot_gryzie.html;count;QC_QUANTITY:GEN
+595;Za ile Judasz sprzedał Jezusa?;google.pl;http://zabraneprawojazdy.pl/;money ;QC_QUANTITY:PRICE
+596;Za ile jest Xbox 360?;google.pl;http://www.rmf24.pl/fakty/polska/news-wielka-sroda-chrzescijanie-wspominaja-dzien-w-ktorym-judasz-,nId,596082;money ;QC_QUANTITY:PRICE
+597;Za ile można sprzedać nerkę?;google.pl;http://www.addsystem.pl/serwis-xbox-360/79-xbox-360-a-ps3.html;money ;QC_QUANTITY:PRICE
+598;Za ile kupiono Alaskę?;google.pl;http://natemat.pl/22793,jestem-zdrowy-nie-pije-nie-pale-sprzedam-nerke-za-35-tysiecy-zlotych-w-internecie-kwitnie-handel-organami;money ;QC_QUANTITY:PRICE
+599;Za ile kupię dobrego laptopa?;google.pl;http://pl.wikipedia.org/wiki/Zakup_Alaski;money ;QC_QUANTITY:PRICE
+600;Po ile chodzi euro?;google.pl;http://www.forumphoto.pl/topic/19717-sprzet-komputerowy/;money ;QC_QUANTITY:PRICE
+601;Po ile jest korona czeska?;google.pl;http://eurokurs.com.pl/;money ;QC_QUANTITY:PRICE
+602;Po ile stoi funt?;google.pl;http://waluty.onet.pl/czk-pln-kurs-korony-czeskiej-do-zlotowki,18909,828,0,1082,profile-waluta-online;money ;QC_QUANTITY:PRICE
+603;Po ile stoi dolar?;google.pl;http://www.kursfunta.pl/;money ;QC_QUANTITY:PRICE
+604;Po ile są tablety?;google.pl;http://www.kursdolara.net/;money ;QC_QUANTITY:PRICE
