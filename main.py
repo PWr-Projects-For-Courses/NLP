@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
 
-from question_classification.tag_data import main
+from question_classification.count_TF import main
 import sys
 
 if __name__ == "__main__":

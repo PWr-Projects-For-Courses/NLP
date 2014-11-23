@@ -1,15 +1,11 @@
-? : 178
 to : 140
 być : 140
 CO : 126
 kto : 48
-" : 40
 o : 9
 nie : 8
-, : 6
 chodzić : 6
 co : 6
-. : 6
 w : 6
 hipis : 5
 znaczyć : 4
@@ -22,7 +18,6 @@ ten : 3
 szkoła : 3
 krowa : 3
 Hitler : 3
-- : 3
 acta : 3
 Zeus : 2
 zapłonowy : 2
@@ -36,7 +31,6 @@ nowy : 2
 pełno : 2
 za : 2
 smycz : 2
-+ : 2
 jabłko : 2
 dodać : 2
 denko : 2
@@ -60,6 +54,7 @@ hipiska : 2
 austriacki : 2
 fasadowy : 2
 łaskotki : 2
+rhd : 2
 pisać : 2
 : : 2
 cobain : 2
@@ -72,7 +67,6 @@ projekt : 2
 coca : 2
 krew : 2
 wszystek : 2
-rhd : 2
 cewka : 2
 kosz : 2
 D : 2

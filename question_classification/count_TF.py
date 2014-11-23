@@ -6,6 +6,14 @@ import operator
 import codecs
 import xml.etree.ElementTree as ET
 
+stoplist = ['"',
+            "'",
+            ',',
+            '?',
+            '.',
+            '-',
+            '+']
+
 def dump_dict(terms, path, encoding = "utf8"):
     terms = sorted(terms.items(), key=operator.itemgetter(1), reverse=True)
     with codecs.open(path, "w", encoding=encoding) as f:
@@ -23,9 +31,10 @@ def main(args=[__file__]):
         for tok in root.iter('tok'):
             lex = tok.find("lex")
             lemat = lex.find('base').text
-            if lemat in terms:
-                terms[lemat] += 1
-            else:
-                terms[lemat] = 1
+            if lemat not in stoplist:
+                if lemat in terms:
+                    terms[lemat] += 1
+                else:
+                    terms[lemat] = 1
         outpath = os.path.join(tf_root, fn[0:-3]+"txt")
         dump_dict(terms, outpath)

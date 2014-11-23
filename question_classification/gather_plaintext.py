@@ -44,6 +44,7 @@ def main(args=[__file__]):
     out_root = os.path.join(os.path.dirname(__file__), "../data/plain_data")
     records = read_file(path, *config)
     classes = {}
+    classes['ALL'] = []
     for r in records:
         if ignore_subclasses:
             key = r.qc.partition(":")[0]
@@ -52,6 +53,7 @@ def main(args=[__file__]):
         if key not in classes:
             classes[key] = []
         classes[key].append(r)
+        classes['ALL'].append(r)
     for clazz in classes:
         out_path = os.path.join(out_root, clazz.replace('"', '') + ".txt")
         dump_plaintext(out_path, classes[clazz])

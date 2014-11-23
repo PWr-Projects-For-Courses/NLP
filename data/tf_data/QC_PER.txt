@@ -1,4 +1,3 @@
-? : 99
 kto : 97
 być : 17
 z : 16
@@ -22,7 +21,7 @@ Paweł : 3
 powoływać : 3
 prezydent : 3
 wymyślić : 2
-winny : 2
+stały : 2
 dobrze : 2
 zgłosić : 2
 dziecko : 2
@@ -49,7 +48,6 @@ rada : 2
 lecznictwo : 2
 atakować : 2
 święty : 2
-stały : 2
 podkładać : 2
 wojsko : 2
 rynek : 2
@@ -61,7 +59,6 @@ patriota : 2
 nadzór : 2
 rodzina : 2
 pod : 2
-" : 2
 ubezpieczyć : 2
 sejm : 2
 szachy : 2
@@ -84,6 +81,7 @@ adresować : 2
 biznes : 2
 nad : 2
 członek : 2
+winny : 2
 anioł : 2
 brakować : 2
 Polak : 2
@@ -158,7 +156,6 @@ ii : 1
 zmiana : 1
 szef : 1
 mecz : 1
-- : 1
 przymierze : 1
 pierwszy : 1
 SLD : 1

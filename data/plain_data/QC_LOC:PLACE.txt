@@ -1,114 +1,95 @@
-Gdzie znajdę informacje o wysokości mienia Skarbu Państwa?
-Gdzie urodził się Mariusz Pudzianowski?
-Gdzie urodził się Zbigniew Boniek?
-Gdzie walczył Adamek?
-Gdzie zginął Rysiek z "Klanu"?
-Gdzie znajduje się najszybszy komputer?
-Gdzie umarł Rysiek z "Klanu"?
-Gdzie urodził się Chopin?
-Gdzie rosną banany?
-Gdzie są Plewiska?
-Gdzie znajduje się UAM?
-Gdzie znajdują się Plewiska?
-Gdzie Autocad zapisuje kopie zapasowe?
-Gdzie powstały Legiony Polskie?
-Gdzie jest Ambasada Japonii?
-Gdzie wykryto w Polsce wirusa grypy?
-Gdzie ulokować pieniądze?
-Gdzie urodził się Zbigniew Herbert?
-Gdzie uchwalono Konstytucje 3 maja?
-Gdzie umieścić czujnik czadu?
-Gdzie występuje witamina D?
-Gdzie wyrobić paszport?
-Gdzie pada śnieg?
-Gdzie pada śnieg?
-Gdzie wyrobić paszport?
-Gdzie występuje witamina D?
-Gdzie umieścić czujnik czadu?
-Gdzie uchwalono Konstytucje 3 maja?
-Gdzie urodził się Zbigniew Herbert?
-Gdzie mieszka Selena Gomez?
-Gdzie ulokować pieniądze?
-Gdzie oglądać stream line movies za darmo?
-Gdzie najlepiej mieszkać w Polsce?
-Gdzie znajdę informacje nt. poprawności wykonania budżetu?
-Gdzie znajdę informacje o wysokości długu publicznego?
-Gdzie powstały Legiony Polskie?
-Gdzie Autocad zapisuje kopie zapasowe?
-Gdzie w Krakowie znajduje się sklep New Yorker?
-Gdzie jest Tusk?
-Gdzie jest Donald Tusk?
-Gdzie jest Kubica?
-Gdzie zderzyły się pociągi?
-Gdzie kupić tani duży karton ozdobny?
-Gdzie Nergal będzie jurorem?
-Gdzie jest Olsztyn?
-Gdzie jest Kościół pw św
-Gdzie jest UAM?
-Gdzie jest Rondo Kaponiera?
-Gdzie jest Drawa?
-Gdzie jest Litwa?
-Gdzie leży Przemyśl?
-Gdzie doda mieszka?
-Gdzie mieszka Święty Mikołaj?
-Gdzie można kupić ćwieki?
-"Gdzie mogę obejrzeć ""Bejbi Blues""?"
-Gdzie jest Piekło?
-Gdzie Kasia Tusk pozowała?
-Gdzie jest Bronek?
-Gdzie jest Fort VII?
-Gdzie jest Uniwersytet im. Adama Mickiewicza?
-Gdzie jest Polska?
-Gdzie jest Lizbona?
-Gdzie jest krakowskie przedmieście?
-Gdzie jest Biebrza?
-Gdzie jest Liceum imienia Stanisława Dubois?
-Gdzie jest Kępa Oborska?
-Gdzie jest Mokotów?
-Gdzie jest Milanówek?
 "Na jakiej stronie da się obejrzeć 4-ty sezon ""Pamiętnika Wampirów""?"
-Gdzie leży Ostrołęka?
-Gdzie leży UAM?
-Gdzie leży Madagaskar?
-Gdzie leży Poznań?
-Gdzie leży Szczecin?
-Na jakiej stronie da się obejrzeć 4-ty sezon "Pamiętnika Wampirów"?
-Gdzie kupić tanio sukienkę na studniówkę?
-Gdzie mieszka yeti?
-Gdzie mieszka ksiądz Natanek?
-Gdzie mieszka Tusk?
-Gdzie mieszka Johnny Depp?
+Gdzie jest Mokotów?
+Gdzie Nergal będzie jurorem?
 Gdzie leży rynek w Poznaniu?
-Gdzie odbył się mecz z Grecją?
-Gdzie mogę obejrzeć "Bejbi Blues"?
-Gdzie można kupić ćwieki?
-Gdzie mieszka Święty Mikołaj?
-Gdzie jest Ławica?
-Gdzie leży Nil?
-Gdzie leży Paryż?
-Gdzie jest Wrocław?
-Gdzie jest krzyż?
-Gdzie jest lotnisko Ławica?
-Gdzie jest Ogród Japoński?
-Gdzie leży Poznań?
-Gdzie leży Warszawa?
-Gdzie aborcja jest legalna?
-Gdzie jest Poznań?
-Gdzie jest Opatówek?
-Gdzie w Krakowie znajduje się sklep New Yorker?
-Gdzie wylądował samolot?
-Gdzie w Poznaniu znajdę korty do gry w tenisa?
-Gdzie w Poznaniu znajdę korty do gry w tenisa?
-Gdzie kupić tani duży karton ozdobny?
-Gdzie najłatwiej o pracę?
-Gdzie znajdę informacje o wysokości długu publicznego?
-Gdzie znajdę informacje nt. poprawności wykonania budżetu?
-Gdzie najłatwiej o pracę?
-Gdzie znajdę informacje o wysokości mienia Skarbu Państwa?
-Gdzie umarł Rysiek?
-Gdzie położony jest Poznań?
-Gdzie mieszka Kulczyk?
-Gdzie pochowano Hankę Mostowiak?
+Gdzie zginął Rysiek z "Klanu"?
 Gdzie odbył się Enter Festival?
-Gdzie można uprawiać seks?
 Gdzie mieszka Doda?
+Gdzie urodził się Mariusz Pudzianowski?
+Gdzie są Plewiska?
+Gdzie rosną banany?
+Gdzie najlepiej mieszkać w Polsce?
+Gdzie znajduje się UAM?
+Gdzie leży Przemyśl?
+Gdzie mieszka Tusk?
+Gdzie mogę obejrzeć "Bejbi Blues"?
+Gdzie jest Liceum imienia Stanisława Dubois?
+Gdzie ulokować pieniądze?
+Gdzie znajdują się Plewiska?
+Gdzie uchwalono Konstytucje 3 maja?
+Gdzie jest Bronek?
+Gdzie urodził się Chopin?
+Gdzie leży Paryż?
+Gdzie jest Drawa?
+Gdzie jest Ogród Japoński?
+Gdzie występuje witamina D?
+Gdzie aborcja jest legalna?
+Gdzie jest Donald Tusk?
+Gdzie jest Wrocław?
+Gdzie w Poznaniu znajdę korty do gry w tenisa?
+Gdzie można kupić ćwieki?
+Gdzie jest Olsztyn?
+Gdzie jest Kubica?
+Gdzie można uprawiać seks?
+Gdzie znajdę informacje o wysokości długu publicznego?
+Gdzie jest krakowskie przedmieście?
+Gdzie jest Opatówek?
+Gdzie leży Ostrołęka?
+Gdzie wykryto w Polsce wirusa grypy?
+Gdzie mieszka Kulczyk?
+"Gdzie mogę obejrzeć ""Bejbi Blues""?"
+Na jakiej stronie da się obejrzeć 4-ty sezon "Pamiętnika Wampirów"?
+Gdzie jest Kępa Oborska?
+Gdzie jest lotnisko Ławica?
+Gdzie mieszka ksiądz Natanek?
+Gdzie leży Poznań?
+Gdzie jest Kościół pw św
+Gdzie kupić tani duży karton ozdobny?
+Gdzie jest Milanówek?
+Gdzie jest Tusk?
+Gdzie jest Ambasada Japonii?
+Gdzie powstały Legiony Polskie?
+Gdzie jest Fort VII?
+Gdzie jest UAM?
+Gdzie umarł Rysiek?
+Gdzie jest Piekło?
+Gdzie leży UAM?
+Gdzie urodził się Zbigniew Herbert?
+Gdzie znajduje się najszybszy komputer?
+Gdzie mieszka Święty Mikołaj?
+Gdzie jest Rondo Kaponiera?
+Gdzie zderzyły się pociągi?
+Gdzie najłatwiej o pracę?
+Gdzie walczył Adamek?
+Gdzie wyrobić paszport?
+Gdzie mieszka Selena Gomez?
+Gdzie wylądował samolot?
+Gdzie jest Ławica?
+Gdzie mieszka Johnny Depp?
+Gdzie jest Lizbona?
+Gdzie jest Litwa?
+Gdzie leży Warszawa?
+Gdzie doda mieszka?
+Gdzie umarł Rysiek z "Klanu"?
+Gdzie pada śnieg?
+Gdzie Kasia Tusk pozowała?
+Gdzie jest Biebrza?
+Gdzie Autocad zapisuje kopie zapasowe?
+Gdzie pochowano Hankę Mostowiak?
+Gdzie urodził się Zbigniew Boniek?
+Gdzie leży Szczecin?
+Gdzie odbył się mecz z Grecją?
+Gdzie kupić tanio sukienkę na studniówkę?
+Gdzie jest krzyż?
+Gdzie umieścić czujnik czadu?
+Gdzie jest Poznań?
+Gdzie oglądać stream line movies za darmo?
+Gdzie jest Uniwersytet im. Adama Mickiewicza?
+Gdzie leży Madagaskar?
+Gdzie położony jest Poznań?
+Gdzie leży Nil?
+Gdzie znajdę informacje o wysokości mienia Skarbu Państwa?
+Gdzie mieszka yeti?
+Gdzie jest Polska?
+Gdzie w Krakowie znajduje się sklep New Yorker?
+Gdzie znajdę informacje nt. poprawności wykonania budżetu?

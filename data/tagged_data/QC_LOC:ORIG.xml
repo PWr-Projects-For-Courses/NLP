@@ -5,51 +5,24 @@
  <chunk id="ch1">
   <chunk type="s">
    <tok>
-    <orth>Z</orth>
-    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+    <orth>Skąd</orth>
+    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>jakiego</orth>
-    <lex disamb="1"><base>jaki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+    <orth>brać</orth>
+    <lex disamb="1"><base>brać</base><ctag>inf:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>rejonu</orth>
-    <lex disamb="1"><base>rejon</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <orth>napisy</orth>
+    <lex disamb="1"><base>napis</base><ctag>subst:pl:acc:m3</ctag></lex>
    </tok>
    <tok>
-    <orth>pochodzi</orth>
-    <lex disamb="1"><base>pochodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
    </tok>
    <tok>
-    <orth>pomidor</orth>
-    <lex disamb="1"><base>pomidor</base><ctag>subst:sg:nom:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Z</orth>
-    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>jakiego</orth>
-    <lex disamb="1"><base>jaki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
-   </tok>
-   <tok>
-    <orth>rejonu</orth>
-    <lex disamb="1"><base>rejon</base><ctag>subst:sg:gen:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pochodzi</orth>
-    <lex disamb="1"><base>pochodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pomidor</orth>
-    <lex disamb="1"><base>pomidor</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <orth>filmów</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -63,31 +36,16 @@
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>przylatuje</orth>
-    <lex disamb="1"><base>przylatywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>lumpeksy</orth>
+    <lex disamb="1"><base>lumpeksy</base><ctag>subst:pl:nom:m3</ctag></lex>
    </tok>
    <tok>
-    <orth>czeczotka</orth>
-    <lex disamb="1"><base>czeczotka</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
+    <orth>biorą</orth>
+    <lex disamb="1"><base>brać</base><ctag>fin:pl:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>przylatuje</orth>
-    <lex disamb="1"><base>przylatywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>jemiołuszka</orth>
-    <lex disamb="1"><base>jemiołuszka</base><ctag>subst:sg:nom:f</ctag></lex>
+    <orth>ciuchy</orth>
+    <lex disamb="1"><base>ciuch</base><ctag>subst:pl:acc:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -142,71 +100,80 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
+    <orth>Gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>ściągnąć</orth>
-    <lex disamb="1"><base>ściągnąć</base><ctag>inf:perf</ctag></lex>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
    </tok>
    <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <orth>Ukrainie</orth>
+    <lex disamb="1"><base>Ukraina</base><ctag>subst:sg:loc:f</ctag></lex>
+    <lex disamb="1"><base>ukraina</base><ctag>subst:sg:loc:f</ctag></lex>
    </tok>
-   <ns/>
    <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <orth>odbędą</orth>
+    <lex disamb="1"><base>odbyć</base><ctag>fin:pl:ter:perf</ctag></lex>
    </tok>
-   <ns/>
    <tok>
-    <orth>Minecrafta</orth>
-    <lex disamb="1"><base>minecrafta</base><ctag>subst:sg:nom:m3</ctag></lex>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
    </tok>
-   <ns/>
    <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <orth>mecze</orth>
+    <lex disamb="1"><base>mecz</base><ctag>subst:pl:nom:m3</ctag></lex>
    </tok>
-   <ns/>
    <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+    <orth>mistrzostw</orth>
+    <lex disamb="1"><base>mistrzostwa</base><ctag>subst:pl:gen:n</ctag></lex>
+    <lex disamb="1"><base>mistrzostwo</base><ctag>subst:pl:gen:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Europy</orth>
+    <lex disamb="1"><base>Europa</base><ctag>subst:sg:gen:f</ctag></lex>
    </tok>
    <ns/>
    <tok>
     <orth>?</orth>
     <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
    </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
+  </chunk>
+  <chunk type="s">
    <tok>
     <orth>Skąd</orth>
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>brać</orth>
-    <lex disamb="1"><base>brać</base><ctag>inf:imperf</ctag></lex>
+    <orth>wziąć</orth>
+    <lex disamb="1"><base>wziąć</base><ctag>inf:perf</ctag></lex>
    </tok>
    <tok>
-    <orth>napisy</orth>
-    <lex disamb="1"><base>napis</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <orth>akt</orth>
+    <lex disamb="1"><base>akt</base><ctag>subst:sg:acc:m3</ctag></lex>
    </tok>
    <tok>
-    <orth>do</orth>
-    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+    <orth>urodzenia</orth>
+    <lex disamb="1"><base>urodzenie</base><ctag>subst:sg:gen:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Skąd</orth>
+    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>filmów</orth>
-    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
+    <orth>lata</orth>
+    <lex disamb="1"><base>rok</base><ctag>subst:pl:nom:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>easyJet</orth>
+    <lex disamb="1"><base>easyjet</base><ctag>subst:sg:nom:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -270,150 +237,16 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>Gdzie</orth>
-    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>kupić</orth>
-    <lex disamb="1"><base>kupić</base><ctag>inf:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>buty</orth>
-    <lex disamb="1"><base>but</base><ctag>subst:pl:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>w</orth>
-    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Poznaniu</orth>
-    <lex disamb="1"><base>Poznań</base><ctag>subst:sg:loc:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Gdzie</orth>
-    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Ukrainie</orth>
-    <lex disamb="1"><base>Ukraina</base><ctag>subst:sg:loc:f</ctag></lex>
-    <lex disamb="1"><base>ukraina</base><ctag>subst:sg:loc:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>odbędą</orth>
-    <lex disamb="1"><base>odbyć</base><ctag>fin:pl:ter:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>się</orth>
-    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
-   </tok>
-   <tok>
-    <orth>mecze</orth>
-    <lex disamb="1"><base>mecz</base><ctag>subst:pl:nom:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>mistrzostw</orth>
-    <lex disamb="1"><base>mistrzostwa</base><ctag>subst:pl:gen:n</ctag></lex>
-    <lex disamb="1"><base>mistrzostwo</base><ctag>subst:pl:gen:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Europy</orth>
-    <lex disamb="1"><base>Europa</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>z</orth>
-    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>jakiej</orth>
-    <lex disamb="1"><base>jaki</base><ctag>adj:sg:gen:f:pos</ctag></lex>
-   </tok>
-   <tok>
-    <orth>strony</orth>
-    <lex disamb="1"><base>strona</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>mogę</orth>
-    <lex disamb="1"><base>móc</base><ctag>fin:sg:pri:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>ściągnąć</orth>
-    <lex disamb="1"><base>ściągnąć</base><ctag>inf:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>program</orth>
-    <lex disamb="1"><base>program</base><ctag>subst:sg:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Nero</orth>
-    <lex disamb="1"><base>nera</base><ctag>subst:sg:voc:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
     <orth>Skąd</orth>
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>brać</orth>
-    <lex disamb="1"><base>brać</base><ctag>inf:imperf</ctag></lex>
+    <orth>przylatuje</orth>
+    <lex disamb="1"><base>przylatywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>napisy</orth>
-    <lex disamb="1"><base>napis</base><ctag>subst:pl:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>do</orth>
-    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
-   </tok>
-   <tok>
-    <orth>filmów</orth>
-    <lex disamb="1"><base>film</base><ctag>subst:pl:gen:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Unia</orth>
-    <lex disamb="1"><base>unia</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>bierze</orth>
-    <lex disamb="1"><base>brać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pieniądze</orth>
-    <lex disamb="1"><base>pieniądz</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <orth>czeczotka</orth>
+    <lex disamb="1"><base>czeczotka</base><ctag>subst:sg:nom:f</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -480,16 +313,24 @@
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>wziąć</orth>
-    <lex disamb="1"><base>wziąć</base><ctag>inf:perf</ctag></lex>
+    <orth>można</orth>
+    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
    </tok>
    <tok>
-    <orth>akt</orth>
-    <lex disamb="1"><base>akt</base><ctag>subst:sg:acc:m3</ctag></lex>
+    <orth>pobierać</orth>
+    <lex disamb="1"><base>pobierać</base><ctag>inf:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>urodzenia</orth>
-    <lex disamb="1"><base>urodzenie</base><ctag>subst:sg:gen:n</ctag></lex>
+    <orth>filmy</orth>
+    <lex disamb="1"><base>film</base><ctag>subst:pl:acc:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>za</orth>
+    <lex disamb="1"><base>za</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>darmo</orth>
+    <lex disamb="1"><base>darmo</base><ctag>adv</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -503,16 +344,43 @@
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>lumpeksy</orth>
-    <lex disamb="1"><base>lumpeksy</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <orth>Unia</orth>
+    <lex disamb="1"><base>unia</base><ctag>subst:sg:nom:f</ctag></lex>
    </tok>
    <tok>
-    <orth>biorą</orth>
-    <lex disamb="1"><base>brać</base><ctag>fin:pl:ter:imperf</ctag></lex>
+    <orth>bierze</orth>
+    <lex disamb="1"><base>brać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>ciuchy</orth>
-    <lex disamb="1"><base>ciuch</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <orth>pieniądze</orth>
+    <lex disamb="1"><base>pieniądz</base><ctag>subst:pl:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jakiego</orth>
+    <lex disamb="1"><base>jaki</base><ctag>adj:sg:gen:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rejonu</orth>
+    <lex disamb="1"><base>rejon</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pochodzi</orth>
+    <lex disamb="1"><base>pochodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pomidor</orth>
+    <lex disamb="1"><base>pomidor</base><ctag>subst:sg:nom:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -570,35 +438,24 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
+    <orth>Gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>lata</orth>
-    <lex disamb="1"><base>rok</base><ctag>subst:pl:nom:m3</ctag></lex>
+    <orth>kupić</orth>
+    <lex disamb="1"><base>kupić</base><ctag>inf:perf</ctag></lex>
    </tok>
    <tok>
-    <orth>easyJet</orth>
-    <lex disamb="1"><base>easyjet</base><ctag>subst:sg:nom:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
+    <orth>buty</orth>
+    <lex disamb="1"><base>but</base><ctag>subst:pl:acc:m3</ctag></lex>
    </tok>
    <tok>
-    <orth>wypłynął</orth>
-    <lex disamb="1"><base>wypłynąć</base><ctag>praet:sg:m2:perf</ctag></lex>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
    </tok>
    <tok>
-    <orth>Titanic</orth>
-    <lex disamb="1"><base>Titanic</base><ctag>subst:sg:nom:m2</ctag></lex>
+    <orth>Poznaniu</orth>
+    <lex disamb="1"><base>Poznań</base><ctag>subst:sg:loc:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -608,109 +465,17 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>lumpeksy</orth>
-    <lex disamb="1"><base>lumpeksy</base><ctag>subst:pl:nom:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>biorą</orth>
-    <lex disamb="1"><base>brać</base><ctag>fin:pl:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>ciuchy</orth>
-    <lex disamb="1"><base>ciuch</base><ctag>subst:pl:acc:m3</ctag></lex>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
    <ns/>
    <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
     <orth>Skąd</orth>
     <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>wziąć</orth>
-    <lex disamb="1"><base>wziąć</base><ctag>inf:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>akt</orth>
-    <lex disamb="1"><base>akt</base><ctag>subst:sg:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>urodzenia</orth>
-    <lex disamb="1"><base>urodzenie</base><ctag>subst:sg:gen:n</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>można</orth>
-    <lex disamb="1"><base>można</base><ctag>pred</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pobierać</orth>
-    <lex disamb="1"><base>pobierać</base><ctag>inf:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>filmy</orth>
-    <lex disamb="1"><base>film</base><ctag>subst:pl:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>za</orth>
-    <lex disamb="1"><base>za</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>darmo</orth>
-    <lex disamb="1"><base>darmo</base><ctag>adv</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>autor</orth>
-    <lex disamb="1"><base>autor</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>zaczerpnął</orth>
-    <lex disamb="1"><base>zaczerpnąć</base><ctag>praet:sg:m1:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pomysł</orth>
-    <lex disamb="1"><base>pomysł</base><ctag>subst:sg:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>tytuł</orth>
-    <lex disamb="1"><base>tytuł</base><ctag>subst:sg:acc:m3</ctag></lex>
-   </tok>
-   <tok>
-    <orth>powieści</orth>
-    <lex disamb="1"><base>powieść</base><ctag>subst:sg:gen:f</ctag></lex>
+    <orth>ściągnąć</orth>
+    <lex disamb="1"><base>ściągnąć</base><ctag>inf:perf</ctag></lex>
    </tok>
    <tok>
     <orth>&quot;</orth>
@@ -718,12 +483,18 @@
    </tok>
    <ns/>
    <tok>
-    <orth>Quo</orth>
-    <lex disamb="1"><base>quo</base><ctag>subst:sg:nom:n</ctag></lex>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
+   <ns/>
    <tok>
-    <orth>vadis</orth>
-    <lex disamb="1"><base>vadis</base><ctag>subst:sg:nom:n</ctag></lex>
+    <orth>Minecrafta</orth>
+    <lex disamb="1"><base>minecrafta</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -735,28 +506,10 @@
     <orth>?</orth>
     <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
    </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Skąd</orth>
-    <lex disamb="1"><base>skąd</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Unia</orth>
-    <lex disamb="1"><base>unia</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>bierze</orth>
-    <lex disamb="1"><base>brać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pieniądze</orth>
-    <lex disamb="1"><base>pieniądz</base><ctag>subst:pl:acc:m3</ctag></lex>
-   </tok>
    <ns/>
    <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
   </chunk>
  </chunk>

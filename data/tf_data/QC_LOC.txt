@@ -1,7 +1,5 @@
-? : 154
 gdzie : 117
 być : 35
-" : 34
 skąd : 20
 się : 16
 z : 13
@@ -31,7 +29,6 @@ strona : 4
 obejrzeć : 4
 pieniądz : 4
 Kraków : 4
-. : 4
 Zbigniew : 3
 przylatywać : 3
 Polska : 3
@@ -42,7 +39,7 @@ UAM : 3
 pochodzić : 3
 film : 3
 Czad : 2
-urodzenie : 2
+pojechać : 2
 napis : 2
 karton : 2
 bejbi : 2
@@ -57,7 +54,6 @@ Newa : 2
 program : 2
 umrzeć : 2
 4 : 2
-pojechać : 2
 zapisywać : 2
 unia : 2
 D : 2
@@ -100,6 +96,7 @@ tenis : 2
 wziąć : 2
 kort : 2
 darmo : 2
+maj : 2
 data : 2
 ozdobny : 2
 na temat : 2
@@ -121,7 +118,7 @@ padać : 2
 nera : 2
 akt : 2
 publiczny : 2
-- : 2
+urodzenie : 2
 Lublin : 2
 dług : 2
 umieścić : 2
@@ -137,7 +134,6 @@ Herbert : 2
 mecz : 2
 konstytucja : 2
 vadis : 2
-maj : 2
 easyjet : 1
 oglądać : 1
 rok : 1
@@ -235,6 +231,7 @@ Boniek : 1
 zderzyć : 1
 rosnąć : 1
 Nil : 1
+pobierać : 1
 legalny : 1
 quod : 1
 ambasada : 1
@@ -244,7 +241,6 @@ bonum : 1
 Paryż : 1
 Lizbona : 1
 Grecja : 1
-pobierać : 1
 walczyć : 1
 liceum : 1
 seks : 1

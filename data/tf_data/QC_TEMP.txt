@@ -1,8 +1,6 @@
-? : 110
 kiedy : 75
 być : 34
 się : 17
-" : 16
 od : 15
 w : 15
 który : 13
@@ -22,7 +20,6 @@ Polska : 5
 termin : 5
 Poznań : 4
 rozdawać : 4
-, : 4
 umrzeć : 4
 PIT : 4
 jaki : 4
@@ -43,7 +40,6 @@ należeć : 3
 matura : 3
 powstawać : 3
 koniec : 3
-- : 3
 mieć : 3
 walentynka : 2
 ważny : 2
@@ -56,6 +52,7 @@ obrót : 2
 25 : 2
 choineczka : 2
 śnieg : 2
+lotto : 2
 grypa : 2
 jasno : 2
 prawda : 2
@@ -66,7 +63,6 @@ dziekanat : 2
 VAT : 2
 wynik : 2
 Pia : 2
-lotto : 2
 akumulator : 2
 przybywać : 2
 nowy : 2
@@ -126,7 +122,6 @@ przy : 2
 skrócić : 2
 demotywatory : 1
 montażowy : 1
-Albert : 1
 inżynier : 1
 śpiewać : 1
 konto : 1
@@ -146,10 +141,10 @@ ciążyć : 1
 musieć : 1
 Mikołaj : 1
 list : 1
+obowiązkowy : 1
 słońce : 1
 kraj : 1
 – : 1
-obowiązkowy : 1
 katastrofa : 1
 Talib : 1
 depp : 1
@@ -183,6 +178,7 @@ terytorium : 1
 usługi : 1
 pod : 1
 zaćmienie : 1
+okresowy : 1
 andrzejki : 1
 ciąg : 1
 jeśli : 1
@@ -203,12 +199,12 @@ Einstein : 1
 parlament : 1
 pierwszy : 1
 kolęda : 1
-okresowy : 1
 budowlano : 1
 budowlany : 1
 rozpocząć : 1
 jedynie : 1
 sprawdzić : 1
+Albert : 1
 zaczynać : 1
 wojna : 1
 przeciętnie : 1

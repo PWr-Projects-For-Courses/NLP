@@ -5,6 +5,53 @@
  <chunk id="ch1">
   <chunk type="s">
    <tok>
+    <orth>Podaj</orth>
+    <lex disamb="1"><base>podać</base><ctag>impt:sg:sec:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pojechał</orth>
+    <lex disamb="1"><base>pojechać</base><ctag>praet:sg:m1:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Lech</orth>
+    <lex disamb="1"><base>Lech</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Wałęsa</orth>
+    <lex disamb="1"><base>Wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>.</orth>
+    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Gdzie</orth>
+    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>pojechał</orth>
+    <lex disamb="1"><base>pojechać</base><ctag>praet:sg:m1:perf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Tusk</orth>
+    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
     <orth>Gdzie</orth>
     <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
    </tok>
@@ -47,53 +94,6 @@
    <tok>
     <orth>?</orth>
     <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Gdzie</orth>
-    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pojechał</orth>
-    <lex disamb="1"><base>pojechać</base><ctag>praet:sg:m1:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Tusk</orth>
-    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Podaj</orth>
-    <lex disamb="1"><base>podać</base><ctag>impt:sg:sec:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>gdzie</orth>
-    <lex disamb="1"><base>gdzie</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>pojechał</orth>
-    <lex disamb="1"><base>pojechać</base><ctag>praet:sg:m1:perf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Lech</orth>
-    <lex disamb="1"><base>Lech</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Wałęsa</orth>
-    <lex disamb="1"><base>Wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
-    <lex disamb="1"><base>wałęsa</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>.</orth>
-    <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
    </tok>
   </chunk>
  </chunk>

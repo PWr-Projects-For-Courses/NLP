@@ -1,8 +1,6 @@
-? : 77
 być : 51
 jaki : 42
 jak : 35
-" : 26
 po : 17
 nazywać : 11
 się : 11
@@ -29,11 +27,11 @@ podatek : 2
 kraina : 2
 ty : 2
 rekord : 2
+3 : 2
 miejsce : 2
 PIT : 2
 do : 2
 długi : 2
-3 : 2
 podatnik : 2
 promil : 2
 Brytania : 2
@@ -101,13 +99,11 @@ the : 2
 wzór : 2
 marka : 1
 rihanny : 1
-, : 1
 singiel : 1
 Michael : 1
 zły : 1
 Adam : 1
 wynik : 1
-samopoczucie : 1
 pamiętnik : 1
 Czarniecki : 1
 Jackson : 1
@@ -116,11 +112,11 @@ smakować : 1
 Chopin : 1
 zasada : 1
 samochód : 1
+samopoczucie : 1
 piosenka : 1
 Mickiewicz : 1
 sposób : 1
 Burkina : 1
-premier : 1
 barokowy : 1
 kawa : 1
 wosk : 1
@@ -139,7 +135,7 @@ domowy : 1
 zastosowanie : 1
 zabytek : 1
 egzamin : 1
-- : 1
+premier : 1
 5 : 1
 zaczynać : 1
 nergala : 1

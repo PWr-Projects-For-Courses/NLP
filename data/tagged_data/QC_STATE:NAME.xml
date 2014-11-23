@@ -5,114 +5,6 @@
  <chunk id="ch1">
   <chunk type="s">
    <tok>
-    <orth>jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>nazywał</orth>
-    <lex disamb="1"><base>nazywać</base><ctag>praet:sg:m1:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>się</orth>
-    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Chopin</orth>
-    <lex disamb="1"><base>Chopin</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>ma</orth>
-    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Michael</orth>
-    <lex disamb="1"><base>Michael</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Jackson</orth>
-    <lex disamb="1"><base>Jackson</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>miał</orth>
-    <lex disamb="1"><base>mieć</base><ctag>praet:sg:m1:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Czarniecki</orth>
-    <lex disamb="1"><base>Czarniecki</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>ma</orth>
-    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Kaczyński</orth>
-    <lex disamb="1"><base>Kaczyński</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
     <orth>Jak</orth>
     <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
@@ -144,20 +36,78 @@
     <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>nazywa</orth>
-    <lex disamb="1"><base>nazywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>sie</orth>
-    <lex disamb="1"><base>si</base><ctag>adj:pl:nom:f:pos</ctag></lex>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
    </tok>
    <tok>
-    <orth>stolica</orth>
-    <lex disamb="1"><base>stolica</base><ctag>subst:sg:nom:f</ctag></lex>
+    <orth>Tusk</orth>
+    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>Norwegii</orth>
-    <lex disamb="1"><base>Norwegia</base><ctag>subst:sg:gen:f</ctag></lex>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Adam</orth>
+    <lex disamb="1"><base>Adam</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Mickiewicz</orth>
+    <lex disamb="1"><base>Mickiewicz</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Michael</orth>
+    <lex disamb="1"><base>Michael</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Jackson</orth>
+    <lex disamb="1"><base>Jackson</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -255,8 +205,16 @@
     <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
     <orth>imię</orth>
     <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>premier</orth>
+    <lex disamb="1"><base>premier</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <tok>
     <orth>Tusk</orth>
@@ -274,24 +232,101 @@
     <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
+    <orth>miał</orth>
+    <lex disamb="1"><base>mieć</base><ctag>praet:sg:m1:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Czarniecki</orth>
+    <lex disamb="1"><base>Czarniecki</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
     <orth>nazywa</orth>
     <lex disamb="1"><base>nazywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>się</orth>
-    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
+    <orth>sie</orth>
+    <lex disamb="1"><base>si</base><ctag>adj:pl:nom:f:pos</ctag></lex>
    </tok>
    <tok>
-    <orth>ojciec</orth>
-    <lex disamb="1"><base>ojciec</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <orth>stolica</orth>
+    <lex disamb="1"><base>stolica</base><ctag>subst:sg:nom:f</ctag></lex>
    </tok>
    <tok>
-    <orth>Edyty</orth>
-    <lex disamb="1"><base>Edyta</base><ctag>subst:sg:gen:f</ctag></lex>
+    <orth>Norwegii</orth>
+    <lex disamb="1"><base>Norwegia</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>Górniak</orth>
-    <lex disamb="1"><base>Górniak</base><ctag>subst:sg:gen:f</ctag></lex>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Kaczyński</orth>
+    <lex disamb="1"><base>Kaczyński</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ma</orth>
+    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>na</orth>
+    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>imię</orth>
+    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Tusk</orth>
+    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -336,64 +371,6 @@
     <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>ma</orth>
-    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Tusk</orth>
-    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
-    <orth>ma</orth>
-    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>premier</orth>
-    <lex disamb="1"><base>premier</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Tusk</orth>
-    <lex disamb="1"><base>Tusk</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Jak</orth>
-    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
-   </tok>
-   <tok>
     <orth>nazywa</orth>
     <lex disamb="1"><base>nazywać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
@@ -421,28 +398,20 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>Jak</orth>
+    <orth>jak</orth>
     <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
    </tok>
    <tok>
-    <orth>ma</orth>
-    <lex disamb="1"><base>mieć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>nazywał</orth>
+    <lex disamb="1"><base>nazywać</base><ctag>praet:sg:m1:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:acc</ctag></lex>
+    <orth>się</orth>
+    <lex disamb="1"><base>się</base><ctag>qub</ctag></lex>
    </tok>
    <tok>
-    <orth>imię</orth>
-    <lex disamb="1"><base>imię</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Adam</orth>
-    <lex disamb="1"><base>Adam</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Mickiewicz</orth>
-    <lex disamb="1"><base>Mickiewicz</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <orth>Chopin</orth>
+    <lex disamb="1"><base>Chopin</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <ns/>
    <tok>

@@ -1,4 +1,3 @@
-? : 95
 ile : 94
 mieć : 21
 kosztować : 13
@@ -16,7 +15,6 @@ stać : 4
 zarabiać : 4
 Świat : 4
 fajka : 4
-- : 4
 Polak : 4
 człowiek : 4
 można : 3
@@ -26,6 +24,7 @@ noga : 3
 nowy : 3
 Polska : 3
 Tusk : 3
+folia : 2
 laptop : 2
 Poznań : 2
 Internet : 2
@@ -51,9 +50,9 @@ PKP : 2
 Katowice : 2
 przesyłka : 2
 móc : 2
+360 : 2
 punkt : 2
 woda : 2
-360 : 2
 nalać : 2
 złoto : 2
 posolić : 2
@@ -74,7 +73,6 @@ gag : 2
 dolar : 2
 wynagrodzenie : 2
 przepływać : 2
-folia : 2
 znaczek : 2
 allegro : 2
 dawać : 2
@@ -91,7 +89,6 @@ usta : 2
 przychodzić : 2
 mezo : 2
 słoneczny : 1
-prostokąt : 1
 koń : 1
 ksiądz : 1
 duży : 1
@@ -164,6 +161,7 @@ grasso : 1
 śmieć : 1
 iej : 1
 rower : 1
+prostokąt : 1
 Donald : 1
 rocznie : 1
 część : 1

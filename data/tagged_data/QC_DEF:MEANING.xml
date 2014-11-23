@@ -18,24 +18,281 @@
     <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>nowej</orth>
+    <lex disamb="1"><base>nowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>promocji</orth>
+    <lex disamb="1"><base>promocja</base><ctag>subst:sg:loc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Coca</orth>
+    <lex disamb="1"><base>coca</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Coli</orth>
+    <lex disamb="1"><base>cola</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>literka</orth>
+    <lex disamb="1"><base>literka</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>D</orth>
+    <lex disamb="1"><base>D</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dawny</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dom</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dzień</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>grupie</orth>
+    <lex disamb="1"><base>grupa</base><ctag>subst:sg:loc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>krwi</orth>
+    <lex disamb="1"><base>krew</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rHD</orth>
+    <lex disamb="1"><base>rhd</base><ctag>subst:sg:inst:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>+</orth>
+    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>literka</orth>
+    <lex disamb="1"><base>literka</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>D</orth>
+    <lex disamb="1"><base>D</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dawny</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dom</base><ctag>brev:pun</ctag></lex>
+    <lex disamb="1"><base>dzień</base><ctag>brev:pun</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <tok>
+    <orth>w</orth>
+    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>grupie</orth>
+    <lex disamb="1"><base>grupa</base><ctag>subst:sg:loc:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>krwi</orth>
+    <lex disamb="1"><base>krew</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>A</orth>
+    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
+   </tok>
+   <tok>
+    <orth>rHD</orth>
+    <lex disamb="1"><base>rhd</base><ctag>subst:sg:inst:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>+</orth>
+    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>O</orth>
+    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+   </tok>
+   <tok>
+    <orth>co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>chodzi</orth>
+    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
     <orth>z</orth>
     <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
    </tok>
    <tok>
-    <orth>żółtą</orth>
-    <lex disamb="1"><base>żółty</base><ctag>adj:sg:inst:f:pos</ctag></lex>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>69</orth>
+    <lex disamb="1"><base>69</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
    </tok>
    <tok>
-    <orth>wstążką</orth>
-    <lex disamb="1"><base>wstążka</base><ctag>subst:sg:inst:f</ctag></lex>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>na</orth>
-    <lex disamb="1"><base>na</base><ctag>prep:loc</ctag></lex>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>lol</orth>
+    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
    <tok>
-    <orth>smyczy</orth>
-    <lex disamb="1"><base>smycz</base><ctag>subst:sg:loc:f</ctag></lex>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>znaczy</orth>
+    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>xd</orth>
+    <lex disamb="1"><base>xd</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>&quot;</orth>
+    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -102,8 +359,12 @@
     <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
    </tok>
    <tok>
-    <orth>oznacza</orth>
-    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>znaczy</orth>
+    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
     <orth>&quot;</orth>
@@ -112,81 +373,7 @@
    <ns/>
    <tok>
     <orth>lol</orth>
-    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>Co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>oznacza</orth>
-    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>lol</orth>
-    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:m3</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <tok>
-    <orth>O</orth>
-    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>chodzi</orth>
-    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>z</orth>
-    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>69</orth>
-    <lex disamb="1"><base>69</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:f</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -201,21 +388,17 @@
   </chunk>
   <chunk type="s">
    <tok>
-    <orth>O</orth>
-    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
    </tok>
    <tok>
-    <orth>co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+    <orth>to</orth>
+    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
    </tok>
    <tok>
-    <orth>chodzi</orth>
-    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>z</orth>
-    <lex disamb="1"><base>z</base><ctag>prep:inst:nwok</ctag></lex>
+    <orth>znaczy</orth>
+    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
     <orth>&quot;</orth>
@@ -223,8 +406,8 @@
    </tok>
    <ns/>
    <tok>
-    <orth>69</orth>
-    <lex disamb="1"><base>69</base><ctag>adj:sg:loc:m3:pos</ctag></lex>
+    <orth>swag</orth>
+    <lex disamb="1"><base>swag</base><ctag>subst:sg:nom:f</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -284,80 +467,8 @@
     <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
    </tok>
    <tok>
-    <orth>to</orth>
-    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>znaczy</orth>
-    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>xd</orth>
-    <lex disamb="1"><base>xd</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>to</orth>
-    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>znaczy</orth>
-    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>swag</orth>
-    <lex disamb="1"><base>swag</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>to</orth>
-    <lex disamb="1"><base>to</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>znaczy</orth>
-    <lex disamb="1"><base>znaczyć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+    <orth>oznacza</orth>
+    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
     <orth>&quot;</orth>
@@ -366,239 +477,12 @@
    <ns/>
    <tok>
     <orth>lol</orth>
-    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>lol</base><ctag>subst:sg:nom:m3</ctag></lex>
    </tok>
    <ns/>
    <tok>
     <orth>&quot;</orth>
     <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>Co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>oznacza</orth>
-    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>literka</orth>
-    <lex disamb="1"><base>literka</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>D</orth>
-    <lex disamb="1"><base>D</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dawny</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dom</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dzień</base><ctag>brev:pun</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <tok>
-    <orth>w</orth>
-    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>grupie</orth>
-    <lex disamb="1"><base>grupa</base><ctag>subst:sg:loc:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>krwi</orth>
-    <lex disamb="1"><base>krew</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>A</orth>
-    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
-   </tok>
-   <tok>
-    <orth>rHD</orth>
-    <lex disamb="1"><base>rhd</base><ctag>subst:sg:inst:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>+</orth>
-    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>O</orth>
-    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>chodzi</orth>
-    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>w</orth>
-    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>nowej</orth>
-    <lex disamb="1"><base>nowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
-   </tok>
-   <tok>
-    <orth>promocji</orth>
-    <lex disamb="1"><base>promocja</base><ctag>subst:sg:loc:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Coca</orth>
-    <lex disamb="1"><base>coca</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Coli</orth>
-    <lex disamb="1"><base>cola</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>O</orth>
-    <lex disamb="1"><base>o</base><ctag>prep:acc</ctag></lex>
-   </tok>
-   <tok>
-    <orth>co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>chodzi</orth>
-    <lex disamb="1"><base>chodzić</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>w</orth>
-    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>nowej</orth>
-    <lex disamb="1"><base>nowy</base><ctag>adj:sg:loc:f:pos</ctag></lex>
-   </tok>
-   <tok>
-    <orth>promocji</orth>
-    <lex disamb="1"><base>promocja</base><ctag>subst:sg:loc:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Coca</orth>
-    <lex disamb="1"><base>coca</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>Coli</orth>
-    <lex disamb="1"><base>cola</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Co</orth>
-    <lex disamb="1"><base>CO</base><ctag>subst:sg:nom:n</ctag></lex>
-    <lex disamb="1"><base>co</base><ctag>subst:sg:nom:n</ctag></lex>
-   </tok>
-   <tok>
-    <orth>oznacza</orth>
-    <lex disamb="1"><base>oznaczać</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>literka</orth>
-    <lex disamb="1"><base>literka</base><ctag>subst:sg:nom:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>D</orth>
-    <lex disamb="1"><base>D</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dawny</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dom</base><ctag>brev:pun</ctag></lex>
-    <lex disamb="1"><base>dzień</base><ctag>brev:pun</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>&quot;</orth>
-    <lex disamb="1"><base>&quot;</base><ctag>interp</ctag></lex>
-   </tok>
-   <tok>
-    <orth>w</orth>
-    <lex disamb="1"><base>w</base><ctag>prep:loc:nwok</ctag></lex>
-   </tok>
-   <tok>
-    <orth>grupie</orth>
-    <lex disamb="1"><base>grupa</base><ctag>subst:sg:loc:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>krwi</orth>
-    <lex disamb="1"><base>krew</base><ctag>subst:sg:gen:f</ctag></lex>
-   </tok>
-   <tok>
-    <orth>A</orth>
-    <lex disamb="1"><base>a</base><ctag>conj</ctag></lex>
-   </tok>
-   <tok>
-    <orth>rHD</orth>
-    <lex disamb="1"><base>rhd</base><ctag>subst:sg:inst:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>+</orth>
-    <lex disamb="1"><base>+</base><ctag>interp</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
    </tok>
   </chunk>
  </chunk>

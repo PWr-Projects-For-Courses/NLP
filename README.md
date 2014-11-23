@@ -35,3 +35,7 @@ i "oczekiwany typ odpowiedzi" (OTO) ~F
 
 4. w module main jedyne co się zmienia to moduł z pakietu question_classification. Jeśli piszemy skrypty, to wystawiamy
 z nich funkcję main przyjmującą sys.argv która zostanie tam (w main.py) wywołana. ~F
+
+5. Pliki z danymi wrzucamy na repo, nie są aż tak duże. Wyjątkiem od tego, póki co, jest leksykon nazw własnych - on ma
+60 MB, tym nie będziemy gita katować. Nalezy go dociągnąć z http://nlp.pwr.wroc.pl/download/ner/nelexicon-v1.7z
+rozpakować i wrzucić do <repo_root>/data

@@ -9,29 +9,6 @@
     <lex disamb="1"><base>kto</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <tok>
-    <orth>jest</orth>
-    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
-   </tok>
-   <tok>
-    <orth>prezydentem</orth>
-    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:inst:m1</ctag></lex>
-   </tok>
-   <tok>
-    <orth>USA</orth>
-    <lex disamb="1"><base>USA</base><ctag>subst:pl:gen:n</ctag></lex>
-   </tok>
-   <ns/>
-   <tok>
-    <orth>?</orth>
-    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
-   </tok>
-  </chunk>
-  <chunk type="s">
-   <tok>
-    <orth>Kto</orth>
-    <lex disamb="1"><base>kto</base><ctag>subst:sg:nom:m1</ctag></lex>
-   </tok>
-   <tok>
     <orth>był</orth>
     <lex disamb="1"><base>być</base><ctag>praet:sg:m1:imperf</ctag></lex>
    </tok>
@@ -63,12 +40,13 @@
     <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
    </tok>
    <tok>
-    <orth>obecnie</orth>
-    <lex disamb="1"><base>obecnie</base><ctag>adv:pos</ctag></lex>
+    <orth>prezydentem</orth>
+    <lex disamb="1"><base>prezydent</base><ctag>subst:sg:inst:m1</ctag></lex>
    </tok>
    <tok>
-    <orth>papieżem</orth>
-    <lex disamb="1"><base>papież</base><ctag>subst:sg:inst:m1</ctag></lex>
+    <orth>Niemiec</orth>
+    <lex disamb="1"><base>Niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <lex disamb="1"><base>niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
    </tok>
    <ns/>
    <tok>
@@ -90,9 +68,31 @@
     <lex disamb="1"><base>prezydent</base><ctag>subst:sg:inst:m1</ctag></lex>
    </tok>
    <tok>
-    <orth>Niemiec</orth>
-    <lex disamb="1"><base>Niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
-    <lex disamb="1"><base>niemiec</base><ctag>subst:sg:nom:m1</ctag></lex>
+    <orth>USA</orth>
+    <lex disamb="1"><base>USA</base><ctag>subst:pl:gen:n</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Kto</orth>
+    <lex disamb="1"><base>kto</base><ctag>subst:sg:nom:m1</ctag></lex>
+   </tok>
+   <tok>
+    <orth>jest</orth>
+    <lex disamb="1"><base>być</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>obecnie</orth>
+    <lex disamb="1"><base>obecnie</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>papieżem</orth>
+    <lex disamb="1"><base>papież</base><ctag>subst:sg:inst:m1</ctag></lex>
    </tok>
    <ns/>
    <tok>

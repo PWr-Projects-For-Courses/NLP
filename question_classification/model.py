@@ -42,4 +42,7 @@ class Record:
         return Record(*parts)
 
     def __eq__(self, other):
-        return self.qid == other.qid and self.txt == other.txt and self.qc == other.qc and self.eat == other.eat
+        return self.txt == other.txt and self.qc == other.qc and self.eat == other.eat
+
+    def __hash__(self):
+        return self.txt.__hash__() * 3 + self.qc.__hash__() * 7 + self.eat.__hash__() * 11
