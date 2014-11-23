@@ -1,0 +1,7 @@
+jak : 3
+? : 3
+boleć : 2
+bardzo : 2
+poród : 2
+kawa : 1
+smakować : 1

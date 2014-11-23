@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
+<cesAna xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" type="lex disamb">
+<chunkList>
+ <chunk id="ch1">
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiega</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>autostrada</orth>
+    <lex disamb="1"><base>autostrada</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>A1</orth>
+    <lex disamb="1"><base>a1</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Warszawy</orth>
+    <lex disamb="1"><base>Warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex disamb="1"><base>warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Wrocławia</orth>
+    <lex disamb="1"><base>Wrocław</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Krakowa</orth>
+    <lex disamb="1"><base>Kraków</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Pragi</orth>
+    <lex disamb="1"><base>Praga</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiegać</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>obwodnica</orth>
+    <lex disamb="1"><base>obwodnica</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Lublina</orth>
+    <lex disamb="1"><base>Lublin</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>lublin</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Gdańska</orth>
+    <lex disamb="1"><base>Gdańsk</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Warszawy</orth>
+    <lex disamb="1"><base>Warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex disamb="1"><base>warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiega</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>autostrada</orth>
+    <lex disamb="1"><base>autostrada</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>A1</orth>
+    <lex disamb="1"><base>a1</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiega</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>międzynarodowa</orth>
+    <lex disamb="1"><base>międzynarodowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>linia</orth>
+    <lex disamb="1"><base>Linia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>linia</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zmiany</orth>
+    <lex disamb="1"><base>zmiana</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>daty</orth>
+    <lex disamb="1"><base>data</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Warszawy</orth>
+    <lex disamb="1"><base>Warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex disamb="1"><base>warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Wrocławia</orth>
+    <lex disamb="1"><base>Wrocław</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiega</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>międzynarodowa</orth>
+    <lex disamb="1"><base>międzynarodowy</base><ctag>adj:sg:nom:f:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>linia</orth>
+    <lex disamb="1"><base>Linia</base><ctag>subst:sg:nom:f</ctag></lex>
+    <lex disamb="1"><base>linia</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>zmiany</orth>
+    <lex disamb="1"><base>zmiana</base><ctag>subst:pl:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>daty</orth>
+    <lex disamb="1"><base>data</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Gdańska</orth>
+    <lex disamb="1"><base>Gdańsk</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Warszawy</orth>
+    <lex disamb="1"><base>Warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+    <lex disamb="1"><base>warszawa</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>będzie</orth>
+    <lex disamb="1"><base>być</base><ctag>bedzie:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przebiegać</orth>
+    <lex disamb="1"><base>przebiegać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>obwodnica</orth>
+    <lex disamb="1"><base>obwodnica</base><ctag>subst:sg:nom:f</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Lublina</orth>
+    <lex disamb="1"><base>Lublin</base><ctag>subst:sg:gen:m3</ctag></lex>
+    <lex disamb="1"><base>lublin</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Którędy</orth>
+    <lex disamb="1"><base>którędy</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>z</orth>
+    <lex disamb="1"><base>z</base><ctag>prep:gen:nwok</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Krakowa</orth>
+    <lex disamb="1"><base>Kraków</base><ctag>subst:sg:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>do</orth>
+    <lex disamb="1"><base>do</base><ctag>prep:gen</ctag></lex>
+   </tok>
+   <tok>
+    <orth>Pragi</orth>
+    <lex disamb="1"><base>Praga</base><ctag>subst:sg:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+ </chunk>
+</chunkList>
+</cesAna>

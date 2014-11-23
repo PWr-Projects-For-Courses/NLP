@@ -468,7 +468,7 @@ pytki25;Jaka substancja jest w ogrzewaczu do rąk?;http://pl.wikipedia.org/wiki/
 q94;Kiedy powstaje obowiązek podatkowy z tytułu świadczenia usług budowlanych oraz budowlano-montażowych?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103444;a94;description;QC_TEMP:MOM
 q105;Kiedy przysługuje zwrot nadwyżki podatku naliczonego nad należnym w terminie skróconym - 25 dni oraz 60 dni?;http://nlp.pwr.wroc.pl/inforex/index.php?page=report&corpus=17&id=103202;a105;description;QC_TEMP:MOM
 wyszuk126;Dlaczego kot wymiotuje?;http://www.med-weterynarz.pl/Edukacja/Gdy-wymiotuje-kot;wyszuk126;reason;QC_CAUSE
-pytki55;Kiedy zaczną rozdawać Qpony w Poznaniu?;http://pytki.pl/kiedy-zaczna-rozdawac-qpony-w-poznaniu,428;pytki55;date;QC_tEMP:MOM
+pytki55;Kiedy zaczną rozdawać Qpony w Poznaniu?;http://pytki.pl/kiedy-zaczna-rozdawac-qpony-w-poznaniu,428;pytki55;date;QC_TEMP:MOM
 hipi160;Ile ludzie produkują śmieci rocznie?;http://www.gazetka.be/undercategory,426.html;hipi160;numeric-other;QC_QUANTITY:GEN
 hipi11;Co robił Donald Tusk?;http://pl.wikipedia.org/wiki/Donald_Tusk;wikiDonald#Tusk;description;QC_NONPER
 wyszuk221;Dlaczego nie odczuwamy ciśnienia atmosferycznego?;http://zadane.pl/zadanie/406673;wyszuk221;reason;QC_CAUSE

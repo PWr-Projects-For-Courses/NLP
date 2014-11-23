@@ -1,0 +1,14 @@
+? : 5
+ile : 4
+CO : 4
+karmić : 2
+wymieniać : 2
+noworodek : 2
+olej : 2
+kasa : 1
+należeć : 1
+przegląd : 1
+okresowy : 1
+często : 1
+jak : 1
+dokonywać : 1

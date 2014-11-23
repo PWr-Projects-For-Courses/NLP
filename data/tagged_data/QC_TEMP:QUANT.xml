@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
+<cesAna xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" type="lex disamb">
+<chunkList>
+ <chunk id="ch1">
+  <chunk type="s">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ile</orth>
+    <lex disamb="1"><base>ile</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wymieniać</orth>
+    <lex disamb="1"><base>wymieniać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>olej</orth>
+    <lex disamb="1"><base>olej</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ile</orth>
+    <lex disamb="1"><base>ile</base><ctag>num:pl:acc:n:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>karmić</orth>
+    <lex disamb="1"><base>karmić</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>noworodka</orth>
+    <lex disamb="1"><base>noworodek</base><ctag>subst:sg:gen:m2</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ile</orth>
+    <lex disamb="1"><base>ile</base><ctag>num:pl:acc:n:rec</ctag></lex>
+   </tok>
+   <tok>
+    <orth>karmić</orth>
+    <lex disamb="1"><base>karmić</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>noworodka</orth>
+    <lex disamb="1"><base>noworodek</base><ctag>subst:sg:gen:m2</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Co</orth>
+    <lex disamb="1"><base>CO</base><ctag>subst:sg:acc:n</ctag></lex>
+    <lex disamb="1"><base>co</base><ctag>subst:sg:acc:n</ctag></lex>
+   </tok>
+   <tok>
+    <orth>ile</orth>
+    <lex disamb="1"><base>ile</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>wymieniać</orth>
+    <lex disamb="1"><base>wymieniać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>olej</orth>
+    <lex disamb="1"><base>olej</base><ctag>subst:sg:acc:m3</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+  <chunk type="s">
+   <tok>
+    <orth>Jak</orth>
+    <lex disamb="1"><base>jak</base><ctag>adv</ctag></lex>
+   </tok>
+   <tok>
+    <orth>często</orth>
+    <lex disamb="1"><base>często</base><ctag>adv:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>należy</orth>
+    <lex disamb="1"><base>należeć</base><ctag>fin:sg:ter:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>dokonywać</orth>
+    <lex disamb="1"><base>dokonywać</base><ctag>inf:imperf</ctag></lex>
+   </tok>
+   <tok>
+    <orth>przeglądów</orth>
+    <lex disamb="1"><base>przegląd</base><ctag>subst:pl:gen:m3</ctag></lex>
+   </tok>
+   <tok>
+    <orth>okresowych</orth>
+    <lex disamb="1"><base>okresowy</base><ctag>adj:pl:gen:m3:pos</ctag></lex>
+   </tok>
+   <tok>
+    <orth>kas</orth>
+    <lex disamb="1"><base>kasa</base><ctag>subst:pl:gen:f</ctag></lex>
+   </tok>
+   <ns/>
+   <tok>
+    <orth>?</orth>
+    <lex disamb="1"><base>?</base><ctag>interp</ctag></lex>
+   </tok>
+  </chunk>
+ </chunk>
+</chunkList>
+</cesAna>
