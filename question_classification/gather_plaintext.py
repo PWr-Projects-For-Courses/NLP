@@ -36,24 +36,21 @@ def dump_plaintext(path, records, encoding="utf8"):
             plain = r.__unicode__()
             print >> f, plain[1:-1]
 
-ignore_subclasses = False
-
 def main(args=[__file__]):
     config = (0, 1, 2, 3)
     path = "./data/data.csv"
     out_root = os.path.join(os.path.dirname(__file__), "../data/plain_data")
     records = read_file(path, *config)
     classes = {}
-    classes['ALL'] = []
     for r in records:
-        if ignore_subclasses:
-            key = r.qc.partition(":")[0]
-        else:
-            key = r.qc
-        if key not in classes:
-            classes[key] = []
-        classes[key].append(r)
-        classes['ALL'].append(r)
+        keys = ['ALL']
+        if ':' in r.qc:
+            keys.append(r.qc.partition(":")[0])
+        keys.append(r.qc)
+        for key in keys:
+            if key not in classes:
+                classes[key] = []
+            classes[key].append(r)
     for clazz in classes:
         out_path = os.path.join(out_root, clazz.replace('"', '') + ".txt")
         dump_plaintext(out_path, classes[clazz])

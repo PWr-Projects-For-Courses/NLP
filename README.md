@@ -39,3 +39,10 @@ z nich funkcję main przyjmującą sys.argv która zostanie tam (w main.py) wywo
 5. Pliki z danymi wrzucamy na repo, nie są aż tak duże. Wyjątkiem od tego, póki co, jest leksykon nazw własnych - on ma
 60 MB, tym nie będziemy gita katować. Nalezy go dociągnąć z http://nlp.pwr.wroc.pl/download/ner/nelexicon-v1.7z
 rozpakować i wrzucić do <repo_root>/data
+
+6. Od danych surowych do policzonych TF:
+    a. Normalizacja danych - skrypt normalize_data.py
+    b. Utworzenie plików plaintext, prostych tekstowych korpusów dla każdej z klas z osobna, na obu poziomach
+    ziarnistości, oraz dla wszystkich pytań - skrypt gather_plaintext.py
+    c. Otagowanie korpusów celem uzyskania lematów - skrypt tag_data.py. On chwilę sie mieli
+    d. Policzenie TF - skrypt count_TF.py
