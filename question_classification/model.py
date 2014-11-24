@@ -1,6 +1,32 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
+from question_classification import wcrft_wrapper
 
+
+class Corpus:
+    current_corpus = None
+    corpus_stack = []
+
+    def __init__(self, class_set, eat_set, feature_words):
+        self.class_set = list(class_set)
+        self.eat_set = list(eat_set)
+        self.feature_words = list(feature_words)
+
+    def class_idx(self, record):
+        return self.class_set.index(record.qc)
+
+    def eat_idx(self, record):
+        return self.eat_set.index(record.eat)
+
+    def __enter__(self):
+        Corpus.corpus_stack.append(Corpus.current_corpus)
+        Corpus.current_corpus = self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        Corpus.current_corpus = Corpus.corpus_stack.pop()
+
+
+#todo: memoize the hell out of this
 class Record:
     '''
     Atrybuty (wszystkie typu unicode):
@@ -46,3 +72,28 @@ class Record:
 
     def __hash__(self):
         return self.txt.__hash__() * 3 + self.qc.__hash__() * 7 + self.eat.__hash__() * 11
+
+    def class_idx(self):
+        return Corpus.current_corpus.class_idx(self)
+
+    def eat_idx(self):
+        return Corpus.current_corpus.eat_idx(self)
+
+    def lematized(self):
+        return Record(self.qid+"-lemma", wcrft_wrapper.lematize(self.txt), self.qc, self.eat)
+
+    def words(self):
+        return self.txt.split()
+
+    def features(self):
+        return [ feat_word in self.words() for feat_word in Corpus.current_corpus.feature_words ]
+
+
+if __name__=="__main__":
+    c = Corpus(u"K1 K2 K3".split(), u"E1 E2".split(), u"mieć być chcieć umieć".split())
+    r = Record("id", u"Chcę móc Ci pomóc, ale nie umiem.", "K1", "E2")
+    with c:
+        assert r.class_idx() == 0
+        assert r.eat_idx() == 1
+        assert r.features() == [False]*4
+        assert r.lematized().features() == [False, False, True, True]
