@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
 
-from pybrain import TanhLayer
+from pybrain import TanhLayer, SoftmaxLayer
 from pybrain.datasets import ClassificationDataSet
 from pybrain.supervised import BackpropTrainer
 from pybrain.tools.shortcuts import buildNetwork
@@ -58,10 +58,10 @@ Przez kogo są powoływani sędziowie?'''.splitlines()
 i = 0
 records = []
 for l in defs:
-    records.append(Record(str(i), l, "def", ""))
+    records.append(Record(str(i), l, "def", "").lematized())
     i += 1
 for l in pers:
-    records.append(Record(str(i), l, "per", ""))
+    records.append(Record(str(i), l, "per", "").lematized())
     i += 1
 
 feats = [ "kto", "co", "z", u"być"]
@@ -73,13 +73,18 @@ for r in records:
     ds.appendLinked(r.features(), [r.class_idx()])
 ds._convertToOneOfMany([0, 1])
 
-net = buildNetwork(ds.indim, 3, ds.outdim, bias=True, hiddenclass=TanhLayer)
+tst, trn = ds.splitWithProportion(0.1)
 
-trainer = BackpropTrainer(net, ds, momentum=0.5, verbose=False)
+
+net = buildNetwork(ds.indim, 3, ds.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+
+trainer = BackpropTrainer(net, trn, momentum=0.5, verbose=False)
 # BackpropTrainer(module, dataset=None, learningrate=0.01, lrdecay=1.0, momentum=0.0, verbose=False, batchlearning=False, weightdecay=0.0)
 
 trainer.trainUntilConvergence(maxEpochs=100)
 
-x = Record("ugachaka", "Co to jest seks?", "def", "")
+trainer.testOnData(tst, verbose=True)
 
-print net.activate(x.features())
+# x = Record("ugachaka", "Co to jest seks?", "def", "")
+#
+# print net.activate(x.lematized().features())
