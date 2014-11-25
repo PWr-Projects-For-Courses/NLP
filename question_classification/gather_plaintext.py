@@ -33,7 +33,7 @@ def read_file(path, qid_idx, txt_idx, qc_idx, eat_idx, separator=u";", encoding=
 def dump_plaintext(path, records, encoding="utf8"):
     with codecs.open(path, "w", encoding=encoding) as f:
         for r in records:
-            plain = r.__unicode__()
+            plain = unicode(r)
             print >> f, plain[1:-1]
 
 def main(args=[__file__]):
