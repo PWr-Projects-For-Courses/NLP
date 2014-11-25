@@ -56,7 +56,7 @@ def build_net():
     ds._convertToOneOfMany([0, 1])
     net = buildNetwork(ds.indim, int((ds.indim + ds.outdim)/2), ds.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
     trainer = BackpropTrainer(net, ds, momentum=0.5, verbose=True)
-    trainer.trainUntilConvergence(maxEpochs=20)
+    trainer.trainUntilConvergence(maxEpochs=50)
     NetworkWriter.writeToFile(net, NET_FILE)
     return net
 
@@ -71,6 +71,6 @@ def classify(sentence):
     res = get_probabilities(sentence)
     return classes[max(xrange(len(classes)), key= lambda x: res[x])]
 if __name__ == '__main__':
-    res = classify(u"Jaki komputer kupić?")
+    res = classify(u"Ile masz piłek")
     print res
 
