@@ -1,0 +1,89 @@
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.5, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50)
+
+accuracy: 0.975496080785
+recall: 0.86974789916
+precision: 0.877797134034
+F-measure: 0.866769166641
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.8, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50)
+
+accuracy: 0.976767177459
+recall: 0.873949579832
+precision: 0.878887763834
+F-measure: 0.8750022736
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.99, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50)
+
+accuracy: 0.972335993221
+recall: 0.852941176471
+precision: 0.872978223547
+F-measure: 0.854526402993
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50, validationProportion=0.1)
+
+accuracy: 0.979591836735
+recall: 0.890756302521
+precision: 0.893130728994
+F-measure: 0.886933636579
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=SigmoidLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50, validationProportion=0.1)
+
+accuracy: 0.972936233317
+recall: 0.852941176471
+precision: 0.858329690533
+F-measure: 0.852074426825
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=GaussianLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=50, validationProportion=0.1)
+
+accuracy: 0.909858060871
+recall: 0.563025210084
+precision: 0.612378837391
+F-measure: 0.523946850334
+-----------------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=SigmoidLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=200, validationProportion=0.1)
+
+accuracy: 0.975637313749
+recall: 0.86974789916
+precision: 0.873051948052
+F-measure: 0.869565623445
+----------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True)
+    trainer.trainUntilConvergence(maxEpochs=200, validationProportion=0.1)
+
+accuracy: 0.977296801073
+recall: 0.878151260504
+precision: 0.880578922375
+F-measure: 0.87657700763
+----------------------------------------------------------------------
+
+    net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
+    trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True, learningrate=0.05)
+    trainer.trainUntilConvergence(maxEpochs=200, validationProportion=0.1)
+
+accuracy: 0.975001765412
+recall: 0.861344537815
+precision: 0.868126945348
+F-measure: 0.855423721397
+----------------------------------------------------------------------

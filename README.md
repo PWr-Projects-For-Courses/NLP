@@ -46,3 +46,5 @@ rozpakować i wrzucić do <repo_root>/data
     ziarnistości, oraz dla wszystkich pytań - skrypt gather_plaintext.py
     c. Otagowanie korpusów celem uzyskania lematów - skrypt tag_data.py. On chwilę sie mieli
     d. Policzenie TF - skrypt count_TF.py
+
+7. wcrft_wrapper does weird things with lematization, check it out
