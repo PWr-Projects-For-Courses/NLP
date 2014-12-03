@@ -8,6 +8,7 @@ from pybrain.supervised import BackpropTrainer
 from pybrain.tools.shortcuts import buildNetwork
 from pybrain.tools.xml import NetworkReader, NetworkWriter
 from question_classification.model import Corpus, Record
+from question_classification.config import classes, feats
 
 net = []
 
@@ -15,30 +16,7 @@ data_root = os.path.join(os.path.dirname(__file__), "../data/plain_data")
 
 NET_FILE = os.path.join(os.path.dirname(__file__), "net.xml")
 
-classes = u'''QC_CAUSE QC_DECISION QC_DEF QC_DIRECT QC_LOC QC_NONPER QC_PER QC_PROCEDURE QC_QUANTITY QC_STATE QC_TEMP
-'''.strip().split()
 
-feats = u'''być
-w
-CO
-jak
-jaki
-to
-się
-z
-czy
-co
-kto
-gdzie
-na
-ile
-dlaczego
-do
-mieć
-kiedy
-po
-który
-od'''.splitlines()
 
 c = Corpus(classes, "", feats)
 Corpus.current_corpus = c

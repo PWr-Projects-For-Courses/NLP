@@ -1,6 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
-from question_classification import wcrft_wrapper
+
+from question_classification.config import lematizer
 
 
 class Corpus:
@@ -80,7 +81,7 @@ class Record:
         return Corpus.current_corpus.eat_idx(self)
 
     def lematized(self):
-        return Record(self.qid+"-lemma", wcrft_wrapper.lematize(self.txt), self.qc, self.eat)
+        return Record(self.qid+"-lemma", lematizer.lematize(self.txt), self.qc, self.eat)
 
     def words(self):
         return self.txt.split()
