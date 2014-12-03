@@ -29,4 +29,11 @@ mieć
 kiedy
 po
 który
-od'''.splitlines()
+od
+nazywać
+można
+zrobić
+skąd
+o
+móc
+należeć'''.splitlines()

@@ -119,13 +119,13 @@ def evaluate(net, tstData):
         addResult(out, res, int(target[0]))
     return out
 
-detailed = False
+detailed = True
 
 def main(args=[__file__]):
     trnDs, tstDs = getSeparateDataSets()
     net = buildNetwork(trnDs.indim, int((trnDs.indim + trnDs.outdim)/2), trnDs.outdim, bias=True, hiddenclass=TanhLayer, outclass=SoftmaxLayer)
     trainer = BackpropTrainer(net, trnDs, momentum=0.75, verbose=True, learningrate=0.05)
-    trainer.trainUntilConvergence(maxEpochs=200, validationProportion=0.1)
+    trainer.trainUntilConvergence(maxEpochs=100, validationProportion=0.1)
     eval = evaluate(net, tstDs)
     print "accuracy:", eval.getWeightedAccuracy()
     print "recall:", eval.getWeightedRecall()
