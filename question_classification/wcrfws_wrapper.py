@@ -20,8 +20,18 @@ class WCRFTWSWrapper:
                 'ambiguity': False,
                 'chunks': False
                 }
-        token_resp = requests.post(SEND_ADDR, data=args)
-        token = token_resp.json()
+        done = False
+        while not done:
+            time.sleep(SLEEP_TIME)
+            token_resp = requests.post(SEND_ADDR, data=args)
+            try:
+                print token_resp.json()
+                token = token_resp.json()
+                done = True
+            except ValueError:
+                print token_resp
+                print token_resp.content
+                print('ve')
         done = False
         time.sleep(SLEEP_TIME)
         while not done:
