@@ -18,11 +18,14 @@ def get_senses(word, lang=u"pl_PL"):
     return [ sense(s[u"sense_id"], s[u"lemma"], s[u"language"]) for s in call_clarin("lexemes", word) if s[u"language"]==lang ]
 
 def get_sense(word, lang=u"pl_PL"):
-    return min(get_senses(word, lang), key=lambda x: pylev.levenshtein(x, word))
+    senses = get_senses(word, lang)
+    return min(senses, key=lambda x: pylev.levenshtein(x, word)) if senses else None
 
 def get_hyponyms_paths(word, lang=u"pl_PL"):
     s = get_sense(word, lang)
-    return [ [ sense(el[u"id"], el[u"lemma"], lang) for el in path ] for path in call_clarin("hyponyms", s.id) ]
+    return reduce(lambda x, y: x+y, [ [ sense(el[u"id"], el[u"lemma"], lang) for el in path ] for path in call_clarin("hyponyms", s.id) ], []) \
+                if s is not None \
+                else []
 
 def main(args=[]):
     print get_hyponyms_paths("matka")[0][-2]
