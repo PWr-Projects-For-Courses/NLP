@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 # from question_classification.generate_arff import main
-from question_classification.wordnet_wrapper import main
+from question_classification.generate_chunkheads_freqs import main
 import sys
 
 if __name__ == "__main__":
