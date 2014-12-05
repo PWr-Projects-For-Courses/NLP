@@ -1,0 +1,241 @@
+"restytucja";1;0.000625782227785
+"wypadek";1;0.000625782227785
+"część";1;0.000625782227785
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";1;0.000625782227785
+"CZASOWNIK - PROCES NDK oznaczający zmianę stanu fizycznego";1;0.000625782227785
+"podatnik";1;0.000625782227785
+"pojazd z własnym napędem";1;0.000625782227785
+"musieć";1;0.000625782227785
+"związek przyczynowy";1;0.000625782227785
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zmiany sytuacji związanych (lub sytuacji związanych) ze współżyciem w społeczeństwie";1;0.000625782227785
+"cywilnoprawny";1;0.000625782227785
+"wolno";1;0.000625782227785
+"płatność";1;0.000625782227785
+"człowiek charakteryzowany ze względu na kwalifikacje";1;0.000625782227785
+"święto";1;0.000625782227785
+"CZASOWNIK - AKT oznaczający reakcję organizmu lub czynność fizjologiczne";1;0.000625782227785
+"siedzenie";1;0.000625782227785
+"poczta";1;0.000625782227785
+"Liban";1;0.000625782227785
+"Smoleńsk";1;0.000625782227785
+"izotop promieniotwórczy";1;0.000625782227785
+"sprzedaż";1;0.000625782227785
+"trwać";1;0.000625782227785
+"życie";1;0.000625782227785
+"prawo rzeczowe";1;0.000625782227785
+"człowiek, który coś robi";1;0.000625782227785
+"budowa";1;0.000625782227785
+"człowiek, który coś zrobił";1;0.000625782227785
+"skandowiec";1;0.000625782227785
+"korekta";1;0.000625782227785
+"logos";1;0.000625782227785
+"żyć";1;0.000625782227785
+"towar";1;0.000625782227785
+"remontowanie";1;0.000625782227785
+"kultura";1;0.000625782227785
+"oświadczenie woli";1;0.000625782227785
+"zadośćuczynienie";1;0.000625782227785
+"persona";1;0.000625782227785
+"CZASOWNIK - AKT oznaczający zmianę relacji abstrakcyjnych";1;0.000625782227785
+"egzystować";1;0.000625782227785
+"Górny Śląsk";1;0.000625782227785
+"Kalifornia";2;0.00125156445557
+"Lizbona";2;0.00125156445557
+"środek";2;0.00125156445557
+"surowiec";2;0.00125156445557
+"krytyczność";2;0.00125156445557
+"pracodawca";2;0.00125156445557
+"jubileusz";2;0.00125156445557
+"Indie";2;0.00125156445557
+"majątek nieruchomy";2;0.00125156445557
+"Rosja";2;0.00125156445557
+"Waszyngton";2;0.00125156445557
+"siedzisko";2;0.00125156445557
+"eutanazja";2;0.00125156445557
+"CZASOWNIK - AKT oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";2;0.00125156445557
+"Bydgoszcz";2;0.00125156445557
+"leasing";2;0.00125156445557
+"CZASOWNIK - DZIAŁANIE DK oznaczający spowodowanie zm. sytuacji związanej z łańcuchem przyczynowo-skutkowym";2;0.00125156445557
+"spółka";2;0.00125156445557
+"ekspens";2;0.00125156445557
+"Ameryka";2;0.00125156445557
+"Drawa";2;0.00125156445557
+"CZASOWNIK - DZIAŁANIE DK oznaczający kontakt fizyczny";2;0.00125156445557
+"przystrój";2;0.00125156445557
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.00125156445557
+"czuć";2;0.00125156445557
+"sąd";2;0.00125156445557
+"spędzenie płodu";2;0.00125156445557
+"styczność";2;0.00125156445557
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";2;0.00125156445557
+"Moskwa";2;0.00125156445557
+"symbol";2;0.00125156445557
+"CZASOWNIK - AKT oznaczający zmianę położenia lub zmianę relacji przestrzennych";2;0.00125156445557
+"wyraz";2;0.00125156445557
+"nabycie";2;0.00125156445557
+"studio";2;0.00125156445557
+"wynajęcie";2;0.00125156445557
+"sposób";2;0.00125156445557
+"Kraj Kwitnącej Wiśni";2;0.00125156445557
+"człowiek charakteryzowany ze względu na miejsce pobytu";2;0.00125156445557
+"produkt spożywczy";2;0.00125156445557
+"badanie";2;0.00125156445557
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";2;0.00125156445557
+"skała osadowa";2;0.00125156445557
+"płatny";2;0.00125156445557
+"krytyka";2;0.00125156445557
+"forma skupienia substancji";2;0.00125156445557
+"Londyn";2;0.00125156445557
+"Wielkopolska";2;0.00125156445557
+"Kijów";2;0.00125156445557
+"styczeń";2;0.00125156445557
+"los";2;0.00125156445557
+"Piza";2;0.00125156445557
+"istota ludzka";2;0.00125156445557
+"zagrażający";2;0.00125156445557
+"zestawienie";2;0.00125156445557
+"pępek";2;0.00125156445557
+"proces";2;0.00125156445557
+"wybory";2;0.00125156445557
+"karta";2;0.00125156445557
+"kontrola";2;0.00125156445557
+"różnica";2;0.00125156445557
+"istność";2;0.00125156445557
+"Mickiewicz";2;0.00125156445557
+"Republika Chorwacji";2;0.00125156445557
+"podziałanie";2;0.00125156445557
+"grudzień";2;0.00125156445557
+"nil";2;0.00125156445557
+"usługa";2;0.00125156445557
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";2;0.00125156445557
+"interes";2;0.00125156445557
+"występ";2;0.00125156445557
+"zwierzę futerkowe";2;0.00125156445557
+"spadek";2;0.00125156445557
+"stanowić";2;0.00125156445557
+"czynność";3;0.00187734668335
+"CZASOWNIK - DZIAŁANIE DK oznaczający spowodowanie zmiany sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00187734668335
+"CZASOWNIK - AKT oznaczający kontakt fizyczny";3;0.00187734668335
+"legalny";3;0.00187734668335
+"darowizna";3;0.00187734668335
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z położeniem lub relacjami przestrzennymi";4;0.00250312891114
+"Wisła";4;0.00250312891114
+"data";4;0.00250312891114
+"Delhi";4;0.00250312891114
+"to";4;0.00250312891114
+"pantofag";4;0.00250312891114
+"człowiek prowadzący określony tryb życia";4;0.00250312891114
+"sprzęt";4;0.00250312891114
+"wyraz twarzy";4;0.00250312891114
+"element wyposażenia";4;0.00250312891114
+"CZASOWNIK - AKT oznaczający spowodowanie zmiany stanu mentalnego, emocjonalnego lub psychiczno-fizjologicznego";4;0.00250312891114
+"Nicea";4;0.00250312891114
+"rodzaj";4;0.00250312891114
+"zwierzę łowne";4;0.00250312891114
+"jeden";4;0.00250312891114
+"profit";4;0.00250312891114
+"Berlin";4;0.00250312891114
+"Włocławek";4;0.00250312891114
+"hipertekst";4;0.00250312891114
+"zespół urządzeń";4;0.00250312891114
+"źródło informacji";4;0.00250312891114
+"papier";4;0.00250312891114
+"człowiek ze względu na pochodzenie etniczne";4;0.00250312891114
+"Republika Czeska";4;0.00250312891114
+"gaz";4;0.00250312891114
+"majątek";4;0.00250312891114
+"Kraków";4;0.00250312891114
+"człowiek ze względu na pełnioną funkcję";4;0.00250312891114
+"członek";4;0.00250312891114
+"intrata";4;0.00250312891114
+"sieć";4;0.00250312891114
+"przekaz";4;0.00250312891114
+"Azja";4;0.00250312891114
+"Rzym";4;0.00250312891114
+"monument";4;0.00250312891114
+"dokument";4;0.00250312891114
+"GERUNDIUM - DZIAŁANIE DK oznaczający spowodowanie zmiany sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";4;0.00250312891114
+"kronika";4;0.00250312891114
+"pismo";4;0.00250312891114
+"powinno się";4;0.00250312891114
+"CZASOWNIK - WYPADEK oznaczający zmianę posiadania lub sytuację związaną z posiadaniem";4;0.00250312891114
+"punkt zwrotny";4;0.00250312891114
+"roślinożerca";4;0.00250312891114
+"glob";4;0.00250312891114
+"świątynia";4;0.00250312891114
+"rachunek";4;0.00250312891114
+"przyrząd mechaniczny";4;0.00250312891114
+"narzędzie";4;0.00250312891114
+"ono";5;0.00312891113892
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający stan mentalny lub emocjonalny albo reakcję emocjonalno-fizjologiczną";5;0.00312891113892
+"przebieg";5;0.00312891113892
+"Adam";5;0.00312891113892
+"jakowyś";5;0.00312891113892
+"być w mocy";6;0.00375469336671
+"Stany Zjednoczone";6;0.00375469336671
+"Wawel";6;0.00375469336671
+"Praga";6;0.00375469336671
+"akt płciowy";6;0.00375469336671
+"rzecz";6;0.00375469336671
+"CZASOWNIK ZDARZENIOWY NDK";6;0.00375469336671
+"GERUNDIUM OD CZASOWNIKA TELICZNEGO";6;0.00375469336671
+"Niemcy";6;0.00375469336671
+"wyrób";6;0.00375469336671
+"koszt";6;0.00375469336671
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00375469336671
+"mięsożerca";6;0.00375469336671
+"charakteryzować się";6;0.00375469336671
+"wpływ";7;0.00438047559449
+"pojęcie";7;0.00438047559449
+"umowa";7;0.00438047559449
+"Francja";7;0.00438047559449
+"nieskrępowanie";8;0.00500625782228
+"choroba infekcyjna";8;0.00500625782228
+"Kanada";8;0.00500625782228
+"rezydencja";8;0.00500625782228
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający zmianę położenia lub relacji przestrzennych";8;0.00500625782228
+"pieniądz";8;0.00500625782228
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";9;0.00563204005006
+"stary kontynent";9;0.00563204005006
+"CZASOWNIK - AKT oznaczający zmianę posiadania lub sytuację związaną z posiadaniem";9;0.00563204005006
+"rok";10;0.00625782227785
+"ruch";10;0.00625782227785
+"dzieło sztuki";10;0.00625782227785
+"pojazd";11;0.00688360450563
+"powodować";12;0.00750938673342
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";12;0.00750938673342
+"miasto";12;0.00750938673342
+"CZASOWNIK - AKT oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";12;0.00750938673342
+"okoliczność";12;0.00750938673342
+"sytuacja";12;0.00750938673342
+"podatek";13;0.0081351689612
+"nosiciel cechy";13;0.0081351689612
+"spowodować";14;0.00876095118899
+"Paryż";14;0.00876095118899
+"spowodowanie";16;0.0100125156446
+"budynek";16;0.0100125156446
+"człowiek charakteryzowany pod względem wieku";16;0.0100125156446
+"dwunóg";16;0.0100125156446
+"małpa wąskonosa";16;0.0100125156446
+"CZASOWNIK TELICZNY";16;0.0100125156446
+"człowiek";16;0.0100125156446
+"spoczywać";17;0.0106382978723
+"uczynienie";17;0.0106382978723
+"GERUNDIUM OD CZASOWNIKA ZMIENNOSTANOWEGO NIETELICZNEGO";19;0.0118898623279
+"Poznań";24;0.0150187734668
+"Warszawa";26;0.0162703379224
+"ludzie";26;0.0162703379224
+"człowiek ze względu na relacje społeczne";26;0.0162703379224
+"twór";27;0.0168961201502
+"tekst";28;0.017521902378
+"konsument";30;0.0187734668335
+"strunowiec";30;0.0187734668335
+"budowla";32;0.0200250312891
+"kwota";33;0.0206508135169
+"Polska";39;0.0244055068836
+"zrobić";40;0.0250312891114
+"robić _CZYNNOŚĆ_";44;0.0275344180225
+"CZASOWNIK ZMIENNOSTANOWY NIETELICZNY";44;0.0275344180225
+"CZASOWNIK CZYNNOŚCIOWY NDK";44;0.0275344180225
+"być";59;0.0369211514393
+"zwierzę";106;0.0663329161452

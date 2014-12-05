@@ -1,0 +1,179 @@
+"żanr";1;0.00131578947368
+"sport rakietowy";1;0.00131578947368
+"Newa";1;0.00131578947368
+"mieć miejsce";1;0.00131578947368
+"Praga";1;0.00131578947368
+"Adam";1;0.00131578947368
+"verbum";1;0.00131578947368
+"organizacja polityczna";1;0.00131578947368
+"nazwa";1;0.00131578947368
+"zjawisko";1;0.00131578947368
+"Hellada";1;0.00131578947368
+"stary kontynent";1;0.00131578947368
+"tańce";1;0.00131578947368
+"zobowiązanie finansowe";1;0.00131578947368
+"liczność";1;0.00131578947368
+"cząsteczka";1;0.00131578947368
+"Stanisławów";1;0.00131578947368
+"nera";1;0.00131578947368
+"zawody";1;0.00131578947368
+"Kolumbia";1;0.00131578947368
+"Kraj Kwitnącej Wiśni";1;0.00131578947368
+"zobowiązanie";2;0.00263157894737
+"należność";2;0.00263157894737
+"CZASOWNIK - ZDARZENIE NDK oznaczający zjawiska fizyczne";2;0.00263157894737
+"zona";2;0.00263157894737
+"Biebrza";2;0.00263157894737
+"legalny";2;0.00263157894737
+"wykonawca";2;0.00263157894737
+"CZASOWNIK - PROCES NDK oznaczający zmianę stanu fizycznego";2;0.00263157894737
+"użyć";2;0.00263157894737
+"zasadność";2;0.00263157894737
+"choroba zaraźliwa";2;0.00263157894737
+"wytrenować";2;0.00263157894737
+"Lach";2;0.00263157894737
+"pomysłodawca";2;0.00263157894737
+"pokrewieństwo";2;0.00263157894737
+"zrobienie czegoś związanego z biologią i fizjologią człowieka";2;0.00263157894737
+"skrzyżowanie";2;0.00263157894737
+"Szczecin";2;0.00263157894737
+"kuźnia";2;0.00263157894737
+"nieumarły";2;0.00263157894737
+"Drawa";2;0.00263157894737
+"Chopin";2;0.00263157894737
+"ciuch";2;0.00263157894737
+"zabieg";2;0.00263157894737
+"Olsztyn";2;0.00263157894737
+"kwota";2;0.00263157894737
+"urządzenie";2;0.00263157894737
+"jednostka leksykalna";2;0.00263157894737
+"zawodowstwo";2;0.00263157894737
+"bronek";2;0.00263157894737
+"formacja nowożytna";2;0.00263157894737
+"włączać";2;0.00263157894737
+"Mokotów";2;0.00263157894737
+"zapiski";2;0.00263157894737
+"kościoły chrześcijańskie";2;0.00263157894737
+"placówka dyplomatyczna";2;0.00263157894737
+"opad";2;0.00263157894737
+"pojawić się";2;0.00263157894737
+"Przemyśl";2;0.00263157894737
+"majątek";2;0.00263157894737
+"czynność";2;0.00263157894737
+"szkoła wyższa";2;0.00263157894737
+"czcionka";2;0.00263157894737
+"Gdańsk";2;0.00263157894737
+"choroba wirusowa";2;0.00263157894737
+"rozwinąć";2;0.00263157894737
+"zabawa";2;0.00263157894737
+"znaczenie";2;0.00263157894737
+"baza";2;0.00263157894737
+"pudełko";2;0.00263157894737
+"urządzenie elektroniczne";2;0.00263157894737
+"być, pozostawać w jakichś relacjach społecznych";2;0.00263157894737
+"przebieraniec";2;0.00263157894737
+"tamten świat";2;0.00263157894737
+"przedmiot";2;0.00263157894737
+"zdematerializować się";2;0.00263157894737
+"oddział";2;0.00263157894737
+"organizacja";2;0.00263157894737
+"Lublin";2;0.00263157894737
+"ludzie";2;0.00263157894737
+"symbol";2;0.00263157894737
+"klawisz funkcyjny";2;0.00263157894737
+"Paryż";2;0.00263157894737
+"plac";2;0.00263157894737
+"Lizbona";2;0.00263157894737
+"gratisowy";2;0.00263157894737
+"związek organiczny";2;0.00263157894737
+"zbiór praw";2;0.00263157894737
+"Madagaskar";2;0.00263157894737
+"CZASOWNIK - DZIAŁANIE DK oznaczający kontakt fizyczny, który wpływa na obiekt";3;0.00394736842105
+"grupa zwierząt";3;0.00394736842105
+"zanalizować";3;0.00394736842105
+"skumulować";3;0.00394736842105
+"wymienić";3;0.00394736842105
+"Wrocław";3;0.00394736842105
+"Kraków";3;0.00394736842105
+"produkcja";3;0.00394736842105
+"włożyć";3;0.00394736842105
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00394736842105
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00394736842105
+"zaznajamiać się";3;0.00394736842105
+"złożyć";3;0.00394736842105
+"odkryć";3;0.00394736842105
+"glejt";4;0.00526315789474
+"lokal użytkowy";4;0.00526315789474
+"roślina uprawna";4;0.00526315789474
+"bylina";4;0.00526315789474
+"część garderoby";4;0.00526315789474
+"Herbert";4;0.00526315789474
+"zrobić _AKT_ DK";4;0.00526315789474
+"materiał zecerski";4;0.00526315789474
+"sędzia";4;0.00526315789474
+"traktat";4;0.00526315789474
+"dać znać";4;0.00526315789474
+"gwóźdź";4;0.00526315789474
+"Ukraina";4;0.00526315789474
+"Litwa";4;0.00526315789474
+"papier";4;0.00526315789474
+"wytwór umysłu";4;0.00526315789474
+"akt";4;0.00526315789474
+"ustać";4;0.00526315789474
+"skupisko";4;0.00526315789474
+"pieniądz";4;0.00526315789474
+"gaz";4;0.00526315789474
+"dokument";4;0.00526315789474
+"odgłos";4;0.00526315789474
+"cykl astronomiczny";4;0.00526315789474
+"gra";4;0.00526315789474
+"Ostrołęka";4;0.00526315789474
+"interes";4;0.00526315789474
+"ziemia";4;0.00526315789474
+"proza";5;0.00657894736842
+"dostać się";5;0.00657894736842
+"pora";5;0.00657894736842
+"utwór epicki";5;0.00657894736842
+"dotrzeć";5;0.00657894736842
+"utwór muzyczny";5;0.00657894736842
+"poruszać się";5;0.00657894736842
+"roślina egzotyczna";6;0.00789473684211
+"odgrywać się";6;0.00789473684211
+"aerodyna";6;0.00789473684211
+"umiejscowić";6;0.00789473684211
+"Polska";6;0.00789473684211
+"ptak leśny lub polny";6;0.00789473684211
+"tekst";6;0.00789473684211
+"budowla";6;0.00789473684211
+"policzyć";6;0.00789473684211
+"pojazd kolejowy";6;0.00789473684211
+"obiekt handlowy";6;0.00789473684211
+"część";6;0.00789473684211
+"rejon";6;0.00789473684211
+"informacja";8;0.0105263157895
+"kryptyda";8;0.0105263157895
+"Warszawa";8;0.0105263157895
+"szkoła";8;0.0105263157895
+"obrzeże";8;0.0105263157895
+"skończyć";9;0.0118421052632
+"opuścić";9;0.0118421052632
+"ustanowić";9;0.0118421052632
+"budowla obronna";9;0.0118421052632
+"przebywać";9;0.0118421052632
+"czynić zabiegi";9;0.0118421052632
+"Poznań";10;0.0131578947368
+"złodziej";10;0.0131578947368
+"przenieść się";10;0.0131578947368
+"ptak wędrowny";12;0.0157894736842
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";12;0.0157894736842
+"wystarać się";12;0.0157894736842
+"plac gry";12;0.0157894736842
+"zrobić coś związanego z biologią i fizjologią człowieka";12;0.0157894736842
+"sługa boży";12;0.0157894736842
+"twór";12;0.0157894736842
+"być";13;0.0171052631579
+"droga";18;0.0236842105263
+"ptak śpiewający";18;0.0236842105263
+"przybiegać";20;0.0263157894737
+"zdobywać";24;0.0315789473684
+"CZASOWNIK STANOWY NDK";33;0.0434210526316

@@ -1,0 +1,164 @@
+"proces ekonomiczny";1;0.00149253731343
+"robić";1;0.00149253731343
+"zona";1;0.00149253731343
+"lato";1;0.00149253731343
+"pojęcie";1;0.00149253731343
+"spowodowanie";1;0.00149253731343
+"musieć";1;0.00149253731343
+"CZASOWNIK - WYPADEK oznaczający zjawisko fizyczne";1;0.00149253731343
+"CZASOWNIK - AKT oznaczający spowodowanie zjawiska fizycznego lub zmiany stanu fizycznego";1;0.00149253731343
+"ustawodawstwo";1;0.00149253731343
+"Słońce";1;0.00149253731343
+"CZASOWNIK - DZIAŁANIE NDK oznaczający zmianę położenia lub relacji przestrzennych";1;0.00149253731343
+"papier";1;0.00149253731343
+"znak językowy";1;0.00149253731343
+"produkt spożywczy";1;0.00149253731343
+"UE";1;0.00149253731343
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";1;0.00149253731343
+"CZASOWNIK - DZIAŁANIE NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";1;0.00149253731343
+"CZASOWNIK - PROCES DK oznaczający zmianę stanu fizycznego";1;0.00149253731343
+"GERUNDIUM OD CZASOWNIKA TELICZNEGO";1;0.00149253731343
+"jednostka administracyjna";1;0.00149253731343
+"mięsożerca";1;0.00149253731343
+"CZASOWNIK - AKT oznaczający spowodowanie zmiany w łańcuchu przyczynowo-skutkowym i czasowym";1;0.00149253731343
+"znaczenie";1;0.00149253731343
+"świat";1;0.00149253731343
+"podziałanie";1;0.00149253731343
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";1;0.00149253731343
+"gra";1;0.00149253731343
+"ciało";1;0.00149253731343
+"jednostka organizacyjna";1;0.00149253731343
+"CZASOWNIK - AKT oznaczający zmianę relacji abstrakcyjnych";1;0.00149253731343
+"klasa";1;0.00149253731343
+"ważny";2;0.00298507462687
+"powinno się";2;0.00298507462687
+"dziekanat";2;0.00298507462687
+"fotoautotrof";2;0.00298507462687
+"stulecie";2;0.00298507462687
+"choineczka";2;0.00298507462687
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający stan mentalny lub emocjonalny albo reakcję emocjonalno-fizjologiczną";2;0.00298507462687
+"być, pozostawać w jakiejś relacji do czegoś";2;0.00298507462687
+"raport";2;0.00298507462687
+"matematyka";2;0.00298507462687
+"balanga";2;0.00298507462687
+"feta";2;0.00298507462687
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";2;0.00298507462687
+"kryzys";2;0.00298507462687
+"Organizacja Paktu Północnoatlantyckiego";2;0.00298507462687
+"CZASOWNIK - DZIAŁANIE NDK oznaczający kontakt fizyczny, który wpływa na obiekt";2;0.00298507462687
+"tydzień";2;0.00298507462687
+"obowiązkowy";2;0.00298507462687
+"zlecenie";2;0.00298507462687
+"skorowidz";2;0.00298507462687
+"Ukraina";2;0.00298507462687
+"dzieło o określonej tematyce";2;0.00298507462687
+"konto";2;0.00298507462687
+"sąd";2;0.00298507462687
+"przepis";2;0.00298507462687
+"posiłek";2;0.00298507462687
+"efekt";2;0.00298507462687
+"katastrofa";2;0.00298507462687
+"minerał";2;0.00298507462687
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuacje związane z następstwem czasowym";2;0.00298507462687
+"roślina";2;0.00298507462687
+"spowodować";2;0.00298507462687
+"człowiek charakteryzowany ze względu na kwalifikacje";2;0.00298507462687
+"opad";2;0.00298507462687
+"kopia";2;0.00298507462687
+"izotop promieniotwórczy";2;0.00298507462687
+"epistoła";2;0.00298507462687
+"ono";2;0.00298507462687
+"GERUNDIUM OD CZASOWNIKA ZMIENNOSTANOWEGO NIETELICZNEGO";2;0.00298507462687
+"tlenowiec";2;0.00298507462687
+"robić _DZIAŁANIE_";2;0.00298507462687
+"andrzejki";2;0.00298507462687
+"zestawienie";2;0.00298507462687
+"zasób naturalny";2;0.00298507462687
+"działalność";2;0.00298507462687
+"człowiek ze względu na pełnioną funkcję";2;0.00298507462687
+"płeć";2;0.00298507462687
+"przynależny";2;0.00298507462687
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający kontakt fizyczny";2;0.00298507462687
+"egzamin";2;0.00298507462687
+"utwór muzyczny";2;0.00298507462687
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";2;0.00298507462687
+"rys";2;0.00298507462687
+"wigilia";2;0.00298507462687
+"uczynienie";2;0.00298507462687
+"miasto";2;0.00298507462687
+"wyrób";2;0.00298507462687
+"charakteryzować się";2;0.00298507462687
+"występ";2;0.00298507462687
+"powodować";3;0.0044776119403
+"Poznań";3;0.0044776119403
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";3;0.0044776119403
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";3;0.0044776119403
+"surowiec";3;0.0044776119403
+"podatnik";3;0.0044776119403
+"przebieg";3;0.0044776119403
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.0044776119403
+"budowla obronna";3;0.0044776119403
+"usługi";3;0.0044776119403
+"CZASOWNIK - PROCES DK oznaczający zmianę w następstwie czasowym";4;0.00597014925373
+"kasa";4;0.00597014925373
+"choroba infekcyjna";4;0.00597014925373
+"pora";4;0.00597014925373
+"bijatyka";4;0.00597014925373
+"skała osadowa";4;0.00597014925373
+"wojna";4;0.00597014925373
+"CZASOWNIK - AKT oznaczający reakcję organizmu lub czynność fizjologiczne";4;0.00597014925373
+"przesyłka";4;0.00597014925373
+"urządzenie";4;0.00597014925373
+"zespół urządzeń";4;0.00597014925373
+"CZASOWNIK ZDARZENIOWY NDK";4;0.00597014925373
+"sposób";4;0.00597014925373
+"wybory";4;0.00597014925373
+"przedstawiciel";4;0.00597014925373
+"Warszawa";4;0.00597014925373
+"robienie CZYNNOŚĆ";4;0.00597014925373
+"naddatek";4;0.00597014925373
+"druk";4;0.00597014925373
+"budulec";4;0.00597014925373
+"olej";4;0.00597014925373
+"dwunóg";4;0.00597014925373
+"GERUNDIUM OD CZASOWNIKA CZYNNOŚCIOWEGO NDK";4;0.00597014925373
+"małpa wąskonosa";4;0.00597014925373
+"piasek";4;0.00597014925373
+"przybitka";4;0.00597014925373
+"człowiek";4;0.00597014925373
+"związek chemiczny";5;0.00746268656716
+"wolno";5;0.00746268656716
+"Polska";5;0.00746268656716
+"konsument";5;0.00746268656716
+"remontowanie";5;0.00746268656716
+"trwać";6;0.0089552238806
+"rok";6;0.0089552238806
+"podatek";6;0.0089552238806
+"budowla";6;0.0089552238806
+"czas";6;0.0089552238806
+"kwota";6;0.0089552238806
+"CZASOWNIK - AKT oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";6;0.0089552238806
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający zmianę położenia lub relacji przestrzennych";6;0.0089552238806
+"data";6;0.0089552238806
+"okoliczność";7;0.010447761194
+"tekst";8;0.0119402985075
+"sytuacja";8;0.0119402985075
+"koniec";8;0.0119402985075
+"ludzie";8;0.0119402985075
+"strunowiec";9;0.0134328358209
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";10;0.0149253731343
+"proces";10;0.0149253731343
+"człowiek charakteryzowany pod względem wieku";10;0.0149253731343
+"człowiek, który coś robi";10;0.0149253731343
+"punkt zwrotny";10;0.0149253731343
+"twór";10;0.0149253731343
+"CZASOWNIK TELICZNY";11;0.0164179104478
+"dzień";13;0.0194029850746
+"jakowyś";16;0.0238805970149
+"zrobić";17;0.0253731343284
+"CZASOWNIK ZMIENNOSTANOWY NIETELICZNY";18;0.0268656716418
+"zwierzę";20;0.0298507462687
+"być";22;0.0328358208955
+"robić _CZYNNOŚĆ_";25;0.0373134328358
+"CZASOWNIK CZYNNOŚCIOWY NDK";25;0.0373134328358
+"człowiek ze względu na relacje społeczne";28;0.0417910447761

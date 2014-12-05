@@ -2,8 +2,12 @@
 # -*- coding: UTF-8 -*-
 import codecs
 import os
-from question_classification.config import chunker, wordnet, classes
+from question_classification.config import chunker, wordnet#, classes
 from collections import defaultdict
+
+# classes = u'''QC_CAUSE QC_DECISION QC_DEF QC_DIRECT QC_LOC QC_NONPER QC_PER QC_PROCEDURE QC_QUANTITY QC_STATE QC_TEMP
+# '''.strip().split()
+classes = [u"QC_TEMP"]
 
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data"))
 HYPERONYM_OFFSETS = [1, 2, 3, -1, -2]
@@ -14,6 +18,17 @@ def make_dirs():
             p = os.path.join(DATA_DIR, "hyper_freq", str(offset))#, c)
             if not os.path.exists(p):
                 os.makedirs(p)
+
+def extract_element_from_path(path, offset):
+    try:
+        return path[offset]
+    except:
+        if offset>0:
+            return path[-1]
+        elif offset<0:
+            return path[0]
+        else:
+            return None
 
 def by_hyperonyms_for_lemmas(offset, path):
     '''
@@ -28,10 +43,10 @@ def by_hyperonyms_for_lemmas(offset, path):
         for line in f:
             chunk_heads = chunker.get_chunk_heads(line)
             for ch in chunk_heads:
-                for x in wordnet.get_hyponyms_paths(ch.lemma):
-                    for h in x[offset]:
-                        result[h]+=1
-                        s +=1
+                for p in wordnet.get_hyponyms_paths(ch.lemma):
+                    el = extract_element_from_path(p, offset)
+                    result[el.lemma]+=1
+                    s +=1
     return result, s
 
 def main(args=[]):

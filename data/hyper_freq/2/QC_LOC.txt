@@ -1,0 +1,133 @@
+"powieść";1;0.00131578947368
+"gabaryt";1;0.00131578947368
+"sport rakietowy";1;0.00131578947368
+"Adam";1;0.00131578947368
+"skarb";1;0.00131578947368
+"jakość";1;0.00131578947368
+"budżet";1;0.00131578947368
+"zawodowstwo";1;0.00131578947368
+"Hellada";1;0.00131578947368
+"stary kontynent";1;0.00131578947368
+"Newa";1;0.00131578947368
+"majątek";1;0.00131578947368
+"Stanisławów";1;0.00131578947368
+"wirus";1;0.00131578947368
+"nera";1;0.00131578947368
+"zmiana";1;0.00131578947368
+"należność";1;0.00131578947368
+"Kolumbia";1;0.00131578947368
+"Praga";1;0.00131578947368
+"Kraj Kwitnącej Wiśni";1;0.00131578947368
+"rok";2;0.00263157894737
+"Szczecin";2;0.00263157894737
+"rynek";2;0.00263157894737
+"zapis";2;0.00263157894737
+"jednostka gospodarcza";2;0.00263157894737
+"zjawisko atmosferyczne";2;0.00263157894737
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";2;0.00263157894737
+"egzotyk";2;0.00263157894737
+"cykl astronomiczny";2;0.00263157894737
+"część garderoby";2;0.00263157894737
+"realia";2;0.00263157894737
+"napis";2;0.00263157894737
+"akt płciowy";2;0.00263157894737
+"zasadność";2;0.00263157894737
+"Lach";2;0.00263157894737
+"substancja chemiczna";2;0.00263157894737
+"jednostka";2;0.00263157894737
+"złączenie";2;0.00263157894737
+"ciało lotne";2;0.00263157894737
+"porozumienie";2;0.00263157894737
+"traktat";2;0.00263157894737
+"nieumarły";2;0.00263157894737
+"Drawa";2;0.00263157894737
+"Chopin";2;0.00263157894737
+"ciuch";2;0.00263157894737
+"Olsztyn";2;0.00263157894737
+"wysokość";2;0.00263157894737
+"spędzenie płodu";2;0.00263157894737
+"bronek";2;0.00263157894737
+"stworzenie oceniane negatywnie";2;0.00263157894737
+"kryptyda";2;0.00263157894737
+"Mokotów";2;0.00263157894737
+"pieniądze";2;0.00263157894737
+"lotnisko";2;0.00263157894737
+"impreza";2;0.00263157894737
+"siedziba";2;0.00263157894737
+"Biebrza";2;0.00263157894737
+"Przemyśl";2;0.00263157894737
+"gaz";2;0.00263157894737
+"czcionka";2;0.00263157894737
+"afiliacja";2;0.00263157894737
+"Gdańsk";2;0.00263157894737
+"zabawa";2;0.00263157894737
+"skrzyżowanie";2;0.00263157894737
+"być, pozostawać w jakichś relacjach społecznych";2;0.00263157894737
+"tamten świat";2;0.00263157894737
+"legalny";2;0.00263157894737
+"Lublin";2;0.00263157894737
+"rejon";2;0.00263157894737
+"Paryż";2;0.00263157894737
+"Lizbona";2;0.00263157894737
+"gratisowy";2;0.00263157894737
+"zbiór praw";2;0.00263157894737
+"niemoc";2;0.00263157894737
+"Madagaskar";2;0.00263157894737
+"ziemia";2;0.00263157894737
+"egzystować";3;0.00394736842105
+"CZASOWNIK oznaczający sytuację związaną z następstwem czasowym zdarzeń";3;0.00394736842105
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";3;0.00394736842105
+"Wrocław";3;0.00394736842105
+"dzieło";3;0.00394736842105
+"Kraków";3;0.00394736842105
+"sezon";3;0.00394736842105
+"moment";3;0.00394736842105
+"skraj";4;0.00526315789474
+"Herbert";4;0.00526315789474
+"zjawisko akustyczne";4;0.00526315789474
+"proces";4;0.00526315789474
+"lokal użytkowy";4;0.00526315789474
+"Ukraina";4;0.00526315789474
+"Litwa";4;0.00526315789474
+"uporządkowanie";4;0.00526315789474
+"skupisko";4;0.00526315789474
+"wytwór umysłu";4;0.00526315789474
+"Ostrołęka";4;0.00526315789474
+"jednostka administracyjna";4;0.00526315789474
+"pieniądz";4;0.00526315789474
+"pojazd";4;0.00526315789474
+"zbiór rzeczy";4;0.00526315789474
+"rozgrywka";4;0.00526315789474
+"granica";4;0.00526315789474
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";4;0.00526315789474
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";4;0.00526315789474
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";5;0.00657894736842
+"tekst";5;0.00657894736842
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";5;0.00657894736842
+"autotrof";6;0.00789473684211
+"informacja";6;0.00789473684211
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";6;0.00789473684211
+"praca";6;0.00789473684211
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";6;0.00789473684211
+"Polska";6;0.00789473684211
+"strona";6;0.00789473684211
+"znak";6;0.00789473684211
+"środek lokomocji";8;0.0105263157895
+"Warszawa";8;0.0105263157895
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";8;0.0105263157895
+"Poznań";10;0.0131578947368
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";12;0.0157894736842
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";13;0.0171052631579
+"zwierzę";14;0.0184210526316
+"istota żywa";16;0.0210526315789
+"budowla";17;0.0223684210526
+"twór";19;0.025
+"wielokomórkowiec";20;0.0263157894737
+"grupa istot";22;0.0289473684211
+"robić";24;0.0315789473684
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";28;0.0368421052632
+"istota ludzka";28;0.0368421052632
+"konstrukcja";34;0.0447368421053
+"przedmiot";35;0.0460526315789
+"być";55;0.0723684210526
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";94;0.123684210526

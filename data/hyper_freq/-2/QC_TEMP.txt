@@ -1,0 +1,157 @@
+"proces ekonomiczny";1;0.00149253731343
+"gra towarzyska";1;0.00149253731343
+"nazwa";1;0.00149253731343
+"organizacja polityczna";1;0.00149253731343
+"dorosły";1;0.00149253731343
+"Słońce";1;0.00149253731343
+"CZASOWNIK DYNAMICZNY (AKCJA)";1;0.00149253731343
+"system";1;0.00149253731343
+"sezon";1;0.00149253731343
+"przestrzeń";1;0.00149253731343
+"formacja ze względu na sprzęt";1;0.00149253731343
+"niepełnoletni";1;0.00149253731343
+"ruda";1;0.00149253731343
+"UE";1;0.00149253731343
+"grupa";1;0.00149253731343
+"ogół";1;0.00149253731343
+"mnogość";1;0.00149253731343
+"pogorszenie";2;0.00298507462687
+"choineczka";2;0.00298507462687
+"gabinet";2;0.00298507462687
+"wskazanie";2;0.00298507462687
+"tragedia";2;0.00298507462687
+"miasto";2;0.00298507462687
+"zrobić _AKT_ DK";2;0.00298507462687
+"Organizacja Paktu Północnoatlantyckiego";2;0.00298507462687
+"kasa";2;0.00298507462687
+"nauka ścisła";2;0.00298507462687
+"cecha żywego organizmu";2;0.00298507462687
+"nieść";2;0.00298507462687
+"relacja";2;0.00298507462687
+"wiadomość";2;0.00298507462687
+"sąd";2;0.00298507462687
+"zajście";2;0.00298507462687
+"porządny";2;0.00298507462687
+"przesyłka";2;0.00298507462687
+"konflikt";2;0.00298507462687
+"czas";2;0.00298507462687
+"efekt";2;0.00298507462687
+"urządzenie grzewcze";2;0.00298507462687
+"Ukraina";2;0.00298507462687
+"urządzenie";2;0.00298507462687
+"występ";2;0.00298507462687
+"dzieło o tematyce religijnej";2;0.00298507462687
+"tlenowiec";2;0.00298507462687
+"opad";2;0.00298507462687
+"nadmiar";2;0.00298507462687
+"ono";2;0.00298507462687
+"obowiązujący";2;0.00298507462687
+"bobasek";2;0.00298507462687
+"przedmiot";2;0.00298507462687
+"działalność";2;0.00298507462687
+"powściągliwość";2;0.00298507462687
+"sytuacja";2;0.00298507462687
+"fachowiec";2;0.00298507462687
+"tłuszcz";2;0.00298507462687
+"znaczenie";2;0.00298507462687
+"przynależny";2;0.00298507462687
+"kwit";2;0.00298507462687
+"ilość";2;0.00298507462687
+"przebieraniec";2;0.00298507462687
+"izotop promieniotwórczy";2;0.00298507462687
+"charakteryzować się";2;0.00298507462687
+"zdematerializować się";2;0.00298507462687
+"egzamin";2;0.00298507462687
+"rachunek";2;0.00298507462687
+"metal";2;0.00298507462687
+"dzień";2;0.00298507462687
+"proces biologiczny";2;0.00298507462687
+"karta pocztowa";2;0.00298507462687
+"rejestrować";2;0.00298507462687
+"Poznań";3;0.0044776119403
+"minerał barwny";3;0.0044776119403
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";3;0.0044776119403
+"skończyć";3;0.0044776119403
+"wypełniać";3;0.0044776119403
+"obciążenie";3;0.0044776119403
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.0044776119403
+"działalność gospodarcza";3;0.0044776119403
+"grać w karty";3;0.0044776119403
+"płatnik";3;0.0044776119403
+"CZASOWNIK - DZIAŁANIE NDK oznaczający zmianę położenia lub relacji przestrzennych";3;0.0044776119403
+"CZASOWNIK - AKT oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";3;0.0044776119403
+"policzyć";3;0.0044776119403
+"jednostka administracyjna";3;0.0044776119403
+"skrzywdzić";3;0.0044776119403
+"wkładać";3;0.0044776119403
+"pozbawić życia";3;0.0044776119403
+"zaniechać";3;0.0044776119403
+"starszy człowiek";3;0.0044776119403
+"dawać";3;0.0044776119403
+"gleba";4;0.00597014925373
+"być, pozostawać w jakiejś relacji do czegoś";4;0.00597014925373
+"miejsce";4;0.00597014925373
+"ciecz";4;0.00597014925373
+"choroba zaraźliwa";4;0.00597014925373
+"zlecenie";4;0.00597014925373
+"ogłaszać";4;0.00597014925373
+"siarczek";4;0.00597014925373
+"mięso drobiowe";4;0.00597014925373
+"ogrzewanie";4;0.00597014925373
+"roślina ozdobna";4;0.00597014925373
+"sposób";4;0.00597014925373
+"okamgnienie";4;0.00597014925373
+"Warszawa";4;0.00597014925373
+"kruszywo";4;0.00597014925373
+"odurzenie się";4;0.00597014925373
+"przybitka";4;0.00597014925373
+"choroba wirusowa";4;0.00597014925373
+"uczeń";4;0.00597014925373
+"walka";4;0.00597014925373
+"skała luźna";4;0.00597014925373
+"zawadzić";4;0.00597014925373
+"część";4;0.00597014925373
+"głosowanie";4;0.00597014925373
+"konieczność";4;0.00597014925373
+"inteligent";4;0.00597014925373
+"Polska";5;0.00746268656716
+"punkt";5;0.00746268656716
+"docierać";5;0.00746268656716
+"legislator";5;0.00746268656716
+"naprawa";5;0.00746268656716
+"pojawiać się";5;0.00746268656716
+"zmiana";5;0.00746268656716
+"ludzie";5;0.00746268656716
+"podatek konsumpcyjny";6;0.0089552238806
+"przewodnictwo";6;0.0089552238806
+"egzystować";6;0.0089552238806
+"ptak leśny lub polny";6;0.0089552238806
+"opłata";6;0.0089552238806
+"ptak śpiewający";6;0.0089552238806
+"powiedzieć";6;0.0089552238806
+"cykl astronomiczny";6;0.0089552238806
+"sprawdzanie";6;0.0089552238806
+"człowiek płci żeńskiej";7;0.010447761194
+"ssak drapieżny";7;0.010447761194
+"przeskakiwać";7;0.010447761194
+"dawać znać";8;0.0119402985075
+"deklaracja";8;0.0119402985075
+"ustać";8;0.0119402985075
+"zestawienie";8;0.0119402985075
+"proces fizjologiczny";8;0.0119402985075
+"mężczyzna";8;0.0119402985075
+"budowla obronna";9;0.0134328358209
+"wszcząć";9;0.0134328358209
+"balanga";10;0.0149253731343
+"poruszać się";10;0.0149253731343
+"przybiegać";10;0.0149253731343
+"pieśń";10;0.0149253731343
+"zrobić coś związanego z biologią i fizjologią człowieka";12;0.0179104477612
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";16;0.0238805970149
+"muzułmanin";16;0.0238805970149
+"jakowyś";16;0.0238805970149
+"nazwa zakonnika ze względu na zgromadzenie, do którego należy";16;0.0238805970149
+"kobieta";16;0.0238805970149
+"typować";18;0.0268656716418
+"CZASOWNIK STANOWY NDK";22;0.0328358208955
+"pora";30;0.044776119403

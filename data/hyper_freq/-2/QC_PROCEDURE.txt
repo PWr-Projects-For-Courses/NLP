@@ -1,0 +1,244 @@
+"prowadzący";1;0.000965250965251
+"sztuka";1;0.000965250965251
+"funkcjonariusz";1;0.000965250965251
+"zespół ludzi";1;0.000965250965251
+"wiadomość";1;0.000965250965251
+"koło";1;0.000965250965251
+"nazwa";1;0.000965250965251
+"porozumienie";1;0.000965250965251
+"przystrój";1;0.000965250965251
+"Facebook";1;0.000965250965251
+"Peugeot";1;0.000965250965251
+"dysk optyczny";1;0.000965250965251
+"pręt";1;0.000965250965251
+"wytwór";1;0.000965250965251
+"rzut";1;0.000965250965251
+"dział";1;0.000965250965251
+"czyn";1;0.000965250965251
+"Jarocin";1;0.000965250965251
+"okamgnienie";1;0.000965250965251
+"mały przedmiot";1;0.000965250965251
+"ciąg";1;0.000965250965251
+"CZASOWNIK STANOWY NDK";1;0.000965250965251
+"zona";1;0.000965250965251
+"para";1;0.000965250965251
+"okoliczności";1;0.000965250965251
+"dobro";1;0.000965250965251
+"dokumentacja";1;0.000965250965251
+"zmiana patologiczna";1;0.000965250965251
+"zjawisko naturalne";1;0.000965250965251
+"zagranie";1;0.000965250965251
+"kolekcja";1;0.000965250965251
+"ciało stałe";1;0.000965250965251
+"rozrywka";2;0.0019305019305
+"urządzenie nadawczo-odbiorcze";2;0.0019305019305
+"antymetabolit";2;0.0019305019305
+"zjawisko atmosferyczne";2;0.0019305019305
+"pompa ręczna";2;0.0019305019305
+"absolut";2;0.0019305019305
+"chromowiec";2;0.0019305019305
+"masa cukiernicza";2;0.0019305019305
+"zabawa";2;0.0019305019305
+"życiorys";2;0.0019305019305
+"jarzyna";2;0.0019305019305
+"człowiek ze względu na relacje społeczne";2;0.0019305019305
+"przedmiot codziennego użytku";2;0.0019305019305
+"uszlachetnić";2;0.0019305019305
+"principium";2;0.0019305019305
+"zaklęsłość";2;0.0019305019305
+"deklaracja";2;0.0019305019305
+"tkanka łączna";2;0.0019305019305
+"CZASOWNIK DYNAMICZNY (AKCJA)";2;0.0019305019305
+"jakowyś";2;0.0019305019305
+"wpadka";2;0.0019305019305
+"pamiętnik";2;0.0019305019305
+"napór";2;0.0019305019305
+"zabieg";2;0.0019305019305
+"CZASOWNIK OZNACZAJĄCY WYPADEK DK";2;0.0019305019305
+"kartonik";2;0.0019305019305
+"egzystować";2;0.0019305019305
+"ksenobiotyk";2;0.0019305019305
+"pomidorek";2;0.0019305019305
+"kopytko";2;0.0019305019305
+"efekt";2;0.0019305019305
+"zrobienie czegoś związanego z biologią i fizjologią człowieka";2;0.0019305019305
+"lentiwirus";2;0.0019305019305
+"opłata";2;0.0019305019305
+"spowodować _DZIAŁANIE DK_";2;0.0019305019305
+"nakład";2;0.0019305019305
+"rządzący";2;0.0019305019305
+"element anatomiczny";2;0.0019305019305
+"cecha człowieka";2;0.0019305019305
+"impreza";2;0.0019305019305
+"linia prosta";2;0.0019305019305
+"ubarwić";2;0.0019305019305
+"legitymacja";2;0.0019305019305
+"płyta";2;0.0019305019305
+"cytrynka";2;0.0019305019305
+"przedmiot";2;0.0019305019305
+"czynność";2;0.0019305019305
+"zmodyfikować";2;0.0019305019305
+"regulator";2;0.0019305019305
+"filmik";2;0.0019305019305
+"transakcja bezgotówkowa";2;0.0019305019305
+"zniżka";2;0.0019305019305
+"piersi";2;0.0019305019305
+"pieniądz";2;0.0019305019305
+"formacja ze względu na sprzęt";2;0.0019305019305
+"pojawiać się";2;0.0019305019305
+"inhibitor";2;0.0019305019305
+"część garderoby";2;0.0019305019305
+"substancja";2;0.0019305019305
+"operacja finansowa";2;0.0019305019305
+"blat";2;0.0019305019305
+"klęska";2;0.0019305019305
+"język naturalny, migany bądź sztuczny";2;0.0019305019305
+"naczynie kuchenne";2;0.0019305019305
+"jagoda";2;0.0019305019305
+"egzamin";2;0.0019305019305
+"zachęcić";2;0.0019305019305
+"CZASOWNIK - STAN NDK oznaczający stan fizyczny";2;0.0019305019305
+"pan";2;0.0019305019305
+"ludzie";2;0.0019305019305
+"objaw chorobowy";2;0.0019305019305
+"strona WWW";2;0.0019305019305
+"luka";2;0.0019305019305
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";2;0.0019305019305
+"upodobnić";2;0.0019305019305
+"wystarczać";2;0.0019305019305
+"próba";2;0.0019305019305
+"powłoka";2;0.0019305019305
+"brew";2;0.0019305019305
+"wprowadzać";3;0.00289575289575
+"określać";3;0.00289575289575
+"skończyć";3;0.00289575289575
+"związać się";3;0.00289575289575
+"pomóc";3;0.00289575289575
+"rzecz";3;0.00289575289575
+"polecenie";3;0.00289575289575
+"umiejscowić";3;0.00289575289575
+"zjawisko";3;0.00289575289575
+"okroić";3;0.00289575289575
+"CZASOWNIK - AKT oznaczający zmianę relacji abstrakcyjnych";3;0.00289575289575
+"CZASOWNIK - DZIAŁANIE NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00289575289575
+"przyrząd gimnastyczny";3;0.00289575289575
+"sprawdzać";3;0.00289575289575
+"zachowywać";3;0.00289575289575
+"nadać";3;0.00289575289575
+"system";3;0.00289575289575
+"zabierać się";3;0.00289575289575
+"likwidować";3;0.00289575289575
+"intrata";3;0.00289575289575
+"tlenek wodoru";3;0.00289575289575
+"przyjść z pomocą";3;0.00289575289575
+"włożyć";3;0.00289575289575
+"stawiać na swoim";3;0.00289575289575
+"uzyskać";3;0.00289575289575
+"zakupić";3;0.00289575289575
+"stworzyć";3;0.00289575289575
+"wytworzyć";3;0.00289575289575
+"świadczenie społeczne";3;0.00289575289575
+"pieczywo";4;0.003861003861
+"uszkodzenie";4;0.003861003861
+"płyn ustrojowy";4;0.003861003861
+"choroba przewlekła";4;0.003861003861
+"pojawić się";4;0.003861003861
+"przebiegać";4;0.003861003861
+"Adam";4;0.003861003861
+"choroba zaraźliwa";4;0.003861003861
+"musieć";4;0.003861003861
+"kończyna górna";4;0.003861003861
+"opowiadać";4;0.003861003861
+"specyfik";4;0.003861003861
+"składać";4;0.003861003861
+"człowiek o określonej narodowości, przynależności państwowej";4;0.003861003861
+"czas";4;0.003861003861
+"numer";4;0.003861003861
+"ciało niebieskie";4;0.003861003861
+"wprawiać w ruch";4;0.003861003861
+"bozon cechowania";4;0.003861003861
+"choroba psychiczna";4;0.003861003861
+"warstwa";4;0.003861003861
+"słabeusz";4;0.003861003861
+"proces fizjologiczny";4;0.003861003861
+"modlitwa";4;0.003861003861
+"granica";4;0.003861003861
+"Bałkańczyk";4;0.003861003861
+"choroba wirusowa";4;0.003861003861
+"urządzenie elektroniczne";4;0.003861003861
+"zapoznać";4;0.003861003861
+"jednostka gospodarcza";4;0.003861003861
+"sposób";4;0.003861003861
+"dysk";4;0.003861003861
+"choroba skóry";4;0.003861003861
+"działania";4;0.003861003861
+"modyfikować";4;0.003861003861
+"CZASOWNIK - AKT oznaczający kontakt fizyczny, który wpływa na obiekt";4;0.003861003861
+"pistolet";4;0.003861003861
+"potrawa";4;0.003861003861
+"skalarna wielkość fizyczna";4;0.003861003861
+"elektronika";4;0.003861003861
+"twór";4;0.003861003861
+"rachunek";4;0.003861003861
+"charakteryzować się";4;0.003861003861
+"wykład";4;0.003861003861
+"wypadek";5;0.00482625482625
+"łamaga";5;0.00482625482625
+"pora";5;0.00482625482625
+"przyjechać";5;0.00482625482625
+"zbieg okoliczności";5;0.00482625482625
+"ogół";5;0.00482625482625
+"ilość";5;0.00482625482625
+"dotrzeć";5;0.00482625482625
+"uzdrowić";6;0.00579150579151
+"CZASOWNIK - DZIAŁANIE NDK oznaczający powodowanie zmiany położenia lub relacji przestrzennych";6;0.00579150579151
+"nakrycie głowy";6;0.00579150579151
+"robienie CZYNNOŚĆ";6;0.00579150579151
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00579150579151
+"moneta";6;0.00579150579151
+"sprzęt sportowy";6;0.00579150579151
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";6;0.00579150579151
+"grupa istot";6;0.00579150579151
+"tuman";6;0.00579150579151
+"dodatek";6;0.00579150579151
+"cykl astronomiczny";6;0.00579150579151
+"poświęcać się";6;0.00579150579151
+"zaświadczenie";6;0.00579150579151
+"narzędzie";6;0.00579150579151
+"duplikat";6;0.00579150579151
+"nauczyciel akademicki";7;0.00675675675676
+"niepełnoletni";7;0.00675675675676
+"liczyć się";8;0.00772200772201
+"szkoła";8;0.00772200772201
+"majątek nieruchomy";8;0.00772200772201
+"złożenie";8;0.00772200772201
+"mieszkaniec starożytnego państwa";8;0.00772200772201
+"wydobycie głosu";8;0.00772200772201
+"siedziba";8;0.00772200772201
+"narząd";8;0.00772200772201
+"starczyć";8;0.00772200772201
+"oligofag";8;0.00772200772201
+"przedstawianie";8;0.00772200772201
+"umiejscawiać";9;0.00868725868726
+"zlikwidować";9;0.00868725868726
+"osoba";9;0.00868725868726
+"czynić zabiegi";9;0.00868725868726
+"CZASOWNIK - AKT oznaczający zmianę posiadania lub sytuację związaną z posiadaniem";9;0.00868725868726
+"wyrób pończoszniczy";10;0.00965250965251
+"nicień";10;0.00965250965251
+"cierpienie psychiczne";10;0.00965250965251
+"poruszać się";10;0.00965250965251
+"przespać się";10;0.00965250965251
+"usunięcie";12;0.011583011583
+"sukulent";12;0.011583011583
+"budynek";12;0.011583011583
+"stonka";12;0.011583011583
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";16;0.015444015444
+"istota nadprzyrodzona";18;0.0173745173745
+"gość";18;0.0173745173745
+"kawaler";20;0.019305019305
+"zespół cech";20;0.019305019305
+"szpitalnik";20;0.019305019305
+"przedstawić";24;0.023166023166
+"wodzirej";30;0.0289575289575
+"święta księga";36;0.034749034749

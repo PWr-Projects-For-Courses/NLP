@@ -1,0 +1,122 @@
+"zona";1;0.00149253731343
+"ustawodawstwo";1;0.00149253731343
+"Słońce";1;0.00149253731343
+"UE";1;0.00149253731343
+"bycie";1;0.00149253731343
+"spowodowanie _DZIAŁANIA DK_";1;0.00149253731343
+"lato";1;0.00149253731343
+"zabawa";1;0.00149253731343
+"znak";1;0.00149253731343
+"świat";1;0.00149253731343
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";1;0.00149253731343
+"jednostka organizacyjna";1;0.00149253731343
+"klasa";1;0.00149253731343
+"produkt";1;0.00149253731343
+"ważny";2;0.00298507462687
+"autotrof";2;0.00298507462687
+"zjawisko atmosferyczne";2;0.00298507462687
+"stulecie";2;0.00298507462687
+"choineczka";2;0.00298507462687
+"gabinet";2;0.00298507462687
+"płeć";2;0.00298507462687
+"balanga";2;0.00298507462687
+"Organizacja Paktu Północnoatlantyckiego";2;0.00298507462687
+"kasa";2;0.00298507462687
+"tydzień";2;0.00298507462687
+"obowiązkowy";2;0.00298507462687
+"jednostka";2;0.00298507462687
+"zespół cech";2;0.00298507462687
+"nauka ścisła";2;0.00298507462687
+"chwila";2;0.00298507462687
+"tryb";2;0.00298507462687
+"przepis";2;0.00298507462687
+"tragedia";2;0.00298507462687
+"polecenie";2;0.00298507462687
+"efekt";2;0.00298507462687
+"Ukraina";2;0.00298507462687
+"relacja";2;0.00298507462687
+"konto";2;0.00298507462687
+"pogorszenie";2;0.00298507462687
+"cecha człowieka";2;0.00298507462687
+"miejscowość";2;0.00298507462687
+"epistoła";2;0.00298507462687
+"ono";2;0.00298507462687
+"zasób naturalny";2;0.00298507462687
+"dzieło";2;0.00298507462687
+"zestawienie";2;0.00298507462687
+"jednostka administracyjna";2;0.00298507462687
+"działalność";2;0.00298507462687
+"przynależny";2;0.00298507462687
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";2;0.00298507462687
+"feta";2;0.00298507462687
+"sprawdzian";2;0.00298507462687
+"charakteryzować się";2;0.00298507462687
+"rok";3;0.0044776119403
+"Poznań";3;0.0044776119403
+"cykl astronomiczny";3;0.0044776119403
+"podatnik";3;0.0044776119403
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";3;0.0044776119403
+"wytwór umysłu";3;0.0044776119403
+"pokarm";3;0.0044776119403
+"budowla";3;0.0044776119403
+"usługi";3;0.0044776119403
+"impreza";4;0.00597014925373
+"praca";4;0.00597014925373
+"piasek";4;0.00597014925373
+"kompleks";4;0.00597014925373
+"ciecz";4;0.00597014925373
+"czas";4;0.00597014925373
+"pora";4;0.00597014925373
+"bijatyka";4;0.00597014925373
+"wojna";4;0.00597014925373
+"głosowanie";4;0.00597014925373
+"Warszawa";4;0.00597014925373
+"tekst";4;0.00597014925373
+"robienie CZYNNOŚĆ";4;0.00597014925373
+"naddatek";4;0.00597014925373
+"czynienie";4;0.00597014925373
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO NIEZMIENNOSTANOWEGO";4;0.00597014925373
+"skała";4;0.00597014925373
+"pierwiastek";4;0.00597014925373
+"dwunóg";4;0.00597014925373
+"małpa";4;0.00597014925373
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";4;0.00597014925373
+"wypełnienie";4;0.00597014925373
+"niemoc";4;0.00597014925373
+"substancja chemiczna";5;0.00746268656716
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";5;0.00746268656716
+"Polska";5;0.00746268656716
+"punkt";5;0.00746268656716
+"heterotrof";5;0.00746268656716
+"punkt zwrotny";5;0.00746268656716
+"remontowanie";5;0.00746268656716
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";6;0.0089552238806
+"egzystować";6;0.0089552238806
+"CZASOWNIK oznaczający sytuację związaną z następstwem czasowym zdarzeń";6;0.0089552238806
+"opłata";6;0.0089552238806
+"pieniądze";6;0.0089552238806
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";6;0.0089552238806
+"konstrukcja";6;0.0089552238806
+"data";6;0.0089552238806
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";7;0.010447761194
+"moment";7;0.010447761194
+"tworzywo";7;0.010447761194
+"grupa istot";8;0.0119402985075
+"koniec";8;0.0119402985075
+"realia";8;0.0119402985075
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";10;0.0149253731343
+"zwierzę";10;0.0149253731343
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";11;0.0164179104478
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";11;0.0164179104478
+"wielokomórkowiec";12;0.0179104477612
+"twór";12;0.0179104477612
+"istota żywa";14;0.0208955223881
+"proces";14;0.0208955223881
+"dzień";15;0.0223880597015
+"jakowyś";16;0.0238805970149
+"przedmiot";20;0.0298507462687
+"być";22;0.0328358208955
+"robić";28;0.0417910447761
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";32;0.0477611940299
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";48;0.0716417910448
+"istota ludzka";56;0.0835820895522

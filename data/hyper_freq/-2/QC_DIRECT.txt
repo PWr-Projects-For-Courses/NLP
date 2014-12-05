@@ -1,0 +1,308 @@
+"nauka przyrodnicza";1;0.000600961538462
+"kręgi";1;0.000600961538462
+"mieć jakiś parametr, cechę";1;0.000600961538462
+"sztuka";1;0.000600961538462
+"CZASOWNIK PROCESYWNY DK";1;0.000600961538462
+"zjawisko akustyczne";1;0.000600961538462
+"grzybopływka";1;0.000600961538462
+"automat";1;0.000600961538462
+"jednostka pracy";1;0.000600961538462
+"humaniora";1;0.000600961538462
+"bont";1;0.000600961538462
+"trudność";1;0.000600961538462
+"profit";1;0.000600961538462
+"przeniesienie praw";1;0.000600961538462
+"styczność";1;0.000600961538462
+"forma skupienia substancji";1;0.000600961538462
+"stary kontynent";1;0.000600961538462
+"ono";1;0.000600961538462
+"potomstwo";1;0.000600961538462
+"pojęcie matematyczne";1;0.000600961538462
+"ciąg";1;0.000600961538462
+"system";1;0.000600961538462
+"zabawa";1;0.000600961538462
+"CZASOWNIK DYNAMICZNY (AKCJA)";1;0.000600961538462
+"logos";1;0.000600961538462
+"być, pozostawać w jakichś relacjach społecznych";1;0.000600961538462
+"nakład";1;0.000600961538462
+"rozwój";1;0.000600961538462
+"uczucie";1;0.000600961538462
+"mieszanina";1;0.000600961538462
+"zawody";1;0.000600961538462
+"środek";1;0.000600961538462
+"komputer cyfrowy";1;0.000600961538462
+"organizacja";1;0.000600961538462
+"ciąg zdarzeń";2;0.00120192307692
+"makroelement";2;0.00120192307692
+"instytucja finansowa";2;0.00120192307692
+"podatek konsumpcyjny";2;0.00120192307692
+"powodować _DZIAŁANIE_ NDK";2;0.00120192307692
+"Wisła";2;0.00120192307692
+"fotoautotrof";2;0.00120192307692
+"węglowiec";2;0.00120192307692
+"wpływ";2;0.00120192307692
+"gleba";2;0.00120192307692
+"zjawisko atmosferyczne";2;0.00120192307692
+"absolut";2;0.00120192307692
+"człowiek ze względu na swoje zajęcie";2;0.00120192307692
+"wypadek";2;0.00120192307692
+"kasa";2;0.00120192307692
+"życiorys";2;0.00120192307692
+"urodzajny";2;0.00120192307692
+"rozkwitły";2;0.00120192307692
+"przyozdabiać";2;0.00120192307692
+"proch";2;0.00120192307692
+"sieć komputerowa";2;0.00120192307692
+"principium";2;0.00120192307692
+"przebieg";2;0.00120192307692
+"miasto";2;0.00120192307692
+"tkanka plechowca";2;0.00120192307692
+"zawodowstwo";2;0.00120192307692
+"musieć";2;0.00120192307692
+"gruczoł";2;0.00120192307692
+"substancja chemiczna";2;0.00120192307692
+"nazwa";2;0.00120192307692
+"znak pisarski";2;0.00120192307692
+"rzecz";2;0.00120192307692
+"ciało lotne";2;0.00120192307692
+"liceum";2;0.00120192307692
+"cecha fizyczna";2;0.00120192307692
+"niemetal";2;0.00120192307692
+"łączyć się";2;0.00120192307692
+"Chopin";2;0.00120192307692
+"komputer przenośny";2;0.00120192307692
+"kartonik";2;0.00120192307692
+"Kielce";2;0.00120192307692
+"efekt";2;0.00120192307692
+"Słońce";2;0.00120192307692
+"grupa istot";2;0.00120192307692
+"urządzenie przenośne";2;0.00120192307692
+"miesiąc";2;0.00120192307692
+"zaczęcie - WYPADEK - o pojawiających się emocjach, o zmianie stanu mentalnego bądź psychicznego";2;0.00120192307692
+"dzieło o tematyce religijnej";2;0.00120192307692
+"drobnoustrój";2;0.00120192307692
+"wytwór umysłu";2;0.00120192307692
+"wyznaniowy";2;0.00120192307692
+"system symboliczny";2;0.00120192307692
+"zatrudnienie";2;0.00120192307692
+"działalność";2;0.00120192307692
+"okamgnienie";2;0.00120192307692
+"potrzebny";2;0.00120192307692
+"piśmiennictwo";2;0.00120192307692
+"założenie";2;0.00120192307692
+"utwór";2;0.00120192307692
+"fakt";2;0.00120192307692
+"lubić";2;0.00120192307692
+"ozdoba ciała";2;0.00120192307692
+"Londyn";2;0.00120192307692
+"metryczna jednostka masy";2;0.00120192307692
+"struktura anatomiczna";2;0.00120192307692
+"wolne";2;0.00120192307692
+"gabinet";2;0.00120192307692
+"majątek";2;0.00120192307692
+"pracownik teatru lub filmu";2;0.00120192307692
+"wartość";2;0.00120192307692
+"kosmetyk";2;0.00120192307692
+"tkanka zwierzęca";2;0.00120192307692
+"chrześcijański";2;0.00120192307692
+"proces fizjologiczny";2;0.00120192307692
+"wykorzystywać";2;0.00120192307692
+"jednostka geologiczna";2;0.00120192307692
+"moment";2;0.00120192307692
+"żądza";2;0.00120192307692
+"piersi";2;0.00120192307692
+"real";2;0.00120192307692
+"rozwijanie się";2;0.00120192307692
+"wytwór roślinny";2;0.00120192307692
+"zdrowiutki";2;0.00120192307692
+"kolejność";2;0.00120192307692
+"przedmiot";2;0.00120192307692
+"spotkanie";2;0.00120192307692
+"język naturalny, migany bądź sztuczny";2;0.00120192307692
+"ektopasożyt";2;0.00120192307692
+"cecha czynności";2;0.00120192307692
+"egzamin";2;0.00120192307692
+"identyfikator";2;0.00120192307692
+"przód";2;0.00120192307692
+"włos";2;0.00120192307692
+"zamieszanie";2;0.00120192307692
+"pieczarniak";2;0.00120192307692
+"skracać";2;0.00120192307692
+"pojawić się";2;0.00120192307692
+"zjawisko astronomiczne";2;0.00120192307692
+"Paryż";2;0.00120192307692
+"partycja";2;0.00120192307692
+"korzystny";2;0.00120192307692
+"możliwy";2;0.00120192307692
+"wrogi";2;0.00120192307692
+"egzystować";2;0.00120192307692
+"przekaz";2;0.00120192307692
+"dysputa";2;0.00120192307692
+"zajęcia";2;0.00120192307692
+"spoczynek";2;0.00120192307692
+"utrwalić";3;0.00180288461538
+"podejmować";3;0.00180288461538
+"hydrofit";3;0.00180288461538
+"CZASOWNIK - DZIAŁANIE NDK oznaczający wytwarzanie czegoś";3;0.00180288461538
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający stan mentalny lub emocjonalny albo reakcję emocjonalno-fizjologiczną";3;0.00180288461538
+"przeżycie";3;0.00180288461538
+"ptak wodny";3;0.00180288461538
+"specyfik";3;0.00180288461538
+"zużywać";3;0.00180288461538
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00180288461538
+"płatnik";3;0.00180288461538
+"izba niższa";3;0.00180288461538
+"przeznaczyć";3;0.00180288461538
+"oddziaływać";3;0.00180288461538
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";3;0.00180288461538
+"rozpoczynać";3;0.00180288461538
+"stwarzać";3;0.00180288461538
+"komunikat";3;0.00180288461538
+"działać";3;0.00180288461538
+"łączyć";3;0.00180288461538
+"uznawać";3;0.00180288461538
+"formować";3;0.00180288461538
+"transakcja handlowa";3;0.00180288461538
+"wytwarzać";3;0.00180288461538
+"Francja";3;0.00180288461538
+"inhibitor";3;0.00180288461538
+"substancja";3;0.00180288461538
+"wyniosłość";3;0.00180288461538
+"zrobić coś związanego z biologią i fizjologią człowieka";3;0.00180288461538
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00180288461538
+"gra";3;0.00180288461538
+"zakupić";3;0.00180288461538
+"zanieczyścić";4;0.00240384615385
+"zakłócenie";4;0.00240384615385
+"bylina";4;0.00240384615385
+"być, pozostawać w jakiejś relacji do czegoś";4;0.00240384615385
+"choroba przewlekła";4;0.00240384615385
+"rozwijanie";4;0.00240384615385
+"wielopestkowiec";4;0.00240384615385
+"produkcja";4;0.00240384615385
+"zaklęsłość";4;0.00240384615385
+"pozostawiać";4;0.00240384615385
+"dorosły";4;0.00240384615385
+"kwota";4;0.00240384615385
+"ogrzewanie";4;0.00240384615385
+"środki masowego przekazu";4;0.00240384615385
+"ulepszanie";4;0.00240384615385
+"dać znać";4;0.00240384615385
+"prowizor";4;0.00240384615385
+"cecha żywego organizmu";4;0.00240384615385
+"siedzenie";4;0.00240384615385
+"bok";4;0.00240384615385
+"wytwór";4;0.00240384615385
+"aromat";4;0.00240384615385
+"porządek";4;0.00240384615385
+"grupa";4;0.00240384615385
+"zakład gastronomiczny";4;0.00240384615385
+"szkoła";4;0.00240384615385
+"narząd limfoidalny";4;0.00240384615385
+"rozumieć";4;0.00240384615385
+"zupa mleczna";4;0.00240384615385
+"owoc";4;0.00240384615385
+"zupa";4;0.00240384615385
+"humanista";4;0.00240384615385
+"członek";4;0.00240384615385
+"być";4;0.00240384615385
+"interpretator";4;0.00240384615385
+"narząd";4;0.00240384615385
+"ciało niebieskie";4;0.00240384615385
+"emocja";4;0.00240384615385
+"niepełnoletni";4;0.00240384615385
+"rodzaj";4;0.00240384615385
+"obiekt";4;0.00240384615385
+"zjawisko naturalne";4;0.00240384615385
+"związek organiczny";4;0.00240384615385
+"przysparzać";5;0.00300480769231
+"czynność";5;0.00300480769231
+"otrzymywać";5;0.00300480769231
+"poruszać się";5;0.00300480769231
+"roślina egzotyczna";6;0.00360576923077
+"zdobywać";6;0.00360576923077
+"odcinać";6;0.00360576923077
+"istota nadprzyrodzona";6;0.00360576923077
+"artysta ze względu na styl lub epokę";6;0.00360576923077
+"muchówka";6;0.00360576923077
+"osądzać";6;0.00360576923077
+"pluskwiak różnoskrzydły";6;0.00360576923077
+"hipertekst";6;0.00360576923077
+"opłata";6;0.00360576923077
+"moneta";6;0.00360576923077
+"osoba";6;0.00360576923077
+"stworzyć";6;0.00360576923077
+"CZASOWNIK - DZIAŁANIE NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00360576923077
+"jednostka administracyjna";6;0.00360576923077
+"wypowiedź";6;0.00360576923077
+"wielokomórkowiec";6;0.00360576923077
+"wykonywać";6;0.00360576923077
+"Madonna";6;0.00360576923077
+"radzić";6;0.00360576923077
+"materia";6;0.00360576923077
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00360576923077
+"wszcząć";6;0.00360576923077
+"pracownik samorządowy";6;0.00360576923077
+"wzmocnienie";6;0.00360576923077
+"człowiek należący do określonej subkultury";6;0.00360576923077
+"ustalić";6;0.00360576923077
+"plechowiec";7;0.00420673076923
+"pieczywo";8;0.00480769230769
+"suplement diety";8;0.00480769230769
+"przedziurawić";8;0.00480769230769
+"miejsce";8;0.00480769230769
+"część";8;0.00480769230769
+"zrobić _AKT_ DK";8;0.00480769230769
+"choroba zaraźliwa";8;0.00480769230769
+"choroba infekcyjna";8;0.00480769230769
+"mięso drobiowe";8;0.00480769230769
+"urządzenie grzewcze";8;0.00480769230769
+"ciastko";8;0.00480769230769
+"ciek wodny";8;0.00480769230769
+"zniżka";8;0.00480769230769
+"papier";8;0.00480769230769
+"siedziba";8;0.00480769230769
+"uzasadniać";8;0.00480769230769
+"wypracowanie";8;0.00480769230769
+"cykl astronomiczny";8;0.00480769230769
+"zobowiązywać się";9;0.00540865384615
+"charakteryzować się";9;0.00540865384615
+"organizacja polityczna";10;0.00600961538462
+"przemieszczać się";10;0.00600961538462
+"Polska";10;0.00600961538462
+"pieśń";10;0.00600961538462
+"okoliczność";10;0.00600961538462
+"ogół";10;0.00600961538462
+"istota żywa";12;0.00721153846154
+"jednostka gospodarcza";12;0.00721153846154
+"kończyna górna";12;0.00721153846154
+"służący";12;0.00721153846154
+"budynek";12;0.00721153846154
+"zabarwienie";12;0.00721153846154
+"tekst";12;0.00721153846154
+"akt";12;0.00721153846154
+"zapowiedzenie";12;0.00721153846154
+"policzenie";12;0.00721153846154
+"produkt gotowy";12;0.00721153846154
+"skalarna wielkość fizyczna";12;0.00721153846154
+"człowiek płci żeńskiej";14;0.00841346153846
+"jakowyś";14;0.00841346153846
+"człowiek płci męskiej";14;0.00841346153846
+"kot";14;0.00841346153846
+"pora";15;0.00901442307692
+"wykonanie czynności prawnych";15;0.00901442307692
+"produkt spożywczy";16;0.00961538461538
+"miejscowość";16;0.00961538461538
+"czynić zabiegi";18;0.0108173076923
+"kręgowiec";24;0.0144230769231
+"CZASOWNIK STANOWY NDK";30;0.0180288461538
+"kronika";30;0.0180288461538
+"wódz naczelny";32;0.0192307692308
+"pan";32;0.0192307692308
+"hierarcha";34;0.0204326923077
+"koronowana głowa";34;0.0204326923077
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";36;0.0216346153846
+"święta księga";36;0.0216346153846
+"głowa Kościoła";36;0.0216346153846
+"ssak drapieżny";63;0.0378605769231
+"cesarz";68;0.0408653846154

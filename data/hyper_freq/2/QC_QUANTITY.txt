@@ -1,0 +1,106 @@
+"Poznań";1;0.00128040973111
+"ono";1;0.00128040973111
+"zbiór rzeczy";1;0.00128040973111
+"praca";1;0.00128040973111
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";1;0.00128040973111
+"powierzchnia";1;0.00128040973111
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";1;0.00128040973111
+"liczyć";1;0.00128040973111
+"jakość";1;0.00128040973111
+"właściwość struktury";1;0.00128040973111
+"Spider-Man";1;0.00128040973111
+"CZASOWNIK oznaczający sytuację związaną z wytwarzaniem czegoś";1;0.00128040973111
+"zabarwienie";1;0.00128040973111
+"Katowice";1;0.00128040973111
+"punkt";1;0.00128040973111
+"epistoła";1;0.00128040973111
+"dzieło";1;0.00128040973111
+"system";1;0.00128040973111
+"cecha jednostek w zbiorze";1;0.00128040973111
+"zabawa";1;0.00128040973111
+"dzień";1;0.00128040973111
+"Islamska Republika Afganistanu";2;0.00256081946223
+"reszta";2;0.00256081946223
+"egzotyk";2;0.00256081946223
+"część garderoby";2;0.00256081946223
+"cząstka elementarna";2;0.00256081946223
+"Radom";2;0.00256081946223
+"Alaska";2;0.00256081946223
+"Adam";2;0.00256081946223
+"Dunaj";2;0.00256081946223
+"jakowyś";2;0.00256081946223
+"napój";2;0.00256081946223
+"defilada";2;0.00256081946223
+"wojna";2;0.00256081946223
+"rozstanie";2;0.00256081946223
+"unieważnienie";2;0.00256081946223
+"ustawodawstwo";2;0.00256081946223
+"klawiatura";2;0.00256081946223
+"UE";2;0.00256081946223
+"impreza";2;0.00256081946223
+"budowla";2;0.00256081946223
+"zestawienie";2;0.00256081946223
+"członek";2;0.00256081946223
+"afiliacja";2;0.00256081946223
+"figura geometryczna";2;0.00256081946223
+"spowodowanie _DZIAŁANIA DK_";2;0.00256081946223
+"gag";2;0.00256081946223
+"logos";2;0.00256081946223
+"planet";2;0.00256081946223
+"real";2;0.00256081946223
+"znak";2;0.00256081946223
+"przyrząd";2;0.00256081946223
+"pojazd";2;0.00256081946223
+"pierwiastek";2;0.00256081946223
+"gabaryt";3;0.00384122919334
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";3;0.00384122919334
+"pieniądz";3;0.00384122919334
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";3;0.00384122919334
+"mieć jakiś parametr, cechę";3;0.00384122919334
+"wyczyn";3;0.00384122919334
+"środek lokomocji";4;0.00512163892446
+"środki masowego przekazu";4;0.00512163892446
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";4;0.00512163892446
+"kompleks";4;0.00512163892446
+"wzrost";4;0.00512163892446
+"pokarm";4;0.00512163892446
+"odpadek";4;0.00512163892446
+"ciało niebieskie";4;0.00512163892446
+"Lech Wałęsa";4;0.00512163892446
+"konstrukcja";4;0.00512163892446
+"faja";4;0.00512163892446
+"tworzywo";4;0.00512163892446
+"Polska";5;0.00640204865557
+"lewus";5;0.00640204865557
+"struktura anatomiczna";5;0.00640204865557
+"źródło";6;0.00768245838668
+"dwunóg";6;0.00768245838668
+"małpa";6;0.00768245838668
+"produkt";6;0.00768245838668
+"tekst";7;0.0089628681178
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";7;0.0089628681178
+"część";7;0.0089628681178
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";7;0.0089628681178
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";8;0.0102432778489
+"świat";8;0.0102432778489
+"grupa istot";9;0.01152368758
+"heterotrof";9;0.01152368758
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";10;0.0128040973111
+"być";11;0.0140845070423
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";11;0.0140845070423
+"wytwór umysłu";13;0.0166453265045
+"rok";14;0.0179257362356
+"autotrof";14;0.0179257362356
+"proces";14;0.0179257362356
+"zwierzę";14;0.0179257362356
+"stworzenie oceniane negatywnie";14;0.0179257362356
+"cykl astronomiczny";14;0.0179257362356
+"twór";18;0.0230473751601
+"robić";20;0.0256081946223
+"charakteryzować się";21;0.0268886043534
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";25;0.0320102432778
+"wielokomórkowiec";28;0.0358514724712
+"istota żywa";34;0.0435339308579
+"przedmiot";35;0.044814340589
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";37;0.0473751600512
+"istota ludzka";180;0.230473751601

@@ -1,0 +1,182 @@
+"dzierżawa";1;0.000625782227785
+"nagroda";1;0.000625782227785
+"wypadek";1;0.000625782227785
+"zapłata";1;0.000625782227785
+"święto";1;0.000625782227785
+"ustawodawstwo";1;0.000625782227785
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";1;0.000625782227785
+"cywilnoprawny";1;0.000625782227785
+"Liban";1;0.000625782227785
+"Smoleńsk";1;0.000625782227785
+"życie";1;0.000625782227785
+"budowa";1;0.000625782227785
+"logos";1;0.000625782227785
+"towar";1;0.000625782227785
+"operacja finansowa";1;0.000625782227785
+"remontowanie";1;0.000625782227785
+"kultura";1;0.000625782227785
+"podatnik";1;0.000625782227785
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";1;0.000625782227785
+"bycie";1;0.000625782227785
+"poczta";1;0.000625782227785
+"Górny Śląsk";1;0.000625782227785
+"poprawa";1;0.000625782227785
+"obiekt małej architektury";2;0.00125156445557
+"krytyczność";2;0.00125156445557
+"Waszyngton";2;0.00125156445557
+"jubileusz";2;0.00125156445557
+"majątek nieruchomy";2;0.00125156445557
+"Lizbona";2;0.00125156445557
+"Rosja";2;0.00125156445557
+"Indie";2;0.00125156445557
+"grudzień";2;0.00125156445557
+"Ameryka";2;0.00125156445557
+"Drawa";2;0.00125156445557
+"spędzenie płodu";2;0.00125156445557
+"Moskwa";2;0.00125156445557
+"punkt";2;0.00125156445557
+"ekspens";2;0.00125156445557
+"studio";2;0.00125156445557
+"wynajęcie";2;0.00125156445557
+"cecha człowieka";2;0.00125156445557
+"pracodawca";2;0.00125156445557
+"impreza";2;0.00125156445557
+"płatny";2;0.00125156445557
+"krytyka";2;0.00125156445557
+"Londyn";2;0.00125156445557
+"praca umysłowa";2;0.00125156445557
+"Kijów";2;0.00125156445557
+"styczeń";2;0.00125156445557
+"Wielkopolska";2;0.00125156445557
+"ciało lotne";2;0.00125156445557
+"struktura anatomiczna";2;0.00125156445557
+"Kalifornia";2;0.00125156445557
+"zagrażający";2;0.00125156445557
+"zestawienie";2;0.00125156445557
+"pokarm";2;0.00125156445557
+"pępek";2;0.00125156445557
+"gaz";2;0.00125156445557
+"czcionka";2;0.00125156445557
+"punkt zwrotny";2;0.00125156445557
+"obowiązkowość";2;0.00125156445557
+"skała";2;0.00125156445557
+"właściwość substancji";2;0.00125156445557
+"karta";2;0.00125156445557
+"kontrola";2;0.00125156445557
+"cecha jednostek w zbiorze";2;0.00125156445557
+"zespół cech";2;0.00125156445557
+"Mickiewicz";2;0.00125156445557
+"znak";2;0.00125156445557
+"Republika Chorwacji";2;0.00125156445557
+"należność";2;0.00125156445557
+"Piza";2;0.00125156445557
+"Bydgoszcz";2;0.00125156445557
+"eutanazja";2;0.00125156445557
+"głosowanie";2;0.00125156445557
+"usługa";2;0.00125156445557
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.00125156445557
+"pierwiastek";2;0.00125156445557
+"tworzywo";2;0.00125156445557
+"Kraj Kwitnącej Wiśni";2;0.00125156445557
+"środek";2;0.00125156445557
+"spadek";2;0.00125156445557
+"stanowić";2;0.00125156445557
+"wskazówka";3;0.00187734668335
+"część";3;0.00187734668335
+"dar";3;0.00187734668335
+"kwota";3;0.00187734668335
+"egzystować";3;0.00187734668335
+"umowa";3;0.00187734668335
+"czynność";3;0.00187734668335
+"afiliacja";3;0.00187734668335
+"legalny";3;0.00187734668335
+"produkt";3;0.00187734668335
+"kompleks";4;0.00250312891114
+"zapis";4;0.00250312891114
+"Wisła";4;0.00250312891114
+"jednostka gospodarcza";4;0.00250312891114
+"środki masowego przekazu";4;0.00250312891114
+"Delhi";4;0.00250312891114
+"to";4;0.00250312891114
+"transakcja handlowa";4;0.00250312891114
+"Nicea";4;0.00250312891114
+"miejsce kultu";4;0.00250312891114
+"porozumienie";4;0.00250312891114
+"wyraz";4;0.00250312891114
+"Berlin";4;0.00250312891114
+"glob";4;0.00250312891114
+"jeden";4;0.00250312891114
+"siedlisko";4;0.00250312891114
+"źródło";4;0.00250312891114
+"Republika Czeska";4;0.00250312891114
+"dzieło";4;0.00250312891114
+"majątek";4;0.00250312891114
+"pieniądz";4;0.00250312891114
+"Rzym";4;0.00250312891114
+"Kraków";4;0.00250312891114
+"pojazd";4;0.00250312891114
+"Azja";4;0.00250312891114
+"dom";4;0.00250312891114
+"Włocławek";4;0.00250312891114
+"przyrząd";4;0.00250312891114
+"rodzaj";4;0.00250312891114
+"data";4;0.00250312891114
+"dobro";4;0.00250312891114
+"rok";5;0.00312891113892
+"ono";5;0.00312891113892
+"cykl astronomiczny";5;0.00312891113892
+"Adam";5;0.00312891113892
+"jakowyś";5;0.00312891113892
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";5;0.00312891113892
+"Wawel";6;0.00375469336671
+"akt płciowy";6;0.00375469336671
+"koszt";6;0.00375469336671
+"Niemcy";6;0.00375469336671
+"spowodowanie _DZIAŁANIA DK_";6;0.00375469336671
+"Stany Zjednoczone";6;0.00375469336671
+"charakteryzować się";6;0.00375469336671
+"Praga";6;0.00375469336671
+"Francja";7;0.00438047559449
+"środek lokomocji";8;0.00500625782228
+"Kanada";8;0.00500625782228
+"samodzielność";8;0.00500625782228
+"niemoc";8;0.00500625782228
+"wytwór umysłu";9;0.00563204005006
+"stary kontynent";9;0.00563204005006
+"wpływ";11;0.00688360450563
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";12;0.00750938673342
+"realia";12;0.00750938673342
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";12;0.00750938673342
+"miejscowość";12;0.00750938673342
+"moment";12;0.00750938673342
+"opłata";13;0.0081351689612
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";13;0.0081351689612
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";14;0.00876095118899
+"Paryż";14;0.00876095118899
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";15;0.00938673341677
+"tekst";16;0.0100125156446
+"dwunóg";16;0.0100125156446
+"małpa";16;0.0100125156446
+"budowla";16;0.0100125156446
+"proces";17;0.0106382978723
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";17;0.0106382978723
+"praca";22;0.0137672090113
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";22;0.0137672090113
+"Poznań";24;0.0150187734668
+"Warszawa";26;0.0162703379224
+"grupa istot";26;0.0162703379224
+"twór";27;0.0168961201502
+"heterotrof";30;0.0187734668335
+"pieniądze";30;0.0187734668335
+"konstrukcja";32;0.0200250312891
+"Polska";39;0.0244055068836
+"robić";44;0.0275344180225
+"przedmiot";49;0.0306633291615
+"zwierzę";52;0.0325406758448
+"wielokomórkowiec";52;0.0325406758448
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";58;0.0362953692115
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";62;0.0387984981227
+"istota żywa";68;0.0425531914894
+"istota ludzka";75;0.0469336670839
+"być";76;0.0475594493116
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";114;0.0713391739675

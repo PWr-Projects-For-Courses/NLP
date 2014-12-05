@@ -1,0 +1,232 @@
+"fotoautotrof";1;0.000664451827243
+"część";1;0.000664451827243
+"zajęcia";1;0.000664451827243
+"wielokomórkowiec";1;0.000664451827243
+"pomieszczenie mieszkalne";1;0.000664451827243
+"urządzenie grzewcze";1;0.000664451827243
+"Iberia";1;0.000664451827243
+"Hellada";1;0.000664451827243
+"skurcz";1;0.000664451827243
+"łamigłówka";1;0.000664451827243
+"święto chrześcijańskie";1;0.000664451827243
+"zniszczenie";1;0.000664451827243
+"egzystować";1;0.000664451827243
+"lok";1;0.000664451827243
+"Lacedemonia";1;0.000664451827243
+"partycja";1;0.000664451827243
+"wystarczać";1;0.000664451827243
+"frapować";1;0.000664451827243
+"rekwizyt świąteczny";1;0.000664451827243
+"wskazanie";2;0.00132890365449
+"zapis";2;0.00132890365449
+"trudność";2;0.00132890365449
+"paska";2;0.00132890365449
+"surowiec";2;0.00132890365449
+"pogorszenie";2;0.00132890365449
+"drogowskaz";2;0.00132890365449
+"drzwi";2;0.00132890365449
+"tracić";2;0.00132890365449
+"dziecko";2;0.00132890365449
+"wykonawca";2;0.00132890365449
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";2;0.00132890365449
+"przyozdabiać";2;0.00132890365449
+"pojawić się";2;0.00132890365449
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuacje odnoszące się do relacji abstrakcyjnych";2;0.00132890365449
+"dźwięk muzyczny";2;0.00132890365449
+"cecha otoczenia";2;0.00132890365449
+"pojawiać się";2;0.00132890365449
+"rozwijanie";2;0.00132890365449
+"gruczoł";2;0.00132890365449
+"substancja chemiczna";2;0.00132890365449
+"pomysłodawca";2;0.00132890365449
+"kolano";2;0.00132890365449
+"słony";2;0.00132890365449
+"pora";2;0.00132890365449
+"sex";2;0.00132890365449
+"napór";2;0.00132890365449
+"migdał";2;0.00132890365449
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.00132890365449
+"czuć";2;0.00132890365449
+"przemieścić się";2;0.00132890365449
+"ponieść";2;0.00132890365449
+"hałasować";2;0.00132890365449
+"żanr";2;0.00132890365449
+"konflikt";2;0.00132890365449
+"Słońce";2;0.00132890365449
+"element anatomiczny";2;0.00132890365449
+"dzieło o tematyce religijnej";2;0.00132890365449
+"CZASOWNIK - ZDARZENIE NDK oznaczający reakcję organizmu lub czynność fizjologiczną";2;0.00132890365449
+"wytwór roślinny";2;0.00132890365449
+"ulepszanie";2;0.00132890365449
+"mogiła";2;0.00132890365449
+"obowiązujący";2;0.00132890365449
+"gorzki";2;0.00132890365449
+"bobasek";2;0.00132890365449
+"istota mitologiczna";2;0.00132890365449
+"anekumena";2;0.00132890365449
+"kanał";2;0.00132890365449
+"system";2;0.00132890365449
+"tkanka tłuszczowa";2;0.00132890365449
+"nadżerka";2;0.00132890365449
+"czynność";2;0.00132890365449
+"CZASOWNIK - STAN NDK oznaczający stan psychiczny intelektualny";2;0.00132890365449
+"łapka";2;0.00132890365449
+"złożony";2;0.00132890365449
+"sytuacja";2;0.00132890365449
+"zabarwienie";2;0.00132890365449
+"urządzenie RTV";2;0.00132890365449
+"odbiornik";2;0.00132890365449
+"chłodny";2;0.00132890365449
+"CZASOWNIK - PROCES NDK oznaczający zmianę relacji abstrakcyjnych";2;0.00132890365449
+"substancja";2;0.00132890365449
+"walka";2;0.00132890365449
+"zdematerializować się";2;0.00132890365449
+"znak";2;0.00132890365449
+"porcja";2;0.00132890365449
+"organizacja";2;0.00132890365449
+"niezły";2;0.00132890365449
+"CZASOWNIK - STAN NDK oznaczający stan fizyczny";2;0.00132890365449
+"zjawisko naturalne";2;0.00132890365449
+"skalarna wielkość fizyczna";2;0.00132890365449
+"biodro";2;0.00132890365449
+"gospodarka";2;0.00132890365449
+"ektopasożyt";2;0.00132890365449
+"rolnik";2;0.00132890365449
+"mieszanina";2;0.00132890365449
+"znak nawigacyjny";2;0.00132890365449
+"być odbieranym w jakiś sposób";2;0.00132890365449
+"klatka piersiowa";2;0.00132890365449
+"przód";2;0.00132890365449
+"motywować";3;0.00199335548173
+"to";3;0.00199335548173
+"CZASOWNIK - DZIAŁANIE NDK oznaczający wytwarzanie czegoś";3;0.00199335548173
+"wykonywać czynności prawne";3;0.00199335548173
+"umocowywać";3;0.00199335548173
+"organizacja polityczna";3;0.00199335548173
+"tkanka łączna";3;0.00199335548173
+"wytwarzać";3;0.00199335548173
+"rozpalenie";3;0.00199335548173
+"CZASOWNIK DYNAMICZNY (AKCJA)";3;0.00199335548173
+"wywierać wpływ";3;0.00199335548173
+"zarost";3;0.00199335548173
+"sezon";3;0.00199335548173
+"porozumiewać się";3;0.00199335548173
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00199335548173
+"roślina uprawna";4;0.00265780730897
+"roślina oleista";4;0.00265780730897
+"zakłócenie";4;0.00265780730897
+"zupa";4;0.00265780730897
+"spoczynek";4;0.00265780730897
+"pozostałość";4;0.00265780730897
+"zakład energetyczny";4;0.00265780730897
+"traktat";4;0.00265780730897
+"ziele";4;0.00265780730897
+"dorosły";4;0.00265780730897
+"Polska";4;0.00265780730897
+"zagościć";4;0.00265780730897
+"zimny";4;0.00265780730897
+"kwiat polny";4;0.00265780730897
+"monochromatyczny";4;0.00265780730897
+"program telewizyjny";4;0.00265780730897
+"tył";4;0.00265780730897
+"sposób";4;0.00265780730897
+"Adolf Hitler";4;0.00265780730897
+"krzew dziki";4;0.00265780730897
+"wywołanie";4;0.00265780730897
+"bycie";4;0.00265780730897
+"zwyczaj";4;0.00265780730897
+"zawiadamiać";4;0.00265780730897
+"trzeć";4;0.00265780730897
+"proces fizjologiczny";4;0.00265780730897
+"przywłaszczać";4;0.00265780730897
+"GERUNDIUM - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";4;0.00265780730897
+"dysk";4;0.00265780730897
+"wywoływać";4;0.00265780730897
+"twór chorobowy";4;0.00265780730897
+"zjawić się";4;0.00265780730897
+"temat";4;0.00265780730897
+"przedstawiciel klasy społecznej";4;0.00265780730897
+"przestrzeń";4;0.00265780730897
+"padać";4;0.00265780730897
+"film";4;0.00265780730897
+"rosnąć";4;0.00265780730897
+"pogoda";4;0.00265780730897
+"zamieszanie";4;0.00265780730897
+"witamina";4;0.00265780730897
+"zjawisko astronomiczne";4;0.00265780730897
+"żywić do kogoś uczucie negatywne";4;0.00265780730897
+"starczyć";4;0.00265780730897
+"wypowiedź";4;0.00265780730897
+"przestawać";5;0.00332225913621
+"rzęzić";5;0.00332225913621
+"płyn ustrojowy";6;0.00398671096346
+"wyeliminowanie";6;0.00398671096346
+"kur bankiwa";6;0.00398671096346
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";6;0.00398671096346
+"oczyszczać";6;0.00398671096346
+"organ roślinny";6;0.00398671096346
+"trąbowiec";6;0.00398671096346
+"cecha człowieka";6;0.00398671096346
+"sprzęt sportowy";6;0.00398671096346
+"ptak domowy";6;0.00398671096346
+"drzewo iglaste";6;0.00398671096346
+"zakończenie";6;0.00398671096346
+"udzielanie";6;0.00398671096346
+"niewolnik";6;0.00398671096346
+"pucha";6;0.00398671096346
+"wykonywanie czynności religijnych bądź magicznych";6;0.00398671096346
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00398671096346
+"włos";6;0.00398671096346
+"sprawdzanie";6;0.00398671096346
+"insekt";6;0.00398671096346
+"ogół";6;0.00398671096346
+"budowla starożytna";6;0.00398671096346
+"być";7;0.0046511627907
+"warunek";8;0.00531561461794
+"dawać znać";8;0.00531561461794
+"kiereszować";8;0.00531561461794
+"zbiornik wodny";8;0.00531561461794
+"słabeusz";8;0.00531561461794
+"nitka";8;0.00531561461794
+"członek";8;0.00531561461794
+"roślinożerca";8;0.00531561461794
+"charakteryzować się";8;0.00531561461794
+"ustalać";9;0.00598006644518
+"poruszyć";9;0.00598006644518
+"wydzielać";9;0.00598006644518
+"tykać";9;0.00598006644518
+"opuszczać";9;0.00598006644518
+"wydalać";9;0.00598006644518
+"pył";9;0.00598006644518
+"łamaga";10;0.00664451827243
+"pieśń";10;0.00664451827243
+"niepełnoletni";11;0.00730897009967
+"kacerz";12;0.00797342192691
+"umiejscawiać";12;0.00797342192691
+"tuman";12;0.00797342192691
+"sługa boży";12;0.00797342192691
+"CZASOWNIK STANOWY NDK";13;0.00863787375415
+"koń dziki";14;0.0093023255814
+"mówić";14;0.0093023255814
+"grupa istot";14;0.0093023255814
+"osoba";14;0.0093023255814
+"poruszać się";15;0.00996677740864
+"kończyna górna";16;0.0106312292359
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie reakcji organizmu lub czynności fizjologicznej";16;0.0106312292359
+"aerodyna";18;0.0119601328904
+"księga";18;0.0119601328904
+"pies ozdobny";20;0.0132890365449
+"pies do towarzystwa";20;0.0132890365449
+"kanapowiec";20;0.0132890365449
+"narząd";20;0.0132890365449
+"poemat";20;0.0132890365449
+"pies miniaturowy";20;0.0132890365449
+"człowiek płci żeńskiej";28;0.0186046511628
+"ssak nieparzystokopytny";28;0.0186046511628
+"koronowana głowa";34;0.0225913621262
+"ogrzewanie";38;0.0252491694352
+"placek";48;0.0318936877076
+"chciwiec";48;0.0318936877076
+"mężczyzna";56;0.0372093023256
+"terier";60;0.0398671096346
+"ssak drapieżny";126;0.0837209302326

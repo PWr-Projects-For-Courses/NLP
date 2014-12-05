@@ -1,0 +1,152 @@
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z położeniem lub relacjami przestrzennymi";1;0.00128040973111
+"utwór muzyczny";1;0.00128040973111
+"Poznań";1;0.00128040973111
+"surowiec";1;0.00128040973111
+"program";1;0.00128040973111
+"CZASOWNIK - DZIAŁANIE NDK oznaczający wytwarzanie czegoś";1;0.00128040973111
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";1;0.00128040973111
+"format";1;0.00128040973111
+"piękno";1;0.00128040973111
+"liczyć";1;0.00128040973111
+"koło";1;0.00128040973111
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";1;0.00128040973111
+"warstwa";1;0.00128040973111
+"Spider-Man";1;0.00128040973111
+"harmonijność";1;0.00128040973111
+"Katowice";1;0.00128040973111
+"przebywać";1;0.00128040973111
+"punkt";1;0.00128040973111
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zmiany położenia lub relacji przestrzennych";1;0.00128040973111
+"izotop promieniotwórczy";1;0.00128040973111
+"epistoła";1;0.00128040973111
+"ono";1;0.00128040973111
+"CZASOWNIK - DZIAŁANIE NDK oznaczający powodowanie zm. sytuacji związanej z łańcuchem przyczynowo-skutkowym";1;0.00128040973111
+"robić _DZIAŁANIE_";1;0.00128040973111
+"mięsożerca";1;0.00128040973111
+"system";1;0.00128040973111
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zmiany posiadania lub sytuację związaną z posiadaniem";1;0.00128040973111
+"kompatybilność";1;0.00128040973111
+"kolor";1;0.00128040973111
+"płaszczyzna";1;0.00128040973111
+"folia";1;0.00128040973111
+"część";1;0.00128040973111
+"gra";1;0.00128040973111
+"transuran";1;0.00128040973111
+"CZASOWNIK - AKT oznaczający zmianę relacji abstrakcyjnych";1;0.00128040973111
+"dzień";1;0.00128040973111
+"powodować";2;0.00256081946223
+"być w mocy";2;0.00256081946223
+"zmodyfikowanie";2;0.00256081946223
+"Islamska Republika Afganistanu";2;0.00256081946223
+"roślina egzotyczna";2;0.00256081946223
+"instrument";2;0.00256081946223
+"czworokąt";2;0.00256081946223
+"spowodowanie";2;0.00256081946223
+"Alaska";2;0.00256081946223
+"Adam";2;0.00256081946223
+"Dunaj";2;0.00256081946223
+"budynek";2;0.00256081946223
+"wolno";2;0.00256081946223
+"jakowyś";2;0.00256081946223
+"przykrycie";2;0.00256081946223
+"CZASOWNIK - WYPADEK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";2;0.00256081946223
+"urządzenie";2;0.00256081946223
+"źródło energii";2;0.00256081946223
+"defilada";2;0.00256081946223
+"wojna";2;0.00256081946223
+"ustawodawstwo";2;0.00256081946223
+"spowodować";2;0.00256081946223
+"mezon";2;0.00256081946223
+"papier";2;0.00256081946223
+"billing";2;0.00256081946223
+"klawiatura";2;0.00256081946223
+"UE";2;0.00256081946223
+"CZASOWNIK - WYPADEK oznaczający spowodowanie zmiany w obrębie relacji abstrakcyjnych";2;0.00256081946223
+"real";2;0.00256081946223
+"GERUNDIUM OD CZASOWNIKA ZMIENNOSTANOWEGO NIETELICZNEGO";2;0.00256081946223
+"kawa";2;0.00256081946223
+"GERUNDIUM OD CZASOWNIKA TELICZNEGO";2;0.00256081946223
+"liczność";2;0.00256081946223
+"zestawienie";2;0.00256081946223
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający zmianę położenia lub relacji przestrzennych";2;0.00256081946223
+"gag";2;0.00256081946223
+"logos";2;0.00256081946223
+"pozostałość";2;0.00256081946223
+"materiał";2;0.00256081946223
+"związek przyczynowy";2;0.00256081946223
+"nakrycie głowy";2;0.00256081946223
+"planet";2;0.00256081946223
+"część garderoby";2;0.00256081946223
+"roślinożerca";2;0.00256081946223
+"uczynienie";2;0.00256081946223
+"Radom";2;0.00256081946223
+"symbol";2;0.00256081946223
+"nalepka";2;0.00256081946223
+"bezkręgowiec";2;0.00256081946223
+"występ";2;0.00256081946223
+"CZASOWNIK - ZDARZENIE NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";3;0.00384122919334
+"wyróżnienie";3;0.00384122919334
+"przesyłka";3;0.00384122919334
+"CZASOWNIK - PROCES DK oznaczający zmianę stanu fizycznego";3;0.00384122919334
+"wystarczać";3;0.00384122919334
+"CZASOWNIK - AKT oznaczający zmianę posiadania lub sytuację związaną z posiadaniem";3;0.00384122919334
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";4;0.00512163892446
+"Lech Wałęsa";4;0.00512163892446
+"gwiazda";4;0.00512163892446
+"wzrost";4;0.00512163892446
+"hipertekst";4;0.00512163892446
+"zespół urządzeń";4;0.00512163892446
+"źródło informacji";4;0.00512163892446
+"człowiek charakteryzowany ze względu na miejsce pobytu";4;0.00512163892446
+"produkt spożywczy";4;0.00512163892446
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";4;0.00512163892446
+"CZASOWNIK ZDARZENIOWY NDK";4;0.00512163892446
+"sieć";4;0.00512163892446
+"śmieć";4;0.00512163892446
+"budowla";4;0.00512163892446
+"faja";4;0.00512163892446
+"rozwód";4;0.00512163892446
+"Polska";5;0.00640204865557
+"przedstawiciel";5;0.00640204865557
+"łamaga";5;0.00640204865557
+"CZASOWNIK - DZIAŁANIE NDK oznaczający powodowanie zmiany położenia lub relacji przestrzennych";6;0.00768245838668
+"istota ludzka";6;0.00768245838668
+"człowiek charakteryzowany pod względem wieku";6;0.00768245838668
+"człowiek ze względu na pochodzenie etniczne";6;0.00768245838668
+"człowiek, który coś zrobił";6;0.00768245838668
+"pojazd";6;0.00768245838668
+"pieniądz";6;0.00768245838668
+"dwunóg";6;0.00768245838668
+"małpa wąskonosa";6;0.00768245838668
+"persona";6;0.00768245838668
+"człowiek";6;0.00768245838668
+"narzędzie";6;0.00768245838668
+"zrobić";7;0.0089628681178
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";7;0.0089628681178
+"świat";8;0.0102432778489
+"konsument";9;0.01152368758
+"tekst";9;0.01152368758
+"strunowiec";9;0.01152368758
+"ludzie";9;0.01152368758
+"CZASOWNIK ZMIENNOSTANOWY NIETELICZNY";9;0.01152368758
+"być";10;0.0128040973111
+"pojęcie";12;0.0153649167734
+"człowiek ze względu na pełnioną funkcję";12;0.0153649167734
+"członek";12;0.0153649167734
+"wyrób";12;0.0153649167734
+"fotoautotrof";14;0.0179257362356
+"przebieg";14;0.0179257362356
+"roślina";14;0.0179257362356
+"stworzenie oceniane negatywnie";14;0.0179257362356
+"człowiek charakteryzowany ze względu na kwalifikacje";14;0.0179257362356
+"człowiek oceniany negatywnie";14;0.0179257362356
+"twór";18;0.0230473751601
+"robić _CZYNNOŚĆ_";19;0.0243277848912
+"CZASOWNIK TELICZNY";19;0.0243277848912
+"CZASOWNIK CZYNNOŚCIOWY NDK";19;0.0243277848912
+"charakteryzować się";21;0.0268886043534
+"rok";28;0.0358514724712
+"zwierzę";28;0.0358514724712
+"człowiek ze względu na relacje społeczne";34;0.0435339308579
+"nosiciel cechy";36;0.0460947503201
+"człowiek, który coś robi";45;0.0576184379001

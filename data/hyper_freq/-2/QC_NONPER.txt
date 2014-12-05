@@ -1,0 +1,282 @@
+"otwór";1;0.000596658711217
+"podstawa";1;0.000596658711217
+"zjawisko fizyczne";1;0.000596658711217
+"zobowiązanie";1;0.000596658711217
+"następny";1;0.000596658711217
+"katalizator";1;0.000596658711217
+"logos";1;0.000596658711217
+"Cieszyn";1;0.000596658711217
+"metal szlachetny";1;0.000596658711217
+"wypełniać";1;0.000596658711217
+"ekspens";1;0.000596658711217
+"używka";1;0.000596658711217
+"kartonik";1;0.000596658711217
+"profit";1;0.000596658711217
+"gabaryt";1;0.000596658711217
+"współczesny";1;0.000596658711217
+"humaniora";1;0.000596658711217
+"ono";1;0.000596658711217
+"atrakcyjny";1;0.000596658711217
+"system";1;0.000596658711217
+"mieć jakiś parametr, cechę";1;0.000596658711217
+"żywioł";1;0.000596658711217
+"nieelastyczny";1;0.000596658711217
+"mięsień";1;0.000596658711217
+"manewr";1;0.000596658711217
+"być, pozostawać w jakichś relacjach społecznych";1;0.000596658711217
+"niepełnoletni";1;0.000596658711217
+"jednostka pracy";1;0.000596658711217
+"bogini";1;0.000596658711217
+"dobry";1;0.000596658711217
+"mieszanina";1;0.000596658711217
+"miotacz";1;0.000596658711217
+"pomieszczenie";1;0.000596658711217
+"frapować";1;0.000596658711217
+"radioterapia";1;0.000596658711217
+"układ scalony";2;0.00119331742243
+"czyhać";2;0.00119331742243
+"Jarosław";2;0.00119331742243
+"fotoautotrof";2;0.00119331742243
+"wpływ";2;0.00119331742243
+"borowiec";2;0.00119331742243
+"uroczystość";2;0.00119331742243
+"absolut";2;0.00119331742243
+"obejście";2;0.00119331742243
+"moduł";2;0.00119331742243
+"masa plastyczna";2;0.00119331742243
+"kotlet";2;0.00119331742243
+"plastyk";2;0.00119331742243
+"dziecko";2;0.00119331742243
+"rozpuszczalnik";2;0.00119331742243
+"przyzwyczaić";2;0.00119331742243
+"proch";2;0.00119331742243
+"zabieg leczniczy";2;0.00119331742243
+"wielopestkowiec";2;0.00119331742243
+"nieodzowny";2;0.00119331742243
+"mogiła";2;0.00119331742243
+"musieć";2;0.00119331742243
+"nauka społeczna";2;0.00119331742243
+"towarzysz";2;0.00119331742243
+"być odbieranym w jakiś sposób";2;0.00119331742243
+"słuchacz";2;0.00119331742243
+"łączyć się";2;0.00119331742243
+"jagoda";2;0.00119331742243
+"napór";2;0.00119331742243
+"komputer przenośny";2;0.00119331742243
+"Wrocław";2;0.00119331742243
+"ikra";2;0.00119331742243
+"zabarwienie";2;0.00119331742243
+"zbiorowość";2;0.00119331742243
+"miedziowiec";2;0.00119331742243
+"styczność";2;0.00119331742243
+"mineraloid";2;0.00119331742243
+"włókno naturalne";2;0.00119331742243
+"urządzenie kuchenne";2;0.00119331742243
+"właściwość zdarzenia, sytuacji";2;0.00119331742243
+"zjawisko";2;0.00119331742243
+"żółtość";2;0.00119331742243
+"Islandia";2;0.00119331742243
+"stanowisko";2;0.00119331742243
+"GERUNDIUM - AKT oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";2;0.00119331742243
+"urządzenie sanitarne";2;0.00119331742243
+"drzwi";2;0.00119331742243
+"skalarna wielkość fizyczna";2;0.00119331742243
+"rzecz";2;0.00119331742243
+"ogród";2;0.00119331742243
+"bobasek";2;0.00119331742243
+"miasto";2;0.00119331742243
+"ustać";2;0.00119331742243
+"żywica";2;0.00119331742243
+"proces fizjologiczny";2;0.00119331742243
+"sportowiec";2;0.00119331742243
+"afrodyzjak";2;0.00119331742243
+"kredka";2;0.00119331742243
+"CZASOWNIK";2;0.00119331742243
+"danie sobie rady";2;0.00119331742243
+"paliwo";2;0.00119331742243
+"surowiec farmaceutyczny";2;0.00119331742243
+"opiekun";2;0.00119331742243
+"węglowiec";2;0.00119331742243
+"łaźnia";2;0.00119331742243
+"stronnictwo";2;0.00119331742243
+"ilość";2;0.00119331742243
+"ogół";2;0.00119331742243
+"Francja";2;0.00119331742243
+"pojawiać się";2;0.00119331742243
+"potrawa";2;0.00119331742243
+"słynny";2;0.00119331742243
+"metal";2;0.00119331742243
+"Mojżesz";2;0.00119331742243
+"kopalina";2;0.00119331742243
+"ektopasożyt";2;0.00119331742243
+"CZASOWNIK - PROCES DK oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";2;0.00119331742243
+"alkohol etylowy";2;0.00119331742243
+"Stany Zjednoczone";2;0.00119331742243
+"wojownik";2;0.00119331742243
+"część";2;0.00119331742243
+"CZASOWNIK - STAN NDK oznaczający stan fizyczny";2;0.00119331742243
+"pomoc";2;0.00119331742243
+"nakład";2;0.00119331742243
+"rekwizyt świąteczny";2;0.00119331742243
+"twór";2;0.00119331742243
+"pokolenie";2;0.00119331742243
+"kąt płaski";2;0.00119331742243
+"małżeństwo";2;0.00119331742243
+"policzyć";3;0.00178997613365
+"być";3;0.00178997613365
+"artykuł papierniczy";3;0.00178997613365
+"skończyć";3;0.00178997613365
+"CZASOWNIK - AKT oznaczający zmianę posiadania lub sytuację związaną z posiadaniem";3;0.00178997613365
+"wymodelować";3;0.00178997613365
+"określać";3;0.00178997613365
+"postępować";3;0.00178997613365
+"Polska";3;0.00178997613365
+"kreować";3;0.00178997613365
+"analizować";3;0.00178997613365
+"nagrywać";3;0.00178997613365
+"zużywać";3;0.00178997613365
+"GERUNDIUM - DZIAŁANIE DK oznaczający spowodowanie reakcji organizmu lub czynności fizjologicznej";3;0.00178997613365
+"wywierać wpływ";3;0.00178997613365
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";3;0.00178997613365
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zjawiska fizycznego lub zmiany stanu fizycznego";3;0.00178997613365
+"świadczenie społeczne";3;0.00178997613365
+"partner";3;0.00178997613365
+"dołączać";3;0.00178997613365
+"przywieść";3;0.00178997613365
+"wszcząć";3;0.00178997613365
+"szkolić się";3;0.00178997613365
+"zmniejszenie";3;0.00178997613365
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";3;0.00178997613365
+"wystarczać";3;0.00178997613365
+"robić coś motywowanego względami społecznymi";3;0.00178997613365
+"przemieszczać";3;0.00178997613365
+"sytuacja materialna";4;0.00238663484487
+"zboże";4;0.00238663484487
+"krytyka";4;0.00238663484487
+"część garderoby";4;0.00238663484487
+"GERUNDIUM - WYPADEK oznaczający spowodowanie reakcji organizmu lub czynności fizjologicznej";4;0.00238663484487
+"imię";4;0.00238663484487
+"podziałać";4;0.00238663484487
+"członek rodziny";4;0.00238663484487
+"wyróżniać się";4;0.00238663484487
+"dać znać";4;0.00238663484487
+"przewoźnik";4;0.00238663484487
+"opłata";4;0.00238663484487
+"kwota";4;0.00238663484487
+"znajomy";4;0.00238663484487
+"cecha człowieka";4;0.00238663484487
+"potrzebny";4;0.00238663484487
+"choroba przewlekła";4;0.00238663484487
+"część mowy";4;0.00238663484487
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie reakcji organizmu lub czynności fizjologicznej";4;0.00238663484487
+"tlenowiec";4;0.00238663484487
+"owoc";4;0.00238663484487
+"trawa";4;0.00238663484487
+"zawiadamiać";4;0.00238663484487
+"przegryzka";4;0.00238663484487
+"umowa";4;0.00238663484487
+"warstwa";4;0.00238663484487
+"gaz";4;0.00238663484487
+"związek organiczny";4;0.00238663484487
+"grupa istot";4;0.00238663484487
+"kuchenka";4;0.00238663484487
+"roztwór";4;0.00238663484487
+"czwóra";4;0.00238663484487
+"proces społeczno-polityczny";4;0.00238663484487
+"ekwiwalent";4;0.00238663484487
+"roślina przyprawowa";4;0.00238663484487
+"uczucie";4;0.00238663484487
+"tworzywo do produkcji biżuterii";4;0.00238663484487
+"wypowiedź";4;0.00238663484487
+"narzędzie";4;0.00238663484487
+"charakteryzować się";4;0.00238663484487
+"podawać";4;0.00238663484487
+"materiał zecerski";4;0.00238663484487
+"instytucja";5;0.00298329355609
+"artykulator";5;0.00298329355609
+"poruszać się";5;0.00298329355609
+"certa";6;0.0035799522673
+"ptak wędrowny";6;0.0035799522673
+"usunięcie";6;0.0035799522673
+"ptak wodny";6;0.0035799522673
+"szacować";6;0.0035799522673
+"nieść";6;0.0035799522673
+"niemetal";6;0.0035799522673
+"płacić";6;0.0035799522673
+"wyznaczyć";6;0.0035799522673
+"insekt";6;0.0035799522673
+"ptak leśny lub polny";6;0.0035799522673
+"minerał barwny";6;0.0035799522673
+"porcięta";6;0.0035799522673
+"makroelement";6;0.0035799522673
+"CZASOWNIK - DZIAŁANIE NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.0035799522673
+"zwierzę domowe";6;0.0035799522673
+"działalność";6;0.0035799522673
+"ułatwiać";6;0.0035799522673
+"budowla starożytna";6;0.0035799522673
+"wielokomórkowiec";6;0.0035799522673
+"modyfikować";6;0.0035799522673
+"pucha";6;0.0035799522673
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.0035799522673
+"służący";6;0.0035799522673
+"sprawdzanie";6;0.0035799522673
+"element anatomiczny";7;0.00417661097852
+"istota żywa";8;0.00477326968974
+"bylina";8;0.00477326968974
+"pantofag";8;0.00477326968974
+"dawać znać";8;0.00477326968974
+"kłamstwo";8;0.00477326968974
+"CZASOWNIK DYNAMICZNY (AKCJA)";8;0.00477326968974
+"zwilżanie";8;0.00477326968974
+"człowiek o określonej narodowości, przynależności państwowej";8;0.00477326968974
+"tarta";8;0.00477326968974
+"Bałkańczyk";8;0.00477326968974
+"ciastko";8;0.00477326968974
+"osoba";8;0.00477326968974
+"członek";8;0.00477326968974
+"przedstawić";8;0.00477326968974
+"krzak";8;0.00477326968974
+"drzewo liściaste";8;0.00477326968974
+"roślina pożytkowa";8;0.00477326968974
+"roślina lecznicza";8;0.00477326968974
+"poszukiwać";9;0.00536992840095
+"iść";9;0.00536992840095
+"dawać";9;0.00536992840095
+"karmić się";9;0.00536992840095
+"wyrób pończoszniczy";10;0.00596658711217
+"przybywać";10;0.00596658711217
+"pełnić jakąś funkcję";10;0.00596658711217
+"uzbrojenie";10;0.00596658711217
+"zarobek";10;0.00596658711217
+"narząd";10;0.00596658711217
+"inwestor";10;0.00596658711217
+"dostojnik";11;0.00656324582339
+"przeżycie";12;0.00715990453461
+"starczyć";12;0.00715990453461
+"ptak śpiewający";12;0.00715990453461
+"drzewo iglaste";12;0.00715990453461
+"istota nadprzyrodzona";12;0.00715990453461
+"ssak owadożerny";12;0.00715990453461
+"wytwarzać";12;0.00715990453461
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";12;0.00715990453461
+"higrofit";12;0.00715990453461
+"pies";14;0.00835322195704
+"robić _CZYNNOŚĆ_";14;0.00835322195704
+"ptak drapieżny";14;0.00835322195704
+"gryzoń";14;0.00835322195704
+"człowiek płci męskiej";14;0.00835322195704
+"ssak drapieżny";14;0.00835322195704
+"CZASOWNIK STANOWY NDK";15;0.00894988066826
+"mnich";16;0.00954653937947
+"wermut";16;0.00954653937947
+"nazwa zakonnika ze względu na zgromadzenie, do którego należy";16;0.00954653937947
+"mięsożerca";16;0.00954653937947
+"przedsiębrać";18;0.0107398568019
+"wykonywać";18;0.0107398568019
+"przyprawa";20;0.0119331742243
+"pies pasterski";20;0.0119331742243
+"opierać się";20;0.0119331742243
+"brunatnica";20;0.0119331742243
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";22;0.0131264916468
+"trunek";24;0.0143198090692
+"ogrzewanie";345;0.20584725537

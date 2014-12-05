@@ -1,0 +1,134 @@
+"CZASOWNIK - ZDARZENIE NDK oznaczający zjawiska fizyczne";1;0.000535045478866
+"pigułka";1;0.000535045478866
+"CZASOWNIK - ZDARZENIE NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";1;0.000535045478866
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";1;0.000535045478866
+"jednostka taksonomiczna";1;0.000535045478866
+"CZASOWNIK - STAN NDK oznaczający sytuacje związane z percepcją";1;0.000535045478866
+"pojęcie";1;0.000535045478866
+"być jakoś usytuowanym";1;0.000535045478866
+"CZASOWNIK - DZIAŁANIE NDK oznaczający kontakt fizyczny, który wpływa na obiekt";1;0.000535045478866
+"dowód";1;0.000535045478866
+"specyfik";1;0.000535045478866
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie zmiany stanu mentalnego, emocjonalnego lub psychiczno-fizjologicznego";1;0.000535045478866
+"CZASOWNIK - DZIAŁANIE DK oznaczający wytworzenie czegoś";1;0.000535045478866
+"zamiar";1;0.000535045478866
+"Paweł";1;0.000535045478866
+"CZASOWNIK - AKT oznaczający zmianę położenia lub zmianę relacji przestrzennych";1;0.000535045478866
+"CZASOWNIK - STAN NDK oznaczający położenie lub relacje przestrzenne";1;0.000535045478866
+"przedsięwzięcie";1;0.000535045478866
+"brak";1;0.000535045478866
+"pracodawca";1;0.000535045478866
+"ono";1;0.000535045478866
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie reakcji organizmu lub czynności fizjologicznej";1;0.000535045478866
+"rodzina";1;0.000535045478866
+"Kraków";1;0.000535045478866
+"Pompeje";1;0.000535045478866
+"percypować";1;0.000535045478866
+"związek przyczynowy";1;0.000535045478866
+"odrodzenie";1;0.000535045478866
+"polski";1;0.000535045478866
+"korpus językowy";1;0.000535045478866
+"zmiana";1;0.000535045478866
+"Stany Zjednoczone";1;0.000535045478866
+"CZASOWNIK - DZIAŁANIE DK oznaczający spowodowanie zmiany w obrębie relacji abstrakcyjnych";1;0.000535045478866
+"CZASOWNIK - AKT oznaczający zmianę relacji abstrakcyjnych";1;0.000535045478866
+"Herbert";1;0.000535045478866
+"konweniować";1;0.000535045478866
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający kontakt fizyczny";1;0.000535045478866
+"być w mocy";2;0.00107009095773
+"rynek";2;0.00107009095773
+"Wisła";2;0.00107009095773
+"służba wojskowa";2;0.00107009095773
+"blok";2;0.00107009095773
+"Gugle";2;0.00107009095773
+"CZASOWNIK - AKT oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";2;0.00107009095773
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający stan mentalny lub emocjonalny albo reakcję emocjonalno-fizjologiczną";2;0.00107009095773
+"pojazd z własnym napędem";2;0.00107009095773
+"Lach";2;0.00107009095773
+"CZASOWNIK - DZIAŁANIE NDK oznaczający powodowanie zm. sytuacji związanej z łańcuchem przyczynowo-skutkowym";2;0.00107009095773
+"Ameryka";2;0.00107009095773
+"biznes";2;0.00107009095773
+"promocja";2;0.00107009095773
+"istota ludzka";2;0.00107009095773
+"lecznictwo";2;0.00107009095773
+"przesyłka";2;0.00107009095773
+"spowodowanie";2;0.00107009095773
+"katastrofa";2;0.00107009095773
+"Smoleńsk";2;0.00107009095773
+"tekst";2;0.00107009095773
+"CZASOWNIK - AKT oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";2;0.00107009095773
+"produkt spożywczy";2;0.00107009095773
+"wybory";2;0.00107009095773
+"epistoła";2;0.00107009095773
+"stworzenie oceniane negatywnie";2;0.00107009095773
+"człowiek ze względu na pochodzenie etniczne";2;0.00107009095773
+"członek";2;0.00107009095773
+"anioł";2;0.00107009095773
+"człowiek oceniany negatywnie";2;0.00107009095773
+"paker";2;0.00107009095773
+"logos";2;0.00107009095773
+"część garderoby";2;0.00107009095773
+"demon";2;0.00107009095773
+"układ";2;0.00107009095773
+"okrycie wierzchnie";2;0.00107009095773
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";2;0.00107009095773
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";2;0.00107009095773
+"gra";2;0.00107009095773
+"włos";2;0.00107009095773
+"rozwód";2;0.00107009095773
+"intelekt";2;0.00107009095773
+"CZASOWNIK - DZIAŁANIE DK oznaczający spowodowanie zm. sytuacji związanej z łańcuchem przyczynowo-skutkowym";2;0.00107009095773
+"głos";2;0.00107009095773
+"dumny";2;0.00107009095773
+"bezkręgowiec";2;0.00107009095773
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";3;0.0016051364366
+"wolno";3;0.0016051364366
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający posiadanie lub sytuację związaną z posiadaniem";3;0.0016051364366
+"człowiek charakteryzowany ze względu na miejsce pobytu";3;0.0016051364366
+"odpowiedzialny";3;0.0016051364366
+"powodować";4;0.00214018191546
+"borowiec";4;0.00214018191546
+"półmetal";4;0.00214018191546
+"CZASOWNIK ZDARZENIOWY NDK";4;0.00214018191546
+"Warszawa";4;0.00214018191546
+"nosiciel cechy";4;0.00214018191546
+"dziedzic";4;0.00214018191546
+"GERUNDIUM OD CZASOWNIKA ZMIENNOSTANOWEGO NIETELICZNEGO";4;0.00214018191546
+"zestawienie";4;0.00214018191546
+"twór";4;0.00214018191546
+"pierwiastek śladowy";4;0.00214018191546
+"uczynienie";4;0.00214018191546
+"ciało";4;0.00214018191546
+"jednostka organizacyjna";4;0.00214018191546
+"wyrób";4;0.00214018191546
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";5;0.00267522739433
+"Polska";5;0.00267522739433
+"okoliczność";5;0.00267522739433
+"CZASOWNIK - AKT oznaczający spowodowanie zmiany stanu mentalnego, emocjonalnego lub psychiczno-fizjologicznego";6;0.00321027287319
+"Bóg";6;0.00321027287319
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";7;0.00374531835206
+"człowiek charakteryzowany ze względu na kwalifikacje";7;0.00374531835206
+"istota nadprzyrodzona";8;0.00428036383093
+"spowodować";9;0.00481540930979
+"być";10;0.00535045478866
+"człowiek ze względu na pełnioną funkcję";13;0.00695559122525
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną (lub sytuacje związane) ze współżyciem w społeczeństwie";13;0.00695559122525
+"przedstawiciel";14;0.00749063670412
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";15;0.00802568218299
+"ludzie";16;0.00856072766185
+"CZASOWNIK TELICZNY";18;0.00963081861958
+"człowiek, który coś robi";22;0.011771000535
+"pojazd";22;0.011771000535
+"robić _CZYNNOŚĆ_";28;0.0149812734082
+"CZASOWNIK ZMIENNOSTANOWY NIETELICZNY";28;0.0149812734082
+"CZASOWNIK CZYNNOŚCIOWY NDK";28;0.0149812734082
+"zrobić";34;0.0181915462814
+"konsument";131;0.0700909577314
+"dwunóg";131;0.0700909577314
+"strunowiec";131;0.0700909577314
+"małpa wąskonosa";131;0.0700909577314
+"persona";131;0.0700909577314
+"człowiek";131;0.0700909577314
+"człowiek charakteryzowany pod względem wieku";133;0.0711610486891
+"człowiek ze względu na relacje społeczne";161;0.0861423220974
+"zwierzę";266;0.142322097378

@@ -1,0 +1,128 @@
+"akcja";1;0.000535045478866
+"informacja";1;0.000535045478866
+"prawnik";1;0.000535045478866
+"płatnik";1;0.000535045478866
+"Paweł";1;0.000535045478866
+"rozstanie";1;0.000535045478866
+"zjawisko";1;0.000535045478866
+"okoliczność";1;0.000535045478866
+"dawka";1;0.000535045478866
+"ono";1;0.000535045478866
+"rzecz";1;0.000535045478866
+"CZASOWNIK PROCESYWNY NDK";1;0.000535045478866
+"działalność";1;0.000535045478866
+"Kraków";1;0.000535045478866
+"Pompeje";1;0.000535045478866
+"pracownik instytucji publicznych";1;0.000535045478866
+"specyfik";1;0.000535045478866
+"odrodzenie";1;0.000535045478866
+"przedmiot";1;0.000535045478866
+"Słowianin";1;0.000535045478866
+"głowa";1;0.000535045478866
+"mieć jakiś parametr, cechę";1;0.000535045478866
+"Stany Zjednoczone";1;0.000535045478866
+"Herbert";1;0.000535045478866
+"zobowiązanie";2;0.00107009095773
+"lecznictwo";2;0.00107009095773
+"służba";2;0.00107009095773
+"absolut";2;0.00107009095773
+"Gugle";2;0.00107009095773
+"poznawać";2;0.00107009095773
+"góra mięsa";2;0.00107009095773
+"Wisła";2;0.00107009095773
+"Lach";2;0.00107009095773
+"zespół ludzi";2;0.00107009095773
+"wiadomość";2;0.00107009095773
+"mundurowy";2;0.00107009095773
+"konieczność";2;0.00107009095773
+"łączyć się";2;0.00107009095773
+"Ameryka";2;0.00107009095773
+"dumny";2;0.00107009095773
+"człowiek o określonej narodowości, przynależności państwowej";2;0.00107009095773
+"człowiek nazwany jakoś ze względu na dzielone poglądy";2;0.00107009095773
+"tragedia";2;0.00107009095773
+"przesyłka";2;0.00107009095773
+"instytucja";2;0.00107009095773
+"unieważnienie";2;0.00107009095773
+"Smoleńsk";2;0.00107009095773
+"pozycja";2;0.00107009095773
+"CZASOWNIK PROCESYWNY DK";2;0.00107009095773
+"człowiek ze względu na pełnioną funkcję";2;0.00107009095773
+"intelekt";2;0.00107009095773
+"logos";2;0.00107009095773
+"związek";2;0.00107009095773
+"niepełnoletni";2;0.00107009095773
+"gra";2;0.00107009095773
+"włos";2;0.00107009095773
+"ludzie";2;0.00107009095773
+"podmiot";2;0.00107009095773
+"głosowanie";2;0.00107009095773
+"plac";2;0.00107009095773
+"wypowiedź";2;0.00107009095773
+"jednostka taksonomiczna";3;0.0016051364366
+"wynosić";3;0.0016051364366
+"przywrócić";3;0.0016051364366
+"CZASOWNIK - AKT oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";3;0.0016051364366
+"wynieść";3;0.0016051364366
+"przedsięwzięcie";3;0.0016051364366
+"policzyć";3;0.0016051364366
+"utworzyć";3;0.0016051364366
+"wszcząć";3;0.0016051364366
+"odpowiedzialny";3;0.0016051364366
+"grupa";3;0.0016051364366
+"walczyć";3;0.0016051364366
+"kłaść";3;0.0016051364366
+"blok";4;0.00214018191546
+"pierwiastek śladowy";4;0.00214018191546
+"sędzia";4;0.00214018191546
+"ustrzeżenie";4;0.00214018191546
+"półmetal";4;0.00214018191546
+"dać znać";4;0.00214018191546
+"wyznawca";4;0.00214018191546
+"Warszawa";4;0.00214018191546
+"borowiec";4;0.00214018191546
+"dziedzic";4;0.00214018191546
+"kurtka";4;0.00214018191546
+"zawiadamiać";4;0.00214018191546
+"pobierać";5;0.00267522739433
+"Polska";5;0.00267522739433
+"zmawiać";5;0.00267522739433
+"dotrzeć";5;0.00267522739433
+"mięczak";6;0.00321027287319
+"służący";6;0.00321027287319
+"istota nadprzyrodzona";6;0.00321027287319
+"dobry duch";6;0.00321027287319
+"zły człowiek";6;0.00321027287319
+"obywatel";6;0.00321027287319
+"dwuślad";6;0.00321027287319
+"izba niższa";6;0.00321027287319
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00321027287319
+"tekst";6;0.00321027287319
+"dawać";6;0.00321027287319
+"osoba";6;0.00321027287319
+"izba wyższa";6;0.00321027287319
+"oczyszczać";6;0.00321027287319
+"zapewnienie";6;0.00321027287319
+"CZASOWNIK - DZIAŁANIE DK oznaczający zm. sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";6;0.00321027287319
+"CZASOWNIK - DZIAŁANIE DK oznaczający spowodowanie zm. sytuacji związanej z łańcuchem przyczynowo-skutkowym";6;0.00321027287319
+"robić coś motywowanego względami społecznymi";6;0.00321027287319
+"ustalić";6;0.00321027287319
+"dawać do wiwatu";8;0.00428036383093
+"upiek";8;0.00428036383093
+"wymyślić";9;0.00481540930979
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";10;0.00535045478866
+"dostojnik";11;0.00588550026752
+"CZASOWNIK STANOWY NDK";11;0.00588550026752
+"wykonywać";12;0.00642054574639
+"pojazd drogowy";18;0.00963081861958
+"skrzywdzić";18;0.00963081861958
+"pozbawić życia";18;0.00963081861958
+"pracownik samorządowy";18;0.00963081861958
+"wskazywać";18;0.00963081861958
+"określać";20;0.0107009095773
+"czynić zabiegi";27;0.0144462279294
+"hierarcha";34;0.0181915462814
+"koronowana głowa";34;0.0181915462814
+"głowa Kościoła";36;0.0192616372392
+"człowiek ze względu na relacje społeczne";124;0.0663456393793
+"gość";1116;0.597110754414

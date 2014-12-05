@@ -1,0 +1,160 @@
+"Poznań";1;0.00128040973111
+"transuran";1;0.00128040973111
+"urządzenie przenośne";1;0.00128040973111
+"miejsce";1;0.00128040973111
+"zbiór rzeczy";1;0.00128040973111
+"część";1;0.00128040973111
+"jednostka miary strumienia świetlnego";1;0.00128040973111
+"wiadomość";1;0.00128040973111
+"rowerzysta";1;0.00128040973111
+"organizacja polityczna";1;0.00128040973111
+"Spider-Man";1;0.00128040973111
+"harmonijność";1;0.00128040973111
+"komputer przenośny";1;0.00128040973111
+"Katowice";1;0.00128040973111
+"przesyłka";1;0.00128040973111
+"konflikt";1;0.00128040973111
+"żółtość";1;0.00128040973111
+"formacja ze względu na sprzęt";1;0.00128040973111
+"pracownik teatru lub filmu";1;0.00128040973111
+"człowiek charakteryzowany ze względu na miejsce pobytu";1;0.00128040973111
+"ono";1;0.00128040973111
+"linia prosta";1;0.00128040973111
+"żart";1;0.00128040973111
+"sportowiec";1;0.00128040973111
+"wiek";1;0.00128040973111
+"człowiek ze względu na pełnioną funkcję";1;0.00128040973111
+"stać się WYPADEK";1;0.00128040973111
+"pieniądz";1;0.00128040973111
+"ilość";1;0.00128040973111
+"płaszczyzna";1;0.00128040973111
+"fortel";1;0.00128040973111
+"walka";1;0.00128040973111
+"mieć jakiś parametr, cechę";1;0.00128040973111
+"przebywać";1;0.00128040973111
+"ludzie";1;0.00128040973111
+"format arkusza";1;0.00128040973111
+"mnogość";1;0.00128040973111
+"tworzywo";1;0.00128040973111
+"Islamska Republika Afganistanu";2;0.00256081946223
+"instrument strunowy";2;0.00256081946223
+"czworokąt";2;0.00256081946223
+"real";2;0.00256081946223
+"cząstka elementarna";2;0.00256081946223
+"Alaska";2;0.00256081946223
+"zrobić _AKT_ DK";2;0.00256081946223
+"Adam";2;0.00256081946223
+"Dunaj";2;0.00256081946223
+"pracownik służby zdrowia";2;0.00256081946223
+"jakowyś";2;0.00256081946223
+"napój";2;0.00256081946223
+"podmiot";2;0.00256081946223
+"przemieszczać się";2;0.00256081946223
+"rozstanie";2;0.00256081946223
+"strzelanka";2;0.00256081946223
+"UE";2;0.00256081946223
+"CZASOWNIK - PROCES DK oznaczający zmianę stanu fizycznego";2;0.00256081946223
+"harmonia";2;0.00256081946223
+"system";2;0.00256081946223
+"człowiek, który coś zrobił";2;0.00256081946223
+"interpretator";2;0.00256081946223
+"koncert";2;0.00256081946223
+"instrument klawiszowy";2;0.00256081946223
+"dolar";2;0.00256081946223
+"logos";2;0.00256081946223
+"wskaźnik makroekonomiczny";2;0.00256081946223
+"przemarsz";2;0.00256081946223
+"przedmiot";2;0.00256081946223
+"jednostka walutowa";2;0.00256081946223
+"medyk";2;0.00256081946223
+"Radom";2;0.00256081946223
+"aktynowiec";2;0.00256081946223
+"nalepka";2;0.00256081946223
+"twór";2;0.00256081946223
+"światło";2;0.00256081946223
+"oznaka";2;0.00256081946223
+"wystarczać";2;0.00256081946223
+"stróż porządku";2;0.00256081946223
+"oczyszczać";3;0.00384122919334
+"CZASOWNIK - AKT oznaczający zmianę sytuacji związanych (lub sytuacje związane) ze współżyciem w społeczeństwie";3;0.00384122919334
+"wyróżnienie";3;0.00384122919334
+"wytwarzać";3;0.00384122919334
+"pojazd niemechaniczny";3;0.00384122919334
+"poznać się";3;0.00384122919334
+"dwukołowiec";3;0.00384122919334
+"policzyć";3;0.00384122919334
+"Słowianin";3;0.00384122919334
+"stawiać na swoim";3;0.00384122919334
+"wymienić";3;0.00384122919334
+"oddać";3;0.00384122919334
+"zakupić";3;0.00384122919334
+"roślina uprawna";4;0.00512163892446
+"roślina trująca";4;0.00512163892446
+"karta wstępu";4;0.00512163892446
+"bylina";4;0.00512163892446
+"sieć komputerowa";4;0.00512163892446
+"Lech Wałęsa";4;0.00512163892446
+"roślina bulwiasta";4;0.00512163892446
+"mundurowy";4;0.00512163892446
+"zdematerializować się";4;0.00512163892446
+"danie";4;0.00512163892446
+"unieważnienie";4;0.00512163892446
+"grupa istot";4;0.00512163892446
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zmiany położenia lub relacji przestrzennych";4;0.00512163892446
+"produkt spożywczy";4;0.00512163892446
+"psianka";4;0.00512163892446
+"robić _CZYNNOŚĆ_";4;0.00512163892446
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zmiany posiadania lub sytuację związaną z posiadaniem";4;0.00512163892446
+"ciało niebieskie";4;0.00512163892446
+"syrop";4;0.00512163892446
+"pracownik oświaty";4;0.00512163892446
+"zmiana";4;0.00512163892446
+"metryczna jednostka masy";4;0.00512163892446
+"roślina lecznicza";4;0.00512163892446
+"muzyk";4;0.00512163892446
+"faja";4;0.00512163892446
+"przybywać";5;0.00640204865557
+"Polska";5;0.00640204865557
+"nazwa utworu muzycznego związana z jego tempem";5;0.00640204865557
+"poruszać się";5;0.00640204865557
+"człowiek, który ma cechę/cechy zazwyczaj uważane za negatywną/e";6;0.00768245838668
+"zmodyfikowanie";6;0.00768245838668
+"odnosić";6;0.00768245838668
+"moneta";6;0.00768245838668
+"budynek";6;0.00768245838668
+"nakrycie głowy";6;0.00768245838668
+"człowiek o określonej narodowości, przynależności państwowej";6;0.00768245838668
+"osoba";6;0.00768245838668
+"stonoga";6;0.00768245838668
+"odpadek";6;0.00768245838668
+"siatkarz";6;0.00768245838668
+"sługa boży";6;0.00768245838668
+"roślina egzotyczna";6;0.00768245838668
+"koń dziki";7;0.0089628681178
+"ssak nieparzystokopytny";7;0.0089628681178
+"ssak drapieżny";7;0.0089628681178
+"środki masowego przekazu";8;0.0102432778489
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";8;0.0102432778489
+"starczyć";8;0.0102432778489
+"zestawienie";8;0.0102432778489
+"defensor";8;0.0102432778489
+"upiek";8;0.0102432778489
+"sukno";8;0.0102432778489
+"narzędzie";8;0.0102432778489
+"ogół";9;0.01152368758
+"CZASOWNIK STANOWY NDK";10;0.0128040973111
+"narząd";10;0.0128040973111
+"złodziej";10;0.0128040973111
+"hipertekst";12;0.0153649167734
+"odsuwać";12;0.0153649167734
+"pora";15;0.0192061459667
+"pobierać";15;0.0192061459667
+"słabeusz";20;0.0256081946223
+"pożywiać się";21;0.0268886043534
+"charakteryzować się";22;0.0281690140845
+"łamaga";25;0.0320102432778
+"cykl astronomiczny";28;0.0358514724712
+"tuman";30;0.0384122919334
+"hierarcha";34;0.0435339308579
+"koronowana głowa";34;0.0435339308579
+"głowa Kościoła";36;0.0460947503201

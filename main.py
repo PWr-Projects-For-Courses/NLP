@@ -3,10 +3,13 @@
 
 from question_classification.gen_chunkheads_freqs import main
 import sys
+from question_classification.http_get_cache_proxy import run, stop
 
 if __name__ == "__main__":
     #try:
+    run()
     main(sys.argv)
+    stop()
     #except BaseException, e:
     #    print e.message
     #    raise e

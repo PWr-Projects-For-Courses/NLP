@@ -1,0 +1,154 @@
+"CZASOWNIK - STAN NDK oznaczający sytuacje związane z percepcją";1;0.000664451827243
+"lato";1;0.000664451827243
+"Lacedemonia";1;0.000664451827243
+"pora";1;0.000664451827243
+"pasmo";1;0.000664451827243
+"pomieszczenie mieszkalne";1;0.000664451827243
+"Iberia";1;0.000664451827243
+"Hellada";1;0.000664451827243
+"sięgać";1;0.000664451827243
+"CZASOWNIK - STAN NDK oznaczający stan psychiczny intelektualny";1;0.000664451827243
+"zagłada";1;0.000664451827243
+"łamigłówka";1;0.000664451827243
+"epoka";1;0.000664451827243
+"święto religijne";1;0.000664451827243
+"partycja";1;0.000664451827243
+"ćwiczenia";1;0.000664451827243
+"CZASOWNIK - STAN NDK oznaczający stan fizyczny";1;0.000664451827243
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";1;0.000664451827243
+"egzystować";1;0.000664451827243
+"paska";2;0.00132890365449
+"ważny";2;0.00132890365449
+"zapis";2;0.00132890365449
+"deklaratywizm";2;0.00132890365449
+"jednostka gospodarcza";2;0.00132890365449
+"nieład";2;0.00132890365449
+"epos";2;0.00132890365449
+"pogorszenie";2;0.00132890365449
+"drzwi";2;0.00132890365449
+"przepis";2;0.00132890365449
+"zbiór rzeczy";2;0.00132890365449
+"zjawisko akustyczne";2;0.00132890365449
+"akt płciowy";2;0.00132890365449
+"kawałek";2;0.00132890365449
+"motyw";2;0.00132890365449
+"kolano";2;0.00132890365449
+"nierówność";2;0.00132890365449
+"jednostka";2;0.00132890365449
+"jakość";2;0.00132890365449
+"tryb";2;0.00132890365449
+"słony";2;0.00132890365449
+"porozumienie";2;0.00132890365449
+"traktat";2;0.00132890365449
+"sex";2;0.00132890365449
+"chłodny";2;0.00132890365449
+"napór";2;0.00132890365449
+"miejsce pochówku";2;0.00132890365449
+"migdał";2;0.00132890365449
+"Słońce";2;0.00132890365449
+"ustawodawstwo";2;0.00132890365449
+"wielkość fizyczna";2;0.00132890365449
+"głos";2;0.00132890365449
+"wytwór umysłu";2;0.00132890365449
+"tył";2;0.00132890365449
+"biodro";2;0.00132890365449
+"zabarwienie";2;0.00132890365449
+"istota mitologiczna";2;0.00132890365449
+"anekumena";2;0.00132890365449
+"gorzki";2;0.00132890365449
+"lewus";2;0.00132890365449
+"zasób naturalny";2;0.00132890365449
+"łapka";2;0.00132890365449
+"figura geometryczna";2;0.00132890365449
+"cellulitis";2;0.00132890365449
+"przód";2;0.00132890365449
+"klatka piersiowa";2;0.00132890365449
+"zespół cech";2;0.00132890365449
+"przyrząd";2;0.00132890365449
+"mieć jakiś parametr, cechę";2;0.00132890365449
+"budowla";2;0.00132890365449
+"parafina";2;0.00132890365449
+"mrok";2;0.00132890365449
+"zima";2;0.00132890365449
+"bycie";2;0.00132890365449
+"zawiły";2;0.00132890365449
+"korzystny";2;0.00132890365449
+"robota";2;0.00132890365449
+"mieszanina";2;0.00132890365449
+"tworzywo";2;0.00132890365449
+"pogoda";2;0.00132890365449
+"miejsce wyróżniające się z całości obiektu";2;0.00132890365449
+"mleko";2;0.00132890365449
+"to";3;0.00199335548173
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";3;0.00199335548173
+"przymieszka";3;0.00199335548173
+"zanieczyszczenie";3;0.00199335548173
+"spowodowanie _DZIAŁANIA DK_";3;0.00199335548173
+"osłona";3;0.00199335548173
+"proces";4;0.00265780730897
+"serial telewizyjny";4;0.00265780730897
+"niezdatność";4;0.00265780730897
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";4;0.00265780730897
+"wojna";4;0.00265780730897
+"CZASOWNIK oznaczający sytuację związaną z następstwem czasowym zdarzeń";4;0.00265780730897
+"Polska";4;0.00265780730897
+"wytwór roślinny";4;0.00265780730897
+"Adolf Hitler";4;0.00265780730897
+"niebiosy";4;0.00265780730897
+"obrzędowość";4;0.00265780730897
+"znak";4;0.00265780730897
+"końcówka";4;0.00265780730897
+"zjawisko astronomiczne";4;0.00265780730897
+"ciepło";4;0.00265780730897
+"konstrukcja";4;0.00265780730897
+"świadectwo";4;0.00265780730897
+"CZASOWNIK oznaczający sytuację związaną z wytwarzaniem czegoś";5;0.00332225913621
+"tkanka łączna";5;0.00332225913621
+"świat";5;0.00332225913621
+"ciecz";6;0.00398671096346
+"substancja chemiczna";6;0.00398671096346
+"robienie CZYNNOŚĆ";6;0.00398671096346
+"pojazd";6;0.00398671096346
+"czynienie";6;0.00398671096346
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO NIEZMIENNOSTANOWEGO";6;0.00398671096346
+"cecha człowieka";6;0.00398671096346
+"włos";6;0.00398671096346
+"wskazówka";7;0.0046511627907
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";7;0.0046511627907
+"charakteryzować się";7;0.0046511627907
+"realia";8;0.00531561461794
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";8;0.00531561461794
+"dzieło";8;0.00531561461794
+"niebieski";8;0.00531561461794
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";8;0.00531561461794
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";10;0.00664451827243
+"tekst";10;0.00664451827243
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";10;0.00664451827243
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";11;0.00730897009967
+"środek lokomocji";12;0.00797342192691
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";12;0.00797342192691
+"stworzenie oceniane negatywnie";12;0.00797342192691
+"dwunóg";13;0.00863787375415
+"małpa";13;0.00863787375415
+"autotrof";14;0.0093023255814
+"moment";14;0.0093023255814
+"produkt";14;0.0093023255814
+"praca";16;0.0106312292359
+"pokarm";16;0.0106312292359
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";16;0.0106312292359
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";18;0.0119601328904
+"być";20;0.0132890365449
+"grupa istot";23;0.0152823920266
+"część";26;0.0172757475083
+"twór";26;0.0172757475083
+"struktura anatomiczna";28;0.0186046511628
+"kompleks";38;0.0252491694352
+"robić";41;0.0272425249169
+"przedmiot";43;0.0285714285714
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";47;0.0312292358804
+"heterotrof";55;0.0365448504983
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";66;0.043853820598
+"zwierzę";113;0.0750830564784
+"wielokomórkowiec";127;0.0843853820598
+"istota żywa";138;0.0916943521595
+"istota ludzka";150;0.0996677740864

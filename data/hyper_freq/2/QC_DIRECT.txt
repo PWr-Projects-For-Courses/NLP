@@ -1,0 +1,200 @@
+"wstrząs dziejowy";1;0.000600961538462
+"wpływ";1;0.000600961538462
+"ono";1;0.000600961538462
+"zjawisko akustyczne";1;0.000600961538462
+"grzybopływka";1;0.000600961538462
+"kiełkowanie";1;0.000600961538462
+"jakość";1;0.000600961538462
+"CZASOWNIK oznaczający sytuację związaną z następstwem czasowym zdarzeń";1;0.000600961538462
+"ekspens";1;0.000600961538462
+"bont";1;0.000600961538462
+"nieład";1;0.000600961538462
+"robienie CZYNNOŚĆ";1;0.000600961538462
+"ustawodawstwo";1;0.000600961538462
+"zawodowstwo";1;0.000600961538462
+"uporządkowanie";1;0.000600961538462
+"CZASOWNIK - STAN NDK oznaczający położenie lub relacje przestrzenne";1;0.000600961538462
+"nauka ścisła";1;0.000600961538462
+"humaniora";1;0.000600961538462
+"stary kontynent";1;0.000600961538462
+"okolica";1;0.000600961538462
+"impreza";1;0.000600961538462
+"zabawa";1;0.000600961538462
+"kserofob";1;0.000600961538462
+"katusza";1;0.000600961538462
+"afiliacja";1;0.000600961538462
+"logos";1;0.000600961538462
+"zbiór rzeczy";1;0.000600961538462
+"być, pozostawać w jakichś relacjach społecznych";1;0.000600961538462
+"towar";1;0.000600961538462
+"walka";1;0.000600961538462
+"mieć jakiś parametr, cechę";1;0.000600961538462
+"wyczyn";1;0.000600961538462
+"czynienie";1;0.000600961538462
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";1;0.000600961538462
+"twórczość";1;0.000600961538462
+"jednostka organizacyjna";1;0.000600961538462
+"brak";1;0.000600961538462
+"mieszanina";1;0.000600961538462
+"dzień";1;0.000600961538462
+"dobro";1;0.000600961538462
+"środek";1;0.000600961538462
+"deskrypcja";2;0.00120192307692
+"Wisła";2;0.00120192307692
+"środki masowego przekazu";2;0.00120192307692
+"udział";2;0.00120192307692
+"gleba";2;0.00120192307692
+"zjawisko atmosferyczne";2;0.00120192307692
+"kraina";2;0.00120192307692
+"dostępny";2;0.00120192307692
+"gabaryt";2;0.00120192307692
+"potrzebny";2;0.00120192307692
+"lubić";2;0.00120192307692
+"egzotyk";2;0.00120192307692
+"miejsce";2;0.00120192307692
+"gabinet";2;0.00120192307692
+"płeć";2;0.00120192307692
+"urodzajny";2;0.00120192307692
+"pierze";2;0.00120192307692
+"real";2;0.00120192307692
+"tkanka plechowca";2;0.00120192307692
+"listopad";2;0.00120192307692
+"kasa";2;0.00120192307692
+"tydzień";2;0.00120192307692
+"skutek";2;0.00120192307692
+"chwila";2;0.00120192307692
+"ciało lotne";2;0.00120192307692
+"dorosły";2;0.00120192307692
+"Chopin";2;0.00120192307692
+"wyraz";2;0.00120192307692
+"sprawa";2;0.00120192307692
+"istota nadprzyrodzona";2;0.00120192307692
+"Słońce";2;0.00120192307692
+"Kielce";2;0.00120192307692
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";2;0.00120192307692
+"zjawisko astronomiczne";2;0.00120192307692
+"bakteria";2;0.00120192307692
+"grupa";2;0.00120192307692
+"źródło";2;0.00120192307692
+"transmisja";2;0.00120192307692
+"Londyn";2;0.00120192307692
+"substancja";2;0.00120192307692
+"istota mitologiczna";2;0.00120192307692
+"miejsce docelowe";2;0.00120192307692
+"drobnoustrój";2;0.00120192307692
+"opłacalny";2;0.00120192307692
+"czynność";2;0.00120192307692
+"pieniądz";2;0.00120192307692
+"działalność";2;0.00120192307692
+"CZASOWNIK - STAN NDK oznaczający stan psychiczny intelektualny";2;0.00120192307692
+"gaz";2;0.00120192307692
+"szpik";2;0.00120192307692
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO NIEZMIENNOSTANOWEGO";2;0.00120192307692
+"przód";2;0.00120192307692
+"czas";2;0.00120192307692
+"piersi";2;0.00120192307692
+"karta";2;0.00120192307692
+"umiejętność";2;0.00120192307692
+"zdrowiutki";2;0.00120192307692
+"dysputa";2;0.00120192307692
+"nominał";2;0.00120192307692
+"partycja";2;0.00120192307692
+"ćwiczenia";2;0.00120192307692
+"położenie";2;0.00120192307692
+"włos";2;0.00120192307692
+"fundusz";2;0.00120192307692
+"struktura";2;0.00120192307692
+"napastliwy";2;0.00120192307692
+"Paryż";2;0.00120192307692
+"bycie";2;0.00120192307692
+"konferencja";2;0.00120192307692
+"egzystować";2;0.00120192307692
+"sprawdzian";2;0.00120192307692
+"zapis";3;0.00180288461538
+"siedziba";3;0.00180288461538
+"transakcja handlowa";3;0.00180288461538
+"nierówność";3;0.00180288461538
+"rozgrywka";3;0.00180288461538
+"Francja";3;0.00180288461538
+"inhibitor";3;0.00180288461538
+"podatnik";3;0.00180288461538
+"miejsce wyróżniające się z całości obiektu";3;0.00180288461538
+"rok";4;0.00240384615385
+"wskazówka";4;0.00240384615385
+"system symboliczny";4;0.00240384615385
+"pora";4;0.00240384615385
+"CZASOWNIK oznaczający sytuację związaną z wytwarzaniem czegoś";4;0.00240384615385
+"opłata";4;0.00240384615385
+"cykl astronomiczny";4;0.00240384615385
+"bok";4;0.00240384615385
+"porządek";4;0.00240384615385
+"jednostka administracyjna";4;0.00240384615385
+"Bóg";4;0.00240384615385
+"katolicki";4;0.00240384615385
+"zasób naturalny";4;0.00240384615385
+"ciało niebieskie";4;0.00240384615385
+"woń";4;0.00240384615385
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";4;0.00240384615385
+"rodzaj";4;0.00240384615385
+"data";4;0.00240384615385
+"element";4;0.00240384615385
+"pierwiastek";6;0.00360576923077
+"deklaracja";6;0.00360576923077
+"strona";6;0.00360576923077
+"usługa";6;0.00360576923077
+"wytwór roślinny";6;0.00360576923077
+"Madonna";6;0.00360576923077
+"znak";6;0.00360576923077
+"autotrof";7;0.00420673076923
+"właściwość substancji";7;0.00420673076923
+"pieniądze";7;0.00420673076923
+"spowodowanie _DZIAŁANIA DK_";7;0.00420673076923
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";7;0.00420673076923
+"budowla";7;0.00420673076923
+"kompleks";8;0.00480769230769
+"jednostka gospodarcza";8;0.00480769230769
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";8;0.00480769230769
+"świat";8;0.00480769230769
+"spadek";8;0.00480769230769
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";9;0.00540865384615
+"plechowiec";9;0.00540865384615
+"charakteryzować się";9;0.00540865384615
+"proces";10;0.00600961538462
+"Polska";10;0.00600961538462
+"substancja chemiczna";11;0.00661057692308
+"jednostka";11;0.00661057692308
+"zabarwienie";12;0.00721153846154
+"wielkość fizyczna";12;0.00721153846154
+"wytwór umysłu";12;0.00721153846154
+"dzieło";12;0.00721153846154
+"niemoc";12;0.00721153846154
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";13;0.0078125
+"część";13;0.0078125
+"realia";14;0.00841346153846
+"jakowyś";14;0.00841346153846
+"konstrukcja";14;0.00841346153846
+"struktura anatomiczna";17;0.0102163461538
+"miejscowość";18;0.0108173076923
+"dwunóg";18;0.0108173076923
+"małpa";18;0.0108173076923
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";19;0.0114182692308
+"pokarm";20;0.0120192307692
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";21;0.0126201923077
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";22;0.0132211538462
+"tekst";23;0.0138221153846
+"produkt";23;0.0138221153846
+"moment";24;0.0144230769231
+"praca";27;0.0162259615385
+"heterotrof";31;0.0186298076923
+"być";33;0.0198317307692
+"grupa istot";36;0.0216346153846
+"robić";38;0.0228365384615
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";39;0.0234375
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";49;0.0294471153846
+"twór";54;0.0324519230769
+"zwierzę";57;0.0342548076923
+"wielokomórkowiec";64;0.0384615384615
+"przedmiot";68;0.0408653846154
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";71;0.0426682692308
+"istota żywa";79;0.0474759615385
+"istota ludzka";188;0.112980769231

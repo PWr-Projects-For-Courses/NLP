@@ -1,0 +1,106 @@
+"proces ekonomiczny";1;0.00225733634312
+"Aleksander I";1;0.00225733634312
+"państwo ze względu na formę rządów";1;0.00225733634312
+"gabinet";1;0.00225733634312
+"ułamek";1;0.00225733634312
+"czworokąt";1;0.00225733634312
+"Adam";1;0.00225733634312
+"kasa";1;0.00225733634312
+"słowiański";1;0.00225733634312
+"płatnik";1;0.00225733634312
+"Królestwo Szwecji";1;0.00225733634312
+"czas";1;0.00225733634312
+"żółtość";1;0.00225733634312
+"rządzący";1;0.00225733634312
+"pieniądze";1;0.00225733634312
+"czaszka";1;0.00225733634312
+"Republika Czeska";1;0.00225733634312
+"ono";1;0.00225733634312
+"system";1;0.00225733634312
+"Małopolska";1;0.00225733634312
+"zona";1;0.00225733634312
+"ilość";1;0.00225733634312
+"formacja ze względu na sprzęt";1;0.00225733634312
+"Norwegia";1;0.00225733634312
+"substancja";1;0.00225733634312
+"głowa";1;0.00225733634312
+"część";1;0.00225733634312
+"gra";1;0.00225733634312
+"sprawdzian";1;0.00225733634312
+"bałkański";1;0.00225733634312
+"wyczyn";2;0.00451467268623
+"zjawisko fizjologiczne";2;0.00451467268623
+"forma";2;0.00451467268623
+"humanoid";2;0.00451467268623
+"opinia";2;0.00451467268623
+"świadomość";2;0.00451467268623
+"sieć komputerowa";2;0.00451467268623
+"principium";2;0.00451467268623
+"motyw";2;0.00451467268623
+"cecha czynności";2;0.00451467268623
+"zespół cech";2;0.00451467268623
+"konieczność";2;0.00451467268623
+"napój";2;0.00451467268623
+"napór";2;0.00451467268623
+"jednostka leksykalna";2;0.00451467268623
+"efekt";2;0.00451467268623
+"Polska";2;0.00451467268623
+"opłata";2;0.00451467268623
+"kwintesencja";2;0.00451467268623
+"cecha człowieka";2;0.00451467268623
+"człowiek charakteryzowany ze względu na miejsce pobytu";2;0.00451467268623
+"Chopin";2;0.00451467268623
+"zapiski";2;0.00451467268623
+"fakt";2;0.00451467268623
+"wytwór umysłu";2;0.00451467268623
+"rodzimy";2;0.00451467268623
+"być";2;0.00451467268623
+"kres";2;0.00451467268623
+"przedmiot";2;0.00451467268623
+"dysk";2;0.00451467268623
+"język";2;0.00451467268623
+"odgłos";2;0.00451467268623
+"skalarna wielkość fizyczna";2;0.00451467268623
+"dobro";2;0.00451467268623
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";3;0.00677200902935
+"pożywiać się";3;0.00677200902935
+"sprzęt sportowy";3;0.00677200902935
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";3;0.00677200902935
+"proces fizjologiczny";3;0.00677200902935
+"dwuślad";3;0.00677200902935
+"środki masowego przekazu";4;0.00902934537246
+"gabaryt";4;0.00902934537246
+"krytyczność";4;0.00902934537246
+"część garderoby";4;0.00902934537246
+"żywić do kogoś uczucie pozytywne";4;0.00902934537246
+"miasto";4;0.00902934537246
+"zrobić _AKT_ DK";4;0.00902934537246
+"zrobienie _AKT_ DK";4;0.00902934537246
+"deklaracja";4;0.00902934537246
+"składać";4;0.00902934537246
+"określić";4;0.00902934537246
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie reakcji organizmu lub czynności fizjologicznej";4;0.00902934537246
+"płyta";4;0.00902934537246
+"zestawienie";4;0.00902934537246
+"GERUNDIUM - AKT oznaczający zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";4;0.00902934537246
+"Madonna";4;0.00902934537246
+"sposób";4;0.00902934537246
+"robot";4;0.00902934537246
+"pojazd niemechaniczny";6;0.0135440180587
+"miejsce";6;0.0135440180587
+"hipertekst";6;0.0135440180587
+"dwukołowiec";6;0.0135440180587
+"intrata";6;0.0135440180587
+"rodzic";6;0.0135440180587
+"charakteryzować się";7;0.0158013544018
+"zbiornik wodny";8;0.0180586907449
+"szkoła";8;0.0180586907449
+"pojazd drogowy";9;0.020316027088
+"utwór wokalny";10;0.0225733634312
+"dostojnik";11;0.0248306997743
+"verbum";14;0.0316027088036
+"młódka";18;0.0406320541761
+"antenat";20;0.0451467268623
+"CZASOWNIK STANOWY NDK";30;0.0677200902935
+"określać";32;0.0722347629797
+"jakowyś";52;0.117381489842

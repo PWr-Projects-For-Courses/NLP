@@ -1,0 +1,103 @@
+"Aleksander I";1;0.00225733634312
+"kasa";1;0.00225733634312
+"gabinet";1;0.00225733634312
+"zbiór rzeczy";1;0.00225733634312
+"podatnik";1;0.00225733634312
+"promil";1;0.00225733634312
+"Adam";1;0.00225733634312
+"chwila";1;0.00225733634312
+"kwota";1;0.00225733634312
+"zabarwienie";1;0.00225733634312
+"Królestwo Szwecji";1;0.00225733634312
+"robienie CZYNNOŚĆ";1;0.00225733634312
+"ustawodawstwo";1;0.00225733634312
+"opłata";1;0.00225733634312
+"czaszka";1;0.00225733634312
+"Republika Czeska";1;0.00225733634312
+"ono";1;0.00225733634312
+"pole";1;0.00225733634312
+"wosk";1;0.00225733634312
+"zestawienie";1;0.00225733634312
+"Małopolska";1;0.00225733634312
+"czynienie";1;0.00225733634312
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO NIEZMIENNOSTANOWEGO";1;0.00225733634312
+"rozgrywka";1;0.00225733634312
+"Norwegia";1;0.00225733634312
+"przyrząd";1;0.00225733634312
+"sprawdzian";1;0.00225733634312
+"zapis";2;0.00451467268623
+"zjawisko fizjologiczne";2;0.00451467268623
+"wyglądać";2;0.00451467268623
+"środki masowego przekazu";2;0.00451467268623
+"wpływ";2;0.00451467268623
+"wyczyn";2;0.00451467268623
+"kraina";2;0.00451467268623
+"wskazówka";2;0.00451467268623
+"krytyczność";2;0.00451467268623
+"siedziba";2;0.00451467268623
+"miejsce";2;0.00451467268623
+"część garderoby";2;0.00451467268623
+"zjawisko akustyczne";2;0.00451467268623
+"kompleks";2;0.00451467268623
+"imię";2;0.00451467268623
+"konsekwentność";2;0.00451467268623
+"nierówność";2;0.00451467268623
+"zgon";2;0.00451467268623
+"tryb";2;0.00451467268623
+"idea";2;0.00451467268623
+"napój";2;0.00451467268623
+"napór";2;0.00451467268623
+"efekt";2;0.00451467268623
+"Polska";2;0.00451467268623
+"wielkość fizyczna";2;0.00451467268623
+"cecha człowieka";2;0.00451467268623
+"źródło";2;0.00451467268623
+"miejsce docelowe";2;0.00451467268623
+"dzieło";2;0.00451467268623
+"zasób naturalny";2;0.00451467268623
+"rodzimy";2;0.00451467268623
+"obowiązkowość";2;0.00451467268623
+"angielski";2;0.00451467268623
+"umiejętność";2;0.00451467268623
+"macedoński";2;0.00451467268623
+"Chopin";2;0.00451467268623
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";2;0.00451467268623
+"budowla";2;0.00451467268623
+"android";2;0.00451467268623
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";2;0.00451467268623
+"nagranie";2;0.00451467268623
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.00451467268623
+"miejsce wyróżniające się z całości obiektu";2;0.00451467268623
+"robić";3;0.00677200902935
+"grupa istot";3;0.00677200902935
+"gabaryt";4;0.00902934537246
+"praca";4;0.00902934537246
+"proces";4;0.00902934537246
+"zespół cech";4;0.00902934537246
+"pieniądze";4;0.00902934537246
+"miejscowość";4;0.00902934537246
+"Madonna";4;0.00902934537246
+"moment";4;0.00902934537246
+"konstrukcja";4;0.00902934537246
+"dobro";4;0.00902934537246
+"zwierzę";5;0.0112866817156
+"heterotrof";5;0.0112866817156
+"tekst";5;0.0112866817156
+"wielokomórkowiec";5;0.0112866817156
+"dwunóg";5;0.0112866817156
+"małpa";5;0.0112866817156
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";6;0.0135440180587
+"wytwór umysłu";6;0.0135440180587
+"charakteryzować się";7;0.0158013544018
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";8;0.0180586907449
+"pojazd";8;0.0180586907449
+"twór";9;0.020316027088
+"istota żywa";10;0.0225733634312
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";12;0.0270880361174
+"środek lokomocji";16;0.0361173814898
+"znak";16;0.0361173814898
+"przedmiot";20;0.0451467268623
+"istota ludzka";23;0.0519187358916
+"być";30;0.0677200902935
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";31;0.0699774266366
+"jakowyś";52;0.117381489842

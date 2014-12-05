@@ -1,0 +1,127 @@
+"proces ekonomiczny";1;0.00225733634312
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający powodowanie zm. stanu mentalnego lub emocjonalnego albo reakcję emocjonalno-fizjologiczną";1;0.00225733634312
+"podatek";1;0.00225733634312
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";1;0.00225733634312
+"Aleksander I";1;0.00225733634312
+"podatnik";1;0.00225733634312
+"ewidencja";1;0.00225733634312
+"Adam";1;0.00225733634312
+"pojazd z własnym napędem";1;0.00225733634312
+"koło";1;0.00225733634312
+"Królestwo Szwecji";1;0.00225733634312
+"czas";1;0.00225733634312
+"robienie CZYNNOŚĆ";1;0.00225733634312
+"ustawodawstwo";1;0.00225733634312
+"CZASOWNIK ZDARZENIOWY NDK";1;0.00225733634312
+"czaszka";1;0.00225733634312
+"promil";1;0.00225733634312
+"Republika Czeska";1;0.00225733634312
+"ono";1;0.00225733634312
+"pole";1;0.00225733634312
+"CZASOWNIK - ZDARZENIE NDK oznaczający powodowanie reakcji organizmu lub czynności fizjologicznej";1;0.00225733634312
+"sprzęt sportowy";1;0.00225733634312
+"zestawienie";1;0.00225733634312
+"GERUNDIUM - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";1;0.00225733634312
+"wosk";1;0.00225733634312
+"człowiek, który coś robi";1;0.00225733634312
+"płyta";1;0.00225733634312
+"Małopolska";1;0.00225733634312
+"CZASOWNIK - CZYNNOŚĆ NDK oznaczający reakcję organizmu lub czynność fizjologiczną";1;0.00225733634312
+"kolor";1;0.00225733634312
+"Norwegia";1;0.00225733634312
+"GERUNDIUM OD CZASOWNIKA CZYNNOŚCIOWEGO NDK";1;0.00225733634312
+"egzamin";1;0.00225733634312
+"CZASOWNIK - ZDARZENIE NDK oznaczający sytuację związaną z łańcuchem przyczynowo-skutkowym";1;0.00225733634312
+"gra";1;0.00225733634312
+"persona";1;0.00225733634312
+"kolekcja";1;0.00225733634312
+"narzędzie";1;0.00225733634312
+"powodować";2;0.00451467268623
+"wyglądać";2;0.00451467268623
+"kraina";2;0.00451467268623
+"wskazówka";2;0.00451467268623
+"krytyczność";2;0.00451467268623
+"nagranie dźwiękowe";2;0.00451467268623
+"miejsce";2;0.00451467268623
+"część garderoby";2;0.00451467268623
+"pojęcie";2;0.00451467268623
+"krajowy";2;0.00451467268623
+"kasa";2;0.00451467268623
+"zaklęsłość";2;0.00451467268623
+"realizacja";2;0.00451467268623
+"konsekwentność";2;0.00451467268623
+"nierówność";2;0.00451467268623
+"tętno";2;0.00451467268623
+"zgon";2;0.00451467268623
+"budynek";2;0.00451467268623
+"Chopin";2;0.00451467268623
+"hipertekst";2;0.00451467268623
+"przystrój";2;0.00451467268623
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.00451467268623
+"czuć";2;0.00451467268623
+"profit";2;0.00451467268623
+"sąd";2;0.00451467268623
+"efekt";2;0.00451467268623
+"Polska";2;0.00451467268623
+"woda";2;0.00451467268623
+"zespół urządzeń";2;0.00451467268623
+"źródło informacji";2;0.00451467268623
+"kreacja";2;0.00451467268623
+"druk";2;0.00451467268623
+"człowiek charakteryzowany ze względu na miejsce pobytu";2;0.00451467268623
+"rekord";2;0.00451467268623
+"zapiski";2;0.00451467268623
+"szkoła";2;0.00451467268623
+"kawa";2;0.00451467268623
+"miejsce docelowe";2;0.00451467268623
+"zasób naturalny";2;0.00451467268623
+"los";2;0.00451467268623
+"ciśnienie";2;0.00451467268623
+"dobre imię";2;0.00451467268623
+"intrata";2;0.00451467268623
+"sieć";2;0.00451467268623
+"angielski";2;0.00451467268623
+"macedoński";2;0.00451467268623
+"zabytek";2;0.00451467268623
+"utwór muzyczny";2;0.00451467268623
+"odgłos";2;0.00451467268623
+"android";2;0.00451467268623
+"wiedza";2;0.00451467268623
+"skalarna wielkość fizyczna";2;0.00451467268623
+"proces";3;0.00677200902935
+"robić _CZYNNOŚĆ_";3;0.00677200902935
+"człowiek ze względu na pełnioną funkcję";3;0.00677200902935
+"ludzie";3;0.00677200902935
+"CZASOWNIK CZYNNOŚCIOWY NDK";3;0.00677200902935
+"imię";4;0.00902934537246
+"budowla";4;0.00902934537246
+"miasto";4;0.00902934537246
+"idea";4;0.00902934537246
+"urządzenie";4;0.00902934537246
+"okoliczność";4;0.00902934537246
+"nosiciel cechy";4;0.00902934537246
+"liczność";4;0.00902934537246
+"GERUNDIUM OD CZASOWNIKA ZMIENNOSTANOWEGO NIETELICZNEGO";4;0.00902934537246
+"Madonna";4;0.00902934537246
+"uczynienie";4;0.00902934537246
+"kwota";5;0.0112866817156
+"konsument";5;0.0112866817156
+"dwunóg";5;0.0112866817156
+"strunowiec";5;0.0112866817156
+"małpa wąskonosa";5;0.0112866817156
+"człowiek ze względu na relacje społeczne";5;0.0112866817156
+"człowiek";5;0.0112866817156
+"sposób";6;0.0135440180587
+"człowiek charakteryzowany pod względem wieku";7;0.0158013544018
+"twór";7;0.0158013544018
+"charakteryzować się";7;0.0158013544018
+"CZASOWNIK - AKT oznaczający spowodowanie zmiany stanu mentalnego, emocjonalnego lub psychiczno-fizjologicznego";9;0.020316027088
+"spowodować";9;0.020316027088
+"tekst";9;0.020316027088
+"zwierzę";10;0.0225733634312
+"zrobić";11;0.0248306997743
+"CZASOWNIK ZMIENNOSTANOWY NIETELICZNY";11;0.0248306997743
+"znak językowy";16;0.0361173814898
+"pojazd";23;0.0519187358916
+"być";30;0.0677200902935
+"jakowyś";52;0.117381489842

@@ -1,0 +1,163 @@
+"uszkodzenie";1;0.000965250965251
+"płyta DVD";1;0.000965250965251
+"wrzutka";1;0.000965250965251
+"nierówność";1;0.000965250965251
+"liczyć";1;0.000965250965251
+"rzecz";1;0.000965250965251
+"porozumienie";1;0.000965250965251
+"CZASOWNIK oznaczający sytuację związaną z wytwarzaniem czegoś";1;0.000965250965251
+"e-mail";1;0.000965250965251
+"Facebook";1;0.000965250965251
+"Peugeot";1;0.000965250965251
+"czas";1;0.000965250965251
+"CZASOWNIK oznaczający sytuację związaną ze zjawiskiem fizycznym";1;0.000965250965251
+"opłata";1;0.000965250965251
+"uporządkowanie";1;0.000965250965251
+"Jarocin";1;0.000965250965251
+"lewus";1;0.000965250965251
+"umowa";1;0.000965250965251
+"rzut";1;0.000965250965251
+"być";1;0.000965250965251
+"materiał";1;0.000965250965251
+"żuława";1;0.000965250965251
+"ciało stałe";1;0.000965250965251
+"CZASOWNIK - STAN NDK oznaczający stan fizyczny";1;0.000965250965251
+"CZASOWNIK oznaczający sytuację związaną z reakcją organizmu lub czynnością fizjologiczną";1;0.000965250965251
+"dziedzina wiedzy";1;0.000965250965251
+"pierwiastek";1;0.000965250965251
+"tworzywo";1;0.000965250965251
+"miejsce wyróżniające się z całości obiektu";1;0.000965250965251
+"deskrypcja";2;0.0019305019305
+"zapis";2;0.0019305019305
+"jednostka gospodarcza";2;0.0019305019305
+"wpływ";2;0.0019305019305
+"zjawisko atmosferyczne";2;0.0019305019305
+"egzotyk";2;0.0019305019305
+"zabawa";2;0.0019305019305
+"tkanka łączna";2;0.0019305019305
+"rządy";2;0.0019305019305
+"luka";2;0.0019305019305
+"zakwas";2;0.0019305019305
+"tryb";2;0.0019305019305
+"koszt";2;0.0019305019305
+"stenobiont";2;0.0019305019305
+"pora";2;0.0019305019305
+"napór";2;0.0019305019305
+"pomidorek";2;0.0019305019305
+"retrowirus";2;0.0019305019305
+"rozmowa";2;0.0019305019305
+"dowód";2;0.0019305019305
+"operacja";2;0.0019305019305
+"kopytko";2;0.0019305019305
+"pośrednictwo";2;0.0019305019305
+"stworzenie oceniane negatywnie";2;0.0019305019305
+"skutek";2;0.0019305019305
+"wytwór roślinny";2;0.0019305019305
+"cecha człowieka";2;0.0019305019305
+"system symboliczny";2;0.0019305019305
+"praca umysłowa";2;0.0019305019305
+"blog";2;0.0019305019305
+"jakowyś";2;0.0019305019305
+"cytrynka";2;0.0019305019305
+"działania";2;0.0019305019305
+"słowa";2;0.0019305019305
+"filmik";2;0.0019305019305
+"piersi";2;0.0019305019305
+"karta";2;0.0019305019305
+"substancja jadalna";2;0.0019305019305
+"inhibitor";2;0.0019305019305
+"cierpienie psychiczne";2;0.0019305019305
+"edafon";2;0.0019305019305
+"coś";2;0.0019305019305
+"moment";2;0.0019305019305
+"paczka";2;0.0019305019305
+"modlitwa";2;0.0019305019305
+"CZASOWNIK - STAN NDK oznaczający stan emocjonalny";2;0.0019305019305
+"sprawdzian";2;0.0019305019305
+"pogoda";2;0.0019305019305
+"brew";2;0.0019305019305
+"spadek";2;0.0019305019305
+"mieć jakiś parametr, cechę";2;0.0019305019305
+"rok";3;0.00289575289575
+"powierzchnia";3;0.00289575289575
+"CZASOWNIK oznaczający sytuację związaną z następstwem czasowym zdarzeń";3;0.00289575289575
+"ustawodawstwo";3;0.00289575289575
+"klawiatura";3;0.00289575289575
+"muzyka";3;0.00289575289575
+"system";3;0.00289575289575
+"procent";3;0.00289575289575
+"znak";3;0.00289575289575
+"zmiana";3;0.00289575289575
+"pieniądze";3;0.00289575289575
+"cykl astronomiczny";3;0.00289575289575
+"twórczość";3;0.00289575289575
+"produkt";3;0.00289575289575
+"charakteryzować się";3;0.00289575289575
+"dobro";3;0.00289575289575
+"autotrof";4;0.003861003861
+"konto";4;0.003861003861
+"cząstka elementarna";4;0.003861003861
+"Adam";4;0.003861003861
+"siedziba";4;0.003861003861
+"wysokość";4;0.003861003861
+"egzystować";4;0.003861003861
+"tragedia";4;0.003861003861
+"wyraz";4;0.003861003861
+"wielkość fizyczna";4;0.003861003861
+"impreza";4;0.003861003861
+"następność";4;0.003861003861
+"dzieło";4;0.003861003861
+"Bóg";4;0.003861003861
+"pieniądz";4;0.003861003861
+"dom";4;0.003861003861
+"ciało niebieskie";4;0.003861003861
+"dwunóg";4;0.003861003861
+"małpa";4;0.003861003861
+"operacja finansowa";4;0.003861003861
+"przemowa";4;0.003861003861
+"wskazówka";5;0.00482625482625
+"traf";5;0.00482625482625
+"pokarm";5;0.00482625482625
+"afiliacja";5;0.00482625482625
+"spowodowanie _DZIAŁANIA DK_";5;0.00482625482625
+"ciecz";6;0.00579150579151
+"istota nadprzyrodzona";6;0.00579150579151
+"robienie CZYNNOŚĆ";6;0.00579150579151
+"istota mitologiczna";6;0.00579150579151
+"przyrząd";6;0.00579150579151
+"CZASOWNIK oznaczający sytuację związaną z kontaktem fizycznym";6;0.00579150579151
+"część";6;0.00579150579151
+"czynienie";6;0.00579150579151
+"CZASOWNIK oznaczający sytuację związaną z posiadaniem";6;0.00579150579151
+"proces";7;0.00675675675676
+"CZASOWNIK oznaczający sytuację związaną z położeniem (relacjami przestrzennymi) lub zmianą położenia (relacji przestrzennych)";7;0.00675675675676
+"wytwór umysłu";7;0.00675675675676
+"praca";8;0.00772200772201
+"heterotrof";8;0.00772200772201
+"tekst";8;0.00772200772201
+"budowla";8;0.00772200772201
+"struktura anatomiczna";8;0.00772200772201
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO NIEZMIENNOSTANOWEGO";8;0.00772200772201
+"zbiór rzeczy";9;0.00868725868726
+"część garderoby";9;0.00868725868726
+"substancja chemiczna";9;0.00868725868726
+"CZASOWNIK - STAN NDK oznaczający relacje ponadczasowe i abstrakcyjne";10;0.00965250965251
+"niemoc";10;0.00965250965251
+"realia";11;0.0106177606178
+"CZASOWNIK oznaczający sytuację związaną ze współżyciem w społeczeństwie";12;0.011583011583
+"CZASOWNIK oznaczający sytuację związaną ze stanem mentalnym lub emocjonalnym albo reakcją emocjonalno-fizjologiczną";12;0.011583011583
+"zwierzę";12;0.011583011583
+"CZASOWNIK oznaczający sytuacje związane z łańcuchem przyczynowo-skutkowym";14;0.0135135135135
+"grupa istot";15;0.0144787644788
+"wielokomórkowiec";16;0.015444015444
+"CZASOWNIK oznaczający sytuacje związane z relacjami abstrakcyjnymi";16;0.015444015444
+"konstrukcja";16;0.015444015444
+"twór";16;0.015444015444
+"robić";22;0.0212355212355
+"zespół cech";22;0.0212355212355
+"istota żywa";24;0.023166023166
+"CZASOWNIK DYNAMICZNY NIEZMIENNOSTANOWY";24;0.023166023166
+"GERUNDIUM OD CZASOWNIKA DYNAMICZNEGO ZMIENNOSTANOWEGO";36;0.034749034749
+"przedmiot";70;0.0675675675676
+"istota ludzka";113;0.109073359073
+"CZASOWNIK DYNAMICZNY ZMIENNOSTANOWY";127;0.122586872587
