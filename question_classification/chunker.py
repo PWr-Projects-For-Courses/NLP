@@ -51,7 +51,7 @@ class IOBBIERWSWrapper:
                 'chunks': False
         }
         done = False
-        # print "FRIST"
+        #print "FRIST"
         while not done:
             time.sleep(SLEEP_TIME)
             token_resp = requests.post(SEND_ADDR, data=args)
@@ -66,10 +66,10 @@ class IOBBIERWSWrapper:
                 pass
         done = False
         time.sleep(SLEEP_TIME)
-        # print "SEKOND"
+        #print "SEKOND"
         while not done:
             res = requests.post(CHECK_ADDR, data=token)
-            # print res.json()
+            #print res.json()
             done = True if res.json()[u'status'] == u'READY' else False
             time.sleep(SLEEP_TIME)
         args = {'token': token[u'token'], 'output': 'plain'}
@@ -118,3 +118,6 @@ class IOBBIERWSWrapper:
 def main(args=[]):
     print IOBBIERWSWrapper().get_chunk_heads(u"Dlaczego ludzie się od siebie uzależniają?")
     print IOBBIERWSWrapper().get_chunk_heads(u"Dlaczego motyw ostatecznej zagłady świata tak bardzo inspiruje twórców różnych epok?")
+
+if __name__ == '__main__':
+    main()
