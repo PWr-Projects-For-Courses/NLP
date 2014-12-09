@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
 
-from question_classification.gen_chunkheads_freqs import main
+from question_classification.bayesian_classifier import main
 import sys
 from question_classification.http_get_cache_proxy import run, stop
 

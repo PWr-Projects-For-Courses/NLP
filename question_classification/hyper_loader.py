@@ -44,4 +44,5 @@ def load_all():
 
 
 if __name__ == '__main__':
-    print load_all()
+    assert load(-1, 'QC_CAUSE')[u'żyd']['absolute'] == 48
+    #print load_all()

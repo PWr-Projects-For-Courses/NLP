@@ -9,11 +9,11 @@ from functools import partial
 
 FREQS = load_all()
 chunker = IOBBIERWSWrapper()
-LEVEL = 1
+LEVEL = -1
 
 def find_oto_phrase(sentence, qc):
     heads = chunker.get_chunk_heads(sentence)
-    print heads
+    heads = [head.lemma for head in heads]
     likelihood_foo = partial(likelihood, qc=qc)
     return max(heads, key=likelihood_foo)
 
@@ -21,8 +21,10 @@ def find_oto_phrase(sentence, qc):
 def likelihood(token, qc):
     out = 0.0
     hyponyms = get_hyponyms_paths(token)
+    #print hyponyms                 # take a look here, sometimes we get only one path with one level
     for path in hyponyms:
-        freq = get_freq(hyponyms[path][LEVEL], qc, LEVEL)
+        freq = get_freq(path[LEVEL].lemma, qc, LEVEL)      # wtf, something is not right
+        #freq = get_freq(hyponyms[path][LEVEL], qc, LEVEL)
         if freq > 0:
             out += math.log(freq, 2)
     return out
@@ -33,8 +35,7 @@ def get_freq(token, qc, level):
     except KeyError:
         return 0
 
-
-if __name__ == '__main__':
+def main(args):
     print find_oto_phrase(u'Dlaczego mamy sny?', 'QC_CAUSE')
 
 #wynik[x][y] oznacza ścieżke x, poziom y) - na razie hardkoduj poziom 1
