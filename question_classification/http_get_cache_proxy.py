@@ -34,7 +34,7 @@ class CacheHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         self.wfile.writelines(data)
 
 def serve():
-    server_address = ('', 8000)
+    server_address = ('', 8001)
     httpd = BaseHTTPServer.HTTPServer(server_address, CacheHandler)
     httpd.serve_forever()
 

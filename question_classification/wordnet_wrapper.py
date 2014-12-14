@@ -6,7 +6,7 @@ import pylev
 import requests
 
 # remove "localhost:8000/" to stop caching
-APIS_BASE = "http://localhost:8000/plwordnet.pwr.wroc.pl/wordnet/api"
+APIS_BASE = "http://localhost:8001/plwordnet.pwr.wroc.pl/wordnet/api"
 
 sense = namedtuple("sense", "id lemma lang".split())
 
