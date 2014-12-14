@@ -7,9 +7,9 @@ from question_classification.http_get_cache_proxy import run, stop
 
 if __name__ == "__main__":
     #try:
-    run()
+    # run()
     main(sys.argv)
-    stop()
+    # stop()
     #except BaseException, e:
     #    print e.message
     #    raise e

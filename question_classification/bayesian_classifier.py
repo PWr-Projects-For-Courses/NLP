@@ -11,7 +11,7 @@ FREQS = load_all()
 chunker = IOBBIERWSWrapper()
 LEVEL = -1
 
-def find_oto_phrase(sentence, qc):
+def find_eat_indicating_phrase(sentence, qc):
     heads = chunker.get_chunk_heads(sentence)
     heads = [head.lemma for head in heads]
     likelihood_foo = partial(likelihood, qc=qc)
@@ -35,8 +35,8 @@ def get_freq(token, qc, level):
     except KeyError:
         return 0
 
-def main(args):
-    print find_oto_phrase(u'Dlaczego mamy sny?', 'QC_CAUSE')
+def main(args=[]):
+    print find_eat_indicating_phrase(u'Dlaczego mamy sny?', 'QC_CAUSE')
 
 #wynik[x][y] oznacza ścieżke x, poziom y) - na razie hardkoduj poziom 1
 
@@ -51,3 +51,6 @@ def main(args):
 #　　　　if helper>0:
 #　　　　　　out += log(helper)
 #　　return out
+
+if __name__=="__main__":
+    main()
