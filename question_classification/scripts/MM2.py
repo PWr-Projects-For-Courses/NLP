@@ -7,7 +7,8 @@ from question_classification.classifier import classify
 from question_classification.model import Record
 
 
-data_root = os.path.join(os.path.dirname(__file__), "../data/plain_data")
+data_root = os.path.join(os.path.dirname(__file__),
+                         "../data/../../data/plain_data")
 
 classes = u'''QC_CAUSE QC_DECISION QC_DEF QC_DIRECT QC_LOC QC_NONPER QC_PER QC_PROCEDURE QC_QUANTITY QC_STATE QC_TEMP
 '''.strip().split()

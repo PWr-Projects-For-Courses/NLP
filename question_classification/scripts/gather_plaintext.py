@@ -39,7 +39,8 @@ def dump_plaintext(path, records, encoding="utf8"):
 def main(args=[__file__]):
     config = (0, 1, 2, 3)
     path = "./data/data.csv"
-    out_root = os.path.join(os.path.dirname(__file__), "../data/plain_data")
+    out_root = os.path.join(os.path.dirname(__file__),
+                            "../data/../../data/plain_data")
     records = read_file(path, *config)
     classes = {}
     for r in records:

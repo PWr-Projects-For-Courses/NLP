@@ -43,7 +43,7 @@ def main(args=[__file__]):
     out_path = "./data/data.csv"
     if len(args)>1:
         out_path = args[0]
-    raw_data_dir = os.path.join(os.path.dirname(__file__), "../raw_data")
+    raw_data_dir = os.path.join(os.path.dirname(__file__), "../../../raw_data")
 
     # records = {} # słownik, żeby deduplikować rekordy
     records = set([])

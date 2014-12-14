@@ -1,5 +1,4 @@
 pylev
 pybrain
 requests
-iobber
 beautifulsoup4

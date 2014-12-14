@@ -9,7 +9,8 @@ from collections import defaultdict
 # '''.strip().split()
 classes = [u"QC_TEMP"]
 
-DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data"))
+DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__),
+                                        "../../../data"))
 HYPERONYM_OFFSETS = [1, 2, 3, -1, -2]
 
 def make_dirs():

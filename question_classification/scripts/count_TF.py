@@ -21,8 +21,10 @@ def dump_dict(terms, path, encoding = "utf8"):
             print >> f, k + " : " + str(v)
 
 def main(args=[__file__]):
-    tagged_root = os.path.join(os.path.dirname(__file__), "../data/tagged_data")
-    tf_root = os.path.join(os.path.dirname(__file__), "../data/tf_data")
+    tagged_root = os.path.join(os.path.dirname(__file__),
+                               "../data/../../data/tagged_data")
+    tf_root = os.path.join(os.path.dirname(__file__),
+                           "../data/../../data/tf_data")
     for fn in os.listdir(tagged_root):
         path = os.path.join(tagged_root, fn)
         tree = ET.parse(path)
