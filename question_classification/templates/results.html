@@ -3,28 +3,31 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>IJN - projekt; Klasyfikacja pytań</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-<h1>Klasyfikacja i wskazanie części pytania określającej OTO:</h1>
-<form action="results.html">
-    <table>
-        <tr>
-            <td><label for="sentence">Zdanie do klasyfikacji:</label></td>
-            <td><input id="sentence" type="text" name="sentence" value="{{sentence}}" readonly></td>
-        </tr>
-        <tr>
-            <td><label for="clazz">Klasa:</label></td>
-            <td><input id="clazz" type="text" name="clazz" value="{{clazz}}" readonly></td>
-        </tr>
-        <tr>
-            <td><label for="indicator">Element wskazujący na OTO:</label></td>
-            <td><input id="indicator" type="text" name="indicator" value="{{indicator}}" readonly></td>
-        </tr>
+<div class="container">
+    <h1>Klasyfikacja i wskazanie części pytania określającej OTO:</h1>
+    <form action="results.html">
+        <table>
+            <tr>
+                <td class="desc"><label for="sentence">Zdanie do klasyfikacji:</label></td>
+                <td class="result"><input id="sentence" type="text" name="sentence" value="{{sentence}}" readonly></td>
+            </tr>
+            <tr>
+                <td class="desc"><label for="clazz">Klasa:</label></td>
+                <td class="result"><input id="clazz" type="text" name="clazz" value="{{clazz}}" readonly></td>
+            </tr>
+            <tr>
+                <td class="desc"><label for="indicator">Element wskazujący na OTO:</label></td>
+                <td class="result"><input id="indicator" type="text" name="indicator" value="{{indicator}}" readonly></td>
+            </tr>
 
-        <br>
-    </table>
-</form>
-<a href="index.html">Powrót</a>
+            <br>
+        </table>
+    </form>
+    <a href="index.html">Powrót</a>
+</div>
 </body>
 </html>
 

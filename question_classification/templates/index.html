@@ -3,18 +3,20 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>IJN - projekt; Klasyfikacja pytań</title>
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+<div class="container">
     <h1>Klasyfikacja i wskazanie części pytania określającej OTO:</h1>
     <form action="classify.html" method="post">
         <table>
             <tr>
-                <td><label for="sentence">Pytanie:</label></td>
-                <td><input type="text" name="sentence"></td>
+                <td class="desc"><label for="sentence">Pytanie:</label></td>
+                <td class="foruser"><input type="text" name="sentence"></td>
             </tr>
             <tr>
-                <td></td>
-                <td><input type="submit" value="Klasyfikuj!"></td>
+                <td class="desc"></td>
+                <td class="foruser"><input type="submit" value="Klasyfikuj!"></td>
             </tr>
         </table>
     </form>
@@ -23,25 +25,26 @@
     <form action="indicate.html" method="post">
         <table>
             <tr>
-                <td><label for="sentence">Pytanie:</label></td>
-                <td><input id="sentence" type="text" name="sentence"></td>
+                <td class="desc"><label for="sentence">Pytanie:</label></td>
+                <td class="foruser"><input id="sentence" type="text" name="sentence"></td>
             </tr>
             <tr>
-                <td><label for="clazz">Klasa pytania:</label></td>
-                <td>
+                <td class="desc"><label for="clazz">Klasa pytania:</label></td>
+                <td class="foruser">
                     <select id="clazz" name="clazz">
-                    {% for c in classes %}
+                        {% for c in classes %}
                         <option value="{{c}}">{{c}}</option>
-                    {% endfor %}
+                        {% endfor %}
                     </select>
                 </td>
             </tr>
             <tr>
-                <td></td>
-                <td><input type="submit" value="Wskaż!"></td>
+                <td class="desc"></td>
+                <td class="foruser"><input type="submit" value="Wskaż!"></td>
             </tr>
         </table>
     </form>
+</div>
 </body>
 </html>
 
