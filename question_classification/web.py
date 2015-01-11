@@ -38,5 +38,5 @@ def main(args=[]):
         clazz = request.form["clazz"]
         indicator = find_eat_indicating_phrase(sentence, clazz)
         return render_template("results.html", sentence=sentence, clazz=clazz, indicator=indicator)
-
+    print "STARTING on port 8080"
     app.run(host="", port=8080, debug=True)
