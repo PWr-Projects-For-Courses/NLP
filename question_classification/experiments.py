@@ -33,6 +33,7 @@ def gather_experiments_results(folds):
         training_set = ClassificationDataSet(len(feats), nb_classes=len(classes))
         for inst in training_data:
             training_set.appendLinked(inst.features(), [inst.class_idx()])
+        training_set._convertToOneOfMany([0, 1])
         net_placeholder[0] = buildNetwork(
             training_set.indim,
             int((training_set.indim + training_set.outdim)/2),
@@ -41,7 +42,7 @@ def gather_experiments_results(folds):
             outclass=SoftmaxLayer
         )
         trainer = BackpropTrainer(
-            net_placeholder[0], training_set, momentum=0.75, verbose=True, learningrate=0.05
+            net_placeholder[0], training_set, momentum=0.75, verbose=False, learningrate=0.05
         )
         trainer.trainUntilConvergence(maxEpochs=100, validationProportion=0.1)
     def do_evaluate(eval_data):
@@ -54,3 +55,6 @@ def gather_experiments_results(folds):
 
 def main(args=[]):
     print gather_experiments_results(2)
+
+if __name__ == '__main__':
+    main()
