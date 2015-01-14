@@ -1,5 +1,6 @@
 import codecs
 import os
+import pickle
 from pybrain import TanhLayer, SoftmaxLayer
 from pybrain.datasets import ClassificationDataSet, SupervisedDataSet
 from pybrain.supervised import BackpropTrainer
@@ -28,7 +29,6 @@ def get_all_data_grouped_by_class():
 
 def gather_experiments_results(folds):
     net_placeholder = [None]
-    results = []
     def train(training_data):
         training_set = ClassificationDataSet(len(feats), nb_classes=len(classes))
         for inst in training_data:
@@ -45,16 +45,22 @@ def gather_experiments_results(folds):
             net_placeholder[0], training_set, momentum=0.75, verbose=False, learningrate=0.05
         )
         trainer.trainUntilConvergence(maxEpochs=100, validationProportion=0.1)
-    def do_evaluate(eval_data):
+
+    def do_evaluate(eval_data, folds_number, iter_number):
         eval_set = SupervisedDataSet(len(feats), 1)
         for inst in eval_data:
             eval_set.appendLinked(inst.features(), [inst.class_idx()])
-        results.append(evaluate(net_placeholder[0], eval_set))
+        res = evaluate(net_placeholder[0], eval_set)
+        with open(os.path.join("results", str(folds_number) + ".net." + str(iter_number) + ".obj"), "w") as f:
+            pickle.dump(res, f)
+        #todo: evaluate baseline
+        #todo: save baseline res as
+        # os.path.join("results", str(folds_number) + ".base." + str(iter_number) + ".obj")
+        print res
     crossvalidate(get_all_data_grouped_by_class(), folds, train, do_evaluate)
-    return results
 
 def main(args=[]):
-    print gather_experiments_results(2)
+    gather_experiments_results(2)
 
 if __name__ == '__main__':
     main()

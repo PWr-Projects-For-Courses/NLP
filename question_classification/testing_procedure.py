@@ -66,6 +66,12 @@ class Evaluation:
             sum += eval.getFMeasure() * eval.count
         return sum / self.getAllCount()
 
+    def __str__(self):
+        return "{}; {}; {}; {};".format(self.getWeightedRecall(), self.getWeightedPrecision(),
+                                    self.getWeightedAccuracy(), self.getWeightedFMeasure())
+
+    __repr__ = __str__
+
 
 data_root = os.path.join(os.path.dirname(__file__), "../data/lematized_data")
 
