@@ -27,7 +27,7 @@ def get_all_data_grouped_by_class():
         out[c] = class_data
     return out
 
-def gather_experiments_results(folds):
+def gather_experiments_results(folds, iter_count):
     net_placeholder = [None]
     def train(training_data):
         training_set = ClassificationDataSet(len(feats), nb_classes=len(classes))
@@ -57,10 +57,10 @@ def gather_experiments_results(folds):
         #todo: save baseline res as
         # os.path.join("results", str(folds_number) + ".base." + str(iter_number) + ".obj")
         print res
-    crossvalidate(get_all_data_grouped_by_class(), folds, train, do_evaluate)
+    crossvalidate(get_all_data_grouped_by_class(), folds, iter_count, train, do_evaluate)
 
 def main(args=[]):
-    gather_experiments_results(2)
+    gather_experiments_results(2, 2)
 
 if __name__ == '__main__':
     main()
