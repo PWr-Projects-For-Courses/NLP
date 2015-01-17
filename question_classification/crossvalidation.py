@@ -34,19 +34,19 @@ def crossvalidate(all_data, folds_number, iter_count, train, evaluate):
         training_set = []
         eval_set = []
         for clazz, folds in folds_per_class.iteritems():
-            training_set.extend(folds[0])
+            eval_set.extend(folds[0])
             for fold in folds[1:]:
-                eval_set.extend(fold)
+                training_set.extend(fold)
         train(training_set)
         evaluate(eval_set, folds_number, i)
 
 
 def main(args=[]):
-    assert get_class_folds(3, range(10)) == [ [0, 3, 6, 9], [1, 4, 7], [2, 5, 8] ]
+    #print get_class_folds(3, range(10))
 
     out = []
-    def foo(c, x):
-        out.append(c, x)
+    def foo(x):
+        out.append(x)
     crossvalidate(
         {
             1: range(10),
@@ -54,7 +54,11 @@ def main(args=[]):
             3: range(20, 32)
         },
         3,
-        lambda c, x: foo("TRAIN: "+str(x)),
-        lambda c, x: foo("EVAL: "+str(x)),
+        1,
+        lambda x: foo("TRAIN: "+str(x)),
+        lambda x, f, i: foo("EVAL: "+str(x)),
     )
     print "\n".join(out) # nie chcialo mi sie robic fixture, czytajac wynik stwierdzam, ze jest ok
+
+if __name__ == '__main__':
+    main()

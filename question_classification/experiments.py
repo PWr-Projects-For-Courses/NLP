@@ -60,15 +60,15 @@ def gather_experiments_results(folds, iter_count):
     crossvalidate(get_all_data_grouped_by_class(), folds, iter_count, train, do_evaluate)
 
 def main(args=[]):
-    #gather_experiments_results(2, 20)
+    gather_experiments_results(2, 20)
     gather_experiments_results(3, 20)
     gather_experiments_results(4, 20)
-    #gather_experiments_results(5, 20)
-    #gather_experiments_results(6, 20)
-    #gather_experiments_results(7, 20)
-    #gather_experiments_results(8, 20)
-    #gather_experiments_results(9, 20)
-    #gather_experiments_results(10, 20)
+    gather_experiments_results(5, 20)
+    gather_experiments_results(6, 20)
+    gather_experiments_results(7, 20)
+    gather_experiments_results(8, 20)
+    gather_experiments_results(9, 20)
+    gather_experiments_results(10, 20)
 
 if __name__ == '__main__':
     main()
