@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: UTF-8 -*-
 
-from question_classification.config import lematizer
+from question_classification.config import lematizer, feats, classes
 
 
 class Corpus:
@@ -27,6 +27,8 @@ class Corpus:
         Corpus.current_corpus = Corpus.corpus_stack.pop()
 
 
+Corpus.current_corpus = Corpus(classes, "", feats)
+
 #todo: memoize the hell out of this
 class Record:
     '''
@@ -38,7 +40,7 @@ class Record:
     '''
     def __init__(self, qid, txt, qc, eat):
         self.qid = qid
-        self.txt = txt
+        self.txt = unicode(txt)
         self.qc = qc
         self.eat = eat
 
@@ -88,6 +90,10 @@ class Record:
 
     def features(self):
         return [ feat_word in self.words() for feat_word in Corpus.current_corpus.feature_words ]
+
+    def feature(self, featName):
+        return featName in self.words()
+
 
 
 if __name__=="__main__":

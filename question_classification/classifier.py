@@ -19,9 +19,9 @@ class QCClassifier:
     NET_FILE = os.path.join(os.path.dirname(__file__), "net.xml")
 
 
-
-    c = Corpus(classes, "", feats)
-    Corpus.current_corpus = c
+    # this was moved to model
+    # c = Corpus(classes, "", feats)
+    # Corpus.current_corpus = c
 
     def build_net(self):
         if os.path.exists(self.NET_FILE):
