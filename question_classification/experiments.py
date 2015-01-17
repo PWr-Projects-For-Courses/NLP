@@ -31,6 +31,7 @@ def gather_experiments_results(folds, iter_count):
     net_placeholder = [None]
     def train(training_data):
         training_set = ClassificationDataSet(len(feats), nb_classes=len(classes))
+        training_set.data
         for inst in training_data:
             training_set.appendLinked(inst.features(), [inst.class_idx()])
         training_set._convertToOneOfMany([0, 1])

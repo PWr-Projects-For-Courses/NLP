@@ -120,6 +120,7 @@ def evaluate(net, tstData):
     for i in range(len(classes)):
         out.evals.append(EvalResult(classes[i]))
     for input, target in tstData:
+        print input
         probs = net.activate(input)
         res = max(xrange(len(classes)), key= lambda x: probs[x])
         addResult(out, res, int(target[0]))
