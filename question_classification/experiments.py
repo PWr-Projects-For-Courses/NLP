@@ -8,7 +8,7 @@ from pybrain.tools.shortcuts import buildNetwork
 from question_classification.config import classes, feats
 from question_classification.crossvalidation import crossvalidate
 from question_classification.model import Record
-from question_classification.testing_procedure import data_root, evaluate
+from question_classification.testing_procedure import data_root, evaluate, evaluate_base
 
 
 def get_all_data_grouped_by_class():
@@ -31,7 +31,6 @@ def gather_experiments_results(folds, iter_count):
     net_placeholder = [None]
     def train(training_data):
         training_set = ClassificationDataSet(len(feats), nb_classes=len(classes))
-        training_set.data
         for inst in training_data:
             training_set.appendLinked(inst.features(), [inst.class_idx()])
         training_set._convertToOneOfMany([0, 1])
@@ -54,14 +53,22 @@ def gather_experiments_results(folds, iter_count):
         res = evaluate(net_placeholder[0], eval_set)
         with open(os.path.join("results", str(folds_number) + ".net." + str(iter_number) + ".obj"), "w") as f:
             pickle.dump(res, f)
-        #todo: evaluate baseline
-        #todo: save baseline res as
-        # os.path.join("results", str(folds_number) + ".base." + str(iter_number) + ".obj")
+        res = evaluate_base(eval_set)
+        with open(os.path.join("results", str(folds_number) + ".base." + str(iter_number) + ".obj"), 'w') as f:
+            pickle.dump(res, f)
         print res
     crossvalidate(get_all_data_grouped_by_class(), folds, iter_count, train, do_evaluate)
 
 def main(args=[]):
-    gather_experiments_results(2, 2)
+    #gather_experiments_results(2, 20)
+    gather_experiments_results(3, 20)
+    gather_experiments_results(4, 20)
+    #gather_experiments_results(5, 20)
+    #gather_experiments_results(6, 20)
+    #gather_experiments_results(7, 20)
+    #gather_experiments_results(8, 20)
+    #gather_experiments_results(9, 20)
+    #gather_experiments_results(10, 20)
 
 if __name__ == '__main__':
     main()

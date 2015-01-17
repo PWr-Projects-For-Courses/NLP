@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from question_classification.model import Record, Corpus
 
 def feature(vector, name):
     return vector[Corpus.current_corpus.feature_words.index(name)]>0
@@ -30,7 +31,6 @@ def classify(feature_vector):
     return "QC_NONPER" #it is weirdest class, we use it as fallback
 
 if __name__=="__main__":
-    from question_classification.model import Record, Corpus
 
     print classify(Record("", u"Kto wrobil krolika Rogera?", "", "").lematized().features())
     print classify(Record("", u"Jak dojść na dworzec?", "", "").lematized().features())

@@ -7,6 +7,7 @@ from pybrain import TanhLayer, SoftmaxLayer, SigmoidLayer, GaussianLayer
 from pybrain.datasets import ClassificationDataSet, SupervisedDataSet
 from pybrain.supervised import BackpropTrainer
 from pybrain.tools.shortcuts import buildNetwork
+from question_classification import baseline_classifier
 from question_classification.model import Corpus, Record
 from question_classification.config import classes, feats
 
@@ -120,9 +121,19 @@ def evaluate(net, tstData):
     for i in range(len(classes)):
         out.evals.append(EvalResult(classes[i]))
     for input, target in tstData:
-        print input
         probs = net.activate(input)
         res = max(xrange(len(classes)), key= lambda x: probs[x])
+        addResult(out, res, int(target[0]))
+    return out
+
+def evaluate_base(tstData):
+    out = Evaluation()
+    out.evals = []
+    for i in range(len(classes)):
+        out.evals.append(EvalResult(classes[i]))
+    for input, target in tstData:
+        str_class = baseline_classifier.classify(input)
+        res = classes.index(str_class)
         addResult(out, res, int(target[0]))
     return out
 
