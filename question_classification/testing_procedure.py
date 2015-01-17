@@ -23,9 +23,13 @@ class EvalResult:
         self.count = 0
 
     def getRecall(self):
+        if (self.tp + self.fn) == 0:
+            return 0
         return 1.0* self.tp / (self.tp + self.fn)
 
     def getPrecision(self):
+        if (self.tp + self.fp) == 0:
+            return 0
         return 1.0 * self.tp / (self.tp + self.fp)
 
     def getAccuracy(self):
