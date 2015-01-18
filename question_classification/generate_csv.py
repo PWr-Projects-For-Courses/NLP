@@ -13,4 +13,5 @@ with open(out_file, "w") as csv_file:
         csv_file.write('"' + splat[1] + '";' + splat[0] + ";" + splat[2] + ";")
         with open(res, "r") as res_file:
             eval_obj = pickle.load(res_file)
+            #todo: it stopped working, there are new __str__ and __repr__
             csv_file.write(str(eval_obj).replace(".", ",") + "\n")
