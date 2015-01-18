@@ -122,10 +122,10 @@ def create_class_summary_for_fold(out_file, fold):
             csv.write("{};{};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4}".format(*row).replace(".", ","))
             csv.write("\n")
             row = ("B", ) + \
-                  mean_and_stddev(net_per_class[clazz]["a"]) + \
-                  mean_and_stddev(net_per_class[clazz]["p"]) + \
-                  mean_and_stddev(net_per_class[clazz]["r"]) + \
-                  mean_and_stddev(net_per_class[clazz]["f"])
+                  mean_and_stddev(base_per_class[clazz]["a"]) + \
+                  mean_and_stddev(base_per_class[clazz]["p"]) + \
+                  mean_and_stddev(base_per_class[clazz]["r"]) + \
+                  mean_and_stddev(base_per_class[clazz]["f"])
             csv.write(";{};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4}".format(*row).replace(".", ","))
             csv.write("\n")
 
