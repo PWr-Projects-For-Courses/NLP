@@ -1,0 +1,15 @@
+QC_STATE
+Rozmiar zbioru treningowego;F-miara sieci;Odchylenie;F-miara bazy;Odchylenie;Statystycznie lepszy
+0,5%;0,5939;0,1552;0,3371;0,08057;NN
+0,67%;0,5781;0,1424;0,3487;0,1338;NN
+0,75%;0,6622;0,1464;0,3476;0,09928;NN
+0,8%;0,5929;0,202;0,4002;0,1509;NN
+0,83%;0,6294;0,1449;0,3204;0,135;NN
+0,86%;0,6977;0,1385;0,4218;0,1367;NN
+0,88%;0,6003;0,1653;0,3632;0,1384;NN
+0,89%;0,6476;0,1683;0,3637;0,2043;NN
+0,9%;0,6448;0,198;0,3183;0,2385;NN
+
+Liczba „zwycięstw” sieci;9
+Liczba „zwycięstw” bazy;0
+Liczba porównań nieokreślonych;0

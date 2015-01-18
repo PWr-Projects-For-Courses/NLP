@@ -8,3 +8,7 @@ Rozmiar zbioru treningowego;F-miara sieci;Odchylenie;F-miara bazy;Odchylenie;Sta
 0,88%;0,873;0,02347;0,7858;0,02279;NN
 0,89%;0,8663;0,02903;0,7779;0,03667;NN
 0,9%;0,8769;0,02207;0,7725;0,0261;NN
+
+Liczba „zwycięstw” sieci;9
+Liczba „zwycięstw” bazy;0
+Liczba porównań nieokreślonych;0

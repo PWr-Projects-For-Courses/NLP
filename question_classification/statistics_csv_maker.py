@@ -1,3 +1,8 @@
+#!/usr/bin/python2
+# -*- coding: UTF-8 -*-
+
+import codecs
+from collections import defaultdict
 import os
 import pickle
 import scipy.stats
@@ -41,10 +46,11 @@ for res in res_files:
 
 
 def create_csv(out_file, get_values, first_line=None):
-    with open(out_file, "w") as csv_file:
+    with codecs.open(out_file, "w", "utf8") as csv_file:
         if not first_line is None:
             csv_file.write(str(first_line)+"\n")
         csv_file.write(u"Rozmiar zbioru treningowego;F-miara sieci;Odchylenie;F-miara bazy;Odchylenie;Statystycznie lepszy\n")
+        winners = defaultdict(lambda : 0)
         for fold in net_res.keys():
             csv_file.write("{:.2}%".format((fold-1.0)/fold).replace(".", ",")+";")
 
@@ -59,8 +65,13 @@ def create_csv(out_file, get_values, first_line=None):
             base_mean = numpy.mean(num_base_evals)
             base_stddev = numpy.std(num_base_evals)
             csv_file.write("{:.4}".format(base_mean).replace(".", ",") + ";" + "{:.4}".format(base_stddev).replace(".", ",") + ";")
-
-            csv_file.write(determineWinner(net_evals, base_evals) + "\n")
+            winner = determineWinner(net_evals, base_evals)
+            winners[winner] += 1
+            csv_file.write(winner + "\n")
+        csv_file.write("\n")
+        csv_file.write(u"Liczba „zwycięstw” sieci;"+str(winners["NN"])+"\n")
+        csv_file.write(u"Liczba „zwycięstw” bazy;"+str(winners["B"])+"\n")
+        csv_file.write(u"Liczba porównań nieokreślonych;"+str(winners["-"])+"\n")
 
 def create_total_csv(out_file):
     create_csv(out_file, lambda x, fold: [tup[0].getWeightedFMeasure() for tup in sorted(x[fold], key=lambda tup: tup[1])])
@@ -77,7 +88,7 @@ def create_class_csv(clazz, out_file):
 
 if __name__=="__main__":
     pass
-    # out_file = "results_stat.csv"
-    # create_total_csv(out_file)
+    out_file = "results_stat.csv"
+    create_total_csv(out_file)
     for clazz in classes:
         create_class_csv(clazz, clazz+".csv")
