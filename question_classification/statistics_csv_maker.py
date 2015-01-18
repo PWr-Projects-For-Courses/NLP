@@ -2,21 +2,22 @@ import os
 import pickle
 import scipy.stats
 import numpy
+from question_classification.config import classes
 
 
 def determineWinner(net_evals, base_evals):
     t, p = scipy.stats.ttest_rel(net_evals, base_evals)
     if p/2 < confidence_level:
         if t > 0:
-            return '"NN"'
-        return '"B"'
+            return 'NN'
+        return 'B'
     else:
-        return '"-"'
+        return '-'
 
 res_files = [ os.path.join("results", f) for f in os.listdir("results")
               if f.endswith(".obj")]
 
-out_file = "results_stat.csv"
+
 
 confidence_level = 0.05
 
@@ -35,24 +36,48 @@ for res in res_files:
         res_map = all_res[alg]
         if fold not in res_map:
             res_map[fold] = []
-        res_map[fold].append((eval_obj.getWeightedFMeasure(), iter_no))
+        res_map[fold].append((eval_obj, iter_no))
 
 
-with open(out_file, "w") as csv_file:
-    csv_file.write("folds;netFscore;baseFscore;win;\n")
-    for fold in net_res.keys():
-        csv_file.write(str(fold)+";")
 
-        net_evals = [tup[0] for tup in sorted(net_res[fold], key=lambda tup: tup[1])]
-        num_net_evals = numpy.array(net_evals)
-        net_mean = numpy.mean(num_net_evals)
-        net_stddev = numpy.std(num_net_evals)
-        csv_file.write(str(net_mean) + "+-" + str(net_stddev) + ";")
+def create_csv(out_file, get_values, first_line=None):
+    with open(out_file, "w") as csv_file:
+        if not first_line is None:
+            csv_file.write(str(first_line)+"\n")
+        csv_file.write(u"Rozmiar zbioru treningowego;F-miara sieci;Odchylenie;F-miara bazy;Odchylenie;Statystycznie lepszy\n")
+        for fold in net_res.keys():
+            csv_file.write("{:.2}%".format((fold-1.0)/fold).replace(".", ",")+";")
 
-        base_evals = [tup[0] for tup in sorted(base_res[fold], key=lambda tup: tup[1])]
-        num_base_evals = numpy.array(base_evals)
-        base_mean = numpy.mean(num_base_evals)
-        base_stddev = numpy.std(num_base_evals)
-        csv_file.write(str(base_mean) + "+-" + str(base_stddev) + ";")
+            net_evals=get_values(net_res, fold)
+            num_net_evals = numpy.array(net_evals)
+            net_mean = numpy.mean(num_net_evals)
+            net_stddev = numpy.std(num_net_evals)
+            csv_file.write("{:.4}".format(net_mean).replace(".", ",") + ";" + "{:.4}".format(net_stddev).replace(".", ",") + ";")
 
-        csv_file.write(determineWinner(net_evals, base_evals) + ";\n")
+            base_evals = get_values(base_res, fold)
+            num_base_evals = numpy.array(base_evals)
+            base_mean = numpy.mean(num_base_evals)
+            base_stddev = numpy.std(num_base_evals)
+            csv_file.write("{:.4}".format(base_mean).replace(".", ",") + ";" + "{:.4}".format(base_stddev).replace(".", ",") + ";")
+
+            csv_file.write(determineWinner(net_evals, base_evals) + "\n")
+
+def create_total_csv(out_file):
+    create_csv(out_file, lambda x, fold: [tup[0].getWeightedFMeasure() for tup in sorted(x[fold], key=lambda tup: tup[1])])
+
+def create_class_csv(clazz, out_file):
+    def get_values(x, fold):
+        out = []
+        for tup in sorted(x[fold], key=lambda tup: tup[1]):
+            for class_result in tup[0].evals:
+                if class_result.clazz==clazz:
+                    out.append(class_result.getFMeasure())
+        return out
+    create_csv(out_file, get_values, clazz)
+
+if __name__=="__main__":
+    pass
+    # out_file = "results_stat.csv"
+    # create_total_csv(out_file)
+    for clazz in classes:
+        create_class_csv(clazz, clazz+".csv")

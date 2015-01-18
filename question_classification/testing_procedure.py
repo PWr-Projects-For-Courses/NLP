@@ -38,8 +38,14 @@ class EvalResult:
     def getFMeasure(self):
         return (2.0 *self.tp) / (2 * self.tp + self.fp + self.fn)
 
+    def __repr__(self):
+        return "EvalResult(class: %s, tp: %d, tn: %d, fp: %d, fn: %d, count: %d)" % (self.clazz, self.tp, self.tn, self.fp, self.fn, self.count)
+
 
 class Evaluation:
+
+    def __init__(self):
+        self.evals = []
 
     def getAllCount(self):
         sum = 0
@@ -72,7 +78,7 @@ class Evaluation:
         return sum / self.getAllCount()
 
     def __str__(self):
-        return "{}; {}; {}; {};".format(self.getWeightedRecall(), self.getWeightedPrecision(),
+        return "Evaluation(len(evals): {} | recall: {}; precision: {}; accuracy: {}; F: {};".format(self.getWeightedRecall(), self.getWeightedPrecision(),
                                     self.getWeightedAccuracy(), self.getWeightedFMeasure())
 
     __repr__ = __str__
@@ -121,7 +127,6 @@ def addResult(eval, res, expected):
 
 def evaluate(net, tstData):
     out = Evaluation()
-    out.evals = []
     for i in range(len(classes)):
         out.evals.append(EvalResult(classes[i]))
     for input, target in tstData:
