@@ -90,31 +90,29 @@ def get_class_values_factory(clazz):
 def create_class_F_csv(clazz, out_file):
     create_F_csv(out_file, get_class_values_factory(clazz), clazz)
 
+def save_class_result(result, target):
+    target[result.clazz]["a"] += [ result.getAccuracy() ]
+    target[result.clazz]["p"] += [ result.getPrecision() ]
+    target[result.clazz]["r"] += [ result.getRecall() ]
+    target[result.clazz]["f"] += [ result.getFMeasure() ]
+
+def do_gather(eval_tuples):
+    target = defaultdict(lambda : {"a": [], "p": [], "r": [], "f": []})  # {class -> {a/p/r/f -> list(float)}}; a - accuracy, etc
+    for eval, i in eval_tuples:
+        for result in eval.evals:
+            save_class_result(result, target)
+    return target
+
 def create_class_summary_for_fold(out_file, fold):
-    net_per_class = defaultdict(lambda : {"a": [], "p": [], "r": [], "f": []})  # {class -> {a/p/r/f -> list(float)}}; a - accuracy, etc
-    base_per_class = defaultdict(lambda : {"a": [], "p": [], "r": [], "f": []})  # {class -> {a/p/r/f -> list(float)}}; a - accuracy, etc
-    def save_result(result, target):
-        target[result.clazz]["a"] += [ result.getAccuracy() ]
-        target[result.clazz]["p"] += [ result.getPrecision() ]
-        target[result.clazz]["r"] += [ result.getRecall() ]
-        target[result.clazz]["f"] += [ result.getFMeasure() ]
-        target["total"]["a"] += [ result.getAccuracy() ]
-        target["total"]["p"] += [ result.getPrecision() ]
-        target["total"]["r"] += [ result.getRecall() ]
-        target["total"]["f"] += [ result.getFMeasure() ]
-    def do_gather(eval_tuples, target):
-        for eval, i in eval_tuples:
-            for result in eval.evals:
-                save_result(result, target)
-    do_gather(net_res[fold], net_per_class)
-    do_gather(base_res[fold], base_per_class)
+    net_per_class = do_gather(net_res[fold])
+    base_per_class = do_gather(base_res[fold])
     with codecs.open(out_file, "w", "utf8") as csv:
         csv.write(";".join(["Class", "Classifier", "Accuracy", "", "Precision", "", "Recall", "", "F", ""]))
         csv.write("\n")
         csv.write(";".join(["", "", "Mean", "StdDev", "Mean", "StdDev", "Mean", "StdDev", "Mean", "StdDev"]))
         csv.write("\n")
-        for clazz in classes+["total"]:
-            row = (clazz, u"NN") +\
+        for clazz in classes:
+            row = (clazz, "NN") +\
                   mean_and_stddev(net_per_class[clazz]["a"]) + \
                   mean_and_stddev(net_per_class[clazz]["p"]) + \
                   mean_and_stddev(net_per_class[clazz]["r"]) + \
@@ -129,10 +127,35 @@ def create_class_summary_for_fold(out_file, fold):
             csv.write(";{};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4};{:.4}".format(*row).replace(".", ","))
             csv.write("\n")
 
+def create_bar_table(csv, net, base, title, field):
+    csv.write(title)
+    csv.write("\n")
+    csv.write(";".join(["Klasa", "NN", "B"]))
+    csv.write("\n")
+    for clazz in classes:
+        csv.write("{};{:.4};{:.4}".format(
+            clazz,
+            mean_and_stddev(net[clazz][field])[0],
+            mean_and_stddev(base[clazz][field])[0]
+        ).replace(".", ","))
+        csv.write("\n")
+    csv.write("\n")
+
+def create_bar_tables_for_fold(out_file, fold):
+    net_per_class = do_gather(net_res[fold])
+    base_per_class = do_gather(base_res[fold])
+    with codecs.open(out_file, "w", "utf8") as csv:
+        create_bar_table(csv, net_per_class, base_per_class, u"Trafność", "a")
+        create_bar_table(csv, net_per_class, base_per_class, u"Dokładność", "p")
+        create_bar_table(csv, net_per_class, base_per_class, u"Kompletność", "a")
+        create_bar_table(csv, net_per_class, base_per_class, u"F-miara", "f")
+
+
 if __name__=="__main__":
     pass
     # out_file = "results_stat.csv"
     # create_total_F_csv(out_file)
     # for clazz in classes:
     #     create_class_F_csv(clazz, clazz+".csv")
-    create_class_summary_for_fold("classes.csv", 10)
+    # create_class_summary_for_fold("classes.csv", 10)
+    create_bar_tables_for_fold("class_tables.csv", 10)
